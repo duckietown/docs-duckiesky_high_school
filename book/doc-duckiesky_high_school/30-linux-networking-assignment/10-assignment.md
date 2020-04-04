@@ -2,7 +2,7 @@
 
 This assignment is comprised of two parts: Introduction to Linux (Part 1) and Networking (Part 2). Please complete all parts of this assignment. 
 
-# Part 1: Introduction to Linux {#SECTIONID status=ready}
+# Part 1: Introduction to Linux {#linux-introduction status=ready}
 
 ## Background Information
 
@@ -80,7 +80,7 @@ the terminal rather than buried in the input to the next program.
 2. Create a python script that prints reversed sorted output to standard error. Use it to sort `ls -a` instead
    of `sort`. *Submit the file containing the script as `my_sort_status.py`.*
 
-# Part 2: Networking {#SECTIONID status=ready}
+# Part 2: Networking {#linux-networking status=ready}
 
 ## Netcat (20 points)
 
