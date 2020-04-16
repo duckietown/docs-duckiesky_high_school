@@ -2,18 +2,18 @@
 
 #### Module 0, Lesson 1
 
-## Tinning Tutorial 
+## Tinning Tutorial
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-NGSS: HS-PS3-3: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy. 
+NGSS: HS-PS3-3: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy.
 
 ISTE: 1d: Students: understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 
 ### Learning Objectives: By the end of this lesson, students will be able to...
 
-identify wire gauges, strip wires, and use a soldering iron to tin the wires. 
+identify wire gauges, strip wires, and use a soldering iron to tin the wires.
 
 
 ### Assessments and Evidence of Understanding
@@ -49,7 +49,7 @@ For Students: Drone kit, soldering iron, soldering iron cleaning supplies like g
 
 For Teachers: Screen to play Video (if desired), Do Now and Expectations written, examples of correctly cut and tinned wires
 
-## SCRIPT OF TEACHING AND LEARNING ACTIVITIES 
+## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
 
 ### Introducing The Lesson
@@ -60,7 +60,7 @@ Pre Class:
 
 Do Now: Teacher writes on the board for students to grab their drone kits and sit at their maker’s space
 
-Hook: Teachers can talk about the following or their own. 
+Hook: Teachers can talk about the following or their own.
 
 -  This will be students’ first step to building their own drone. It is important to learn and practice basic soldering skills here so that they can feel confident when doing more advanced soldering work later on on the drone.
 
@@ -92,11 +92,12 @@ Task: Teachers now have students strip and cut the same wire as they did and ans
 
 
 ### Soldering Intro
+
 Recommended: 4 minutes
 
 -  Teacher explains what soldering and tinning is.
 
-See also:  Soldering is when two metals (solder and metal) are melted together. You use solder (show solder), to join wires. 
+See also:  Soldering is when two metals (solder and metal) are melted together. You use solder (show solder), to join wires.
 
 See also:   Tinning is what you do before you solder, which is coating a metal with solder to help it join and flow electricity better to another wire.
 
@@ -107,7 +108,7 @@ See also: Solder iron is hot, only apply to needed components, solder can fling 
 -  Teacher explains and shows how to set up the soldering station.
 -  Teacher turns on soldering iron and heat control (Each soldering iron model is different and you should know an appropriate heat to tin with.)
 -  Teacher shows how to clean soldering iron with gold curl soldering cleaners and a sponge.
--  Teacher will show how to tin using the example wire. 
+-  Teacher will show how to tin using the example wire.
 
 See also: The teacher should emphasize safety during this tutorial. You may use the 3rd video before or after your tutorial to emphasize how to tin.
 
@@ -152,4 +153,3 @@ Task:  Optional Exit Ticket- Students will write down what they have completed a
 1. [For detailed instructions of each component and tinning](https://docs.duckietown.org/daffy/opmanual_sky/out/build_phase0.html)
 2. [Soldering Tutorial for Beginners in 5 easy steps. Supplemental video.](https://www.youtube.com/watch?v=Qps9woUGkvI)
 3. [How to Tin a Wire, in lesson, also supplemental](https://www.youtube.com/watch?v=pRPF4wpXX9Q)
-
