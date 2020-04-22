@@ -1,4 +1,4 @@
-# Introduction to the Infrared Sensor {#infrared-lesson-plan status=ready}
+# Introduction to the Infrared Sensor {#sensors-lesson status=ready}
 
 #### Module X, Lesson Y
 
