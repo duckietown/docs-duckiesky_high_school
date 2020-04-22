@@ -93,7 +93,7 @@ Task: Teachers now have students strip and cut the same wire as they did and ans
 
 ### Soldering Intro
 
-Recommended: 4 minutes
+Recommended: 10 minutes
 
 -  Teacher explains what soldering and tinning is.
 
@@ -130,7 +130,7 @@ Task: Teacher will circulate and answer student questions. Students will tin the
 
 ### Student Practice Time
 
-Recommended: 4 minutes
+Recommended: 40 minutes
 
 -  The teacher will have the Expectations on the board and discuss them with the students before they begin their work.
 
