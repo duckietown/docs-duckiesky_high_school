@@ -14,6 +14,7 @@ do basic editing of Markduck documents and Duckietown Documentation.
 
 ### Assessments and Evidence of Understanding
 
+The student's ability to submit a pull request to alter a Duckietown page.
 
 ### AGENDA (Brief Summary of Activities)
 
