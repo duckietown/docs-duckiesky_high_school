@@ -1,4 +1,4 @@
-# Bash {#introduction-bash status=ready}
+# Lesson 1: Bash {#skills-programming-bash status=ready}
 
 #### Module X, Lesson Y
 
