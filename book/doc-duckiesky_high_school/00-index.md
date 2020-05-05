@@ -1,4 +1,4 @@
-# Duckiesky Learning Materials {#book:duckiesky status=ready}
+# Duckiesky Highschool Curriculum {#book:duckiesky status=ready}
 
 
 <div id="logo-container">
