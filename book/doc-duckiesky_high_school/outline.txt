@@ -1,4 +1,4 @@
-<!-- # Intro {#part:intro status=ready} -->
+<!-- # Introduction {#part:introduction status=ready} -->
 
 <!-- # Skills {#part:skills status=ready} -->
 
@@ -11,8 +11,6 @@
 <!-- # Controllers {#part:controllers status=ready} -->
 
 <!-- # High Level Commands {#part:commands status=ready} -->
-
-<!-- # Sensors {#part:sensors status=ready} -->
 
 <!-- # References {#part:references status=ready} -->
 
