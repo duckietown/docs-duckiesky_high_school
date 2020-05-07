@@ -1,26 +1,16 @@
-<!-- # Building {#part:building status=ready} -->
+<!-- # Introduction {#part:introduction status=ready} -->
 
-<!-- # Linux and Networking {#part:linux-and-networking status=ready} -->
+<!-- # Skills {#part:skills status=ready} -->
 
-<!-- # Middleware {#part:middleware status=ready} -->
-
-<!-- # Physics {#part:physics status=ready} -->
-
-<!-- # Debugging {#part:debugging status=ready} -->
-
-<!-- # Communications {#part:communications status=ready} -->
-
-<!-- # Transforms {#part:transforms status=ready} -->
+<!-- # Systems {#part:systems status=ready} -->
 
 <!-- # Sensors {#part:sensors status=ready} -->
 
-<!-- # Estimation {#part:estimation status=ready} -->
+<!-- # Actuators {#part:actuators status=ready} -->
 
-<!-- # Motion Planning {#part:planning status=ready} -->
+<!-- # Controllers {#part:controllers status=ready} -->
 
-<!-- # PID and Controls {#part:planning status=ready} -->
-
-<!-- # Localization and SLAM {#part:localizaion_slam status=ready} -->
+<!-- # High Level Commands {#part:commands status=ready} -->
 
 <!-- # References {#part:references status=ready} -->
 
