@@ -59,7 +59,7 @@ Hook: Teachers can talk about the following or their own.
 
 Recommended: 45 minutes/hours
 
-1. Students follow [Unit A-2](https://www.youtube.com/watch?v=pRPF4wpXX9Q) on the Duckumentation website on how to edit the Duckiesky Documents in the simple way
+1. Students follow [Unit A-2](https://docs.duckietown.org/DT19/duckumentation/out/duckumentation_contribute_simple.html) on the Duckumentation website on how to edit the Duckiesky Documents in the simple way
 2. Students learn basic Markdown/Markduck
 
 Note: Markdown is a text-to-HTML conversion tool for web writers.
