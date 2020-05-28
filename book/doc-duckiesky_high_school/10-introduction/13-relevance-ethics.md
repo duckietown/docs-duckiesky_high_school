@@ -1,4 +1,4 @@
-# Lesson 1: Robots in society {#introduction-relevance-society status=ready}
+# Lesson 3: Intro to ethics {#introduction-relevance-ethics status=ready}
 
 #### Module X, Lesson Y
 

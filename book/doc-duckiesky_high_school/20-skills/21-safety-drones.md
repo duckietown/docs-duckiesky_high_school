@@ -1,4 +1,4 @@
-# Lesson 4: Safety {#introduction-relevance-safety status=ready}
+# Lesson 1: Drone Safety {#skills-safety-drones status=ready}
 
 #### Module X, Lesson Y
 

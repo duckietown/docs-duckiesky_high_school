@@ -1,10 +1,11 @@
-# Students: Leave your mark here! {#introduction-student-page status=ready}
+# Students: Leave your mark here! {#skills-duckiesky-student status=ready}
 
 **Use your newly acquired Markduck skills and Duckietown knowledge to submit a pull request to edit this page!**
 
-Hi! Dev was here
-Cesar was here. 
+Better: Hi! Dev was here
+
+                                                            Cesar was here. 
 
 :) Rachel says hello!
 
-<!-- this is a comment -->
+<!-- this is a comment; it will not appear in the outputted online book -->

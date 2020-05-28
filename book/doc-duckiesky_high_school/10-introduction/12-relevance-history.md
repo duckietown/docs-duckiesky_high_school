@@ -1,4 +1,4 @@
-# Lesson 4: Ohm’s law {#skills-circuitry-ohms status=ready}
+# Lesson 2: History of robotics {#introduction-relevance-history status=ready}
 
 #### Module X, Lesson Y
 

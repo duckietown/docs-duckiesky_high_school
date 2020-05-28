@@ -1,8 +1,8 @@
-# Lesson 1: Robots in society {#introduction-relevance-society status=ready}
+# Lesson 2: Python- Basics {#skills-programming-python-intro status=ready}
 
 #### Module X, Lesson Y
 
-## Lesson Title
+## Primitives and Operations
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)

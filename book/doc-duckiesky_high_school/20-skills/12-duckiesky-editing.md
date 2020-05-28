@@ -1,4 +1,4 @@
-# Lesson 1: Editing Duckiesky Documents {#skills-duckiesky-editing status=ready}
+# Lesson 2: Markdown/Editing Duckiesky {#skills-duckiesky-editing status=ready}
 
 #### Module X, Lesson Y
 
@@ -59,7 +59,7 @@ Hook: Teachers can talk about the following or their own.
 
 Recommended: 45 minutes/hours
 
-1. Students follow [Unit A-2](https://docs.duckietown.org/DT19/duckumentation/out/duckumentation_contribute_simple.html) on the Duckumentation website on how to edit the Duckiesky Documents in the simple way
+1. Students follow [Unit A-2](https://www.youtube.com/watch?v=pRPF4wpXX9Q) on the Duckumentation website on how to edit the Duckiesky Documents in the simple way
 2. Students learn basic Markdown/Markduck
 
 Note: Markdown is a text-to-HTML conversion tool for web writers.
@@ -83,7 +83,7 @@ See also: The basics of Markduck can either be explained by the teacher or throu
 
 Recommended: 10 minutes/hours
 
-Students should submit a pull request to change the next page, __Unit B-3 - Students: Leave your mark here!__, with their newly learned Markduck skills. 
+Students should submit a pull request to change the next page, __Unit B-4 - Students: Leave your mark here!__, with their newly learned Markduck skills. 
 
 
 **Useful Resources and References** 

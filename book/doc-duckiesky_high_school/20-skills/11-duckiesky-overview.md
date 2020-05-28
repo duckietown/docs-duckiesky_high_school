@@ -1,4 +1,4 @@
-# Lesson 3: History of Robotics {#introduction-relevance-history status=ready}
+# Lesson 1: Overview {#skills-duckiesky-overview status=ready}
 
 #### Module X, Lesson Y
 

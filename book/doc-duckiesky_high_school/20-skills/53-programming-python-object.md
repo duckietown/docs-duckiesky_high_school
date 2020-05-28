@@ -1,4 +1,4 @@
-# Lesson 2: Potential Impacts {#introduction-relevance-impacts status=ready}
+# Lesson 3: Python- Object-Oriented {#skills-programming-python-object status=ready}
 
 #### Module X, Lesson Y
 
