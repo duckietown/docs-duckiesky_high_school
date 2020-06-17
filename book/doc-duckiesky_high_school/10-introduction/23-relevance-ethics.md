@@ -1,4 +1,4 @@
-# Lesson 6: Electrical Connections {#skills-circuitry-connections status=ready}
+# Lesson 3: Intro to ethics {#introduction-relevance-ethics status=ready}
 
 #### Module X, Lesson Y
 
@@ -22,7 +22,13 @@
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-Requires:
+<div class='requirements' markdown='1'>
+
+Requires: Students have completed the Github module
+
+Result: 
+
+</div>
 
 **Materials needed**
 

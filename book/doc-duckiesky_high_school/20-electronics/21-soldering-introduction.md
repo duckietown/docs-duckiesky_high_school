@@ -1,4 +1,4 @@
-# Lesson 1: Tinning Tutorial {#skills-soldering-tinning status=ready}
+# Lesson 1: Soldering Introduction {#electronics-soldering-introduction status=ready}
 
 #### Module 0, Lesson 1
 
@@ -39,7 +39,13 @@ Students with dexterity problems. Inclusion might be teacher/student assistance,
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
+<div class='requirements' markdown='1'>
+
 Requires: Students know each gathered material and component, at least by sight
+
+Result: 
+
+</div>
 
 **Materials needed**
 

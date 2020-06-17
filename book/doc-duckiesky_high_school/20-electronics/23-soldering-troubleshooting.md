@@ -1,4 +1,4 @@
-# Lesson 1: Robots in society {#introduction-relevance-society status=ready}
+# Lesson 3: Troubleshooting {#electronics-soldering-troubleshooting status=ready}
 
 #### Module X, Lesson Y
 
@@ -22,7 +22,13 @@
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-Requires:
+<div class='requirements' markdown='1'>
+
+Requires: 
+
+Result: 
+
+</div>
 
 **Materials needed**
 

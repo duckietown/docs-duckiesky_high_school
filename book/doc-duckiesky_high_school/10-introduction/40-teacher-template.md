@@ -1,4 +1,4 @@
-# Lesson 1: Overview {#skills-duckiesky-overview status=ready}
+# Teacher Template {#introduction-template status=ready}
 
 #### Module X, Lesson Y
 
@@ -22,7 +22,13 @@
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-Requires:
+<div class='requirements' markdown='1'>
+
+Requires: 
+
+Result: 
+
+</div>
 
 **Materials needed**
 

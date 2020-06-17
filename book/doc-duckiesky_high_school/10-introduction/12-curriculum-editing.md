@@ -1,4 +1,4 @@
-# Lesson 2: Markdown/Editing Duckiesky {#skills-duckiesky-editing status=ready}
+# Lesson 2: Markdown/Editing Duckiesky {#introduction-curriculum-editing status=ready}
 
 #### Module X, Lesson Y
 
@@ -29,7 +29,13 @@ The student's ability to submit a pull request to alter a Duckiesky page.
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
+<div class='requirements' markdown='1'>
+
 Requires: Students have completed the Github module
+
+Result: 
+
+</div>
 
 **Materials needed**
 

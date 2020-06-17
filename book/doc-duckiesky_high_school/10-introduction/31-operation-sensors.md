@@ -1,4 +1,4 @@
-# Lesson 2: History of robotics {#introduction-relevance-history status=ready}
+# Lesson 1: Sensors and Actuators {#introduction-operation-sensors status=ready}
 
 #### Module X, Lesson Y
 
@@ -22,7 +22,13 @@
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-Requires:
+<div class='requirements' markdown='1'>
+
+Requires: 
+
+Result: 
+
+</div>
 
 **Materials needed**
 

@@ -1,4 +1,4 @@
-# Lesson 1: Drone Safety {#skills-safety-drones status=ready}
+# Lesson 1: Robots in society {#introduction-relevance-society status=ready}
 
 #### Module X, Lesson Y
 
@@ -22,7 +22,13 @@
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-Requires:
+<div class='requirements' markdown='1'>
+
+Requires: Students have completed the Github module
+
+Result: 
+
+</div>
 
 **Materials needed**
 

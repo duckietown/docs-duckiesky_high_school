@@ -1,4 +1,4 @@
-# Lesson 3: Voltage, Current, Resistance {#skills-circuitry-voltage status=ready}
+# Lesson 2: Drone Safety {#introduction-operation-safety status=ready}
 
 #### Module X, Lesson Y
 
@@ -22,7 +22,13 @@
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-Requires:
+<div class='requirements' markdown='1'>
+
+Requires: 
+
+Result: 
+
+</div>
 
 **Materials needed**
 

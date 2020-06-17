@@ -1,4 +1,4 @@
-# Lesson 2: Simple Circuits {#skills-circuitry-simple status=ready}
+# Lesson 3: Signals and Connections {#electronics-circuitry-signals status=ready}
 
 #### Module X, Lesson Y
 
@@ -22,7 +22,13 @@
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-Requires:
+<div class='requirements' markdown='1'>
+
+Requires: 
+
+Result: 
+
+</div>
 
 **Materials needed**
 

@@ -1,4 +1,4 @@
-# Lesson 3: Intro to ethics {#introduction-relevance-ethics status=ready}
+# Lesson 1: Overview {#introduction-curriculum-overview status=ready}
 
 #### Module X, Lesson Y
 
@@ -22,7 +22,13 @@
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-Requires:
+<div class='requirements' markdown='1'>
+
+Requires: 
+
+Result: 
+
+</div>
 
 **Materials needed**
 
