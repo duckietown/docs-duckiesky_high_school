@@ -1,4 +1,4 @@
-# Lesson 1: Bash {#skills-programming-bash status=ready}
+# Lesson 2: Bash {#computing-pi-bash status=ready}
 
 #### Module X, Lesson Y
 
@@ -28,13 +28,17 @@ The student's ability to complete the below Bash terminal task.
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
+<div class='requirements' markdown='1'>
+
+Requires: 
+
+Result: 
+
+</div>
 
 **Materials needed**
 
-For Students: A computer with a Bash terminal (or an online terminal emulator as described later)
-
-For Teachers: A computer with a Bash terminal (or an online terminal emulator as described later)
-
+TODO: Materials
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
