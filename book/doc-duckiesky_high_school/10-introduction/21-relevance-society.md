@@ -1,15 +1,18 @@
 # Lesson 1: Robots in society {#introduction-relevance-society status=ready}
 
-#### Module X, Lesson Y
+<div class='requirements' markdown='1'>
+
+Requires: 
+
+Result:  Students will be able to discuss with detailed examples the importance of Robotics with in societies.
+
+</div>
 
 ## Robotic Marvels In Industries and Communities
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 
-### Learning Objectives: By the end of this lesson, students will be able to...
-
- discuss with detailed examples the importance of Robotics with in societies.
 
 ### Assessments and Evidence of Understanding
 

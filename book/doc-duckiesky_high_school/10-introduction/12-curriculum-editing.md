@@ -1,6 +1,12 @@
 # Lesson 2: Markdown/Editing Duckiesky {#introduction-curriculum-editing status=ready}
 
-#### Module X, Lesson Y
+<div class='requirements' markdown='1'>
+
+Requires: Students have completed the Github module
+
+Result: Studies will be able to do basic editing of Markduck documents and Duckiesky Documentation.
+
+</div>
 
 ## Editing Duckiesky Documents
 
@@ -8,9 +14,6 @@
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 
-### Learning Objectives: By the end of this lesson, students will be able to...
-
-do basic editing of Markduck documents and Duckiesky Documentation.
 
 ### Assessments and Evidence of Understanding
 
@@ -28,14 +31,6 @@ The student's ability to submit a pull request to alter a Duckiesky page.
 
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
-
-<div class='requirements' markdown='1'>
-
-Requires: Students have completed the Github module
-
-Result: 
-
-</div>
 
 **Materials needed**
 

@@ -1,6 +1,12 @@
 # Lesson 2: Bash {#computing-pi-bash status=ready}
 
-#### Module X, Lesson Y
+<div class='requirements' markdown='1'>
+
+Requires: 
+
+Result: Students will be able to navigate a Bash shell and execute simple Bash commands.
+
+</div>
 
 ## Bash Tutorial
 
@@ -8,8 +14,6 @@
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 
-### Learning Objectives: By the end of this lesson, students will be able to...
-navigate a Bash shell and execute simple Bash commands.
 
 ### Assessments and Evidence of Understanding
 
@@ -27,14 +31,6 @@ The student's ability to complete the below Bash terminal task.
 
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
-
-<div class='requirements' markdown='1'>
-
-Requires: 
-
-Result: 
-
-</div>
 
 **Materials needed**
 

@@ -1,14 +1,18 @@
 # Lesson 1: Networking {#pi-networking status=ready}
 
-#### Module X, Lesson Y
+<div class='requirements' markdown='1'>
+
+Requires: 
+
+Result: 
+
+</div>
 
 ## Lesson Title
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-
-### Learning Objectives: By the end of this lesson, students will be able to...
 
 
 ### Assessments and Evidence of Understanding
@@ -21,14 +25,6 @@
 
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
-
-<div class='requirements' markdown='1'>
-
-Requires: 
-
-Result: 
-
-</div>
 
 **Materials needed**
 

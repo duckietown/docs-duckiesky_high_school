@@ -1,17 +1,18 @@
 # Lesson 1: Soldering Introduction {#electronics-soldering-introduction status=ready}
 
-#### Module 0, Lesson 1
+<div class='requirements' markdown='1'>
+
+Requires: Students know each gathered material and component, at least by sight
+
+Result: Students will be able to identify wire gauges, strip wires, and use a soldering iron to tin the wires.
+
+</div>
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 NGSS: HS-PS3-3: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy.
 
 ISTE: 1d: Students: understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
-
-
-### Learning Objectives: By the end of this lesson, students will be able to...
-
-identify wire gauges, strip wires, and use a soldering iron to tin the wires.
 
 
 ### Assessments and Evidence of Understanding
@@ -38,14 +39,6 @@ Students with dexterity problems. Inclusion might be teacher/student assistance,
 
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
-
-<div class='requirements' markdown='1'>
-
-Requires: Students know each gathered material and component, at least by sight
-
-Result: 
-
-</div>
 
 **Materials needed**
 
