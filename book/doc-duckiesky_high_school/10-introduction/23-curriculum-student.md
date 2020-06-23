@@ -6,6 +6,5 @@ Better: Hi! Dev was here
 
                                                             Cesar was here. 
 
-:) Rachel says hello!
-
+Peyton
 <!-- this is a comment; it will not appear in the outputted online book -->
