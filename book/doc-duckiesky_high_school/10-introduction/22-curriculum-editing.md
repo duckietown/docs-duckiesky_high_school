@@ -84,7 +84,7 @@ See also: The basics of Markduck can either be explained by the teacher or throu
 
 Recommended: 10 minutes/hours
 
-Students should submit a pull request to change the next page, __Unit B-4 - Students: Leave your mark here!__, with their newly learned Markduck skills. 
+Students should submit a pull request to change the next page, __Students: Leave your mark here!__, with their newly learned Markduck skills. 
 
 
 **Useful Resources and References** 

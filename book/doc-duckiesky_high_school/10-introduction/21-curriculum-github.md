@@ -1,4 +1,4 @@
-# Lesson 2: History of robotics {#introduction-relevance-history status=ready}
+# Lesson 1: Git and Github {#introduction-curriculum-github status=ready}
 
 <div class='requirements' markdown='1'>
 
