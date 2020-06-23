@@ -57,7 +57,7 @@ Pre Class:
 
 Do Now: Teacher writes on the board for students to grab their drone kits and sit at their maker’s space
 
-Hook: Teachers can talk about the following or their own.
+Hook: Teachers can talk about the following or their own hook.
 
 -  This will be students’ first step to building their own drone. It is important to learn and practice basic soldering skills here so that they can feel confident when doing more advanced soldering work later on on the drone.
 
