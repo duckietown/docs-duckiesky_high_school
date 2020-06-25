@@ -2,7 +2,7 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: 
+Requires: Hardware- unassembled drone kit. Previous lesson- none.
 
 Result: 
 
