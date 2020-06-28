@@ -20,7 +20,7 @@ ISTE: 1d: Students: understand the fundamental concepts of technology operations
 1. Students use the correct wire stripper gauge for each wire.
 2. Students successful strip and tin the ESC, Motor, BEC, Red and Brown Wire
 
-### AGENDA (Brief Summary of Activites)
+### AGENDA (Brief Summary of Activities)
 
 1 min: Hook
 
