@@ -56,9 +56,9 @@ Teacher demonstrates the balloon static electricity experiment either on themsel
 
 Recommended: 15 minutes
 
-Use resources to compare electricity to water flowing through pipes using a pump. (windows2universe.org)
+Use resources to compare electricity to water flowing through pipes using a pump. (windows2universe.org) (Current only; leave voltage and resistance for next lesson.)
 
-Discuss how to get a current to move using different energy conversions. (battery, generator, etc.)
+Discuss how to get a current to move using different energy conversions. (battery, generator, etc.) 
 
 ### Student Activity
 
