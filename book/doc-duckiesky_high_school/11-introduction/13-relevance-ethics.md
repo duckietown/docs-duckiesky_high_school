@@ -8,7 +8,7 @@ Result: Students will be able to learn about what ethics is and why it is import
 
 </div>
 
-## Lesson Title
+## Ethics
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
@@ -28,7 +28,7 @@ Result: Students will be able to learn about what ethics is and why it is import
 
 **Materials needed**
 
-For Students:
+For Students: No material required
 
 For Teachers:
 
@@ -39,10 +39,13 @@ For Teachers:
 ### Introducing The Lesson
 
 Recommended: X minutes/hours
+Introduce ethics and define what it is. 
 
+When there is a difficult situation, there is not always a single correct decision. Ethics takes into consideration different moral principles that humans have. 
+
+Ethics is extremely important and it affects our decisions, and shows the uniqueness of a person's thoughts to another.
 
 ### Main Lesson
-
 Recommended: X minutes/hours
 
 
