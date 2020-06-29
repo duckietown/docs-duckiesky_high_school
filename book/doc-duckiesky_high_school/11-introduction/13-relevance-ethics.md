@@ -2,9 +2,9 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: 
+Requires: No previous lessons are required.
 
-Result: 
+Result: Students will be able to learn about what ethics is and why it is important. They will also be introduced to ethical challenges in computer science and engineering including algorithmic bias, accessibility concerns, and human job security. 
 
 </div>
 
