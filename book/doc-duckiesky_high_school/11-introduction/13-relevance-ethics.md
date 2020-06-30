@@ -44,6 +44,8 @@ Introduce ethics and explain why it is significant.
 
 When there is a difficult situation, there is not always a single correct decision. Ethics is based on different moral principles and values that we have. 
 
+Ethics is sometimes utilized to 
+
 
 Ethics is extremely important and it affects our decisions, and shows the uniqueness of a person's thoughts to another.
 
