@@ -42,7 +42,8 @@ Recommended: X minutes/hours
 
 Introduce ethics and explain why it is significant. 
 
-When there is a difficult situation, there is not always a single correct decision. Ethics takes into consideration different moral principles that humans have. Going to add more here. 
+When there is a difficult situation, there is not always a single correct decision. Ethics is based on different moral principles and values that we have. 
+
 
 Ethics is extremely important and it affects our decisions, and shows the uniqueness of a person's thoughts to another.
 
@@ -52,13 +53,16 @@ Recommended: X minutes/hours
 
 ####Correctness/Accuracy/Uncertainity
 
-By incorporating artificial intelligence (AI) into systems, systems are able to learn from their past experiences. hdhfkgh. 
 
-Artificial Intelligent (AI) systems utilize Deep Learning and Machine Learning, which both rely on data matching and analysis algorithms. While this allows robots to learn from past experiences and allows them to constantly analyze new incoming data, the way they learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy).
+By incorporating artificial intelligence (AI) into systems, systems may have the potential to accomplish tasks that rely on the intelligence of humans.
 
-Example: 
+AI systems utilize Deep Learning and Machine Learning, which both rely on data matching and analysis algorithms. While this allows robots to learn from past experiences and allows them to constantly analyze new incoming data, the way they learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy).
 
-####Algorithmic Bias
+Example: The Boeing 777 Max
+
+####Algorithmic Bias:
+
+
 
 Algorithmic bias can be 
 
