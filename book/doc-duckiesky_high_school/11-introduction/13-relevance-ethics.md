@@ -52,13 +52,15 @@ Recommended: X minutes/hours
 
 ####Correctness/Accuracy/Uncertainity
 
-Concept of AI>>>>> sjdfkjdfhgk
+By incorporating artificial intelligence (AI) into systems, systems are able to learn from their past experiences. hdhfkgh. 
 
-Artificial Intelligent (AI) systems utilize Deep Learning and Machine Learning, which both rely on data matching and analysis algorithms. While this allows robots to learn from past experiences and allows them to constantly analyze new incoming data, the way they learn and their actions may become more unpredictable as they are given more complicated tasks that require mroe decision making skills (Yampolskiy).
+Artificial Intelligent (AI) systems utilize Deep Learning and Machine Learning, which both rely on data matching and analysis algorithms. While this allows robots to learn from past experiences and allows them to constantly analyze new incoming data, the way they learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy).
 
 Example: 
 
 ####Algorithmic Bias
+
+Algorithmic bias can be 
 
 ### Ending The Lesson
 
