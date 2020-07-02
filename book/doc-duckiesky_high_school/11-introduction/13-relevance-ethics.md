@@ -62,7 +62,7 @@ Recommended: 40 minutes/hours
 Teachers will teach students about important ethical problems that are present in technology, autonomous systems, and engineering.
 
 
-####Correctness and Uncertainty of Algorithms and/or Autonomous Systems
+#### Correctness and Uncertainty of Algorithms and/or Autonomous Systems
 
 
 Teachers explain autonomous systems, AI, ML, DL, and usage of algorithms: 
@@ -81,7 +81,7 @@ Teachers explain the disadvantages of AI autonomous systems.
 However there are also some disadvantages to autonomous systems or relying on algorithms to make decisions. The algorithms may not represent all the factors that are related to a situation. There is also always a chance that unexpected consequences will happen, so there is no guarantee that a choice that had beneficial results in the past will still have the same result in the current scenario. Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
 
 
-#####Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
+##### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
 
 
 There have been a number of accidents with the Boeing 737 MAX aircraft, which has resulted in the grounding of Boeing 737 MAX worldwide. 
@@ -98,28 +98,71 @@ The Boeing 737 Max is different from the earlier Boeing 737 series. To allow for
 However, this made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was developed to help correct the nose pitching problem by altering the control surface at the tail. However, this extra system was detrimental because pilots were unable to actually pitch up when needed and were unable to control the aircraft. The algorithm automatically detects whenever the nose pitches and corrects it regardless fo the situation. 
 
 
-####Algorithmic Bias
+#### Algorithmic Bias
 
 Teachers state that there are multiple sources of algorithmic bias. 
 
 Algorithmic bias can result from multiple sources. 
 
-The algorithm may be programmed with 
+The algorithm may be programmed with ______. 
 
 Since the systems often rely on pattern matching algorithms, an algorithm may act in a biased way because of being provided data that comes from biased sources.
 
-Another possible situation is as described in the inaccuracy section of algorithms, is that algorithms have the potential to change over time and learn from their experiences. These systems may become unintentionally biased over time. 
+From the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making. There is also the possibility that they could make decisions that have harmful consequences. 
 
 An important example: Autonomous/Self-driving car systems. 
 
-There was a paper published regarding self-driving cars. After analyzing data over time, it was noticed that cars are more likely to hit pedestrains with darker skin due to low visability. This produces a ____. 
+According to a study done by Georgia Institute of Technology, “AI systems were consistently better at identifying pedestrians with lighter skin tones than darker” (The Guardian). In an extreme event of a fire in a retirement home, who would the robot save? It would probably save whoever it senses first, which is more likely to be someone with a lighter skin tone. These robots may treat people of various genders, ages, or socioeconomic status differently even though they were originally programmed with the intent to remain unbiased.
 
+#### Security, on time, backups, as these systems become relied upon 
+
+There are many systems in society that utilize autonomous systems that are important to society. 
+djkfjghksfhj
+sjdhfkdfjghkghkdgjhkjhgk
+
+
+#### Militarization
+
+There has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions.  
+
+Example: Predator drones utilized by the United States
+
+There have been several predator drones that have been used by the United States Air Force (USAF) and Central Intelligence Ageny (CIA). 
+
+It was initially utilized for primarily reconaissance and spying, but was later equipped to be able to engage in warfare.
+
+It is remotely piloted. There has been many concerns regarding to human safety. 
+
+With drone contro____. 
+
+
+
+#### Medical, Healthcare, and Caregiver Robots
+
+Autonomous systems have been also considered for usage in the healthcare industry. 
+
+This includes the uses of robots to help with medical diagnosis, treatment, or surgery. 
+
+It also includes the uses of robots to help keep elderly, disabled, young children, or patients company and to surpervise them. 
+
+This presents an important topic: the interactions between humans and robots. Robots do not have emotions. This may present ____.  
+
+#### Availability/Accessibility
+
+The cost of autonomous systems may be high depending on the purpose of the robot, and how regulated it is. 
+
+The -___. 
+
+#### Future impact of AI on human jobs and responsibilities
+
+With the increasing development of technology and autonomizing _____. 
 
 ### Ending The Lesson
 
 Recommended: 5 minutes/hours
 
-Reminders about future safety: 
+Reminders about safety in the future: 
+There will be a future lesson specifically for safety in the _____. 
 
 **Useful Resources and References**
 
