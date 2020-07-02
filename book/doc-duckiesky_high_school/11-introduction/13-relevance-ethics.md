@@ -19,6 +19,8 @@ Result: Students will be able to learn about what ethics is and why it is import
 
 
 ### AGENDA (Brief Summary of Activities)
+5 min: Introduction to the lesson. What is ethics and why it is important. 
+
 
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
@@ -30,7 +32,7 @@ Result: Students will be able to learn about what ethics is and why it is import
 
 For Students: No material required
 
-For Teachers:
+For Teachers: Slides (if desired), 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -43,11 +45,14 @@ Recommended: 5 minutes/hours
 Teachers introduce ethics and explain why it is significant. 
 
 
+The origin of the term ethics: 
 The term ethics comes from the word "ethos", which is Greek for "way of living". 
 
 
+What is ethics: 
 When there is a difficult situation, there are multiple possible solutions. Ethics consists of moral principles and values of a person or a group of people. It affects how we choose to live our lives, what we think is wrong and right in morals and situations, and what our responsibilities are.
 
+Importance of ethics: 
 By considering ethics during decision making, we can make better decisions that would benefit individuals and society as a whole.
 
 ### Main Lesson
@@ -72,12 +77,16 @@ There are benefits to this. Decisions can be made with more clearer and transpar
 However there are also some disadvantages to autonomous systems or relying on algorithms to make decisions. The algorithms may not represent all the factors that are related to a situation. There is also always a chance that unexpected consequences will happen, so there is no guarantee that a choice that had beneficial results in the past will still have the same result in the current scenario. Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
 
 
-#####Example: Teachers can present an example of Algorithmic inaccuracy: The Boeing 737 Max.
-
-There have been a number of acidents with the Boeing 737 Max aircraft. 
+#####Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
 
 
-The Boeing 737 Max is different from the earlier Boeing 737 series. To allow for expanded seating capacity and better engines, Boeing 737 Max had major design changes. The engines were moved forward and were raised. However, this made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was developed to help correct the nose pitching problem. However, this extra system was detrimental because pilots were unable to actually pitch up when needed and lost control/unable to control the aircraft.
+There have been a number of accidents with the Boeing 737 MAX aircraft, which has resulted in the grounding of Boeing 737 MAX worldwide. 
+
+1) Lion Air Flight 610: domestic flight that took place on October 29, 2018. It crashed into the Java Sea shortly after takeoff. Resulted in deaths of all 189 passengers and crew. 
+
+2) Ehiopian Airlines Flight 302: international flight that took place on 
+
+The Boeing 737 Max is different from the earlier Boeing 737 series. To allow for expanded seating capacity and better engines, Boeing 737 Max had major design changes. The engines were moved forward and were raised. However, this made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was developed to help correct the nose pitching problem. However, this extra system was detrimental because pilots were unable to actually pitch up when needed and were unable to control the aircraft.
 
 
 ####Algorithmic Bias
@@ -89,5 +98,6 @@ First, it can be ____.
 
 Recommended: X minutes/hours
 
+Reminders that safety: 
 
 **Useful Resources and References**
