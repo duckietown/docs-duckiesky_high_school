@@ -95,33 +95,37 @@ There have been a number of accidents with the Boeing 737 MAX aircraft, which ha
 
 1) Lion Air Flight 610: domestic flight that took place on October 29, 2018. It crashed into the Java Sea shortly after takeoff. Resulted in deaths of all 189 passengers and crew. 
 
-2) Ehiopian Airlines Flight 302: international flight that took place on March 10, 2019. It crahed shortly after takeoff, and resulted in deaths of all 157 people on the flight.  
+2) Ehiopian Airlines Flight 302: international flight that took place on March 10, 2019. It crashed shortly after takeoff, and resulted in deaths of all 157 people on the flight.  
 
 
-Teachers explain why MCAS was added and how the MCAS and faulty attack sensor contributed to the grounding of the Boeing 737 MAX. 
+Teachers explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX. 
 
-There were several reasons that contributed to these fatal accidents: 
+There were several reasons that contributed to these fatal accidents:
 
 The Boeing 737 Max is different from the earlier Boeing 737 series. To allow for expanded seating capacity and better engines, Boeing 737 Max had major design changes. The engines were moved forward and were raised. However, this made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was developed to help correct the nose pitching problem by altering the control surface at the tail. The algorithm automatically detects whenever the nose pitches too high and corrects it. 
 
-In both the flight accidents, the stick shaker was activated because a faulty attack sensor. This caused MCAS to be automatically triggered. While pilots can temporarily switch MCAS off, the system will restart and continue to work if false readings continue. This was detrimental because pilots were unable to actually pitch up when needed. 
+MCAS relies on only a single angle of attack sensor, instead of two. An angle of attack sensor helps warn pilots of a possibility of them losing control of the plane due to lack of lift (causing stall). Pilots are usually able to handle when the sensors are malfunctioning, however MCAS makes it a much larger problem. In both of the fatal accidents, MCAS was automatically switched on because of incorrect data from the single sensor. 
+
+Pilots can temporarily switch MCAS off, however the system will restart and continue to work if the sensor continues to warn pilots of stalls. MCAS cannot ever been overriden by the pilots. The pilots lost control of the plane during the Ethiopian Airlines and Lion Air flights as the system was continuously fed inaccurate data from the sensor indicating that there are stalls, and they were unable to pitch up when needed, causing both flights to dive into the sea. 
 
 
 #### Algorithmic Bias
 
-Teachers state that there are multiple sources of algorithmic bias. 
+Teachers teach that algorithmic bias can result from multiple sources. 
 
-Algorithmic bias can result from multiple sources. 
+1) The algorithm may be programmed by someone who is biased, and inherit their biased views.
 
-The algorithm may be programmed with ______. 
+2) Since the systems often rely on pattern matching algorithms, an algorithm may act in a biased way because of being provided data that comes from biased sources. 
 
-Since the systems often rely on pattern matching algorithms, an algorithm may act in a biased way because of being provided data that comes from biased sources.
+3) Regarding the point made before regarding algorithmic uncertainty, from the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making.
 
-From the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making. There is also the possibility that they could make decisions that have harmful consequences. 
 
-An important example: Autonomous/Self-driving car systems. 
+##### An example: Autonomous/Self-driving car systems and. 
 
 According to a study done by Georgia Institute of Technology, “AI systems were consistently better at identifying pedestrians with lighter skin tones than darker” (The Guardian). In an extreme event of a fire in a retirement home, who would the robot save? It would probably save whoever it senses first, which is more likely to be someone with a lighter skin tone. These robots may treat people of various genders, ages, or socioeconomic status differently even though they were originally programmed with the intent to remain unbiased.
+
+
+##### Another example: self driving cars and the morality/trolley problem
 
 #### Security, on time, backups, as these systems become relied upon 
 
@@ -134,7 +138,7 @@ sjdhfkdfjghkghkdgjhkjhgk
 
 There has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions.  
 
-Example: Predator drones utilized by the United States
+##### Example: Predator drones utilized by the United States
 
 There have been several predator drones that have been used by the United States Air Force (USAF) and Central Intelligence Ageny (CIA). 
 
@@ -164,7 +168,7 @@ The -___.
 
 #### Future impact of AI on human jobs and responsibilities
 
-With the increasing development of technology and autonomizing _____. 
+With the further development of technology ____. 
 
 ### Ending The Lesson
 
