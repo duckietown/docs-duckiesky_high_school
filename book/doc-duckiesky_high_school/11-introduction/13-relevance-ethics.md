@@ -72,13 +72,20 @@ By incorporating artificial intelligence (AI) into systems, they gain the potent
 
 AI systems utilize Deep Learning (DL) and Machine Learning (ML), which both rely on data matching and analysis algorithms. 
 
-Teachers explain the benefits of AI autononous systems: 
 
-There are benefits to this. Decisions can be made with more clearer and transparent criteria and choices will be less influenced by human emotions. The systems can learn from past actions and decisions that have been chosen and can analyze the consequences that resulted. If a result was non-favorable, then the system will remember and avoid picking the same choice for a similar future situation.
+Teachers explain the benefits of AI autononous systems and the use of algorithms in decision making processes: 
 
-Teachers explain the disadvantages of AI autonomous systems. 
+There are benefits to this. 
 
-However there are also some disadvantages to autonomous systems or relying on algorithms to make decisions. The algorithms may not represent all the factors that are related to a situation. There is also always a chance that unexpected consequences will happen, so there is no guarantee that a choice that had beneficial results in the past will still have the same result in the current scenario. Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
+Decisions can be made with more clearer and transparent criteria and choices will be less influenced by human emotions. The systems can learn from past actions and decisions that have been chosen and can analyze the consequences that resulted. If a result was non-favorable, then the system will remember and avoid picking the same choice for a similar future situation.
+
+Teachers explain the disadvantages of AI autonomous systems and the use of algorithms in decision making processes: 
+
+There are also some disadvantages to autonomous systems or relying on algorithms to make decisions. 
+
+The algorithms may not represent all the factors that are related to a situation. There is also always chances that unexpected consequences will happen. There is no guarantee that a choice that had beneficial results in the past will still have the same result in the current scenario. 
+
+Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
 
 
 ##### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
@@ -91,11 +98,13 @@ There have been a number of accidents with the Boeing 737 MAX aircraft, which ha
 2) Ehiopian Airlines Flight 302: international flight that took place on March 10, 2019. It crahed shortly after takeoff, and resulted in deaths of all 157 people on the flight.  
 
 
-Teachers explain why MCAS was added and how it contributed to the grounding of the Boeing 737 MAX. 
+Teachers explain why MCAS was added and how the MCAS and faulty attack sensor contributed to the grounding of the Boeing 737 MAX. 
 
-The Boeing 737 Max is different from the earlier Boeing 737 series. To allow for expanded seating capacity and better engines, Boeing 737 Max had major design changes. The engines were moved forward and were raised. 
+There were several reasons that contributed to these fatal accidents: 
 
-However, this made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was developed to help correct the nose pitching problem by altering the control surface at the tail. However, this extra system was detrimental because pilots were unable to actually pitch up when needed and were unable to control the aircraft. The algorithm automatically detects whenever the nose pitches and corrects it regardless fo the situation. 
+The Boeing 737 Max is different from the earlier Boeing 737 series. To allow for expanded seating capacity and better engines, Boeing 737 Max had major design changes. The engines were moved forward and were raised. However, this made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was developed to help correct the nose pitching problem by altering the control surface at the tail. The algorithm automatically detects whenever the nose pitches too high and corrects it. 
+
+In both the flight accidents, the stick shaker was activated because a faulty attack sensor. This caused MCAS to be automatically triggered. While pilots can temporarily switch MCAS off, the system will restart and continue to work if false readings continue. This was detrimental because pilots were unable to actually pitch up when needed. 
 
 
 #### Algorithmic Bias
@@ -167,6 +176,9 @@ There will be a future lesson specifically for safety in the _____.
 **Useful Resources and References**
 
 More information about the MCAS system for the Boeing 737 MAX: 
-https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/
+https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ and https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa
+
+https://www.bbc.com/news/business-50177788
+
 
 The article on algorithmic bias for the _____. 
