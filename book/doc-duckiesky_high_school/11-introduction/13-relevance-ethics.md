@@ -120,12 +120,15 @@ Teachers teach that algorithmic bias can result from multiple sources.
 3) Regarding the point made before regarding algorithmic uncertainty, from the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making.
 
 
-##### An example: Autonomous/Self-driving car systems and. 
+##### An example: Autonomous systems and identification by skin tone
 
-According to a study done by Georgia Institute of Technology, “AI systems were consistently better at identifying pedestrians with lighter skin tones than darker” (The Guardian). In an extreme event of a fire in a retirement home, who would the robot save? It would probably save whoever it senses first, which is more likely to be someone with a lighter skin tone. These robots may treat people of various genders, ages, or socioeconomic status differently even though they were originally programmed with the intent to remain unbiased.
+According to a study done with autonomous systems by Georgia Institute of Technology, AI systems were more consistently accurately identifying people with lighter skin tones than darker. Their results show that detection of people with darker skins were less accurate by 5%. 
 
+This can result in racial bias by the algorithm, and in the case of autonomous cars, people with darker skin would be more likely to be harmed than those with lighter skin. 
 
-##### Another example: self driving cars and the morality/trolley problem
+##### Another example: autonomous cars and the morality/trolley problem
+
+Another difficulty of autonomous cars is with the "trolley problem". MIT has created a series of questions/scenarios involving autonoous cars. Examples include whether to ____. There are general trends found such as _____. 
 
 #### Security, on time, backups, as these systems become relied upon 
 
@@ -185,4 +188,14 @@ https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mca
 https://www.bbc.com/news/business-50177788
 
 
-The article on algorithmic bias for the _____. 
+
+Paper: Predictive Inequity in Object Detection: 
+https://arxiv.org/pdf/1902.11097.pdf
+
+
+Moral machine: https://www.moralmachine.net
+
+Paper on moral machine: https://doi.org/10.1038/s41586-018-0637-6 
+
+
+https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html
