@@ -8,8 +8,11 @@ Requires:
 
 Result: 
 **Knowledge** - 
-- Basic components of robot hardware and software 
-- Your specific drone's sensors and actuators 
+
+- Basic components of robot hardware and software
+
+- Your specific drone's sensors and actuators
+
 - How the sensors and actuators interact to achieve stable flight
 
 </div>
