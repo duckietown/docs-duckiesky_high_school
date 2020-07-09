@@ -38,7 +38,7 @@ Activity recommended to be done in pairs. Teachers should pair students to suppo
 
 **Materials needed**
 
-For Students: (Set for one pair) - 9V Battery, 9V Battery clip, 4 Alligator clip leads, LED, Various (Need to specify ohm values later) Resistors, potentionmeter 
+For Students: (Set for one pair) - 9V Battery, 9V Battery clip, 4 Alligator clip leads, LED, Various (Need to specify ohm values later) Resistors 
 
 For Teachers: Balloons, teaching method for static and current electricity
 
@@ -50,15 +50,17 @@ For Teachers: Balloons, teaching method for static and current electricity
 
 Recommended: 5 minutes
 
-Teacher demonstrates the balloon static electricity experiment either on themselves or a student volunteer. Explain why balloon sticks to the wall.
+Teacher demonstrates the balloon static electricity experiment either on themselves or a student volunteer. Explain why balloon sticks to the wall. (Teacher's discretion to do the experiment in class, or simply review it)
 
 ### Main Lesson
 
 Recommended: 15 minutes
 
-Use resources to compare electricity to water flowing through pipes using a pump. (windows2universe.org) (Current only; leave voltage and resistance for next lesson.)
+Use resources to compare electricity to water flowing through pipes using a pump. Also indroduce the topics of resistance and voltage (windows2universe.org) 
 
 Discuss how to get a current to move using different energy conversions. (battery, generator, etc.) 
+
+If time, discuss how different materials conduct electricity differently. (Conducters vs. Insulators)
 
 ### Student Activity
 
@@ -66,7 +68,9 @@ Recommended: 30 minutes
 
 Provide students with diagram on how to build the circuit, as well as the actual resources. (Warn students not to connect LED straight to battery without the resisitor in the circuit.)
 
-Let students trial and error their first build attempts. Ask students to try different resisitors and see what happens.
+Let students trial and error their first build attempts. Ask students to try different resisitors, reverse the resistors, and reverse the LED and see what happens.
+
+Teacher should also show video of LED Burning out.
 
 ### Ending The Lesson
 
@@ -76,7 +80,7 @@ Teacher leads discussion based on the following questions:
 
 "What did you learn?"
 
-"What affect did the resistors and potentiometer have?"
+"What affect did the resistors have? What happened when you reversed their order?"
 
 "Did anything go wrong?"
 
