@@ -99,7 +99,7 @@ There have been a number of accidents with the Boeing 737 MAX aircraft, which ha
 
 
 Teachers explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX. 
-# Pilots were not aware of what systems does/interpratibility section/training/UX for pilots training not sufficient: 
+<!--  Pilots were not aware of what systems does/interpratibility section/training/UX for pilots training not sufficient: -->
 
 There were several reasons that contributed to these fatal accidents:
 
@@ -116,7 +116,7 @@ Teachers teach that algorithmic bias can result from multiple sources.
 
 1) The algorithm may be programmed by someone who is biased, and inherit their biased views.
 
-# developer could be unaware of bias in dataset, ex: hand-soap dispenser -- need diverse trials, amazon-congress and criminals matching, google + apes/image matching, should these systems be released to public 
+<!--  developer could be unaware of bias in dataset, ex: hand-soap dispenser -- need diverse trials, amazon-congress and criminals matching, google + apes/image matching, should these systems be released to public -->
 2) Since the systems often rely on pattern matching algorithms, an algorithm may act in a biased way because of being provided data that comes from biased sources. 
 
 3) Regarding the point made before regarding algorithmic uncertainty, from the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making.
@@ -130,8 +130,9 @@ This can result in racial bias by the algorithm, and in the case of autonomous c
 
 ##### Another example: autonomous cars and the morality/trolley problem
 
-# done as a game, data set is not entirely reliable
-# internet cyber security/how much trust assumption/use for good or bad are possible ; unintended uses when developing 
+ <!-- done as a game, data set is not entirely reliable -->
+
+<!--  internet cyber security/how much trust assumption/use for good or bad are possible ; unintended uses when developing --> 
 
 Another difficulty of autonomous cars is with the "trolley problem". MIT has created a series of questions/scenarios that involve autonoous cars. Examples include whether to ____. There are general trends found such as _____. There are also general trends found in certain cultures. Examples of this include: saving the lawful ______. 
 
@@ -141,8 +142,8 @@ There are many systems in society that utilize autonomous systems that are impor
  
 ##### An example: Autonomous Systems Used in Social Credit System Development in China
 
-# ex: compass US, criminal scoring system:
-# close source vs open source to look for bias problems or data sets in source code 
+<!-- ex: compass US, criminal scoring system: 
+# close source vs open source to look for bias problems or data sets in source code --> 
 
 
 ##### An example: ROS/Skydio in lab example:
@@ -152,7 +153,7 @@ There are many systems in society that utilize autonomous systems that are impor
 
 There has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
 
-# discussion of ITAR, weapons, discussion of stopping war robots; robotics weapons vs chemical weapons; strong regulations? 
+<!-- discussion of ITAR, weapons, discussion of stopping war robots; robotics weapons vs chemical weapons; strong regulations? -->
 
 ##### Example: Predator drones utilized by the United States
 
@@ -176,14 +177,14 @@ It also includes the uses of robots to help keep elderly, disabled, young childr
 
 This presents an important topic: the interactions between humans and robots. Robots do not have emotions. This may present several ethical concerns:
 
-# privacy/security
-# robot trust/human-robot interaction, robot capabilities, emergency exit robot study Georgia tech Howard study, 
+<!-- privacy/security -->
+<!-- robot trust/human-robot interaction, robot capabilities, emergency exit robot study Georgia tech Howard study, -->
 
 1) 
 
 #### Availability/Accessibility
 
-# UN guidelines for emergency uses + drones Humanitarian drone guidelines ; ethics: universal declaration of human rights
+<!-- UN guidelines for emergency uses + drones Humanitarian drone guidelines ; ethics: universal declaration of human rights -->
 
 The cost of autonomous systems may be high depending on the purpose of the robot, and how regulated it is. 
 
