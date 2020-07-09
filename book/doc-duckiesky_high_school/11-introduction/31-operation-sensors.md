@@ -2,9 +2,15 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: Hardware- unassembled drone kit. Previous lesson- none.
+Requires: 
+**Hardware** - Unassembled drone kit.   
+**Previous lesson** - None.
 
 Result: 
+**Knowledge** - 
+- Basic components of robot hardware and software 
+- Your specific drone's sensors and actuators 
+- How the sensors and actuators interact to achieve stable flight
 
 </div>
 
