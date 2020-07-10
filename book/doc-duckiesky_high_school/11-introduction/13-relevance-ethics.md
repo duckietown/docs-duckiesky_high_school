@@ -91,7 +91,7 @@ Teachers will teach students about important ethical problems that are present i
 
 Teachers explain autonomous systems, AI, ML, DL, and usage of algorithms: 
 
-By incorporating artificial intelligence (AI) into systems, they gain the potential to accomplish tasks that usually rely on the intelligence of humans. Systems can become autonomous, and do not have to rely on human control and decisions. An example of an autonomous system that is currently developing is self-driving/autonomous cars. 
+By incorporating artificial intelligence (AI) into systems, they gain the potential to accomplish tasks that usually rely on the intelligence of humans. Systems can become autonomous, and do not have to rely on human control and decisions. An example of an autonomous system that is currently developing is autonomous cars. 
 
 
 AI systems utilize Deep Learning (DL) and Machine Learning (ML), which both rely on data matching and analysis algorithms. 
@@ -113,10 +113,21 @@ Also, the way that AI systems learn and their actions may become more unpredicta
 
 ##### Example: Husky Vs Wolf In Image Identification
 
+Teachers explain a simple algorithmic bias example, an example that is less involved with humans. 
 
-Example for algorithmic bias: Husky classified as wolf problem, finding snow in backgrounds to pictures (bias in data set were most of animals in snow)
+University of Washington wanted to create an image classifier that can identify wolves from huskies correctly. The AI systems were fed images and learned how to classify through ML (Medium). 
+
+However, some photos of huskies are incorrectly categorized by the system as wolves. It turns out that the system was learning from the images (the data fed to it) that wolves are often found in images that had snowy backgrounds. So the system turned out to be simplying identifying if images had snow in the background. 
+
+When there was a wolf in an image with no snow in the background, it would be categorized as a husky. If there was a husky with a snowy background, it would be categorized as a wolf. 
+
+This inaccuracy of the system is due to a data set that was biased/not a variety of scenarios and was not sufficient enough for the system to learn. 
+
 Source: Ribeiro, Singh, Guestrin, Why Should I Trust You? Published in 2016
 
+
+https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
+10.13140/RG.2.2.22973.31207
 
 ##### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
 
