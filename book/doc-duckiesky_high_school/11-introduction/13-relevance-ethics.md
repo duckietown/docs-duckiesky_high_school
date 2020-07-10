@@ -45,7 +45,7 @@ Recommended: 5 minutes/hours
 Teachers introduce ethics and explain why it is significant. 
 
 
-Teachers explaint the origin of the term ethics: 
+Teachers explain the origin of the term ethics: 
 The term ethics comes from the word "ethos", which is Greek for "way of living". 
 
 
@@ -53,7 +53,31 @@ Teachers explain what is ethics:
 When there is a difficult situation, there are multiple possible solutions. Ethics consists of moral principles and values of a person or a group of people. It affects how we choose to live our lives, what we think is wrong and right in morals and situations, and what our responsibilities are.
 
 Teachers explain the importance of ethics: 
+
 By considering ethics during decision making, we can make better decisions that would benefit individuals and society as a whole.
+
+
+Specifically for ethical issues that are related to AI, they can be split into three different categories. 
+
+The ethical implications of what AI is: 
+
+1) Bias and Fairness
+2) Accountability and Remediability
+3) Transparency, Interpretability, and Explainability
+
+THe ethical implications related to what AI does: 
+
+1) Safety
+2) Human-AI interaction
+3) Cyber-security and Malicious Use
+4) Privacy, Control, and Agency
+
+The are also ethical implications related to what AI can impact: 
+
+1) Automation, Job Loss, Labor Trends
+2) Impact to Democracy and Civil Rights
+3) Human-Human or Human-Agent interaction
+
 
 ### Main Lesson
 
@@ -86,6 +110,12 @@ There are also some disadvantages to autonomous systems or relying on algorithms
 The algorithms may not represent all the factors that are related to a situation. There is also always chances that unexpected consequences will happen. There is no guarantee that a choice that had beneficial results in the past will still have the same result in the current scenario. 
 
 Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
+
+##### Example: Husky Vs Wolf In Image Identification
+
+
+Example for algorithmic bias: Husky classified as wolf problem, finding snow in backgrounds to pictures (bias in data set were most of animals in snow)
+Source: Ribeiro, Singh, Guestrin, Why Should I Trust You? Published in 2016
 
 
 ##### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
