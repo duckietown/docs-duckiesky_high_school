@@ -113,21 +113,24 @@ Also, the way that AI systems learn and their actions may become more unpredicta
 
 ##### Example: Husky Vs Wolf In Image Identification
 
-Teachers explain a simple algorithmic bias example, an example that is less involved with humans. 
+Teachers explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
 
 University of Washington wanted to create an image classifier that can identify wolves from huskies correctly. The AI systems were fed images and learned how to classify through ML (Medium). 
 
-However, some photos of huskies are incorrectly categorized by the system as wolves. It turns out that the system was learning from the images (the data fed to it) that wolves are often found in images that had snowy backgrounds. So the system turned out to be simplying identifying if images had snow in the background. 
+However, some photos of huskies are incorrectly categorized by the system as wolves. It turns out that the system was learning from the images (the data fed to it) that wolves are often found in images that had snowy backgrounds. So the system turned out to be simplying identifying if images had snow in the background (Besse et al.). 
 
-When there was a wolf in an image with no snow in the background, it would be categorized as a husky. If there was a husky with a snowy background, it would be categorized as a wolf. 
+When there was a wolf in an image with no snow in the background, it would be categorized as a husky. If there was a husky with a snowy background, it would be categorized as a wolf (Ribeiro et al.). 
 
-This inaccuracy of the system is due to a data set that was biased/not a variety of scenarios and was not sufficient enough for the system to learn. 
+This inaccuracy of the system is because of a data set that was "unfair" or did not have a sufficient variety of scenarios (Besse et al.). 
 
 Source: Ribeiro, Singh, Guestrin, Why Should I Trust You? Published in 2016
 
-
 https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
 10.13140/RG.2.2.22973.31207
+
+##### Example: Amazon: Congress Matched to Criminals 
+
+
 
 ##### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
 
@@ -150,6 +153,7 @@ MCAS relies on only a single angle of attack sensor, instead of two. An angle of
 
 Pilots can temporarily switch MCAS off, however the system will restart and continue to work if the sensor continues to warn pilots of stalls. MCAS cannot ever been overriden by the pilots. The pilots lost control of the plane during the Ethiopian Airlines and Lion Air flights as the system was continuously fed inaccurate data from the sensor indicating that there are stalls, and they were unable to pitch up when needed, causing both flights to dive into the sea. 
 
+In addition, ______. 
 
 #### Algorithmic Bias
 
