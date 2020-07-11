@@ -37,7 +37,6 @@ For Teachers: Slides (if desired),
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
-
 ### Introducing The Lesson
 
 Recommended: 5 minutes/hours
@@ -72,22 +71,13 @@ THe ethical implications related to what AI does:
 3) Cyber-security and Malicious Use
 4) Privacy, Control, and Agency
 
-The are also ethical implications related to what AI can impact: 
-
-1) Automation, Job Loss, Labor Trends
-2) Impact to Democracy and Civil Rights
-3) Human-Human or Human-Agent interaction
-
-
 ### Main Lesson
 
 Recommended: 40 minutes/hours
 
 Teachers will teach students about important ethical problems that are present in technology, autonomous systems, and engineering.
 
-
 #### Correctness and Uncertainty of Algorithms and/or Autonomous Systems
-
 
 Teachers explain autonomous systems, AI, ML, DL, and usage of algorithms: 
 
@@ -123,13 +113,24 @@ When there was a wolf in an image with no snow in the background, it would be ca
 
 This inaccuracy of the system is because of a data set that was "unfair" or did not have a sufficient variety of scenarios (Besse et al.). 
 
+<!--
 Source: Ribeiro, Singh, Guestrin, Why Should I Trust You? Published in 2016
 
 https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
 10.13140/RG.2.2.22973.31207
 
+-->
+
+
 ##### Example: Amazon: Congress Matched to Criminals 
 
+Teachers teach about another example of algorithmic inaccuracy in AI systems, this one is more applicable to humans. 
+
+Amazon created Rekognition, which is a facial recognition software. ACLU tested the software by matching Congress members, and the result was shocking: 28 members were matched with criminals. In addition, it was found that 40% of the inaccurate image matches were of people of color (ACLU NorCal).  
+
+This is risky to be actually implemented for law enforcememt purposes, as it can make a police officer more biased before an initial encounter, or it can increase the chances of a person being questioned or searched (ACLU NorCal). 
+
+<!--https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots -->
 
 
 ##### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
@@ -143,17 +144,20 @@ There have been a number of accidents with the Boeing 737 MAX aircraft, which ha
 
 
 Teachers explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX. 
-<!--  Pilots were not aware of what systems does/interpratibility section/training/UX for pilots training not sufficient: -->
 
 There were several reasons that contributed to these fatal accidents:
 
-The Boeing 737 Max is different from the earlier Boeing 737 series. To allow for expanded seating capacity and better engines, Boeing 737 Max had major design changes. The engines were moved forward and were raised. However, this made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was developed to help correct the nose pitching problem by altering the control surface at the tail. The algorithm automatically detects whenever the nose pitches too high and corrects it. 
+The Boeing 737 Max is different from the earlier Boeing 737 series. To allow for expanded seating capacity and better engines, Boeing 737 Max had major design changes. The engines were moved forward and were raised. However, this made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System or MCAS was developed to help correct the nose pitching problem by altering the control surface at the tail. The algorithm automatically detects whenever the nose pitches too high and corrects it. 
 
-MCAS relies on only a single angle of attack sensor, instead of two. An angle of attack sensor helps warn pilots of a possibility of them losing control of the plane due to lack of lift (causing stall). Pilots are usually able to handle when the sensors are malfunctioning, however MCAS makes it a much larger problem. In both of the fatal accidents, MCAS was automatically switched on because of incorrect data from the single sensor. 
+MCAS relies on only a single angle of attack sensor, instead of two. An angle of attack sensor helps warn pilots of a possibility of them losing control of the plane due to lack of lift (causing stall). Pilots are usually able to handle when the sensors are malfunctioning, however MCAS makes it a much larger problem. In both of the fatal accidents, MCAS was automatically switched on because of incorrect data from the single sensor (The Washington Post). 
+
+<!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html -->
 
 Pilots can temporarily switch MCAS off, however the system will restart and continue to work if the sensor continues to warn pilots of stalls. MCAS cannot ever been overriden by the pilots. The pilots lost control of the plane during the Ethiopian Airlines and Lion Air flights as the system was continuously fed inaccurate data from the sensor indicating that there are stalls, and they were unable to pitch up when needed, causing both flights to dive into the sea. 
 
-In addition, ______. 
+
+Teachers also explain other flaws with the incident, such as not having sufficient training for the pilots:  
+
 
 #### Algorithmic Bias
 
@@ -161,11 +165,15 @@ Teachers teach that algorithmic bias can result from multiple sources.
 
 1) The algorithm may be programmed by someone who is biased, and inherit their biased views.
 
-<!--  developer could be unaware of bias in dataset, ex: hand-soap dispenser -- need diverse trials, amazon-congress and criminals matching, google + apes/image matching, should these systems be released to public -->
+<!--  developer could be unaware of bias in dataset --> 
+
 2) Since the systems often rely on pattern matching algorithms, an algorithm may act in a biased way because of being provided data that comes from biased sources. 
 
 3) Regarding the point made before regarding algorithmic uncertainty, from the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making.
 
+##### Hand-soap dispenser
+
+Need of diverse trials
 
 ##### An example: Autonomous systems and identification by skin tone
 
@@ -187,6 +195,8 @@ There are many systems in society that utilize autonomous systems that are impor
  
 ##### An example: Autonomous Systems Used in Social Credit System Development in China
 
+
+##### American
 <!-- ex: compass US, criminal scoring system: 
 # close source vs open source to look for bias problems or data sets in source code --> 
 
@@ -214,9 +224,9 @@ With drone contro____.
 
 #### Medical, Healthcare, and Caregiver Robots
 
-Autonomous systems have been also considered for usage in the healthcare industry. 
+Autonomous systems and AI systems have been also considered for usage in the healthcare industry. 
 
-This includes the uses of robots to help with medical diagnosis, treatment, or surgery. 
+This includes the uses of robots to help with identification, medical diagnosis, treatment, or surgery. 
 
 It also includes the uses of robots to help keep elderly, disabled, young children, or patients company and to surpervise them. 
 
@@ -227,24 +237,34 @@ This presents an important topic: the interactions between humans and robots. Ro
 
 1) 
 
-#### Availability/Accessibility
+#### Availability/Accessibility/Uses
 
 <!-- UN guidelines for emergency uses + drones Humanitarian drone guidelines ; ethics: universal declaration of human rights -->
 
 The cost of autonomous systems may be high depending on the purpose of the robot, and how regulated it is. 
 
-The -___. 
+
 
 #### Future impact of AI on human jobs and responsibilities
 
-With the further development of technology ____. 
+With the development of AI, there has been a growing reliance on them as tools in our daily lives. 
 
+Ethical implications related to what AI can impact: 
+
+1) Automation, Job Loss, Labor Trends
+2) Impact to Democracy and Civil Rights
+3) Human-Human or Human-Agent interaction
+
+There are large impacts of AI: 
+
+Some of this include affecting human jobs. There have come to time where many jobs can be taken over by robots _____. 
 ### Ending The Lesson
 
 Recommended: 5 minutes/hours
 
-Reminders about safety in the future: 
-There will be a future lesson specifically for safety in the _____. 
+Teachers remind that safety in the course to come:  
+
+There will be a future lesson specifically regarding how to keep yourself and those around you safe when operating the drone you make. 
 
 **Useful Resources and References**
 
