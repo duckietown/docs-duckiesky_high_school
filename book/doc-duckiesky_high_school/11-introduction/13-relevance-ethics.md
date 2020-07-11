@@ -105,9 +105,7 @@ Also, the way that AI systems learn and their actions may become more unpredicta
 
 Teachers explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
 
-University of Washington wanted to create an image classifier that can identify wolves from huskies correctly. The AI systems were fed images and learned how to classify through ML (Medium). 
-
-However, some photos of huskies are incorrectly categorized by the system as wolves. It turns out that the system was learning from the images (the data fed to it) that wolves are often found in images that had snowy backgrounds. So the system turned out to be simplying identifying if images had snow in the background (Besse et al.). 
+University of Washington wanted to create an image classifier that can identify wolves from huskies correctly. The AI systems were fed images to learn from. However, some photos of huskies are incorrectly categorized by the system as wolves. It turns out that the system was learning from the images that wolves are often found in images that had snowy backgrounds. So the system turned out to be simplying identifying if images had snow in the background (Medium). 
 
 When there was a wolf in an image with no snow in the background, it would be categorized as a husky. If there was a husky with a snowy background, it would be categorized as a wolf (Ribeiro et al.). 
 
@@ -116,21 +114,22 @@ This inaccuracy of the system is because of a data set that was "unfair" or did 
 <!--
 Source: Ribeiro, Singh, Guestrin, Why Should I Trust You? Published in 2016
 
+and 
+
 https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
 10.13140/RG.2.2.22973.31207
 
+and
+
+https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08 
 -->
 
+##### Example: Artificial Neural Network to predict risk of pneumonia patients
 
-##### Example: Amazon: Congress Matched to Criminals 
+University of Pittsburgh created a study in the 1990s to use a system to predict which pneumonia patients were low risk and which were at high risk. The system initially caused a large amount of concern to doctors because they found out that pneumonia patients with asthma was classified as low risk by the system. A rule system was implemented into the system to help solve this issue. After examining data closely, researchers founds that patients who had both pneumonia and asthma had a higher recovery rate. This is because when those patients were brought to the hospital, they were always considered to be at high risk, and immediately received proper treatment. However, the autonomous system simply believed that the presence of asthma results in being low risk, which is incorrect (Medium). 
 
-Teachers teach about another example of algorithmic inaccuracy in AI systems, this one is more applicable to humans. 
-
-Amazon created Rekognition, which is a facial recognition software. ACLU tested the software by matching Congress members, and the result was shocking: 28 members were matched with criminals. In addition, it was found that 40% of the inaccurate image matches were of people of color (ACLU NorCal).  
-
-This is risky to be actually implemented for law enforcememt purposes, as it can make a police officer more biased before an initial encounter, or it can increase the chances of a person being questioned or searched (ACLU NorCal). 
-
-<!--https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots -->
+<!-->
+https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08 --> 
 
 
 ##### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
@@ -165,15 +164,23 @@ Teachers teach that algorithmic bias can result from multiple sources.
 
 1) The algorithm may be programmed by someone who is biased, and inherit their biased views.
 
-<!--  developer could be unaware of bias in dataset --> 
-
 2) Since the systems often rely on pattern matching algorithms, an algorithm may act in a biased way because of being provided data that comes from biased sources. 
 
-3) Regarding the point made before regarding algorithmic uncertainty, from the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making.
+3) The dataset given to the system to learn from could have biases that the developer is unaware of. Regarding the point made before regarding algorithmic uncertainty, from the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making.
 
 ##### Hand-soap dispenser
 
 Need of diverse trials
+
+##### Example: Amazon: Congress Matched to Criminals 
+
+Teachers teach about another example of algorithmic inaccuracy in AI systems, this one is more applicable to humans. 
+
+Amazon created Rekognition, which is a facial recognition software. ACLU tested the software by matching Congress members, and the result was shocking: 28 members were matched with criminals. In addition, it was found that 40% of the inaccurate image matches were of people of color (ACLU NorCal).  
+
+This is risky to be actually implemented for law enforcememt purposes, as it can make a police officer more biased before an initial encounter, or it can increase the chances of a person being questioned or searched (ACLU NorCal). 
+
+<!--https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots -->
 
 ##### An example: Autonomous systems and identification by skin tone
 
@@ -188,6 +195,8 @@ This can result in racial bias by the algorithm, and in the case of autonomous c
 <!--  internet cyber security/how much trust assumption/use for good or bad are possible ; unintended uses when developing --> 
 
 Another difficulty of autonomous cars is with the "trolley problem". MIT has created a series of questions/scenarios that involve autonoous cars. Examples include whether to ____. There are general trends found such as _____. There are also general trends found in certain cultures. Examples of this include: saving the lawful ______. 
+
+While this is a gamefied way, it is very interesting to take into consideration moral concepts that we think about it dire situations. 
 
 #### Security, on time, backups, as these systems become relied upon 
 
@@ -210,6 +219,8 @@ There has been consideration of using autonomous systems for militarization. Thi
 
 <!-- discussion of ITAR, weapons, discussion of stopping war robots; robotics weapons vs chemical weapons; strong regulations? -->
 
+##### ITAR
+
 ##### Example: Predator drones utilized by the United States
 
 There have been several predator drones that have been used by the United States Air Force (USAF) and Central Intelligence Ageny (CIA). 
@@ -220,7 +231,7 @@ It is remotely piloted. There has been many concerns regarding to human safety.
 
 With drone contro____. 
 
-
+##### Should we handle autonomous weapons like chemical weapons
 
 #### Medical, Healthcare, and Caregiver Robots
 
@@ -232,10 +243,13 @@ It also includes the uses of robots to help keep elderly, disabled, young childr
 
 This presents an important topic: the interactions between humans and robots. Robots do not have emotions. This may present several ethical concerns:
 
-<!-- privacy/security -->
-<!-- robot trust/human-robot interaction, robot capabilities, emergency exit robot study Georgia tech Howard study, -->
+1) Privacy/Security: 
 
-1) 
+2) Trust between robots and humans, and their interactions: 
+
+##### The Emergency Exit Robot Study, Georgia Tech Howard
+
+
 
 #### Availability/Accessibility/Uses
 
