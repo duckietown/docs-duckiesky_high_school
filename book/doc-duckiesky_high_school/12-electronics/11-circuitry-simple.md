@@ -56,11 +56,13 @@ Teacher demonstrates the balloon static electricity experiment either on themsel
 
 Recommended: 15 minutes
 
-Use resources to compare electricity to water flowing through pipes using a pump. Also indroduce the topics of resistance and voltage (windows2universe.org) 
+- Use resources below, or of your own to compare electricity to water flowing through pipes using a pump. 
 
-Discuss how to get a current to move using different energy conversions. (battery, generator, etc.) 
+- also indroduce the topics of resistance and voltage (windows2universe.org) 
 
-If time, discuss how different materials conduct electricity differently. (Conducters vs. Insulators)
+- Discuss how to get a current to move using different energy conversions. (battery, generator, etc.) 
+
+- If time, discuss how different materials conduct electricity differently. (Conductors vs. Insulators)
 
 ### Student Activity
 
@@ -80,7 +82,7 @@ Teacher leads discussion based on the following questions:
 
 "What did you learn?"
 
-"What affect did the resistors have? What happened when you reversed their order?"
+"What affect did the resistors have? What happened when you reversed their order?" (Follow up with a brief description of polarity in circuits)
 
 "Did anything go wrong?"
 
