@@ -50,9 +50,21 @@ Recommended: 40 minutes/hours
 
 There was a collision between a private airplane and a sightseeing helicopter over Manhattan. The result was 9 deaths, of tourists and the people on the airplane. 
 There were several causes that contributed to this: 
-1) The limitations of the see and avoid concept
+1) The limitations of the see and avoid concept:
+
+9 seconds before collision, the helicopter was not seen from the airplane. 
+5 seconds before collision, the helicopter was also _____. 
+1 second before collision, the helicopter was too close to be able to act sufficient. 
+
+
 2) Teterboro Airport local controller’s non pertinent telephone conversation
+
+
+
 3) Guidelines for helicopter issued by the sightseeing company
+
+
+
 
 #### FAA rules
 
@@ -93,4 +105,4 @@ Recommended: X minutes/hours
 
 **Useful Resources and References**
 
-The OSHA Technical Manual on Industrial Robots and Robot System Safety: https://www.brown.edu/news/2018-07-24/robots. 
+The OSHA Technical Manual on Industrial Robots and Robot System Safety: ____. 
