@@ -43,7 +43,7 @@ Recommended: 5 minutes/hours
 
 Teachers introduce ethics and explain why it is significant. 
 
-
+<!--ethics: universal declaration of human rights --> 
 Teachers explain the origin of the term ethics: 
 The term ethics comes from the word "ethos", which is Greek for "way of living". 
 
@@ -155,20 +155,21 @@ MCAS relies on only a single angle of attack sensor, instead of two. An angle of
 
 <!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html -->
 
-Pilots can temporarily switch MCAS off, however the system will restart and continue to work if the sensor continues to warn pilots of stalls. MCAS cannot ever been overriden by the pilots. The pilots lost control of the plane during the Ethiopian Airlines and Lion Air flights as the system was continuously fed inaccurate data from the sensor indicating that there are stalls, and they were unable to pitch up when needed, causing both flights to dive into the sea. 
+Pilots can temporarily switch MCAS off, however the system will restart and continue to work if the sensor continues to warn pilots of stalls. MCAS cannot ever been overriden by the pilots. The pilots lost control of the plane during the Ethiopian Airlines and Lion Air flights as the system was continuously fed inaccurate data from the sensor indicating that there are stalls, and they were unable to pitch up when needed, causing both flights to dive into the sea (The Verge). 
 
+<!-- https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa --> 
 
 Teachers also explain other flaws with the incident:  
 
 1) Insufficient testing: 
 
-Boeing and FAA agreed to not install safety features, which analysts say later that these features could have saved both the planes from crashing (The Washington Post). 
+Boeing and FAA agreed to not install safety features, which analysts say later that these features could have saved both the planes from crashing (The Washington Post).
 
 <!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html--> 
 2) Accountability: 
 
 Boeing did not provide the risk assessment about the MCAS until very late, a couple of months before the MAX was certified. FAA also based on findings by Boeing that were inaccurate (The Washington Post). 
-
+ 
 
 3) Lack of notice to pilots: 
 
@@ -198,7 +199,7 @@ Teachers teach about another example of algorithmic inaccuracy in AI systems, th
 
 Amazon created Rekognition, which is a facial recognition software. ACLU tested the software by matching Congress members, and the result was shocking: 28 members were matched with criminals. In addition, it was found that 40% of the inaccurate image matches were of people of color (ACLU NorCal).  
 
-This is risky to be actually implemented for law enforcememt purposes, as it can make a police officer more biased before an initial encounter, or it can increase the chances of a person being questioned or searched (ACLU NorCal). 
+This is risky to be actually implemented for law enforcememt purposes, as it can make a police officer more biased before an initial encounter, or it can increase the chances of a person being questioned or searched, or can increase bias towards people of color (ACLU NorCal).
 
 <!--https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots -->
 
@@ -224,15 +225,18 @@ There are many systems in society that utilize autonomous systems that are impor
  
 ##### An example: Autonomous Systems Used in Social Credit System Development in China
 
+AI facial reconition systems have begun to be in use in China for developing a social credit system. 
 
 ##### American
 <!-- ex: compass US, criminal scoring system: 
 # close source vs open source to look for bias problems or data sets in source code --> 
 
 
-##### An example: ROS/Skydio in lab example:
+##### An example: Unsecured/Exposed Robots Running on ROS and Internet:
 
+A research team at Brown University discovered that they found almost 100 exposed systems that ran on ROS. "Up to 19 were considered to be fully operational robots". They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University).  
 
+<!-- https://www.brown.edu/news/2018-07-24/robots -->
 #### Militarization
 
 There has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
@@ -265,7 +269,13 @@ This presents an important topic: the interactions between humans and robots. Ro
 
 1) Privacy/Security: 
 
-2) Trust between robots and humans, and their interactions: 
+Robots that spend a lot of time monitoring their patients or people that they are responsible for, may have the capability to be tapped into.
+
+Especially in the medical field, these robots may contain snippets of important information such as health records about patients, or ______. 
+
+2) Trust between robots and humans, and their interactions:
+
+Th ______. 
 
 ##### The Emergency Exit Robot Study, Georgia Tech Howard
 
@@ -273,11 +283,11 @@ This presents an important topic: the interactions between humans and robots. Ro
 
 #### Availability/Accessibility/Uses
 
-<!-- UN guidelines for emergency uses + drones Humanitarian drone guidelines ; ethics: universal declaration of human rights -->
-
 The cost of autonomous systems may be high depending on the purpose of the robot, and how regulated it is. 
 
+##### UN Guidelines for Emergency Uses of Drones
 
+##### Humanitarian Drone Guidelines
 
 #### Future impact of AI on human jobs and responsibilities
 
@@ -292,13 +302,17 @@ Ethical implications related to what AI can impact:
 There are large impacts of AI: 
 
 Some of this include affecting human jobs. There have come to time where many jobs can be taken over by robots _____. 
+
+
 ### Ending The Lesson
 
 Recommended: 5 minutes/hours
 
-Teachers remind that safety in the course to come:  
+With the development of AI/autonomous systems being developed, 
 
-There will be a future lesson specifically regarding how to keep yourself and those around you safe when operating the drone you make. 
+Teachers remind that there will be a safety module for the course coming up in one of the future classes:   
+
+There will be a future lesson specifically regarding how to keep yourself and those around you safe when operating your drone. 
 
 **Useful Resources and References**
 
