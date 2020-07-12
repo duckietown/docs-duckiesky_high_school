@@ -92,6 +92,10 @@ There are several possible sources of danger that can result from the drone:
 
 #### Safe Environment
 
+The Bystander Effect: 
+
+The more people that are present, the less likely someone will help a victim during a situation. This can be due to a number of reasons: _____. 
+
 Make sure that you have a safe environment to fly your drone. It is ok to be indoors, _____. 
 
 #### Pre-flight Safety Checklist
