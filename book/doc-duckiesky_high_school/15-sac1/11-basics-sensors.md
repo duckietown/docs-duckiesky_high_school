@@ -3,12 +3,20 @@
 <div class='requirements' markdown='1'>
 
 Requires: 
+*Hardware: none
+*Previous Lessons: [Signals and Connections](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html)
+
 
 Result: 
+*Differentiate between examples of continuous signals and those discretized in time and/or value
+*Purpose of discretizing continuous signals
+*General pathway for measuring a physical system
+*Potential limitations of electrical sensors
+
 
 </div>
 
-## Lesson Title
+## Introduction to Sensors
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
