@@ -217,13 +217,35 @@ According to a study done with autonomous systems by Georgia Institute of Techno
 
 <!--  internet cyber security/how much trust assumption/use for good or bad are possible ; unintended uses when developing --> 
 
-MIT has created a series of questions and scenarios that involve autonomous cars and artificial intelligence. _____. 
+In 2014, MIT has created a series of questions and scenarios that involve autonomous cars and artificial intelligence, which is known as the Moral Machine. The Moral Machine asks people which choices autonomous cars should make when facing different variations of the trolley problem (Technology Review). 
+
+The Moral Machine focuses on 9 different themes: 
+
+1) Humans or pets/animals?
+
+2) Passengers or pedestrians?
+
+3) More or fewer lives?
+
+4) Women or men?
+
+5) Young or old?
+
+6) Healthy or those with health conditions?
+
+7) People of those of higher or lower status? 
+
+8) Action or no action? 
+
+The results of ____> 
 
 While this is presented in a very "game" like way, it is very interesting to take into consideration moral concepts that we think about in extreme situations. 
 
 <!-- https://www.media.mit.edu/projects/moral-machine/overview/ 
 
 https://www.media.mit.edu/publications/the-moral-machine-experiment/
+
+https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
 
 -->
 
@@ -233,13 +255,14 @@ https://www.media.mit.edu/publications/the-moral-machine-experiment/
 
 There are many systems in society that utilize autonomous systems that are important to society. 
  
+There has been ongoing debate whether these systems should be close sourced or open sourced. 
+
 ##### An example: Autonomous Systems Used in Social Credit System Development in China
 
 AI facial reconition systems have begun to be in use in China for developing a social credit system. 
 
-##### American
+##### American Criminal Scoring System
 <!-- ex: compass US, criminal scoring system: 
-# close source vs open source to look for bias problems or data sets in source code --> 
 
 
 ##### An example: Unsecured/Exposed Robots Running on ROS and Internet:
