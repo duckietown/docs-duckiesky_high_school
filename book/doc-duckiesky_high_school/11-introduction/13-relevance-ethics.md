@@ -237,7 +237,9 @@ The Moral Machine focuses on 9 different themes:
 
 8) Action or no action? 
 
-The results of ____> 
+The results of the Moral Machine was closely related with culture and economics (Technology Review). 
+
+Students may read this article: https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/ to learn more about the experiment and findings.
 
 While this is presented in a very "game" like way, it is very interesting to take into consideration moral concepts that we think about in extreme situations. 
 
@@ -249,20 +251,20 @@ https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to
 
 -->
 
-
-
 #### Security, on time, backups, as these systems become relied upon 
 
 There are many systems in society that utilize autonomous systems that are important to society. 
  
-There has been ongoing debate whether these systems should be close sourced or open sourced. 
+There has been ongoing debate whether these systems should be close or open sourced. 
 
 ##### An example: Autonomous Systems Used in Social Credit System Development in China
 
-AI facial reconition systems have begun to be in use in China for developing a social credit system. 
+The Chinese government began experimenting with social credit scores in 2015, when it allowed private companies to assign credit scores to people. One of the companies, Sesame Credit, does this by analyzing many variables over five sets of data, most of which is actually from Alibaba’s Alipay, which is used by over a billion people to make purchases, and contains a lot of information. Sesame Credit analyzes both financial and social behaviors and assigns a score between 350 and 950 (Time). People who accomplish good deeds are awarded points and can receive rewards. Those who do bad deeds, such as smoking or spending too much time on video games, are deducted points. Those with an extremely low social credit score are placed on the “List of Untrustworthy Persons” and will be prohibited from certain activities such as the ability to use public transportation or to make large purchases. It is expected that the system will be implemented completely and be standardized in the country by 2020.
+
+Artificial intelligence and _____. 
 
 ##### American Criminal Scoring System
-<!-- ex: compass US, criminal scoring system: 
+<!-- ex: compass US, criminal scoring system: -->
 
 
 ##### An example: Unsecured/Exposed Robots Running on ROS and Internet:
@@ -270,6 +272,8 @@ AI facial reconition systems have begun to be in use in China for developing a s
 A research team at Brown University discovered that they found almost 100 exposed systems that ran on ROS. "Up to 19 were considered to be fully operational robots". They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University).  
 
 <!-- https://www.brown.edu/news/2018-07-24/robots -->
+
+
 #### Militarization
 
 There has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
