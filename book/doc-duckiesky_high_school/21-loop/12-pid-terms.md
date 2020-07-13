@@ -40,15 +40,21 @@ For Teachers:
 
 Recommended: 10 minutes/hours
 
+
 Teachers go over important terms and definitions inovled with the PID (proportional, integral, derivative) controller. 
+
 
 Process Variable, represented by y(t): The parameter of the system that is being monitored and controlled. 
 
+
 Setpoint, represented by r(t): The desired value of the process variable.
+
 
 Control Variable: The output of the controller that serves as input to the system in order to minimize error between the setpoint and the process variable. 
 
+
 Steady-State Value: The final value of the process variable as time goes to infinity. 
+
 
 Steady-State Error: The difference between the setpoint and the steady-state value. 
 

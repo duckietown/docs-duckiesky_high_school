@@ -189,7 +189,7 @@ Teachers teach that algorithmic bias can result from multiple sources.
 
 3) The dataset given to the system to learn from could have biases that the developer is unaware of. Regarding the point made before regarding algorithmic uncertainty, from the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making.
 
-##### Hand-soap dispenser
+##### Bias through a AI controlled Hand-Soap Dispenser 
 
 Need of diverse trials
 
