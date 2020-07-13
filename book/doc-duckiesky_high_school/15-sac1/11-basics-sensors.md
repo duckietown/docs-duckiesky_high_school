@@ -2,12 +2,10 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: 
-Previous Lessons: [Signals and Connections](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html)
+Requires: Previous Lesson - [Signals and Connections](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html)
 
 
-Result:
-Students will be able to differentiate between examples of continuous signals and those discretized in time and/or value, learn the purpose of discretizing continuous signals, know the general pathway for measuring a physical system, and get a sense of the potential limitations of electrical sensors
+Result: Students will be able to differentiate between examples of continuous signals and those discretized in time and/or value, learn the purpose of discretizing continuous signals, know the general pathway for measuring a physical system, and get a sense of the potential limitations of electrical sensors
 
 
 </div>
