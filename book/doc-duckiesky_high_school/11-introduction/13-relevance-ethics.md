@@ -101,6 +101,7 @@ The algorithms may not represent all the factors that are related to a situation
 
 Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
 
+
 ##### Example: Husky Vs Wolf In Image Identification
 
 Teachers explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
@@ -183,17 +184,14 @@ Because of the low chances that were predicted, Boeing decided to not include th
 
 Teachers teach that algorithmic bias can result from multiple sources. 
 
-1) The algorithm may be programmed by someone who is biased, and inherit their biased views.
+1) The algorithm may be programmed by someone who is biased thus inheriting their biased views.
 
-2) Since the systems often rely on pattern matching algorithms, an algorithm may act in a biased way because of being provided data that comes from biased sources. 
+2) Since the systems often rely on pattern matching algorithms, an algorithm may act in a biased way because data that comes from biased sources.
 
 3) The dataset given to the system to learn from could have biases that the developer is unaware of. Regarding the point made before regarding algorithmic uncertainty, from the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making.
 
-##### Bias through a AI controlled Hand-Soap Dispenser 
+4) Developers when testing their AI systems, do not test it with a large variety of data or do not take into consideration certain scenarios (which may come from a lack of diversity in the workplace). 
 
-An autonomous soap dispenser was found to have trouble dispensing people for darker skin color 
-
-<!-- https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology --> 
 
 ##### Example: Amazon: Congress Matched to Criminals 
 
@@ -207,19 +205,29 @@ This is risky to be actually implemented for law enforcememt purposes, as it can
 
 ##### An example: Autonomous systems and identification by skin tone
 
-According to a study done with autonomous systems by Georgia Institute of Technology, AI systems were more consistently accurately identifying people with lighter skin tones than darker. Their results show that detection of people with darker skins were less accurate by 5%. 
+An autonomous soap dispenser by Technical Concepts was found to have trouble dispensing people for darker skin color. This is because the dispenser relied on IR sensor which relies on how much light is reflected back. Darker skin tones absorb more light than people with lighter skin tones (Reporter). This resulted in the soap dispenser not being able to work for people with darker skin. This design flaw was believed to be because of a lack of diversity in the workplace at Technical Concepts, who did not think to test their products on people with darker skin tones (Reporter). 
 
-This can result in racial bias by the algorithm, and in the case of autonomous cars, people with darker skin would be more likely to be harmed or involved in an accident than those with lighter skin. 
+<!-- https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology --> 
 
-##### Another example: autonomous cars and the morality/trolley problem
+According to a study done with autonomous systems by Georgia Institute of Technology, AI systems were more consistently accurately identifying people with lighter skin tones than darker. Their results show that detection of people with darker skins were less accurate by 5%. This can result in racial bias by the algorithm, and in the case of autonomous cars, people with darker skin would be more likely to be harmed or involved in an accident than those with lighter skin. 
+
+##### Another example: MIT's Moral Machine
 
  <!-- done as a game, data set is not entirely reliable -->
 
 <!--  internet cyber security/how much trust assumption/use for good or bad are possible ; unintended uses when developing --> 
 
-Another difficulty of autonomous cars is with the "trolley problem". MIT has created a series of questions/scenarios that involve autonoous cars. Examples include whether to ____. There are general trends found such as _____. There are also general trends found in certain cultures. Examples of this include: saving the lawful ______. 
+MIT has created a series of questions and scenarios that involve autonomous cars and artificial intelligence. _____. 
 
-While this is a gamefied way, it is very interesting to take into consideration moral concepts that we think about it dire situations. 
+While this is presented in a very "game" like way, it is very interesting to take into consideration moral concepts that we think about in extreme situations. 
+
+<!-- https://www.media.mit.edu/projects/moral-machine/overview/ 
+
+https://www.media.mit.edu/publications/the-moral-machine-experiment/
+
+-->
+
+
 
 #### Security, on time, backups, as these systems become relied upon 
 
@@ -297,13 +305,18 @@ With the development of AI, there has been a growing reliance on them as tools i
 
 Ethical implications related to what AI can impact: 
 
-1) Automation, Job Loss, Labor Trends
-2) Impact to Democracy and Civil Rights
-3) Human-Human or Human-Agent interaction
+1) Automation, Job Loss, Labor Trends 
+
+With the automation of many jobs, people may lose their jobs to robots. 
+
+2) Impact to Democracy and Civil Rights  
+
+Artificial intelligence thinks _____. 
+
+3) Human-Human or Human-Agent interaction  
 
 There are large impacts of AI: 
 
-Some of this include affecting human jobs. There have come to time where many jobs can be taken over by robots _____. 
 
 
 ### Ending The Lesson
