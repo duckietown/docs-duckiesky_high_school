@@ -60,16 +60,16 @@ Specifically for ethical issues that are related to AI, they can be split into t
 
 The ethical implications of what AI is: 
 
-1) Bias and Fairness
-2) Accountability and Remediability
-3) Transparency, Interpretability, and Explainability
+1) Bias and Fairness  
+2) Accountability and Remediability  
+3) Transparency, Interpretability, and Explainability  
 
 THe ethical implications related to what AI does: 
 
-1) Safety
-2) Human-AI interaction
-3) Cyber-security and Malicious Use
-4) Privacy, Control, and Agency
+1) Safety  
+2) Human-AI interaction  
+3) Cyber-security and Malicious Use  
+4) Privacy, Control, and Agency  
 
 ### Main Lesson
 
@@ -191,7 +191,9 @@ Teachers teach that algorithmic bias can result from multiple sources.
 
 ##### Bias through a AI controlled Hand-Soap Dispenser 
 
-Need of diverse trials
+An autonomous soap dispenser was found to have trouble dispensing people for darker skin color 
+
+<!-- https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology --> 
 
 ##### Example: Amazon: Congress Matched to Criminals 
 
