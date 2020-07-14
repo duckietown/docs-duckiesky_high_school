@@ -308,6 +308,7 @@ With drone contro____.
 
 ##### Should we handle autonomous weapons like chemical weapons
 
+
 #### Medical, Healthcare, and Caregiver Robots
 
 Autonomous systems and AI systems have been also considered for usage in the healthcare industry. 

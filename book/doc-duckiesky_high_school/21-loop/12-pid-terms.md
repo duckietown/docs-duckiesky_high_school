@@ -80,7 +80,7 @@ Recommended: X minutes/hours
 
 Here the teacher will go over the general algorithm: 
 
-The error of the system e(t), is calculated as the difference between setpoint and proces variable. 
+The error of the system $e(t)$, is calculated as the difference between setpoint and proces variable. 
 
 So $$ e(t) = r(t) - y(t)$$
 
