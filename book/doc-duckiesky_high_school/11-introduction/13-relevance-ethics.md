@@ -374,7 +374,9 @@ Autonomous systems and advanced technology may also be used to help with emergen
 
 UAVs have potential in three areas: humanitarian, development, and peacekeeping operations (UN). 
 
-Read this article for more information: https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un --> 
+In 2013, the UN has launched the first UAV mission to help protect civilians in the Democratic Republic of Congo (UN News). 
+
+Read this article for more information: https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un and https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr 
 
 ##### Humanitarian Drone Guidelines
 
