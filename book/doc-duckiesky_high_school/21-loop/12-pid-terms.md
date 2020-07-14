@@ -84,6 +84,24 @@ The error of the system $e(t)$, is calculated as the difference between setpoint
 
 So $$ e(t) = r(t) - y(t)$$
 
+The controller aims to minimize the rise time and settling time of the system, while eliminating steady-state error and maximizing stability (no unbounded oscillations in the process variable). It does so by changing the control variable $u(t)$ based on three control terms.
+
+
+#### The Proportional Term:
+
+The first control term is the proportional term, which produces an output that is proportional to the calculated error:
+
+$$ P = K_pe(t)$$
+
+The magnitude of the proportional response is dependent upon $K_p$ which is the proportional gain constant. A higher proportional gain constant indicates a greater change in the controller’s output in response to the system’s error.
+
+#### The Derivative Term: 
+
+
+
+#### The Integral Term: 
+
+
 
 ### Ending The Lesson
 
