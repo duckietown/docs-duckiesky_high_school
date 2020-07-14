@@ -41,7 +41,7 @@ For Teachers: Should have a set of their own to demonstrate to students (Or simp
 
 Recommended: 5 minutes
 
-This lesson isn't particularly exciting, but it is necessary for students to have a grasp on how to troubleshoot problems with their soldering. A possible intro to this lesson could be the teacher presenting a purposefully bad soldering job, and ask the students what is wrong with the connection. 
+This lesson is necessary for students to have a grasp on how to troubleshoot problems with their soldering. A possible intro to this lesson could be the teacher presenting a purposefully bad soldering job, and ask the students what is wrong with the connection. 
 
 ### Main Lesson
 
@@ -69,7 +69,9 @@ Some troubleshooting solutions a teacher may present are:
 
 Recommended: 30 min
 
-Students should use materials listed above and have partners create bad soldering jobs (too much solder, bad connection), and have their partner diagnose and troubleshoot. ZThe teacher should walk around the class, making sure the student's arent causing any harm to the materials unnintentionally.
+Students should use materials listed above and have partners create bad soldering jobs (too much solder, bad connection), and have their partner diagnose and troubleshoot. The teacher should walk around the class, making sure the student's aren't causing any harm to the materials unnintentionally. The teacher could also give out some of the student's past soldering jobs that failed, and possible ask the whole class to diagnose it together.
+
+
 
 ### Ending The Lesson
 
