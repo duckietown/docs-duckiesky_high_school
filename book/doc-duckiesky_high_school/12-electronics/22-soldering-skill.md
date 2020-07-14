@@ -68,6 +68,7 @@ Recommended: 35 minutes
 
 Give the students the tools in the materials section, and ask them to solder wires together with and wiuthout flux, while also showing them how to get acclimated to using the various materials. This half hour should be dedicated to students becoming familiar and comfortable with using the soldering iron combined with flux.
 
+Heads up for next lesson: Keep all soldering joints that are weak or problematic, they will be useful in the next lesson.
 ### Ending The Lesson
 
 Recommended: 5 minutes/hours
