@@ -259,17 +259,31 @@ There has been ongoing debate whether these systems should be close or open sour
 
 ##### An example: Autonomous Systems Used in Social Credit System Development in China
 
-The Chinese government began experimenting with social credit scores in 2015, when it allowed private companies to assign credit scores to people. One of the companies, Sesame Credit, does this by analyzing many variables over five sets of data, most of which is actually from Alibaba’s Alipay, which is used by over a billion people to make purchases, and contains a lot of information. Sesame Credit analyzes both financial and social behaviors and assigns a score between 350 and 950 (Time). People who accomplish good deeds are awarded points and can receive rewards. Those who do bad deeds, such as smoking or spending too much time on video games, are deducted points. Those with an extremely low social credit score are placed on the “List of Untrustworthy Persons” and will be prohibited from certain activities such as the ability to use public transportation or to make large purchases. It is expected that the system will be implemented completely and be standardized in the country by 2020.
+The Chinese government began experimenting with social credit scores in 2015, when it allowed private companies to assign credit scores to people. One of the companies, Sesame Credit, does this by analyzing many variables over five sets of data, most of which is actually from Alibaba’s Alipay, which is used by over a billion people to make purchases, and contains much information. Sesame Credit analyzes both financial and social behaviors and assigns a score between 350 and 950 (Time). People who accomplish good deeds are awarded points and can receive rewards. Those who do bad deeds, such as smoking or spending too much time on video games, are deducted points. Those with an extremely low social credit score are placed on the “List of Untrustworthy Persons” and will be prohibited from certain activities such as the ability to use public transportation or to make large purchases.
 
-Artificial intelligence and _____. 
+This is being implemented with the help of AI and facial recognition. 
 
-##### American Criminal Scoring System
-<!-- ex: compass US, criminal scoring system: -->
+There has been many concerns with the use of China's social credit system, fears about leading to social inequality and alienation. There are also fears of preventing a free market economy. 
+
+<!-- 
+https://time.com/collection/davos-2019/5502592/china-social-credit-score/
+-->
+
+##### Correctional offender Management Profiling for Alternative Sanctions (COMPAS) 
+
+COMPAS is an software that is used by US courts to assign scores to predict the risk of a certain person commiting another crime. 
+It is an algorithm that utilizes an algorithm that considers answers to a questionnaire (The Atlantic). 
+
+In 2016, ProPublica has analzyed COMPAS and has found that COMPAS displays bias against African Americans. 
+
+<!-- https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/ -->
 
 
 ##### An example: Unsecured/Exposed Robots Running on ROS and Internet:
 
 A research team at Brown University discovered that they found almost 100 exposed systems that ran on ROS. "Up to 19 were considered to be fully operational robots". They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University).  
+
+This shows how vulnerable systems can be when connected to the internet. 
 
 <!-- https://www.brown.edu/news/2018-07-24/robots -->
 
