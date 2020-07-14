@@ -351,19 +351,46 @@ Especially in the medical field, these robots may contain snippets of important 
 
 2) Trust between robots and humans, and their interactions:
 
-Humans have emotions while robots do not. Humans may have the capability to trust their robots too much, which can result in harm from the remote or manipulation of the humans. 
+Humans have emotions while robots do not. Humans may have the capability to trust their robots too much, which can result in harm from the remote or manipulation of humans. 
 
 ##### The Emergency Exit Robot Study, Georgia Tech Howard
 
+There was a study conducted by researchers at the Georgia Institute of Technology, highlighted the potential risks of putting too much trust into robots during emergency situations. 
 
+They did an experiment that simulated an emergency situation. It was found that all participants of the experiment decided to follow the robot during the emergency, even if it led them through an noticeably incorrect path. Half of the participants have also seen the robot fail at navigating earlier before the specific experiment (Robinette et al.).  
+
+<!-- https://www.cc.gatech.edu/~alanwags/pubs/Robinette-HRI-2016.pdf
+-->
 
 #### Availability/Accessibility/Uses
 
-The cost of autonomous systems may be high depending on the purpose of the robot, and how regulated it is. 
+The cost of autonomous systems may be high depending on the purpose of the robot. The high prices of robots currently are barring many people from more complex robots. 
 
-##### UN Guidelines for Emergency Uses of Drones
+Robots can be used to help those with accessbility issues. 
+
+Autonomous systems and advanced technology may also be used to help with emergency aid purposes. Drones can be used to help with potentially locating lost items or people, or helping transport emergency items quickly (water for forest fires ex.). 
+
+##### UN Guidelines for Emergency Uses of Drones and 
+
+UAVs have potential in three areas: humanitarian, development, and peacekeeping operations (UN). 
+
+Read this article for more information: https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un --> 
 
 ##### Humanitarian Drone Guidelines
+
+"The most promising uses of drones include:
+• Mapping
+• Delivering lightweight essential items to remote or hard-
+to-access locations
+• Supporting damage assessments
+• Increasing situational awareness
+• Monitoring changes" 
+(Relief Web)
+
+
+<!-- https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf --> 
+
+
 
 #### Future impact of AI on human jobs and responsibilities
 
@@ -373,17 +400,15 @@ Ethical implications related to what AI can impact:
 
 1) Automation, Job Loss, Labor Trends 
 
-With the automation of many jobs, people may lose their jobs to robots. 
+With the automation of many jobs, people may lose those jobs to robots. This may be because some tasks are able to be done more efficiently by robots. Because some jobs are more adaptable to robots than others, this may produce labor trends. There will be new jobs created that are more oriented towards maintaining robots or certain jobs will die out. 
 
 2) Impact to Democracy and Civil Rights  
 
-Artificial intelligence thinks _____. 
+AI may have a strong impact on democracy and civil rights. AI may be able to automatically detect certain messages or actions that are not permitted and can be used to prevent them. There has been related concerns to that and the Chinese Social Credit System, and fear that it may create a society focused around surveillance and conformity. 
 
-3) Human-Human or Human-Agent interaction  
+3) Human-Human or Human-Agent interaction: 
 
-There are large impacts of AI: 
-
-
+As explored slightly in the medicine uses of robots, there will be much more interactions between human and non humans/robots in the future, which is different from interactions between humans only. 
 
 ### Ending The Lesson
 
