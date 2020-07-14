@@ -53,15 +53,16 @@ There were several causes that contributed to this:
 1) The limitations of the see and avoid concept:
 
 9 seconds before collision, the helicopter was not seen from the airplane. 
-5 seconds before collision, the helicopter was also _____. 
+5 seconds before collision, the helicopter was still very far from view. 
 1 second before collision, the helicopter was too close to be able to act sufficient. 
 
+By the time the pilot of the airplane saw the helicopter, there was no time/not sufficient enough time to avoid the helicopter. 
 
-2) Teterboro Airport local controller’s non pertinent telephone conversation
+2) Teterboro Airport local controller’s non pertinent telephone conversation.
 
 
 
-3) Guidelines for helicopter issued by the sightseeing company
+3) Guidelines for helicopter issued by the sightseeing company.
 
 
 
@@ -76,10 +77,9 @@ Faculty and staff are considered to be non-recreational users.
 
 #### Where to fly:
 
-You may fly your drone indoors. 
+You may fly your drone indoors if you have enough space, as FAA rules do not apply to operations that take place indoors. 
 
-If you are flying your drone outdoors, be sure to check the ______. 
-
+Before flying outside, please check if your _____. 
 
 #### Possible Sources for Danger:
 
@@ -94,13 +94,35 @@ There are several possible sources of danger that can result from the drone:
 
 The Bystander Effect: 
 
-The more people that are present, the less likely someone will help a victim during a situation. This can be due to a number of reasons: _____. 
+The more people that are present, the less likely someone will help a victim during a situation. 
+Be wary of this, make sure that if there is a dangerous situation, be cautious and aware, and take action to help those who need it.
 
-Make sure that you have a safe environment to fly your drone. It is ok to be indoors, _____. 
+Make sure that you have a safe environment to fly indoors. 
+
+Make sure you have equipment: 
+1) Safety glasses
+2) Gloves
+3) Walls
+4) Distance
+5) Net (not required)
 
 #### Pre-flight Safety Checklist
 
+Before you fly, you should make sure that: 
 
+1) Am I connected to the correct drone?
+2) Safety glasses are on?
+3) Do I have space to fly? Possibilities of flying away or collisions?
+4) Check the kill switch and ensure that it works
+5) Are the propellers armed?
+
+#### First Flight:
+
+The first time you fly the drone or start the drone, there may be some situations you may experience/be aware of:
+
+1) Drone flips (propellers are on upside down)  
+2) Collisions (No side or back sensors)  
+3) Battery mishaps (when the battery shorts or explodes)  
 
 ### Ending The Lesson
 
