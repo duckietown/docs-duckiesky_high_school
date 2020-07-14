@@ -297,6 +297,8 @@ and https://www.wired.com/story/security-robotics/
 
 There has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
 
+Students can watch this video to learn more about Slaughterbots: https://www.youtube.com/watch?v=9CO6M2HsoIA
+
 
 <!-- discussion of ITAR, weapons, discussion of stopping war robots; robotics weapons vs chemical weapons; strong regulations? -->
 
@@ -320,6 +322,16 @@ There have been several predator drones that have been used by the United States
 
 ##### Should we handle autonomous weapons like chemical weapons
 
+In the US, there are two types of chemical warfare agents: stockpiled and non stockpiled. 
+
+"In 1996, it was mandated that all stockpiles of lethal chemical agents must be destroyed. 
+
+In 1997, the US ratified Chemical Weapons Convention Treaty and agreed to destory any remaining stockpiles of chemical warfare agents to no later than April 29, 2012" (CDC).
+
+There has been much debate if autonomous weapons should be treated like chemical weapons? Should they also be prohibited from use and fully destroyed? 
+
+<!-- https://www.cdc.gov/nceh/demil/history.htm --> 
+
 
 #### Medical, Healthcare, and Caregiver Robots
 
@@ -329,17 +341,17 @@ This includes the uses of robots to help with identification, medical diagnosis,
 
 It also includes the uses of robots to help keep elderly, disabled, young children, or patients company and to surpervise them. 
 
-This presents an important topic: the interactions between humans and robots. Robots do not have emotions. This may present several ethical concerns:
+While there are many benefits such as being able to take care and monitor health of whoever they are responsible for and can provide them with company, there are several ethical concerns:
 
 1) Privacy/Security: 
 
 Robots that spend a lot of time monitoring their patients or people that they are responsible for, may have the capability to be tapped into.
 
-Especially in the medical field, these robots may contain snippets of important information such as health records about patients, or ______. 
+Especially in the medical field, these robots may contain snippets of important information such as health records, or video feeds of their patients. 
 
 2) Trust between robots and humans, and their interactions:
 
-Th ______. 
+Humans have emotions while robots do not. Humans may have the capability to trust their robots too much, which can result in harm from the remote or manipulation of the humans. 
 
 ##### The Emergency Exit Robot Study, Georgia Tech Howard
 
@@ -399,6 +411,5 @@ https://arxiv.org/pdf/1902.11097.pdf
 Moral machine: https://www.moralmachine.net
 
 Paper on moral machine: https://doi.org/10.1038/s41586-018-0637-6 
-
 
 https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html
