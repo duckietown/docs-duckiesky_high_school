@@ -89,17 +89,23 @@ The controller aims to minimize the rise time and settling time of the system, w
 
 #### The Proportional Term:
 
-The first control term is the proportional term, which produces an output that is proportional to the calculated error:
+The proportional term produces an output that is proportional to the calculated error:
 
 $$ P = K_pe(t)$$
 
 The magnitude of the proportional response is dependent upon $K_p$ which is the proportional gain constant. A higher proportional gain constant indicates a greater change in the controller’s output in response to the system’s error.
 
+The propellers will spin faster the farther away the drone is. 
+
 #### The Derivative Term: 
 
+The derivative term is determined by the rate of change of the system’s error over time multiplied by the derivative gain constant $K_d$. 
 
+$$D = K_d frac{de(t)}{dt}$$
 
 #### The Integral Term: 
+
+The integral term accounts for the accumulated error of the system over time. The output produced is comprised of the sum of the instantaneous error over time multiplied by the integral gain constant $K_i$.
 
 
 
