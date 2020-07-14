@@ -257,13 +257,16 @@ There are many systems in society that utilize autonomous systems that are impor
  
 There has been ongoing debate whether these systems should be close or open sourced. 
 
+Open source code means that the source code can be accessed by the public. Closed source code means that the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to. While closed source codes may safer from prying eyes or hackers, it also prevents closer scrutiny for potential biases or problems in the code by the public. 
+
+
 ##### An example: Autonomous Systems Used in Social Credit System Development in China
 
 The Chinese government began experimenting with social credit scores in 2015, when it allowed private companies to assign credit scores to people. One of the companies, Sesame Credit, does this by analyzing many variables over five sets of data, most of which is actually from Alibaba’s Alipay, which is used by over a billion people to make purchases, and contains much information. Sesame Credit analyzes both financial and social behaviors and assigns a score between 350 and 950 (Time). People who accomplish good deeds are awarded points and can receive rewards. Those who do bad deeds, such as smoking or spending too much time on video games, are deducted points. Those with an extremely low social credit score are placed on the “List of Untrustworthy Persons” and will be prohibited from certain activities such as the ability to use public transportation or to make large purchases.
 
 This is being implemented with the help of AI and facial recognition. 
 
-There has been many concerns with the use of China's social credit system, fears about leading to social inequality and alienation. There are also fears of preventing a free market economy. 
+There has been many concerns with the use of China's social credit system, fears about leading to social inequality and alienation. There are also fears of preventing a free market economy. While the benefits include trying to reduce the amount of crimes or bad habits of people. 
 
 <!-- 
 https://time.com/collection/davos-2019/5502592/china-social-credit-score/
@@ -285,26 +288,35 @@ A research team at Brown University discovered that they found almost 100 expose
 
 This shows how vulnerable systems can be when connected to the internet. 
 
-<!-- https://www.brown.edu/news/2018-07-24/robots -->
+<!-- https://www.brown.edu/news/2018-07-24/robots 
+and https://www.wired.com/story/security-robotics/
+-->
 
 
 #### Militarization
 
 There has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
 
+
 <!-- discussion of ITAR, weapons, discussion of stopping war robots; robotics weapons vs chemical weapons; strong regulations? -->
 
-##### ITAR
+##### International Traffic in Arms Regulations (ITAR)
+
+International Traffic in Arms Regulations (ITAR) specifically covers: 
+
+1) Covers military items or defense articles  
+2) Regulates goods and technology designed to kill or defend against death in a military setting  
+3) Includes space-related technology because of application to missile technology  
+4) Includes technical data related to defense articles and services  
+5) Involves strict regulatory licensing and does not address commercial or research objectives  
+
+(Source: Digital Guardian)
+
+<!-- https://digitalguardian.com/blog/what-itar-compliance --> 
 
 ##### Example: Predator drones utilized by the United States
 
-There have been several predator drones that have been used by the United States Air Force (USAF) and Central Intelligence Ageny (CIA). 
-
-It was initially utilized for primarily reconaissance and spying, but was later equipped to be able to engage in warfare.
-
-It is remotely piloted. There has been many concerns regarding to human safety. 
-
-With drone contro____. 
+There have been several predator drones that have been used by the United States Air Force (USAF) and Central Intelligence Ageny (CIA). Initially many are utilized for primarily reconaissance and spying, but many have been later equipped to be able to engage in warfare.
 
 ##### Should we handle autonomous weapons like chemical weapons
 

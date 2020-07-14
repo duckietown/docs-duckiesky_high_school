@@ -60,7 +60,7 @@ The propellers will spin faster the farther away the drone is.
 
 The derivative term is determined by the rate of change of the system’s error over time multiplied by the derivative gain constant $K_d$. 
 
-$$D = K_d frac{de(t)}{dt}$$
+$$D = K_d \frac{de(t)}{dt}$$
 
 #### The Integral Term: 
 
