@@ -115,10 +115,7 @@ TODO: Need to think of ways to build intuitions for sensor calibration
 
 2. Precision: How close are the measurements of the same item to each other 
 
-<figure>
-<figcaption>Accuracy and Precision Graph</figcaption>
-<img style='width:12em' src="https://i0.wp.com/wp.stolaf.edu/it/files/2017/06/precsionvsaccuracy_crashcourse.png?resize=579%2C600&ssl=1"/>
-</figure>
+<!-- could put in graph about accuracy and precision-->
 
 - Problems: sensors have errors, too! Just like the signal noise from the [electronics unit](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html).
 
