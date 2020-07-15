@@ -75,9 +75,9 @@ See also: **Optional Excercise: Have your students make paper airplanes to physi
 
 Ask the students to identify which of the sensors measure each of them: 
 
-    - IMU for roll and pitch 
+- IMU for roll and pitch 
     
-    - Camera for yaw 
+- Camera for yaw 
 
 2. How computers interpret sensors' output. 
 
@@ -111,9 +111,9 @@ TODO: Need to think of ways to build intuitions for sensor calibration
 
 - There are two measures of the “goodness” of a sensor: 
 
-    1. Accuracy: How close are the measurements to the truth
+1. Accuracy: How close are the measurements to the truth
 
-    2. Precision: How close are the measurements of the same item to each other 
+2. Precision: How close are the measurements of the same item to each other 
 
 <figure>
 <figcaption>Accuracy and Precision Graph</figcaption>
@@ -124,11 +124,11 @@ TODO: Need to think of ways to build intuitions for sensor calibration
 
 Solution: 
 
-    - Filtering Frequencies: cut the frequency measurements that are unreasonably high or low
+- Filtering Frequencies: cut the frequency measurements that are unreasonably high or low
 
-    - Combining data from multiple sensors
+- Combining data from multiple sensors
 
-    - Cleverly decide which data are trustworthy
+- Cleverly decide which data are trustworthy
 
 
 ### Ending The Lesson
