@@ -2,13 +2,13 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: 
+Requires: Hardware: Basestation, Build Part 1 completed; Previous lessons: Networking
 
-Result: Students will be able to navigate a Bash shell and execute simple Bash commands.
+Result: Knowledge: Computer file structure, Essential bash commands; Skills: Navigating computer directories in the terminal, Editing files through the command line
 
 </div>
 
-## Bash Tutorial
+## Bash
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
@@ -21,7 +21,7 @@ The student's ability to complete the below Bash terminal task.
 
 ### AGENDA (Brief Summary of Activities)
 
-5 min: Computer Setup
+5 min: Basestation Setup
 
 40 min: Bash Lesson
 
@@ -34,7 +34,9 @@ The student's ability to complete the below Bash terminal task.
 
 **Materials needed**
 
-TODO: Materials
+For Students: Basestation 
+
+For Teachers: Basestation, a projector (if needed) 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
@@ -45,17 +47,18 @@ Recommended: 5 minutes
 
 Pre Class:
 
-Do Now: Teacher writes on the board for students to open up their computers/devices 
+Do Now: Teacher writes on the board for students to prepare their basestations
 
 Hook: Teachers can talk about the following or their own.
 
 -  This will be a lesson for the student on Bash scripting and the Shell. It is important to learn how to utilize a shell as it is the introduction to the inner processes of the operating system.
+- Conceptually connect Bash to Markdown in the sense that the computer is being affected via text: the purpose of Bash is to “control” the computer vs whereas Markdown is utilized for the purpose of "visual layout"
 
 ### Main Lesson
 
 Recommended: 40 minutes
 
-Teachers can either use a live demonstration via a projector with a Bash Shell/Online Bash Shell Emulator or utilize an online Bash tutorial that the students can work through. Potential resources for a Online Bash Shell Emulator and an online Bash tutorial are included at the end of this document.
+Teachers can either use a live demonstration via a projector using the Pi over ssh or utilize an online Bash tutorial that the students can work through. Potential resources for a Online Bash Shell Emulator and an online Bash tutorial are included at the end of this document.
 
 By the end of the Main Lesson, students should be able to:
 
@@ -65,11 +68,13 @@ By the end of the Main Lesson, students should be able to:
 - Printing output in the terminal (echo, cat)
 -  Clearing terminal output and exiting (clear, exit)
 
+TODO: Using a text editor: Visual Studio Code
+
 ### Ending The Lesson
 
 Recommended: 15 minutes
 
-Students should do the following steps with Bash commands to test out their knowledge of the terminal:
+Students should do the following steps with Bash commands to test out their knowledge of the terminal. They can do this through the Pi over ssh:
 
 -  Print the directory they are currently working in 
 
@@ -95,7 +100,7 @@ See also: "echo 'Hello World' >World.txt"
 
 See also: "cat World.txt"
 
--  **(Optional)** Have the teacher check off that the "Hello" directory has a "World.txt" file with the contents of "Hello World" in it
+-  (Optional) Have the teacher check off that the "Hello" directory has a "World.txt" file with the contents of "Hello World" in it
 -  Delete the "World.txt" file
 
 See also: "rm 'World.txt'"
@@ -112,13 +117,12 @@ See also: "rmdir 'Hello'"
 
 See also: "ls"
 
--  Have the teacher check off the outputs of the terminal
+-  (Optional Assessment) Have the teacher check off the outputs of the terminal
 
 **Useful Resources and References**
 
-1. [Online Terminal Emulator](https://cocalc.com/doc/terminal.html)
-2. [Shell Tutorial 1](https://www.youtube.com/watch?v=cBokz0LTizk)
-3. [Shell Tutorial 2](http://linuxcommand.org/lc3_learning_the_shell.php)
+1. [Shell Tutorial 1](https://www.youtube.com/watch?v=cBokz0LTizk)
+2. [Shell Tutorial 2](http://linuxcommand.org/lc3_learning_the_shell.php)
 3. [Bash Command Overview](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
-3. (Optional Material) [Bash Shell Script Tutorial](https://www.youtube.com/watch?v=F-gskSl4pwQ)
+4. (Optional Material) [Bash Shell Script Tutorial](https://www.youtube.com/watch?v=F-gskSl4pwQ)
 
