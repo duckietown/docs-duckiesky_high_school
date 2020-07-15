@@ -63,7 +63,7 @@ Let students brainstorm the things that can be measured and lead a review what o
 
 Recommended: 30 minutes 
 
-1. Explain the definition of roll, pitch, and yaw. 
+1. **Explain the definition of roll, pitch, and yaw.**
 
 <figure>
     <figcaption>Roll, Pitch, and Yaw Diagram</figcaption>
@@ -73,26 +73,26 @@ Recommended: 30 minutes
 See also: **Optional Excercise: Have your students make paper airplanes to physically demonstrate roll, pitch, and yaw. 
 
 
-Ask the students to identify which of the sensors measure each of them: 
+Ask the students to identify which of the sensors measure each of them (IMU for roll and pitch, camera for yaw)
 
-- IMU for roll and pitch 
-    
-- Camera for yaw 
+2. **Explain how computers interpret sensors' output.** 
 
-2. How computers interpret sensors' output. 
+Bad: Problem: Refer to the [signals lesson](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html) that computers can only understand a finite set of numbers, so we need to convert sensors' output to a finite set of numbers. 
 
-Bad: Refer to the [signals lesson](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html) that computers can only understand a finite set of numbers, so we need to convert sensors' output to a finite set of numbers. 
+Better: Solution: Analog-to-Digital Converter (ADC)!
 
-Better: Analog-to-Digital Converter (ADC)!
+<div class='requirements' markdown="1">
 
 Voltage or Current is produced by the sensors -> amplification (convert to voltage if necessary) -> ADC
+
+</div> 
 
 <figure>
     <figcaption>Analog and Digital Signal Diagram</figcaption>
     <img style='width:12em' src="https://www.allaboutcircuits.com/uploads/articles/An-Introduction-to-Digital-Signal-Processing-(1).png"/>
 </figure>
 
-3. Introduce a new question. 
+3. **Introduce a new question.** 
 
 Q: What if we want the data in between those signals? Or if we want to predict the future values?
 
@@ -105,27 +105,27 @@ A: Interpolation (estimate the data points in between known data) and extrapolat
 
 TODO: Need to think of ways to build intuitions for sensor calibration
 
-4. Sensors are not always correct. 
+4. **Sensors are not always correct.**
 
-- First, we need to calibrate it with equations that were proven to be pretty good. (Be careful with units!)
+First, we need to calibrate it with equations that were proven to be pretty good. (Be careful with units!)
 
-- There are two measures of the “goodness” of a sensor: 
+There are two measures of the “goodness” of a sensor: 
 
-1. Accuracy: How close are the measurements to the truth
+    1. Accuracy: How close are the measurements to the truth
 
-2. Precision: How close are the measurements of the same item to each other 
+    2. Precision: How close are the measurements of the same item to each other 
 
 <!-- could put in graph about accuracy and precision-->
 
-- Problems: sensors have errors, too! Just like the signal noise from the [electronics unit](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html).
+**Problem**: Sensors have errors, too! Just like the signal noise from the [electronics unit](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html).
 
-Solution: 
+**Solution**: 
 
-- Filtering Frequencies: cut the frequency measurements that are unreasonably high or low
+    - Filtering Frequencies: cut the frequency measurements that are unreasonably high or low
 
-- Combining data from multiple sensors
+    - Combining data from multiple sensors
 
-- Cleverly decide which data are trustworthy
+    - Cleverly decide which data are trustworthy
 
 
 ### Ending The Lesson
