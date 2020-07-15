@@ -47,13 +47,13 @@ Recommended: X minutes/hours
 Teachers go over important terms and definitions inovled with the PID (proportional, integral, derivative) controller. 
 
 
-Process Variable, represented by y(t): The parameter of the system that is being monitored and controlled. 
+Process Variable, represented by $y(t)$: The parameter of the system that is being monitored and controlled. 
 
 
-Setpoint, represented by r(t): The desired value of the process variable.
+Setpoint, represented by $r(t)$: The desired value of the process variable.
 
 
-Control Variable: The output of the controller that serves as input to the system in order to minimize error between the setpoint and the process variable. 
+Control Variable, represented by $u(t)$: The output of the controller that serves as input to the system in order to minimize error between the setpoint and the process variable. 
 
 
 Steady-State Value: The final value of the process variable as time goes to infinity. 
@@ -75,7 +75,15 @@ Overshoot: The amount the process variable exceeds the setpoint, and it is expre
 
 These terms are applicable to a biological system that we rely in. Thermoregulation relies on a negative feedback system. 
 
-The process variable: the ____. 
+The process variable: your body temperature.
+
+Setpoint: Regular body temperature is 98.6 degrees F (or 37 degrees C). 
+
+Control Variable: 
+
+If you are cold, and you have a lower body temperature than usual, your body will generate more heat to restore back to regular body temperature. 
+
+If you are warm, and you have a higher body temperature than usual, your body will reduce heat in your body to restore back to regular body temperature. 
 
 ### Main Lesson
 
@@ -85,7 +93,7 @@ Here the teacher will go over the general algorithm:
 
 The error of the system $e(t)$, is calculated as the difference between setpoint and proces variable. 
 
-So $$ e(t) = r(t) - y(t)$$
+$$ e(t) = r(t) - y(t)$$
 
 The controller aims to minimize the rise time and settling time of the system, while eliminating steady-state error and maximizing stability (no unbounded oscillations in the process variable). It does so by changing the control variable $u(t)$ based on three control terms.
 
