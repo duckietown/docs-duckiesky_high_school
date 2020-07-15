@@ -49,7 +49,9 @@ In this part of the project, you will be implementing a PID controller for a sim
 
 Recommended: X minutes/hours
 
-Introduce python classes::::
+Introduce python classes:
+
+
 
 Edit the exercises (?) at: https://docs.duckietown.org/DT19/doc-sky/out/pid_simulation.html
 

@@ -97,7 +97,13 @@ $$ e(t) = r(t) - y(t)$$
 
 The controller aims to minimize the rise time and settling time of the system, while eliminating steady-state error and maximizing stability (no unbounded oscillations in the process variable). It does so by changing the control variable $u(t)$ based on three control terms.
 
+Open loop system, also known as a non-feedback system, is a continuous system where output does not affect the control action of the input (Electronics Tutorials). 
 
+A closed loop system, also known as a feedback system, is a system where the control action is based on the output (Electronics Tutorials). 
+
+<!-- https://www.electronics-tutorials.ws/systems/open-loop-system.html --> 
+
+Exercise: Do this in two stages, "open-loop" and "closed-loop". First, a student looks at a target they’re supposed to go to, gets blindfolded, and tries to walk there. Then the same thing without being blindfolded.
 
 ### Ending The Lesson
 
