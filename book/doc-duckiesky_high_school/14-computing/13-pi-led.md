@@ -34,7 +34,7 @@ Students write a bash script to make the led that they've soldered blink.
 
 **Materials needed**
 
-For Students: Basestation
+For Students: Basestation, Current Drone Build
 
 For Teachers: BaseStation
 
@@ -65,7 +65,7 @@ Recommended: 20 minutes
 
 TODO: Details
 
-### Ending The Lesson
+### Writing a Bash Script
 
 Recommended: 35 minutes
 
