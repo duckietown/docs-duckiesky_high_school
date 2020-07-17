@@ -104,7 +104,7 @@ A: _Example_: Our nose might smell something we want to walk towards, but we sti
 
 Q: What are the _controllers_ that humans have to combine input and control action? 
 
-A: The brain, spinal cord 
+A: The brain, spinal cord, control loops (handle reflexes, homeostasis, blood flow etc. based on outside information without having to conciosly think about it) 
 
 
 
@@ -177,8 +177,8 @@ See also: Optional activity - The propellers will attach to the motors, which wi
 <!--this definition is wordy-->
 
 <figure>
-    <figcaption>Flight Controller on a Drone</figcaption>
-    <img style='width:16em' src="https://drive.google.com/file/d/13Tw71px_X-838hy9UfBVqpbqlSckUEGW/view?usp=sharing"/>
+    <figcaption>Flight Controller</figcaption>
+    <img style='width:16em' src="https://docs.duckietown.org/daffy/opmanual_sky/out/assets/data-from-img-fc_labeled-resized-1024-79c845dc.jpg"/>
 </figure> 
 
 3. **Raspberry Pi** - more powerful computer that accomplishes a complicated goal, such as flying at a particular speed or to a particular position (it excecutes specific code loaded via an SD card)
