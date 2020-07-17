@@ -46,12 +46,6 @@ For Teachers: Presentaion medium for lesson (i.e. whiteboard, powerpoint slide)
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
 
-### Introducing The Lesson
-
-Recommended: 5 minutes
-
-
-
 ### Main Lesson
 
 Recommended: 50 minutes
@@ -86,10 +80,11 @@ Our number system uses base-10 (10 symbols) to represent numbers, but there are 
 
 There’s no reason we have to use 10 symbols, you can get away with just 2 -- binary! (or other numbers, eight: octal, sixteen: hexadecimal) Show ascii table with binary and decimal. (See links below in resources)
 
-Representing symbols as high/low voltage with an undefined zone in between, mention that having only two simplifies the circuitry, reduces effects of noise
-Binary in parallel and over time, two ways to represent more than one symbol, sacrificing either complexity or time
-Mention electrical vs timing vs content specifications of signals, setting up future networking lessons with higher levels of abstraction
+The teacher should discuss how digits can be represents as ranges of voltages with an undefined zone in between (used as a break). Also, mention having only two simplifies the circuitry, reduces effects of noise
 
+- Binary can be transmitted in parallel and over time, which are two ways to represent more than one symbol, sacrificing either complexity or time
+
+- Mention electrical vs timing vs content specifications of signals (discussing this will set up for future networking lessons with higher levels of abstraction)
 
 ### Ending The Lesson
 
