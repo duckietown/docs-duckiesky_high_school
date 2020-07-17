@@ -1,4 +1,4 @@
-# Lesson 1: Intro to ROS {#sac2-ros-intro status=ready}
+# Intro to ROS {#sac2-ros-intro status=ready}
 
 <div class='requirements' markdown='1'>
 

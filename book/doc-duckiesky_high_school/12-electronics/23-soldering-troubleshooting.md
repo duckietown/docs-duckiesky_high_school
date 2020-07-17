@@ -1,4 +1,4 @@
-# Lesson 3: Troubleshooting {#electronics-soldering-troubleshooting status=ready}
+# Troubleshooting {#electronics-soldering-troubleshooting status=ready}
 
 <div class='requirements' markdown='1'>
 

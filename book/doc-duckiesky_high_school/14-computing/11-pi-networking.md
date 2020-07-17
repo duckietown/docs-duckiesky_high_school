@@ -1,4 +1,4 @@
-# Lesson 1: Networking {#pi-networking status=ready}
+# Networking {#pi-networking status=ready}
 
 <div class='requirements' markdown='1'>
 

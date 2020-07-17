@@ -1,4 +1,4 @@
-# Lesson 1: Simple Circuits {#electronics-circuitry-simple status=ready}
+# Simple Circuits {#electronics-circuitry-simple status=ready}
 
 <div class='requirements' markdown='1'>
 

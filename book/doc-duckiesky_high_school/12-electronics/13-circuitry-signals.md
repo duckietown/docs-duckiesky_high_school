@@ -1,4 +1,4 @@
-# Lesson 3: Signals and Connections {#electronics-circuitry-signals status=ready}
+# Signals and Connections {#electronics-circuitry-signals status=ready}
 
 <div class='requirements' markdown='1'>
 

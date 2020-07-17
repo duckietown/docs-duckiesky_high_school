@@ -1,4 +1,4 @@
-# Lesson 2: Markdown and Contributions {#introduction-curriculum-editing status=ready}
+# Markdown and Contributions {#introduction-curriculum-editing status=ready}
 
 <div class='requirements' markdown='1'>
 

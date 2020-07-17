@@ -1,4 +1,4 @@
-# Lesson 1: Sensors and Actuators {#introduction-operation-sensors status=ready}
+# Sensors and Actuators {#introduction-operation-sensors status=ready}
 
 <div class='requirements' markdown='1'>
 

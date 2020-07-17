@@ -1,4 +1,4 @@
-# Lesson 2: Drone Safety {#introduction-operation-safety status=ready}
+# Drone Safety {#introduction-operation-safety status=ready}
 
 <div class='requirements' markdown='1'>
 

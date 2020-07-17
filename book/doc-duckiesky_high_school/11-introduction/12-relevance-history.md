@@ -1,4 +1,4 @@
-# Lesson 2: Development of Robotics {#introduction-relevance-history status=ready}
+# Development of Robotics {#introduction-relevance-history status=ready}
 
 <div class='requirements' markdown='1'>
 

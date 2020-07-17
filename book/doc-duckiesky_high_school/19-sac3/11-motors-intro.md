@@ -1,4 +1,4 @@
-# Lesson 1: Intro to the Motors {#sac3-motors-intro status=ready}
+# Intro to the Motors {#sac3-motors-intro status=ready}
 
 <div class='requirements' markdown='1'>
 

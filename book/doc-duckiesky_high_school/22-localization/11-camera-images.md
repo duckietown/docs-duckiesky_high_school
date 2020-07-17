@@ -1,4 +1,4 @@
-# Lesson 1: Comparing Images {#localization-camera-images status=ready}
+# Comparing Images {#localization-camera-images status=ready}
 
 <div class='requirements' markdown='1'>
 

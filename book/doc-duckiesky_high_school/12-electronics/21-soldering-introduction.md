@@ -1,4 +1,4 @@
-# Lesson 1: Intro to Soldering {#electronics-soldering-introduction status=ready}
+# Intro to Soldering {#electronics-soldering-introduction status=ready}
 
 <div class='requirements' markdown='1'>
 

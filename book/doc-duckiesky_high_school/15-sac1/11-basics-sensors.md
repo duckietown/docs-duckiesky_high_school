@@ -1,4 +1,4 @@
-# Lesson 1: Intro to Sensors {#sac1-basics-sensors status=ready}
+# Intro to Sensors {#sac1-basics-sensors status=ready}
 
 <div class='requirements' markdown='1'>
 
