@@ -22,24 +22,15 @@ Signals and Connections
 
 ### AGENDA (Brief Summary of Activities)
 
-5 min: Hook - Observations of connectors
+- Intro (5 min)
 
-15 min: Explaination of connectors and types of signals
+- Electrical Connections (30 min)
 
-Analog signals (10min)
-Encoding in voltage
-Encoding in frequency
-Noise (set up benefits of digital, filtering/ estimation later on)
-Digital signals (20 min)
-Binary
-These numbers can then represent anything, e.g. letters (a=1, b=2, etc...)
+- Analog Signals (10 min)
 
+- Digital Signals (20 min)
 
-
-
-
-
-
+- Ending the Lesson (15 min)
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
@@ -50,37 +41,51 @@ These numbers can then represent anything, e.g. letters (a=1, b=2, etc...)
 
 For Students: Uncompleted drone kit
 
-For Teachers:
-
+For Teachers: Presentaion medium for lesson (i.e. whiteboard, powerpoint slide)
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
 
 ### Introducing The Lesson
 
-Recommended: X minutes/hours
+Recommended: 5 minutes
+
 
 
 ### Main Lesson
 
 Recommended: 50 minutes
 
-Electrical connections: crimping, connectors, splicing, soldering, PCBs (30min)
+### Electrical connections (30min)
+
+Briefly explain: crimping, connectors, splicing, soldering, and introduce PCBs as 'home bases' for connections
+
 Exercise: Point out soldered connections, pull out different connectors used in the drone (e.g. from battery sense to Pi GPIO to XT-60), compare the number of pins, current capacity, etc.
-Use this section as an opportunity to motivate why students need to learn to solder. This will transition the course to the next module, soldering
-Besides power, electricity can be used to convey information
 
-Analog signals (10min)
-Encoding in voltage
-Encoding in frequency
-Noise (set up benefits of digital, filtering/ estimation later on)
+Use this section as an opportunity to motivate why students need to learn to solder. This will transition the course to the next module, Soldering!
 
-Digital signals (20 min)
-Binary
-These numbers can then represent anything, e.g. letters (a=1, b=2, etc...)
+Besides power, electricity can also be used to convey information...
+
+### Analog signals (10min)
+
+Information can be transmitted through electricity:
+
+- Encoding in voltage: use an IR sensor as an example
+
+- Encoding in frequency: use WiFi as an example
+
+- Noise, which can come from various sources, can distort or block the information transmittion done by the former
+
+### Digital signals (20 min)
+
+Introduce how numbers can represent anything, e.g. letters (a=1, b=2, etc...)
+
 Exercise: devise a way to represent things as one or more numbers! For example, physical properties (distance, colors, volume, etc...), other symbols, music: notes, chords, progressions, pieces, scales/modes,  intervals, etc…, sports plays, games (cards, stats, etc...)
-We use base-10 (10 symbols) to represent numbers
-There’s no reason we have to use 10 symbols, you can get away with just 2 -- binary! (or other numbers, eight: octal, sixteen: hexadecimal) Show ascii table with binary and decimal.
+
+Our number system uses base-10 (10 symbols) to represent numbers, but there are many other ways to convey information!
+
+There’s no reason we have to use 10 symbols, you can get away with just 2 -- binary! (or other numbers, eight: octal, sixteen: hexadecimal) Show ascii table with binary and decimal. (See links below in resources)
+
 Representing symbols as high/low voltage with an undefined zone in between, mention that having only two simplifies the circuitry, reduces effects of noise
 Binary in parallel and over time, two ways to represent more than one symbol, sacrificing either complexity or time
 Mention electrical vs timing vs content specifications of signals, setting up future networking lessons with higher levels of abstraction
@@ -96,3 +101,5 @@ Give students binary game link, and challenge them to hit the highest level!
 https://docs.google.com/document/d/1QnD9khmPUz1az3ZLc5L8vavR6lU0uScspotRhORnHxE/edit
 
 https://games.penjee.com/binary-bonanza/
+
+https://www.rapidtables.com/code/text/ascii-table.html
