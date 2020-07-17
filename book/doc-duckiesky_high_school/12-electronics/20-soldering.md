@@ -1,3 +1,3 @@
-# Soldering {#electronics-soldering status=ready}
+# Soldering {#subpart:electronics-soldering status=ready}
 
 Module Overview

@@ -1,4 +1,4 @@
-# PID Controller {#loop-pid status=ready}
+# PID Controller {#subpart:loop-pid status=ready}
 
 Module Overview:
 

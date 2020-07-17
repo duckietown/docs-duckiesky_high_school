@@ -1,3 +1,3 @@
-# Camera {#localization-camera status=ready}
+# Camera {#subpart:localization-camera status=ready}
 
 Module Overview
