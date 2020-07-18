@@ -1,4 +1,4 @@
-# Lesson 2: Development of Robotics {#introduction-relevance-history status=ready}
+# Lesson 3: Intro to ethics {#introduction-relevance-ethics status=ready}
 
 <div class='requirements' markdown='1'>
 

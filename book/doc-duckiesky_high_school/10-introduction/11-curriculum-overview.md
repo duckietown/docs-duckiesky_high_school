@@ -1,4 +1,4 @@
-# Lesson 3: Intro to Ethics {#introduction-relevance-ethics status=ready}
+# Lesson 1: Overview {#introduction-curriculum-overview status=ready}
 
 <div class='requirements' markdown='1'>
 
@@ -12,7 +12,6 @@ Result:
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
-
 
 
 ### Assessments and Evidence of Understanding

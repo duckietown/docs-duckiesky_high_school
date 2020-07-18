@@ -1,4 +1,4 @@
-# Lesson 1: Intro to the Course {#introduction-relevance-society status=ready}
+# Lesson 1: Robots in society {#introduction-relevance-society status=ready}
 
 <div class='requirements' markdown='1'>
 
