@@ -2,7 +2,7 @@ version: 2
 jobs:
     build:
         docker:
-        - image: duckietown/build-docs:daffy
+        - image: duckietown/docs-build:daffy
           environment:
               COLUMNS: 160
               TERM: xterm-256color
