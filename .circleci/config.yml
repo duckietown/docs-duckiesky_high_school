@@ -43,7 +43,7 @@ jobs:
               destination: duckuments-dist
 
         - store_artifacts:
-              path: build-stats
+              path: out/build-stats
               destination: build-stats
 
         - test-results-store:
