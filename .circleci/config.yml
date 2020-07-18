@@ -2,7 +2,7 @@ version: 2
 jobs:
     build:
         docker:
-        - image: andreacensi/mcdp_books:daffy
+        - image: duckietown/build-docs:daffy
           environment:
               COLUMNS: 160
               TERM: xterm-256color
@@ -42,6 +42,9 @@ jobs:
               path: duckuments-dist
               destination: duckuments-dist
 
+        - store_artifacts:
+              path: build-stats
+              destination: build-stats
 
         - test-results-store:
             path: duckuments-dist/junit
