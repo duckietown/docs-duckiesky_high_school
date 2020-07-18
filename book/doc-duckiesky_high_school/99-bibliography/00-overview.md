@@ -1,3 +1,3 @@
-# Bibliography {#part:bibliography status=ready}
+# Bibliography {#part:bibliography-part status=ready}
 
 Unit Overview
