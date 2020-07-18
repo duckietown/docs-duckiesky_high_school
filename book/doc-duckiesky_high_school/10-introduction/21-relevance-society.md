@@ -2,13 +2,14 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: 
+Requires: Hardware (NONE) 
+          Previous Lesson (NONE)
 
-Result:  Students will be able to discuss with detailed examples the importance of Robotics with in societies.
+Result:  Students will aquire knowledge to discuss with detailed examples of the importance of Robotics.
 
 </div>
 
-## Robotic Marvels In Industries and Communities
+## What is Robotics? Why does it matter?
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
@@ -22,7 +23,7 @@ The students ability to name dependable robots and contrast to a situation where
 
 5 - 10 min: Do Now set up with discussion
 
-45 min: Robotic Marvels In Industries and Communities Lesson
+45 min: What is Robotics? Why does it matter?
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
@@ -35,7 +36,7 @@ No previous module completion required
 
 For Students: Pencil and Paper
 
-For Teachers: Screen to showcase students Do Now (if desired), Do Now and expectations written.
+For Teachers: Screen to showcase students "Do Now" (if desired), Do Now and expectations written.
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -55,7 +56,12 @@ Hook: Teachers can talk about the following or their own
 
 Recommended: 45 minutes
 
+A robot is a machine (especially one programmable by a computer) designed to execute one or more tasks automatically and efficiently.
+Robotics is an interdisciplinary research area part of Engineering and Science. It involves the design, construction, operation, and use of robots. The end goal is to materialize the designs of intelligent machines. Making them important for the purpose of helping and assisting humans in day to day tasks. Today robots impact everyday life in the service industry, with potential to positively transform work practices. 
 
+By the end of the course, students will have a completed drone capable of flying with commands inputted into a terminal on their computers. 
+
+**Insert Demo of Drone flying**
 
 ### Ending The Lesson
 
