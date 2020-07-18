@@ -11,15 +11,11 @@ jobs:
         resource_class: large
         steps:
         - checkout
-        - run:
-            name: Download resources
-            command: |
-              git submodule sync --recursive
-              git submodule update --init --recursive
 
         - run:
             name: Compile
-            command: make compile-native-ci
+            command: |
+              make -f /docs-build/Makefile.build
 
         - run:
             name: Link check
