@@ -83,25 +83,24 @@ Recommended: 40 minutes/hours
 
 - Teachers explain autonomous systems, AI, ML, DL, and usage of algorithms: 
 
-See also: By incorporating artificial intelligence (AI) into systems, they gain the potential to accomplish tasks that usually rely on the intelligence of humans. Systems can become autonomous, and do not have to rely on human control and decisions. An example of an autonomous system that is currently developing is autonomous cars. 
+See also: By incorporating artificial intelligence (AI) into systems, they gain the potential to accomplish tasks that usually rely on the intelligence of humans. 
 
 See also: AI systems utilize Deep Learning (DL) and Machine Learning (ML), which both rely on data matching and analysis algorithms. 
 
-
 - Teachers explain the benefits of AI autononous systems and the use of algorithms in decision making processes: 
 
-See also: There are benefits to this. Decisions can be made with more clearer and transparent criteria and choices will be less influenced by human emotions. The systems can learn from past actions and decisions that have been chosen and can analyze the consequences that resulted. If a result was non-favorable, then the system will remember and avoid picking the same choice for a similar future situation.
+See also: Decisions will be less influenced by human emotions. The systems can learn from past actions and decisions that have been chosen and can analyze the consequences that resulted. 
 
 - Teachers explain the disadvantages of AI autonomous systems and the use of algorithms in decision making processes: 
 
-See also: There are also some disadvantages to autonomous systems or relying on algorithms to make decisions. The algorithms may not represent all the factors that are related to a situation. There is also always chances that unexpected consequences will happen. There is no guarantee that a choice that had beneficial results in the past will still have the same result in the current scenario. Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
+See also: The algorithms may not represent all the factors that are related to a situation. There is also always chances that unexpected consequences will happen. Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
 
 
 #### Example: Husky Vs Wolf In Image Identification
 
 - Teachers explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
 
-See also: University of Washington wanted to create an image classifier that can identify wolves from huskies correctly. The AI systems were fed images to learn from. However, some photos of huskies are incorrectly categorized by the system as wolves. It turns out that the system was learning from the images that wolves are often found in images that had snowy backgrounds. So the system turned out to be simplying identifying if images had snow in the background (Medium). 
+See also: University of Washington wanted to create an image classifier that can differentiate between wolves and huskies (Medium). The AI systems were fed images to learn from. Some photos were incorrectly classified. System was learning from the images that wolves were more often with snowy backgrounds. 
 
 See also: When there was a wolf in an image with no snow in the background, it would be categorized as a husky. If there was a husky with a snowy background, it would be categorized as a wolf (Ribeiro et al.). 
 
@@ -122,7 +121,11 @@ https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798
 
 #### Example: Artificial Neural Network to predict risk of pneumonia patients
 
-See also: University of Pittsburgh created a study in the 1990s to use a system to predict which pneumonia patients were low risk and which were at high risk. The system initially caused a large amount of concern to doctors because they found out that pneumonia patients with asthma was classified as low risk by the system. A rule system was implemented into the system to help solve this issue. After examining data closely, researchers founds that patients who had both pneumonia and asthma had a higher recovery rate. This is because when those patients were brought to the hospital, they were always considered to be at high risk, and immediately received proper treatment. However, the autonomous system simply believed that the presence of asthma results in being low risk, which is incorrect (Medium). 
+- Teachers explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
+
+See also: University of Pittsburgh studied system to predict which pneumonia patients were low risk and which were at high risk. Patients who had both pneumonia and asthma had a higher recovery rate because when those patients were brought to the hospital, they were always considered to be at high risk, and immediately received proper treatment. 
+
+See: From the data it was learning from, the autonomous system simply believed that the presence of asthma results in being low risk and classified patients as so, which was incorrect and problematic (Medium). 
 
 <!-->
 https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08 --> 
@@ -130,40 +133,33 @@ https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798
 
 #### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
 
-See also: There have been a number of accidents with the Boeing 737 MAX aircraft, which has resulted in the grounding of Boeing 737 MAX worldwide. 
+- Teachers can teach about another example: The Boeing 737 MAX: 
 
-1. Lion Air Flight 610: domestic flight that took place on October 29, 2018. It crashed into the Java Sea shortly after takeoff. Resulted in deaths of all 189 passengers and crew. 
-
-2. Ehiopian Airlines Flight 302: international flight that took place on March 10, 2019. It crashed shortly after takeoff, and resulted in deaths of all 157 people on the flight.  
-
+See also: There have been a number of accidents which resulted in many casualties with the Boeing 737 MAX aircraft, which has resulted in the grounding of Boeing 737 MAX worldwide: Lion Air Flight 610 and Ehiopian Airlines Flight 302
 
 - Teachers explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX. 
 
-There were several reasons that contributed to these fatal accidents: 
-
-1. The Boeing 737 Max 8 is different from the earlier Boeing 737 series. To allow for expanded seating capacity and better engines, Boeing 737 Max 8 had major design changes. The engines were moved forward and were raised. However, this made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System or MCAS was developed to help correct the nose pitching problem by altering the control surface at the tail. The algorithm automatically detects whenever the nose pitches too high and corrects it (Seattle Times). 
-
+See also: Boeing 737 Max 8 had major design changes: engines were moved forward and raised. This made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was implemented to automatically detect whenever the nose pitches too high and correct it (Seattle Times). 
 
 <!--https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ --> 
 
-2. MCAS relies on only a single angle of attack sensor, instead of two. An angle of attack sensor helps warn pilots of a possibility of them losing control of the plane due to lack of lift (causing stall). Pilots are usually able to handle when the sensors are malfunctioning, however MCAS makes it a much larger problem. In both of the fatal accidents, MCAS was automatically switched on because of incorrect data from the single sensor (The Washington Post). 
+See also: MCAS relies on only a single angle of attack sensor, instead of two. An angle of attack sensor helps warn pilots of a possibility of them losing control of the plane due to lack of lift (causing stall). Pilots are usually able to handle when the sensors are malfunctioning, however MCAS makes it a much larger problem. In both of the fatal accidents, MCAS was automatically switched on because of incorrect data from the single sensor (The Washington Post). 
 
 <!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html -->
 
-3. Pilots can temporarily switch MCAS off, however the system will restart and continue to work if the sensor continues to warn pilots of stalls. MCAS cannot ever been overriden by the pilots. The pilots lost control of the plane during the Ethiopian Airlines and Lion Air flights as the system was continuously fed inaccurate data from the sensor indicating that there are stalls, and they were unable to pitch up when needed, causing both flights to dive into the sea (The Verge). 
+See also: Pilots can temporarily switch MCAS off, however the system will restart and continue to work if the sensor continues to warn pilots of stalls. MCAS cannot ever been overriden by the pilots. The pilots lost control of the plane during the Ethiopian Airlines and Lion Air flights as the system was continuously fed inaccurate data from the sensor indicating that there are stalls, and they were unable to pitch up when needed, causing both flights to dive into the sea (The Verge). 
 
 <!-- https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa --> 
 
 - Teachers also explain other flaws with the incident:  
 
-See also: Insufficient testing: Boeing and FAA agreed to not install safety features, which analysts say later that these features could have saved both the planes from crashing (The Washington Post).
+See also: Insufficient testing: Boeing and FAA agreed to not install safety features due to calculations of impossibility of a MCAS failure, which analysts say later that these features could have saved both the planes from crashing (The Washington Post).
 
 <!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html--> 
 
 See also: Accountability: Boeing did not provide the risk assessment about the MCAS until very late, a couple of months before the MAX was certified. FAA also based on findings by Boeing that were inaccurate (The Washington Post). 
  
-
-See also: Lack of notice to pilots: During their findings, Boeing calculated that an MCAS failure was also impossible. If it did happen, it is believed to be relatively low risk because according to the FAA, it is assumed that pilots can respond to unexpected situations within three seconds (Seattle Times). Because of the low chances that were predicted, Boeing decided to not include the MCAS in the pilot manuals (Seattle Times). 
+See also: Lack of notice to pilots: Assumed that pilots can respond to unexpected situations within three seconds and since low chances of MCAS failure, Boeing decided to not include the MCAS in the pilot manuals (Seattle Times). 
 
 <!--https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ --> 
 
@@ -171,36 +167,42 @@ See also: Lack of notice to pilots: During their findings, Boeing calculated tha
 
 - Teachers teach that algorithmic bias can result from multiple sources. 
 
-1. The algorithm may be programmed by someone who is biased thus inheriting their biased views.
+See also: The algorithm may be programmed by someone who is biased.
 
-2. Since the systems often rely on pattern matching algorithms, an algorithm may act in a biased way because data that comes from biased sources.
+See also: Algorithm may learn from data that comes from biased sources.
 
-3. The dataset given to the system to learn from could have biases that the developer is unaware of. Regarding the point made before regarding algorithmic uncertainty, from the data it receives, robots may unintentionally develop a biased and stereotypical way of thinking while trying to establish which factors it should prioritise during decision making.
-
-4. Developers when testing their AI systems, do not test it with a large variety of data or do not take into consideration certain scenarios (which may come from a lack of diversity in the workplace). 
+See also: The dataset given to the system does not have enough variety, or simply the data contains bias that developers are unaware of.
 
 
 #### Example: Amazon: Congress Matched to Criminals 
 
-- Teachers teach about another example of algorithmic inaccuracy in AI systems, this one is more applicable to humans. 
+- Teachers teach about another example of algorithmic inaccuracy in AI systems and possible consequences, this one is more applicable to humans. 
 
-See also: Amazon created Rekognition, which is a facial recognition software. ACLU tested the software by matching Congress members, and the result was shocking: 28 members were matched with criminals. In addition, it was found that 40% of the inaccurate image matches were of people of color (ACLU NorCal). This is risky to be actually implemented for law enforcememt purposes, as it can make a police officer more biased before an initial encounter, or it can increase the chances of a person being questioned or searched, or can increase bias towards people of color (ACLU NorCal).
+See also: Rekognition: a facial recognition software. ACLU tested the software by matching Congress members, and the result was that 28 members were matched with criminals. 
+
+See also: 40% of the inaccurate image matches were of people of color (ACLU NorCal). 
+
+See also: Risks with implementation in law enforcement: police officer more biased before an initial encounter, increase the chances of a person being questioned or searched, or can increase bias towards people of color (ACLU NorCal).
 
 <!--https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots -->
 
 #### An example: Autonomous systems and identification by skin tone
 
-See also: An autonomous soap dispenser by Technical Concepts was found to have trouble dispensing people for darker skin color. This is because the dispenser relied on IR sensor which relies on how much light is reflected back. Darker skin tones absorb more light than people with lighter skin tones (Reporter). This resulted in the soap dispenser not being able to work for people with darker skin. This design flaw was believed to be because of a lack of diversity in the workplace at Technical Concepts, who did not think to test their products on people with darker skin tones (Reporter). 
+- Teachers teach about a persistant problem in autonomous systems: how they identify people of different skin tones
+
+See also: An autonomous soap dispenser by Technical Concepts was found to have trouble dispensing people for darker skin color. See also: Many systems rely on IR sensors, measures how much light is reflected back. Darker skin tones absorb more light than people with lighter skin tones (Reporter). 
+
+See also: This design flaw was believed to be because of a lack of diversity in the workplace at Technical Concepts, who did not think to test their products on people with darker skin tones (Reporter). 
 
 <!-- https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology --> 
 
-See also: According to a study done with autonomous systems by Georgia Institute of Technology, AI systems were more consistently accurately identifying people with lighter skin tones than darker. Their results show that detection of people with darker skins were less accurate by 5%. This can result in racial bias by the algorithm, and in the case of autonomous cars, people with darker skin would be more likely to be harmed or involved in an accident than those with lighter skin. 
+See also: According to a study done with autonomous systems by Georgia Institute of Technology, AI systems were more consistently accurately identifying people with lighter skin tones than darker. Their results show that detection of people with darker skins were less accurate by 5%. 
+
+See also: This can result in racial bias by algorithms, and in the case of autonomous cars, people with darker skin would be more likely to be harmed or involved in an accident than those with lighter skin. 
 
 #### Another example: MIT's Moral Machine
 
- <!-- done as a game, data set is not entirely reliable -->
-
-<!--  internet cyber security/how much trust assumption/use for good or bad are possible ; unintended uses when developing --> 
+- Teachers teach about the Moral Machine. 
 
 See also: In 2014, MIT has created a series of questions and scenarios that involve autonomous cars and artificial intelligence, which is known as the Moral Machine. The Moral Machine asks people which choices autonomous cars should make when facing different variations of the trolley problem (Technology Review). 
 
@@ -238,16 +240,24 @@ https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to
 
 #### Security, on time, backups, as these systems become relied upon 
 
-See also: There are many systems in society that utilize autonomous systems that are important to society. 
+- Teachers teach that there are many systems in society that utilize autonomous systems that are important to society. 
  
 See also: There has been ongoing debate whether these systems should be close or open sourced. 
 
-See also: Open source code means that the source code can be accessed by the public. Closed source code means that the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to. While closed source codes may safer from prying eyes or hackers, it also prevents closer scrutiny for potential biases or problems in the code by the public. 
+See also: Open source code means that the source code can be accessed by the public. 
+
+See also: Closed source code means that the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to. 
+
+See also: While closed source codes may safer from prying eyes or hackers, it also prevents closer scrutiny for potential biases or problems in the code by the public. 
+
+See also: an interesting question is how much trust do we put into these autonomous systems? People can easily use these systems in ways that are beyond what developers anticipate. 
 
 
 #### An example: Autonomous Systems Used in Social Credit System Development in China
 
-See also: The Chinese government began experimenting with social credit scores in 2015, when it allowed private companies to assign credit scores to people. One of the companies, Sesame Credit, does this by analyzing many variables over five sets of data, most of which is actually from Alibaba’s Alipay, which is used by over a billion people to make purchases, and contains much information. Sesame Credit analyzes both financial and social behaviors and assigns a score between 350 and 950 (Time). People who accomplish good deeds are awarded points and can receive rewards. Those who do bad deeds, such as smoking or spending too much time on video games, are deducted points. Those with an extremely low social credit score are placed on the “List of Untrustworthy Persons” and will be prohibited from certain activities such as the ability to use public transportation or to make large purchases.
+- Teachers can teach about an example of a system that utilized AI to be implemented in an entire society
+
+See also: The Chinese government began experimenting with social credit scores in 2015, when it allowed private companies to assign credit scores to people. Financial and social behaviors are analyzed and people are assigned scores (Time). People who accomplish good deeds are awarded points and can receive rewards. Those who do bad deeds, such as smoking or spending too much time on video games, are deducted points. Those with an extremely low social credit score are placed on the “List of Untrustworthy Persons” and will be prohibited from certain activities such as the ability to use public transportation or to make large purchases.
 
 See also: This is being implemented with the help of AI and facial recognition. 
 
@@ -258,6 +268,8 @@ https://time.com/collection/davos-2019/5502592/china-social-credit-score/
 -->
 
 #### Correctional offender Management Profiling for Alternative Sanctions (COMPAS) 
+
+- Teachers can teach about COMPAS, which is a system used in the US
 
 See also: COMPAS is an software that is used by US courts to assign scores to predict the risk of a certain person commiting another crime. 
 
@@ -270,9 +282,11 @@ See also: In 2016, ProPublica has analzyed COMPAS and has found that COMPAS disp
 
 #### An example: Unsecured/Exposed Robots Running on ROS and Internet:
 
-See also:A research team at Brown University discovered that they found almost 100 exposed systems that ran on ROS. "Up to 19 were considered to be fully operational robots". They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University).  
+- Teachers can teach about risks of vulnerable systems can be when connected to the internet.
 
-See also:This shows how vulnerable systems can be when connected to the internet. 
+- Students will learn more about Robotics Operating System (ROS) in a later module, but it is a set of open source libraries that can help with programming of robots. 
+
+See also: A research team at Brown University discovered that they found almost 100 exposed systems that ran on ROS. "Up to 19 were considered to be fully operational robots". They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University).  
 
 <!-- https://www.brown.edu/news/2018-07-24/robots 
 and https://www.wired.com/story/security-robotics/
@@ -281,16 +295,15 @@ and https://www.wired.com/story/security-robotics/
 
 ##### Militarization
 
-See also: There has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
+- Teachers can teach that there has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
 
-Students can watch this video to learn more about Slaughterbots: https://www.youtube.com/watch?v=9CO6M2HsoIA
-
-
-<!-- discussion of ITAR, weapons, discussion of stopping war robots; robotics weapons vs chemical weapons; strong regulations? -->
+See also: Students can watch this video to learn more about Slaughterbots: https://www.youtube.com/watch?v=9CO6M2HsoIA
 
 #### International Traffic in Arms Regulations (ITAR)
 
-International Traffic in Arms Regulations (ITAR) specifically covers: 
+- Teachers can teach about ITAR: 
+
+See also: International Traffic in Arms Regulations (ITAR) specifically covers: 
 
 1. Covers military items or defense articles  
 2. Regulates goods and technology designed to kill or defend against death in a military setting  
@@ -303,6 +316,8 @@ International Traffic in Arms Regulations (ITAR) specifically covers:
 <!-- https://digitalguardian.com/blog/what-itar-compliance --> 
 
 #### Example: Predator drones utilized by the United States
+
+- Teachers about the predator drones as an example of drones/robotic systems that are currently/previously in use by the US government related to milatary operations.
 
 See also: There have been several predator drones that have been used by the United States Air Force (USAF) and Central Intelligence Ageny (CIA). Initially many are utilized for primarily reconaissance and spying, but many have been later equipped to be able to engage in warfare.
 
@@ -318,20 +333,19 @@ See also: There has been much debate if autonomous weapons should be treated lik
 
 <!-- https://www.cdc.gov/nceh/demil/history.htm --> 
 
-
 ##### Medical, Healthcare, and Caregiver Robots
 
-See also: Autonomous systems and AI systems have been also considered for usage in the healthcare industry. 
+- Teachers can teach that autonomous systems and AI systems have been also considered for usage in the healthcare industry. 
 
-This includes the uses of robots to help with identification, medical diagnosis, treatment, or surgery. It also includes the uses of robots to help keep elderly, disabled, young children, or patients company and to surpervise them. While there are many benefits such as being able to take care and monitor health of whoever they are responsible for and can provide them with company, there are several ethical concerns:
+See also: This includes the uses of robots to help with identification, medical diagnosis, treatment, or surgery. It also includes the uses of robots to help keep elderly, disabled, young children, or patients company and to surpervise them. While there are many benefits such as being able to take care and monitor health of whoever they are responsible for and can provide them with company, there are several ethical concerns:
 
-1. Privacy/Security: Robots that spend a lot of time monitoring their patients or people that they are responsible for, may have the capability to be tapped into.Especially in the medical field, these robots may contain snippets of important information such as health records, or video feeds of their patients. 
+See: Privacy/Security: Robots that spend a lot of time monitoring their patients or people that they are responsible for, may have the capability to be tapped into.Especially in the medical field, these robots may contain snippets of important information such as health records, or video feeds of their patients. 
 
-2. Trust between robots and humans, and their interactions:
-
-Humans have emotions while robots do not. Humans may have the capability to trust their robots too much, which can result in harm from the remote or manipulation of humans. 
+See: Trust between robots and humans, and their interactions: Humans have emotions while robots do not. Humans may have the capability to trust their robots too much, which can result in harm from the remote or manipulation of humans. 
 
 #### The Emergency Exit Robot Study, Georgia Tech Howard
+
+- Teachers can teach students about an experiment that utilizes robots in a care setting and show the risks of putting to much trust into robots.
 
 See also: There was a study conducted by researchers at the Georgia Institute of Technology, highlighted the potential risks of putting too much trust into robots during emergency situations. 
 
@@ -342,13 +356,17 @@ See also: They did an experiment that simulated an emergency situation. It was f
 
 ##### Availability/Accessibility/Uses
 
+- Teachers can teach about the extent that robots are available to the public vs private sectors, accessibility of robots to people who may have accessibility issues, and the large amount of uses of UAV and autonomous systems. 
+
 See also: The cost of autonomous systems may be high depending on the purpose of the robot. The high prices of robots currently are barring many people from more complex robots. 
 
 See also: Robots can be used to help those with accessbility issues. 
 
-See also: Autonomous systems and advanced technology may also be used to help with emergency aid purposes. Drones can be used to help with potentially locating lost items or people, or helping transport emergency items quickly (water for forest fires ex.). 
+See also: Beyond the other purposes already explained, autonomous systems and advanced technology may also be used to help with emergency aid purposes. Drones can be used to help with potentially locating lost items or people, or helping transport emergency items quickly (water for forest fires ex.). 
 
-#### UN Guidelines for Emergency Uses of Drones and 
+#### UN Guidelines for Emergency Uses of Drones
+
+- Teachers can teach that drones have been utilized by the UN. 
 
 See also: UAVs have potential in three areas: humanitarian, development, and peacekeeping operations (UN). 
 
@@ -356,43 +374,35 @@ See also: In 2013, the UN has launched the first UAV mission to help protect civ
 
 See also: Read this article for more information: https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un and https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr 
 
-#### Humanitarian Drone Guidelines
-
 See also: "The most promising uses of drones include: Mapping, Delivering lightweight essential items to remote or hard-
 to-access locations, Supporting damage assessments, Increasing situational awareness, Monitoring changes" (Relief Web).
 
 
 <!-- https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf --> 
 
-
-
 ##### Future impact of AI on human jobs and responsibilities
 
-With the development of AI, there has been a growing reliance on them as tools in our daily lives. 
+- Teachers can teach that with the development of AI, there has been a growing reliance on them as tools in our daily lives. They have a large impact on all of us: 
 
-Ethical implications related to what AI can impact: 
+See also: Ethical implications related to what AI can impact: 
 
-1. Automation, Job Loss, Labor Trends 
+See also: Automation, Job Loss, Labor Trends: With the automation of many jobs, people may lose those jobs to robots. This may be because some tasks are able to be done more efficiently by robots. Because some jobs are more adaptable to robots than others, this may produce labor trends. There will be new jobs created that are more oriented towards maintaining robots or certain jobs will die out. 
 
-With the automation of many jobs, people may lose those jobs to robots. This may be because some tasks are able to be done more efficiently by robots. Because some jobs are more adaptable to robots than others, this may produce labor trends. There will be new jobs created that are more oriented towards maintaining robots or certain jobs will die out. 
+See also: Impact to Democracy and Civil Rights: AI may have a strong impact on democracy and civil rights. AI may be able to automatically detect certain messages or actions that are not permitted and can be used to prevent them. There has been related concerns to that and the Chinese Social Credit System, and fear that it may create a society focused around surveillance and conformity. 
 
-2. Impact to Democracy and Civil Rights  
+See also: Human-Human or Human-Agent interaction: As explored slightly in the medicine uses of robots, there will be much more interactions between human and non humans/robots in the future, which is different from interactions between humans only. 
 
-AI may have a strong impact on democracy and civil rights. AI may be able to automatically detect certain messages or actions that are not permitted and can be used to prevent them. There has been related concerns to that and the Chinese Social Credit System, and fear that it may create a society focused around surveillance and conformity. 
+##### Possible Assignments or Discussion Topics: 
 
-3. Human-Human or Human-Agent interaction: 
 
-As explored slightly in the medicine uses of robots, there will be much more interactions between human and non humans/robots in the future, which is different from interactions between humans only. 
 
 ### Ending The Lesson
 
 Recommended: 5 minutes/hours
 
-With the development of AI/autonomous systems being developed, 
+- Teachers can summarize ethics and the large positive and negative benefits of AI
 
-Teachers remind that there will be a safety module for the course coming up in one of the future classes:   
-
-There will be a future lesson specifically regarding how to keep yourself and those around you safe when operating your drone. 
+- Teachers remind that there will be a safety module for the course coming up in one of the future classes:   
 
 **Useful Resources and References**
 
@@ -401,11 +411,8 @@ https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mca
 
 https://www.bbc.com/news/business-50177788
 
-
-
 Paper: Predictive Inequity in Object Detection: 
 https://arxiv.org/pdf/1902.11097.pdf
-
 
 Moral machine: https://www.moralmachine.net
 
