@@ -77,7 +77,7 @@ Recommended: 40 minutes/hours
 
 Teachers will teach students about important ethical problems that are present in technology, autonomous systems, and engineering.
 
-#### Correctness and Uncertainty of Algorithms and/or Autonomous Systems
+##### Correctness and Uncertainty of Algorithms and/or Autonomous Systems
 
 Teachers explain autonomous systems, AI, ML, DL, and usage of algorithms: 
 
@@ -102,7 +102,7 @@ The algorithms may not represent all the factors that are related to a situation
 Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
 
 
-##### Example: Husky Vs Wolf In Image Identification
+#### Example: Husky Vs Wolf In Image Identification
 
 Teachers explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
 
@@ -125,7 +125,7 @@ and
 https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08 
 -->
 
-##### Example: Artificial Neural Network to predict risk of pneumonia patients
+#### Example: Artificial Neural Network to predict risk of pneumonia patients
 
 University of Pittsburgh created a study in the 1990s to use a system to predict which pneumonia patients were low risk and which were at high risk. The system initially caused a large amount of concern to doctors because they found out that pneumonia patients with asthma was classified as low risk by the system. A rule system was implemented into the system to help solve this issue. After examining data closely, researchers founds that patients who had both pneumonia and asthma had a higher recovery rate. This is because when those patients were brought to the hospital, they were always considered to be at high risk, and immediately received proper treatment. However, the autonomous system simply believed that the presence of asthma results in being low risk, which is incorrect (Medium). 
 
@@ -133,7 +133,7 @@ University of Pittsburgh created a study in the 1990s to use a system to predict
 https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08 --> 
 
 
-##### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
+#### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
 
 
 There have been a number of accidents with the Boeing 737 MAX aircraft, which has resulted in the grounding of Boeing 737 MAX worldwide. 
@@ -180,7 +180,7 @@ Because of the low chances that were predicted, Boeing decided to not include th
 
 <!--https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ --> 
 
-#### Algorithmic Bias
+##### Algorithmic Bias
 
 Teachers teach that algorithmic bias can result from multiple sources. 
 
@@ -193,7 +193,7 @@ Teachers teach that algorithmic bias can result from multiple sources.
 4) Developers when testing their AI systems, do not test it with a large variety of data or do not take into consideration certain scenarios (which may come from a lack of diversity in the workplace). 
 
 
-##### Example: Amazon: Congress Matched to Criminals 
+#### Example: Amazon: Congress Matched to Criminals 
 
 Teachers teach about another example of algorithmic inaccuracy in AI systems, this one is more applicable to humans. 
 
@@ -203,7 +203,7 @@ This is risky to be actually implemented for law enforcememt purposes, as it can
 
 <!--https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots -->
 
-##### An example: Autonomous systems and identification by skin tone
+#### An example: Autonomous systems and identification by skin tone
 
 An autonomous soap dispenser by Technical Concepts was found to have trouble dispensing people for darker skin color. This is because the dispenser relied on IR sensor which relies on how much light is reflected back. Darker skin tones absorb more light than people with lighter skin tones (Reporter). This resulted in the soap dispenser not being able to work for people with darker skin. This design flaw was believed to be because of a lack of diversity in the workplace at Technical Concepts, who did not think to test their products on people with darker skin tones (Reporter). 
 
@@ -260,7 +260,7 @@ There has been ongoing debate whether these systems should be close or open sour
 Open source code means that the source code can be accessed by the public. Closed source code means that the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to. While closed source codes may safer from prying eyes or hackers, it also prevents closer scrutiny for potential biases or problems in the code by the public. 
 
 
-##### An example: Autonomous Systems Used in Social Credit System Development in China
+#### An example: Autonomous Systems Used in Social Credit System Development in China
 
 The Chinese government began experimenting with social credit scores in 2015, when it allowed private companies to assign credit scores to people. One of the companies, Sesame Credit, does this by analyzing many variables over five sets of data, most of which is actually from Alibaba’s Alipay, which is used by over a billion people to make purchases, and contains much information. Sesame Credit analyzes both financial and social behaviors and assigns a score between 350 and 950 (Time). People who accomplish good deeds are awarded points and can receive rewards. Those who do bad deeds, such as smoking or spending too much time on video games, are deducted points. Those with an extremely low social credit score are placed on the “List of Untrustworthy Persons” and will be prohibited from certain activities such as the ability to use public transportation or to make large purchases.
 
@@ -272,7 +272,7 @@ There has been many concerns with the use of China's social credit system, fears
 https://time.com/collection/davos-2019/5502592/china-social-credit-score/
 -->
 
-##### Correctional offender Management Profiling for Alternative Sanctions (COMPAS) 
+#### Correctional offender Management Profiling for Alternative Sanctions (COMPAS) 
 
 COMPAS is an software that is used by US courts to assign scores to predict the risk of a certain person commiting another crime. 
 It is an algorithm that utilizes an algorithm that considers answers to a questionnaire (The Atlantic). 
@@ -282,7 +282,7 @@ In 2016, ProPublica has analzyed COMPAS and has found that COMPAS displays bias 
 <!-- https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/ -->
 
 
-##### An example: Unsecured/Exposed Robots Running on ROS and Internet:
+#### An example: Unsecured/Exposed Robots Running on ROS and Internet:
 
 A research team at Brown University discovered that they found almost 100 exposed systems that ran on ROS. "Up to 19 were considered to be fully operational robots". They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University).  
 
@@ -293,7 +293,7 @@ and https://www.wired.com/story/security-robotics/
 -->
 
 
-#### Militarization
+##### Militarization
 
 There has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
 
@@ -302,7 +302,7 @@ Students can watch this video to learn more about Slaughterbots: https://www.you
 
 <!-- discussion of ITAR, weapons, discussion of stopping war robots; robotics weapons vs chemical weapons; strong regulations? -->
 
-##### International Traffic in Arms Regulations (ITAR)
+#### International Traffic in Arms Regulations (ITAR)
 
 International Traffic in Arms Regulations (ITAR) specifically covers: 
 
@@ -316,11 +316,11 @@ International Traffic in Arms Regulations (ITAR) specifically covers:
 
 <!-- https://digitalguardian.com/blog/what-itar-compliance --> 
 
-##### Example: Predator drones utilized by the United States
+#### Example: Predator drones utilized by the United States
 
 There have been several predator drones that have been used by the United States Air Force (USAF) and Central Intelligence Ageny (CIA). Initially many are utilized for primarily reconaissance and spying, but many have been later equipped to be able to engage in warfare.
 
-##### Should we handle autonomous weapons like chemical weapons
+#### Should we handle autonomous weapons like chemical weapons
 
 In the US, there are two types of chemical warfare agents: stockpiled and non stockpiled. 
 
@@ -333,7 +333,7 @@ There has been much debate if autonomous weapons should be treated like chemical
 <!-- https://www.cdc.gov/nceh/demil/history.htm --> 
 
 
-#### Medical, Healthcare, and Caregiver Robots
+##### Medical, Healthcare, and Caregiver Robots
 
 Autonomous systems and AI systems have been also considered for usage in the healthcare industry. 
 
@@ -353,7 +353,7 @@ Especially in the medical field, these robots may contain snippets of important 
 
 Humans have emotions while robots do not. Humans may have the capability to trust their robots too much, which can result in harm from the remote or manipulation of humans. 
 
-##### The Emergency Exit Robot Study, Georgia Tech Howard
+#### The Emergency Exit Robot Study, Georgia Tech Howard
 
 There was a study conducted by researchers at the Georgia Institute of Technology, highlighted the potential risks of putting too much trust into robots during emergency situations. 
 
@@ -362,7 +362,7 @@ They did an experiment that simulated an emergency situation. It was found that 
 <!-- https://www.cc.gatech.edu/~alanwags/pubs/Robinette-HRI-2016.pdf
 -->
 
-#### Availability/Accessibility/Uses
+##### Availability/Accessibility/Uses
 
 The cost of autonomous systems may be high depending on the purpose of the robot. The high prices of robots currently are barring many people from more complex robots. 
 
@@ -370,7 +370,7 @@ Robots can be used to help those with accessbility issues.
 
 Autonomous systems and advanced technology may also be used to help with emergency aid purposes. Drones can be used to help with potentially locating lost items or people, or helping transport emergency items quickly (water for forest fires ex.). 
 
-##### UN Guidelines for Emergency Uses of Drones and 
+#### UN Guidelines for Emergency Uses of Drones and 
 
 UAVs have potential in three areas: humanitarian, development, and peacekeeping operations (UN). 
 
@@ -378,7 +378,7 @@ In 2013, the UN has launched the first UAV mission to help protect civilians in 
 
 Read this article for more information: https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un and https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr 
 
-##### Humanitarian Drone Guidelines
+#### Humanitarian Drone Guidelines
 
 "The most promising uses of drones include:
 • Mapping
@@ -394,7 +394,7 @@ to-access locations
 
 
 
-#### Future impact of AI on human jobs and responsibilities
+##### Future impact of AI on human jobs and responsibilities
 
 With the development of AI, there has been a growing reliance on them as tools in our daily lives. 
 
