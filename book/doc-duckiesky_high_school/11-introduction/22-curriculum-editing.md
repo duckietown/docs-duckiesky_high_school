@@ -2,13 +2,13 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: Students have completed the Github module
+Requires: Hardware: basestation; Previous lessons: Git and Github
 
-Result: Studies will be able to do basic editing of Markduck documents and Duckiesky Documentation.
+Result: Knowledge: Definition and uses of markdown; Skills: Ability to program in Markdown via formating and styling text using the Markdown language, Ability to submit pull requests to the curriculum
 
 </div>
 
-## Editing Duckiesky Documents
+## Markdown and Contributions
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
@@ -34,9 +34,9 @@ The student's ability to submit a pull request to alter a Duckiesky page.
 
 **Materials needed**
 
-For Students: A computer or device that can be used 
+For Students: A computer or device with web browser capabilities 
 
-For Teachers: Screen to demonstrate website (if desired), Do Now and Expectations written, examples of correctly cut and tinned wires
+For Teachers: Screen to demonstrate website (if desired), Do Now and Expectations written
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -44,7 +44,7 @@ For Teachers: Screen to demonstrate website (if desired), Do Now and Expectation
 
 ### Introducing The Lesson
 
-Recommended: 5 minute
+Recommended: 5 minutes
 
 Pre Class:
 
@@ -58,9 +58,10 @@ Hook: Teachers can talk about the following or their own.
 
 ### Main Lesson
 
-Recommended: 45 minutes/hours
+Recommended: 45 minutes
 
-1. Students follow [Unit A-2](https://docs.duckietown.org/DT19/duckumentation/out/duckumentation_contribute_simple.html) on the Duckumentation website on how to edit the Duckiesky Documents in the simple way
+1. Students learn what Markdown and Marduck are used for 
+
 2. Students learn basic Markdown/Markduck
 
 Note: Markdown is a text-to-HTML conversion tool for web writers.
@@ -70,7 +71,7 @@ Note: Markduck is a Markdown dialect that supports many Markdown features. It is
 See also: The basics of Markduck can either be explained by the teacher or through the following [Basic Markduck Guide](https://docs.duckietown.org/DT19/duckumentation/out/markduck_basic.html) at the teacher's discretion.
 
 
-- Student's need to know the following features in Markduck:
+Students should be aware of the following features in Markduck:
 
 
 1. Wrapping text with two astricks(*) or two underscores(_) both at the beginning and at the end of the phrase **bolds** or __underlines__ respectively.
@@ -84,7 +85,9 @@ See also: The basics of Markduck can either be explained by the teacher or throu
 
 Recommended: 10 minutes/hours
 
-Students should submit a pull request to change the next page, __Students: Leave your mark here!__, with their newly learned Markduck skills. 
+Students should submit a pull request to change the next page, __Students: Leave your mark here!__, with their newly acquired Markduck skills and GitHub skills from last lesson! 
+
+Emphasize that if they see problems/areas that could be improved with the course, they can report and even fix them!
 
 
 **Useful Resources and References** 
