@@ -60,13 +60,13 @@ See also: By considering ethics during decision making, we can make better decis
 
 See also: Specifically for ethical issues that are related to AI, they can be split into three different categories. 
 
-See: The ethical implications of what AI is: 
+The ethical implications of what AI is: 
 
 1. Bias and Fairness  
 2. Accountability and Remediability  
 3. Transparency, Interpretability, and Explainability  
 
-See: Te ethical implications related to what AI does: 
+The ethical implications related to what AI does: 
 
 1. Safety  
 2. Human-AI interaction  
@@ -205,6 +205,8 @@ See also: This can result in racial bias by algorithms, and in the case of auton
 - Teachers teach about the Moral Machine. 
 
 See also: In 2014, MIT has created a series of questions and scenarios that involve autonomous cars and artificial intelligence, which is known as the Moral Machine. The Moral Machine asks people which choices autonomous cars should make when facing different variations of the trolley problem (Technology Review). 
+
+- Students can read about the Moral Machine and try out some of the questions on this interactive website here: https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html
 
 The Moral Machine focuses on 9 different themes: 
 
@@ -394,6 +396,15 @@ See also: Human-Human or Human-Agent interaction: As explored slightly in the me
 
 ##### Possible Assignments or Discussion Topics: 
 
+- As stated before students can read about the Moral Machine and try out some of the questions on this interactive website here: https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html. 
+
+- Teachers can assign or engage students about ethics through a variety of ways (presentations/debates/discussions) on many possible topics such as: 
+
+See also: Should code for large scale systems be open or closed source?
+
+See also: Should autonomous cars be allowed on the road? Should robots be allowed to take care of humans?
+
+See also: Should autonomous drones/systems be used in military operations? Should they be treated similarly to chemical weapons? 
 
 
 ### Ending The Lesson
@@ -414,8 +425,7 @@ https://www.bbc.com/news/business-50177788
 Paper: Predictive Inequity in Object Detection: 
 https://arxiv.org/pdf/1902.11097.pdf
 
-Moral machine: https://www.moralmachine.net
-
-Paper on moral machine: https://doi.org/10.1038/s41586-018-0637-6 
-
+Moral machine links: 
+https://www.moralmachine.net
+https://doi.org/10.1038/s41586-018-0637-6 
 https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html
