@@ -50,6 +50,7 @@ See also: The term ethics comes from the word "ethos", which is Greek for "way o
 - Teachers explain what is ethics: 
 
 See also: When there is a difficult situation, there are multiple possible solutions. Ethics consists of moral principles and values of a person or a group of people. It affects how we choose to live our lives, what we think is wrong and right in morals and situations, and what our responsibilities are (BBC).
+
 See also: Universal Declaration of Human Rights regarding ethics
 
 - Teachers explain the importance of ethics: 
@@ -158,6 +159,7 @@ There were several reasons that contributed to these fatal accidents:
 See also: Insufficient testing: Boeing and FAA agreed to not install safety features, which analysts say later that these features could have saved both the planes from crashing (The Washington Post).
 
 <!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html--> 
+
 See also: Accountability: Boeing did not provide the risk assessment about the MCAS until very late, a couple of months before the MAX was certified. FAA also based on findings by Boeing that were inaccurate (The Washington Post). 
  
 
@@ -258,6 +260,7 @@ https://time.com/collection/davos-2019/5502592/china-social-credit-score/
 #### Correctional offender Management Profiling for Alternative Sanctions (COMPAS) 
 
 See also: COMPAS is an software that is used by US courts to assign scores to predict the risk of a certain person commiting another crime. 
+
 See also: It is an algorithm that utilizes an algorithm that considers answers to a questionnaire (The Atlantic). 
 
 See also: In 2016, ProPublica has analzyed COMPAS and has found that COMPAS displays bias against African Americans. 
