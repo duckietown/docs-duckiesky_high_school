@@ -211,7 +211,7 @@ An autonomous soap dispenser by Technical Concepts was found to have trouble dis
 
 According to a study done with autonomous systems by Georgia Institute of Technology, AI systems were more consistently accurately identifying people with lighter skin tones than darker. Their results show that detection of people with darker skins were less accurate by 5%. This can result in racial bias by the algorithm, and in the case of autonomous cars, people with darker skin would be more likely to be harmed or involved in an accident than those with lighter skin. 
 
-##### Another example: MIT's Moral Machine
+#### Another example: MIT's Moral Machine
 
  <!-- done as a game, data set is not entirely reliable -->
 
