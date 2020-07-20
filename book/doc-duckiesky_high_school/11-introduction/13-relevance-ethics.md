@@ -13,7 +13,7 @@ Result: Students will be able to learn about what ethics is and why it is import
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-
+   
 
 ### Assessments and Evidence of Understanding
 
