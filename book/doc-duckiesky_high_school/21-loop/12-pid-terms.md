@@ -133,7 +133,7 @@ See also: The build-up of error can cause the value of the process variable to o
 
 - Teachers will describe the effects of $K_d$ 
 
-See also: T derivative term anticipates future error. While the proportional and integral terms both act to move the process variable to the setpoint, the derivative term seeks to dampen their efforts and decrease the amount the system overshoots in response to a large change in error (which would greatly affect the magnitude of the proportional and integral contributions to the overall control output). 
+See also: The derivative term anticipates future error. While the proportional and integral terms both act to move the process variable to the setpoint, the derivative term seeks to dampen their efforts and decrease the amount the system overshoots in response to a large change in error (which would greatly affect the magnitude of the proportional and integral contributions to the overall control output). 
 
 See also: If set at an appropriate level, the derivative term reduces oscillations, which decreases the settling time and improves the stability of the system. The derivative term has negligible effects on steady-state error and only decreases the rise time by a minor amount.
 
@@ -143,6 +143,6 @@ See also: If set at an appropriate level, the derivative term reduces oscillatio
 
 Recommended: 5 minutes/hours
 
-- Teachers While we are looking at them from the context in helping control the altitude of the drone in 1D, these terms are also used for angle, velocity, position of the drone. 
+- Teachers should summarize the effects of each term. 
 
 **Useful Resources and References**
