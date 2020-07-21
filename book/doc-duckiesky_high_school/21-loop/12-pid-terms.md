@@ -119,12 +119,12 @@ $$u(t) = K_pe(t_k) + K_i\sum_{i=0}^k e(t_i)\Delta t + K_d\frac{e(t_k)-e(t_{k-1})
 #### Show diagram of PID controller Block Diagram
 
 The figure below summarizes the inclusion of a PID controller within a basic control loop.
-
+<!-->
 <figure>
     <figcaption>PID Controller Block Diagram</figcaption>
     <img style='width:35em' src="pid_controller_block_diagram.png"/>
 </figure>
-
+-->
 ##### Tuning: 
 
 See also: Tuning a PID controller is done by setting the control parameters $K_p, K_i, K_d$ to values that fit to be able to get an ideal control response. The three control terms may be correlated and so changing one parameter may impact the influence of another. 
@@ -162,12 +162,12 @@ See also: The derivative term anticipates future error. While the proportional a
 See also: If set at an appropriate level, the derivative term reduces oscillations, which decreases the settling time and improves the stability of the system. The derivative term has negligible effects on steady-state error and only decreases the rise time by a minor amount.
 
 #### Summary of Control Terms: 
-
+<!-- >
 <figure>
     <figcaption>General Effects of Control Terms</figcaption>
     <img style='width:35em' src="control_term_effects_table.png"/>
 </figure>
-
+--> 
 ### Ending The Lesson
 
 Recommended: 5 minutes/hours
