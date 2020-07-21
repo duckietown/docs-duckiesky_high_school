@@ -1,4 +1,4 @@
-# Lesson 2: The Three PID Terms {#loop-pid-terms status=ready}
+# The Three PID Terms {#loop-pid-terms status=ready}
 
 <div class='requirements' markdown='1'>
 

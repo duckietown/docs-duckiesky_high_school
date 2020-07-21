@@ -1,4 +1,4 @@
-# Lesson 1: Calibration {#sac2-sensing-calibration status=ready}
+# Calibration {#sac2-sensing-calibration status=ready}
 
 <div class='requirements' markdown='1'>
 

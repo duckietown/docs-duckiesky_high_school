@@ -1,4 +1,4 @@
-# Lesson 1: Intro to PID {#loop-pid-intro status=ready}
+# Intro to PID {#loop-pid-intro status=ready}
 
 <div class='requirements' markdown='1'>
 

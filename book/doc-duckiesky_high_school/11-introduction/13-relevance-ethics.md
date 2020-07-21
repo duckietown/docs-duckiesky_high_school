@@ -1,4 +1,4 @@
-# Lesson 3: Intro to Ethics {#introduction-relevance-ethics status=ready}
+# Intro to Ethics {#introduction-relevance-ethics status=ready}
 
 <div class='requirements' markdown='1'>
 

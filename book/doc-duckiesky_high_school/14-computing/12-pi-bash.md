@@ -1,4 +1,4 @@
-# Lesson 2: Bash {#computing-pi-bash status=ready}
+# Bash {#computing-pi-bash status=ready}
 
 <div class='requirements' markdown='1'>
 

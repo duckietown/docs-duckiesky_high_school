@@ -1,3 +1,3 @@
-# Interacting with our Curriculum {#introduction-curriculum status=ready}
+# Interacting with our Curriculum {#subpart:introduction-curriculum status=ready}
 
 Module Overview

@@ -1,3 +1,3 @@
-# Motors {#sac3-motors status=ready}
+# Motors {#subpart:sac3-motors status=ready}
 
 Module Overview

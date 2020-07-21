@@ -1,4 +1,4 @@
-# Lesson 2: Building Skill {#electronics-soldering-skill status=ready}
+# Building Skill {#electronics-soldering-skill status=ready}
 
 <div class='requirements' markdown='1'>
 

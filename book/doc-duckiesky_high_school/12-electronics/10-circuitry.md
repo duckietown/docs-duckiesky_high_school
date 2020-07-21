@@ -1,3 +1,3 @@
-# Circuitry {#electronics-circuitry status=ready}
+# Circuitry {#subpart:electronics-circuitry status=ready}
 
 Module Overview

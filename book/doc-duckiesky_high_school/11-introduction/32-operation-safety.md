@@ -1,4 +1,4 @@
-# Lesson 2: Safety {#introduction-operation-safety status=ready}
+# Safety {#introduction-operation-safety status=ready}
 
 <div class='requirements' markdown='1'>
 

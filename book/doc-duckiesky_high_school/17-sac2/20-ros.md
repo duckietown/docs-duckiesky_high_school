@@ -1,3 +1,3 @@
-# Middleware: ROS {#sac2-ros status=ready}
+# Middleware: ROS {#subpart:sac2-ros status=ready}
 
 Module Overview

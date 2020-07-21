@@ -1,4 +1,4 @@
-# Lesson 2: Drone Localization {#localization-camera-localization status=ready}
+# Drone Localization {#localization-camera-localization status=ready}
 
 <div class='requirements' markdown='1'>
 

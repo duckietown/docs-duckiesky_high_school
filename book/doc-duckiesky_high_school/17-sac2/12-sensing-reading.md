@@ -1,4 +1,4 @@
-# Lesson 2: Reading Sensors {#sac2-sensing-reading status=ready}
+# Reading Sensors {#sac2-sensing-reading status=ready}
 
 <div class='requirements' markdown='1'>
 

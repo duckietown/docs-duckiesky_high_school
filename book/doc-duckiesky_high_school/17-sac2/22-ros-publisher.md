@@ -1,4 +1,4 @@
-# Lesson 2: Creating a ROS Publisher {#sac2-ros-publisher status=ready}
+# Creating a ROS Publisher {#sac2-ros-publisher status=ready}
 
 <div class='requirements' markdown='1'>
 

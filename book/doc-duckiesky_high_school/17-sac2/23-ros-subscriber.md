@@ -1,4 +1,4 @@
-# Lesson 3: Subscriber and Open Loop {#sac2-ros-subscriber status=ready}
+# Subscriber and Open Loop {#sac2-ros-subscriber status=ready}
 
 <div class='requirements' markdown='1'>
 

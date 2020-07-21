@@ -1,3 +1,3 @@
-# IMU {#sac3-imu status=ready}
+# IMU {#subpart:sac3-imu status=ready}
 
 Module Overview

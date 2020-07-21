@@ -1,4 +1,4 @@
-# Lesson 3: Implementation of PID {#loop-pid-implementation status=ready}
+# Implementation of PID {#loop-pid-implementation status=ready}
 
 <div class='requirements' markdown='1'>
 

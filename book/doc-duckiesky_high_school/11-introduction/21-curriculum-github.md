@@ -1,4 +1,4 @@
-# Lesson 1: Git and Github {#introduction-curriculum-github status=ready}
+# Git and Github {#introduction-curriculum-github status=ready}
 
 <div class='requirements' markdown='1'>
 

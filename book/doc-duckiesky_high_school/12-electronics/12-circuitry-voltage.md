@@ -1,4 +1,4 @@
-# Lesson 2: Voltage, Current, Resistance {#electronics-circuitry-voltage status=ready}
+# Voltage, Current, Resistance {#electronics-circuitry-voltage status=ready}
 
 <div class='requirements' markdown='1'>
 

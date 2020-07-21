@@ -1,4 +1,4 @@
-# Duckiesky Highschool Curriculum {#book:duckiesky status=ready}
+# Duckiesky Teacher Curriculum {#book:duckiesky status=ready}
 
 
 <div id="logo-container">
@@ -39,10 +39,6 @@ taking this course, students will be able to:
   safety, state estimation, and control.
 
 * Build, program, and operate an autonomous robot drone.
-
-We assume you have seen some Python before, as well as some linear
-algebra.  This book contains text, assignments, projects, and slides
-for the course.
 
 
 <div style='page-break-before: always'>

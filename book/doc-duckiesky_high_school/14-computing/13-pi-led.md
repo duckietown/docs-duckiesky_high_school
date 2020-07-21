@@ -1,4 +1,4 @@
-# Lesson 3: Blinking an LED {#computing-pi-led status=ready}
+# Blinking an LED {#computing-pi-led status=ready}
 
 <div class='requirements' markdown='1'>
 
