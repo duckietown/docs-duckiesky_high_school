@@ -54,7 +54,6 @@ Bad: Problem: We need an automated way of doing the conversion to units. We need
 
 Better: Solution: Python! - a coding language whose purpose is “doing computing” (making mathematical computations or calculations quickly), not formatting text or interacting with the computer
 
-<div class='requirements' markdown='1'>
 
 **Python vocab**:
 
