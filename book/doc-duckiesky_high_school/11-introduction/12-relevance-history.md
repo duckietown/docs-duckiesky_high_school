@@ -1,17 +1,10 @@
-# Lesson 2: Development of Robotics {#introduction-relevance-history status=ready}
+# Development of Robotics {#introduction-relevance-history status=ready}
 
 <div class='requirements' markdown='1'>
 
-Requires:
+Requires: Hardware: N/A; Previous Lesson: N/A
 
-          Hardware: (N/A)
-          Previous Lesson: (N/A)
-
-Result:
-
-          -General understanding of the history of robotics.
-          -Scope of industries where robotics are applied.
-          -Overview of state of the art robotics and what is in production.
+Result: General understanding of the history of robotics; Scope of industries where robotics are applied; Overview of state of the art robotics and what is in production.
          
 </div>
 
@@ -47,7 +40,7 @@ For Teachers: No special material required for this lesson.
 Recommended:  5 minutes
 
 Intro: In this lesson we will take an in depth look at the evolution of robotics mechanics and inventions leading up to modern machines.
-        **Teachers can make references to the importance of robots in society from the previous lesson**
+**Teachers can make references to the importance of robots in society from the previous lesson**
 
 ### Main Lesson
 
@@ -81,21 +74,13 @@ With rise in computer industries, academia has advanced these inventions into th
 
 **Useful Resources and References**
 
-https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html         
-https://news.stanford.edu/2019/02/28/ancient-myths-reveal-early-fantasies-artificial-life/
-
-https://en.wikipedia.org/wiki/Golem
-
-https://www.thoughtco.com/timeline-of-robots-1992363
-
-https://en.wikipedia.org/wiki/History_of_robots
-
-https://www.acieta.com/automation-application/assembly-robotics/
-
-https://future-markets-magazine.com/en/markets-technology-en/transport-robots/
-
-https://www.automation.com/en-us/articles/2016-2/what-does-the-future-hold-for-robotics
-
-https://blog.bliley.com/robots-used-in-space-exploration
-
-https://www.washingtonpost.com/news/the-switch/wp/2018/06/29/spacex-is-flying-an-artificially-intelligent-robot-named-cimon-to-the-international-space-station/
+-(Link 1)[https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html]     
+-(Link 2)[https://news.stanford.edu/2019/02/28/ancient-myths-reveal-early-fantasies-artificial-life/]
+-(Link 3)[https://en.wikipedia.org/wiki/Golem]
+-(Link 4)[https://www.thoughtco.com/timeline-of-robots-1992363]
+-(Link 5)[https://en.wikipedia.org/wiki/History_of_robots]
+-(Link 6)[https://www.acieta.com/automation-application/assembly-robotics/]
+-(Link 7)[https://future-markets-magazine.com/en/markets-technology-en/transport-robots/]
+-(Link 8)[https://www.automation.com/en-us/articles/2016-2/what-does-the-future-hold-for-robotics]
+-(Link 9)[https://blog.bliley.com/robots-used-in-space-exploration]
+-(Link 10)[https://www.washingtonpost.com/news/the-switch/wp/2018/06/29/spacex-is-flying-an-artificially-intelligent-robot-named-cimon-to-the-international-space-station/]

@@ -4,7 +4,7 @@
 
 Requires: 
 
-Result:  Students will be able to discuss with detailed examples the importance of Robotics with in societies.
+Result: Students will be able to discuss with detailed examples the importance of Robotics with in societies.
 
 </div>
 
