@@ -2,13 +2,20 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: Hardware: N/A; Previous Lesson: N/A
+Requires:
 
-Result: General understanding of the history of robotics; Scope of industries where robotics are applied; Overview of state of the art robotics and what is in production.
+          Hardware: (N/A)
+          Previous Lesson: (N/A)
+
+Result:
+
+          -General understanding of the history of robotics.
+          -Scope of industries where robotics are applied.
+          -Overview of state of the art robotics and what is in production.
          
 </div>
 
-## Robotic History & Evolution
+## Robotic History and Evolution
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
@@ -40,7 +47,7 @@ For Teachers: No special material required for this lesson.
 Recommended:  5 minutes
 
 Intro: In this lesson we will take an in depth look at the evolution of robotics mechanics and inventions leading up to modern machines.
-**Teachers can make references to the importance of robots in society from the previous lesson**
+        **Teachers can make references to the importance of robots in society from the previous lesson**
 
 ### Main Lesson
 
@@ -64,7 +71,7 @@ Without a doubt the world we know today is reliant on much of the technology tha
 
 Robotics in medicine are used to facilitate surgeries and minimize invasive approaches when doing procedures on a patient. The most recent advances were showcased by the "da Vinci Surgical System''. Being controlled by a surgeon from a console in the same room as the patient, the mechanical arms on this machine are so precise it is able to skin a grape without damaging the fruit. While there is lots of criticism on the use of these robots, it sure is an advancement in the medical field worth taking notice of. Another example aiding doctors in hospitals is the "Xenex Zapping Robot''. Humans can not always sterilize a room 100% of germs and bacteria, but this robot combats the issue by pulsating full-spectrum UV rays that kill the harmful infectious microorganisms. A world of innovative robots is on the horizon as robots are constantly becoming more **sophisticated** and **responsive**.
 
-While the Xenex Zapping Robots design is comparable to a droid from the Star Wars franchise, the following are orbiting and programmed outside of our atmosphere. In the past animals would be sent to space for research, but as technology improved that has now been delegated to robots. Records show that humans have physically only set foot on the moon and all scientific data on Mars, Titan, Jupiter, and Venus has been collected by robots. The first robot ever sent to space was the Sputnik 1 sent by the USSR in 1957. Its launch sparked the **"space race"**  which brought to life better engineered space robots like the; Mariners, Vikings, and the Voyagers to be launched on space missions for close up photography for signs of life on these non terrestrial planets. The Vikings 1 & 2 arrived on Mars in 1976 disclosing both lander robots were powered by **radioisotopic thermonuclear generators** that enabled the transmission of data back to Earth. Close to present day achievements, SpaceX funded by Elon Musk launches version 2 of "C.I.M.O.N." (an artificial intelligent robot) to the International Space Station on December 5, 2019. It is equipped with cameras and voice commands that guide it, and it's even able to hold full conversations while relaying information to commanders on the ground. The acronym of its design stands for **C**rew **I**nteractive **M**obile compani**ON**, and is programmed for tasks equivalent to those of "Alexa" but for space.
+While the Xenex Zapping Robots design is comparable to a droid from the Star Wars franchise, the following are orbiting and programmed outside of our atmosphere. In the past animals would be sent to space for research, but as technology improved that has now been delegated to robots. Records show that humans have physically only set foot on the moon and all scientific data on Mars, Titan, Jupiter, and Venus has been collected by robots. The first robot ever sent to space was the Sputnik 1 sent by the USSR in 1957. Its launch sparked the **"space race"**  which brought to life better engineered space robots like the; Mariners, Vikings, and the Voyagers to be launched on space missions for close up photography for signs of life on these non terrestrial planets. The Vikings 1 and 2 arrived on Mars in 1976 disclosing both lander robots were powered by **radioisotopic thermonuclear generators** that enabled the transmission of data back to Earth. Close to present day achievements, SpaceX funded by Elon Musk launches version 2 of "C.I.M.O.N." (an artificial intelligent robot) to the International Space Station on December 5, 2019. It is equipped with cameras and voice commands that guide it, and it's even able to hold full conversations while relaying information to commanders on the ground. The acronym of its design stands for **C**rew **I**nteractive **M**obile compani**ON**, and is programmed for tasks equivalent to those of "Alexa" but for space.
 
 ### Ending The Lesson
 
@@ -74,13 +81,21 @@ With rise in computer industries, academia has advanced these inventions into th
 
 **Useful Resources and References**
 
--(Link 1)[https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html]     
--(Link 2)[https://news.stanford.edu/2019/02/28/ancient-myths-reveal-early-fantasies-artificial-life/]
--(Link 3)[https://en.wikipedia.org/wiki/Golem]
--(Link 4)[https://www.thoughtco.com/timeline-of-robots-1992363]
--(Link 5)[https://en.wikipedia.org/wiki/History_of_robots]
--(Link 6)[https://www.acieta.com/automation-application/assembly-robotics/]
--(Link 7)[https://future-markets-magazine.com/en/markets-technology-en/transport-robots/]
--(Link 8)[https://www.automation.com/en-us/articles/2016-2/what-does-the-future-hold-for-robotics]
--(Link 9)[https://blog.bliley.com/robots-used-in-space-exploration]
--(Link 10)[https://www.washingtonpost.com/news/the-switch/wp/2018/06/29/spacex-is-flying-an-artificially-intelligent-robot-named-cimon-to-the-international-space-station/]
+https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html         
+https://news.stanford.edu/2019/02/28/ancient-myths-reveal-early-fantasies-artificial-life/
+
+https://en.wikipedia.org/wiki/Golem
+
+https://www.thoughtco.com/timeline-of-robots-1992363
+
+https://en.wikipedia.org/wiki/History_of_robots
+
+https://www.acieta.com/automation-application/assembly-robotics/
+
+https://future-markets-magazine.com/en/markets-technology-en/transport-robots/
+
+https://www.automation.com/en-us/articles/2016-2/what-does-the-future-hold-for-robotics
+
+https://blog.bliley.com/robots-used-in-space-exploration
+
+https://www.washingtonpost.com/news/the-switch/wp/2018/06/29/spacex-is-flying-an-artificially-intelligent-robot-named-cimon-to-the-international-space-station/
