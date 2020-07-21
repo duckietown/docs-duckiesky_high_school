@@ -1,0 +1,2 @@
+#!/bin/bash
+compmake /pwd/out-mcdp-render/compmake -c "make $*"
