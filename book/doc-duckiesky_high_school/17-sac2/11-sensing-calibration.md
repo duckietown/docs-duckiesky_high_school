@@ -12,17 +12,17 @@ Result:
 
 **Knowledge**: 
 
-    - Understanding that sensors don't provide readings in standardized units or scales
+- Understanding that sensors don't provide readings in standardized units or scales
 
-    - The the specific nonlinearities of the IR sensor
+- The the specific nonlinearities of the IR sensor
 
-    - Equation of a line and its use for linear approximation
+- Equation of a line and its use for linear approximation
 
-    - How to interpolate 
+- How to interpolate 
 
 **Skills**: 
 
-    - Calibrating measurements by linearizing the readings and then interpolating known readings
+- Calibrating measurements by linearizing the readings and then interpolating known readings
 
 </div>
 
@@ -96,7 +96,7 @@ Highlight that the data takes on the shape of 1/x, and then show a graph of volt
 
 <figure>
     <figcaption>Voltage vs. Distance and Inverse Distance Graphs (Ignore the key)</figcaption>
-    <img style='width:16em' src="https://www.researchgate.net/profile/Eric_Johnson15/publication/48267744/figure/fig1/AS:306095043170310@1449990153544/SHARP-GP2Y0A02YK0F-infrared-range-sensor-response-curves-8.png"/>
+    <img style='width:20em' src="https://www.researchgate.net/profile/Eric_Johnson15/publication/48267744/figure/fig1/AS:306095043170310@1449990153544/SHARP-GP2Y0A02YK0F-infrared-range-sensor-response-curves-8.png"/>
 </figure>
 
 See also: Exercise: Have your students convert their own plot to be voltage vs 1/distance to see how linear it is. Notice that there’s an offset towards the right side of the graph where 1/x is larger (distance to the sensor is smaller). 
