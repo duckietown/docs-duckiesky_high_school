@@ -34,7 +34,7 @@ Students will be able to connect to the Pi over ssh and verify its the right one
 
 **Materials needed**
 
-For Students: Basestation
+For Students: Basestation, Current Drone Build
 
 For Teachers: Basestation
 
@@ -60,11 +60,12 @@ Hook: Teachers can talk about the following or their own.
 Recommended: 35 minutes
 
 - Teachers should cover the basics of the 7 layers of network abstraction and IP/MAC addresses
+
 TODO: Input a video/details based on the updated teacher training material on Networking. [Here](https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/courseware/0e3596880ec446d8ab63df427e02e9c4/56017f6d3048461b90466ad229ac8df6/?activate_block_id=block-v1%3ABrownX%2BCS195R%2B2018_T1%2Btype%40sequential%2Bblock%4056017f6d3048461b90466ad229ac8df6) is the college course video on Networking.
 
 - Teachers define what a computer terminal and shell is
 
-See also: A shell is a program that takes input and gives the input to the computer and operating system to analyze and perform the task that the input asks for. 
+See also: A shell is a programming language that takes input and gives the input to the computer and operating system to analyze and perform the task that the input asks for. 
 
 See also: A terminal is a program that allows the user to interact with the shell.
 
@@ -72,7 +73,7 @@ See also: A terminal is a program that allows the user to interact with the shel
 
 See also: SSH (Secure Shell) is a method that allows a user to remotely log in from one computer/device to another. We will be utilizing SSH to connect to our Pi. 
 
-### Ending The Lesson
+### Pi SSH and Led Blinking Script
 
 Recommended: 20 minutes
 

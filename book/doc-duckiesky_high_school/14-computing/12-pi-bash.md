@@ -34,7 +34,7 @@ The student's ability to complete the below Bash terminal task.
 
 **Materials needed**
 
-For Students: Basestation 
+For Students: Basestation, Current Drone Build
 
 For Teachers: Basestation, a projector (if needed) 
 
