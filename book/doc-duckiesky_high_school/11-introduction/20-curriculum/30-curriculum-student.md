@@ -2,7 +2,7 @@
 
 **Use your newly acquired Markduck skills and Duckietown knowledge to submit a pull request to edit this page!**
 
-Better: Hi! Dev <!-- Ramesh --> was here
+Better: Hi! Dev Ramesh was here
 
                                                             Cesar was here. 
 
