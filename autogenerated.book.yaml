@@ -7,7 +7,7 @@ src_dirs:
 
 resources_dirs:
   - "book/doc-duckiesky_high_school"
-  - "/docs-build/resources-daffy"
+  - "/docs-build/resources"
 
 pdf_output:
   tablet:
@@ -32,7 +32,6 @@ html_output:
 
     out: 'duckuments-dist/doc-duckiesky_high_school/out'
     out_single: "duckuments-dist/doc-duckiesky_high_school/out.html"
-    output_crossref: duckuments-dist/doc-duckiesky_high_school/crossref.html
     stylesheet: "v_manual_split_responsive"
     title: "HTML Online version"
     likebtn:
@@ -40,7 +39,7 @@ html_output:
     tags: [document]
   draft:
     title: "HTML Online with drafts and todos 🚧"
-    output_crossref:
+
     remove: '' # do not remove anything
     template_filename: *template
 
