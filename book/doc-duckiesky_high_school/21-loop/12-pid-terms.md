@@ -59,6 +59,10 @@ See also: The proportional term produces an output that is proportional to the c
 
 $$ P = K_pe(t)$$
 
+- the discretized form: 
+
+$$P = K_pe(t_k)$$
+
 See also: The magnitude of the proportional response is dependent upon $K_p$ which is the proportional gain constant. A higher proportional gain constant indicates a greater change in the controller’s output in response to the system’s error.
 
 See also: The propellers will spin faster the farther away the drone is. Or can also be imagined as a spring pulling harder the further away you are. 
@@ -72,6 +76,10 @@ See also: Oscillations, get damped to some extent by drag.
 See also: The derivative term is determined by the rate of change of the system’s error over time multiplied by the derivative gain constant $K_d$. 
 
 $$D = K_d \frac{de(t)}{dt}$$
+
+- If students do not yet know calculus, the discretized form of the term: 
+
+$$D = K_d\frac{e(t_k)-e(t_{k-1})}{\Delta t}$$
 
 See also: Propellors will spin slower the faster you are moving. Can be also like drag pulling harder the faster you are moving.
 
@@ -87,6 +95,11 @@ See also: The integral term accounts for the accumulated error of the system ove
 
 $$I = K_i \int_{0} ^ {t} e (\tau) d \tau$$
 
+- If students do not yet know calculus, the discretized form of the term: 
+
+$$I = K_i\sum_{i=0}^k e(t_i)\Delta t$$
+
+
 See also: Propellers were spin faster the longer you are away from the set point
 
 TODO: Tune PID loop and play with parameters
@@ -95,11 +108,22 @@ TODO: Tune PID loop and play with parameters
 
 ##### The overall control function
 
-The overal control function consists as the sum of proportional, integral, and derivative terms. 
+The overall control function consists as the sum of proportional, integral, and derivative terms. 
 
 $$u(t) = K_pe(t) + K_d \frac{de(t)}{dt} + K_i \int_{0} ^ {t} e (\tau) d \tau$$
 
+In practice, the discretized form of the control function may be more suitable for implementation:
+
+$$u(t) = K_pe(t_k) + K_i\sum_{i=0}^k e(t_i)\Delta t + K_d\frac{e(t_k)-e(t_{k-1})}{\Delta t}$$
+
 #### Show diagram of PID controller Block Diagram
+
+The figure below summarizes the inclusion of a PID controller within a basic control loop.
+
+<figure>
+    <figcaption>PID Controller Block Diagram</figcaption>
+    <img style='width:35em' src="pid_controller_block_diagram.png"/>
+</figure>
 
 ##### Tuning: 
 
@@ -137,7 +161,12 @@ See also: The derivative term anticipates future error. While the proportional a
 
 See also: If set at an appropriate level, the derivative term reduces oscillations, which decreases the settling time and improves the stability of the system. The derivative term has negligible effects on steady-state error and only decreases the rise time by a minor amount.
 
+#### Summary of Control Terms: 
 
+<figure>
+    <figcaption>General Effects of Control Terms</figcaption>
+    <img style='width:35em' src="control_term_effects_table.png"/>
+</figure>
 
 ### Ending The Lesson
 
