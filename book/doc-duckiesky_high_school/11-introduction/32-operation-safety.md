@@ -1,10 +1,15 @@
-# Lesson 2: Drone Safety {#introduction-operation-safety status=ready}
+# Lesson 2: Safety {#introduction-operation-safety status=ready}
 
 <div class='requirements' markdown='1'>
 
-Requires:
+Requires: 
 
-Result: Students will be able to make sure that they are flying and soldering their drones in a safe and non flight restricted environment. Students should also be able to define potential risks. Students should also be following a pre-flight checklist every time before a flight. 
+Hardware: Completed drone build if available, or use video resource to demonstrate the pre-flight safety check. 
+No previous lessons required. 
+
+Result: 
+
+Students will be able to know the laws regulating hobby drone flight. They will be able to identify a safe environment for their drones to fly in and potential hazards of drone flight and soldering. Students will also learn about proper safety procedures to minimize safety hazards, and undestand the purpose of the pre-flight safety checklist. 
 
 </div>
 

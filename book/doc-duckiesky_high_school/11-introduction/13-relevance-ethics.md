@@ -386,6 +386,8 @@ to-access locations, Supporting damage assessments, Increasing situational aware
 
 - Teachers can teach that with the development of AI, there has been a growing reliance on them as tools in our daily lives. They have a large impact on all of us: 
 
+- Interesting video that can be watched: https://youtu.be/7Pq-S557XQU?
+
 See also: Ethical implications related to what AI can impact: 
 
 See also: Automation, Job Loss, Labor Trends: With the automation of many jobs, people may lose those jobs to robots. This may be because some tasks are able to be done more efficiently by robots. Because some jobs are more adaptable to robots than others, this may produce labor trends. There will be new jobs created that are more oriented towards maintaining robots or certain jobs will die out. 
