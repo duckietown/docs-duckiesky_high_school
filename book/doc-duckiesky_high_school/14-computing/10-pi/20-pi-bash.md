@@ -68,7 +68,7 @@ By the end of the Main Lesson, students should be able to:
 - Printing output in the terminal (echo, cat)
 -  Clearing terminal output and exiting (clear, exit)
 
-TODO: Using a text editor: Visual Studio Code
+TODO: Using a CLI Text Editor
 
 ### Ending The Lesson
 
@@ -117,12 +117,12 @@ See also: "rmdir 'Hello'"
 
 See also: "ls"
 
--  (Optional Assessment) Have the teacher check off the outputs of the terminal
+-  (Optional) Have the teacher check off the outputs of the terminal
 
 **Useful Resources and References**
 
 1. [Shell Tutorial 1](https://www.youtube.com/watch?v=cBokz0LTizk)
 2. [Shell Tutorial 2](http://linuxcommand.org/lc3_learning_the_shell.php)
 3. [Bash Command Overview](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
-4. (Optional Material) [Bash Shell Script Tutorial](https://www.youtube.com/watch?v=F-gskSl4pwQ)
+4. [Bash Shell Script Tutorial](https://www.youtube.com/watch?v=F-gskSl4pwQ)
 

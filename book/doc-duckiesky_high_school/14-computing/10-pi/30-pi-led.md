@@ -74,5 +74,6 @@ Exercise: Students write a bash script to make the led that they've soldered bli
 TODO: Instructions for Exercise
 
 **Useful Resources and References**
+
 1. [More information on REPLs](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop#:~:text=A%20read%E2%80%93eval%E2%80%93print%20loop,REPL%20environment%20is%20executed%20piecewise.)
 2. [More information on scripts](https://techterms.com/definition/script)
