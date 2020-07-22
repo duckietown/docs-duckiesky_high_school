@@ -9,7 +9,9 @@ Better: Hi! Dev Ramesh was here
 Peyton
 
 :) Rachel Ma says hello!
+
 Jake says: "Present"
+
 Dougierad in the house!
 
 **Danny**
