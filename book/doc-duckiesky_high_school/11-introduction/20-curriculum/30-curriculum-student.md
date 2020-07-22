@@ -10,6 +10,7 @@ Peyton
 
 :) Rachel Ma says hello!
 Jake says: "Present"
+Dougierad in the house!
 
 **Danny**
 <!-- this is a comment; it will not appear in the outputted online book -->
