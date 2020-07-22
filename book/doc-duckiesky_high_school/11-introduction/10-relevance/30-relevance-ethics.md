@@ -39,7 +39,7 @@ For Teachers: Slides (if desired),
 
 ### Introducing The Lesson
 
-Recommended: 5 minutes/hours
+Recommended: 5 minutes
 
 Teachers introduce ethics and explain why it is significant. 
 
@@ -75,7 +75,7 @@ The ethical implications related to what AI does:
 
 ### Main Lesson
 
-Recommended: 40 minutes/hours
+Recommended: 40 minutes
 
 - Teachers will teach students about important ethical problems that are present in technology, autonomous systems, and engineering.
 
@@ -411,7 +411,7 @@ See also: Should autonomous drones/systems be used in military operations? Shoul
 
 ### Ending The Lesson
 
-Recommended: 5 minutes/hours
+Recommended: 5 minutes
 
 - Teachers can summarize ethics and the large positive and negative benefits of AI
 
