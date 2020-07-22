@@ -33,7 +33,7 @@ Students will be able to understand feedback control systems and be ablet o use 
 
 For Students:
 
-For Teachers:
+For Teachers: Teachers can look over the EdX lectures that are linked under Userful Links and Resources regarding PID control and implementation. 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -124,3 +124,5 @@ Recommended: 5 minutes/hours
 - Teachers will summarize that feedback loops will be used and these terms will be implemented in the next lesson.
 
 **Useful Resources and References**
+
+- Teachers can see EdX lectures on PID Control: https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/course/#block-v1:BrownX+CS195R+2018_T1+type@chapter+block@0c4aafccbe244af093e640e6e81d9e26
