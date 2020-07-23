@@ -96,4 +96,4 @@ Teacher leads discussion based on the following questions:
 
 [scienceworld.ca/resource/static-electricity/](scienceworld.ca/resource/static-electricity/)
 
-** ADD Circuit hand-out here
+[https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png](https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png)
