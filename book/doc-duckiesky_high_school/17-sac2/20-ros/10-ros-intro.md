@@ -86,6 +86,18 @@ Use this [link](https://docs.duckietown.org/daffy/opmanual_sky/out/software_arch
 
 Recommended: 45 minutes
 
+Solution: ROS (Robot Operating System): 
+http://wiki.ros.org/ROS/Introduction
+ROS is an open-source, meta-operating system for your robot. It provides the services you would expect from an operating system, including hardware abstraction, low-level device control, implementation of commonly-used functionality, message-passing between processes, and package management. It also provides tools and libraries for obtaining, building, writing, and running code across multiple computers.
+
+The primary goal of ROS: “support code reuse in robotics research and development.”
+
+To help students understand the goal, teacher then emphasizes the importance of modularizing code: Modular programming is a software design technique that emphasizes separating the functionality of a program into independent, interchangeable modules, such that each contains everything necessary to execute only one aspect of the desired functionality. (https://en.wikipedia.org/wiki/Modular_programming)
+
+Benefits of modularization: Easy to read, easy to test, easy to reuse, easy to maintain, etc.
+
+(To help students understand this, teachers might draw a comparison to reading and writing a book like this versus a book like this)
+
 #### **Overview of important ROS concepts** 
 
 **ROS master:** A node that every other node register in order to communicate with each other. It is created by running roscore command (Detailed: [http://wiki.ros.org/Master](http://wiki.ros.org/Master))
