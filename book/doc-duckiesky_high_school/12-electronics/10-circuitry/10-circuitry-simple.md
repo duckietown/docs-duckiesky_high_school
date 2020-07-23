@@ -90,11 +90,10 @@ Teacher leads discussion based on the following questions:
 
 **Useful Resources and References**
 
-[https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html (https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html)
+[https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html)
 
-[https://www.dreamstime.com/ohms-law-vector-illustration-fun-physics-mathematical-equation-explanation-colorful-ohm-volt-men-rushing-ampere-image177188389]
-(https://www.dreamstime.com/ohms-law-vector-illustration-fun-physics-mathematical-equation-explanation-colorful-ohm-volt-men-rushing-ampere-image177188389)
+[https://www.dreamstime.com/ohms-law-vector-illustration-fun-physics-mathematical-equation-explanation-colorful-ohm-volt-men-rushing-ampere-image177188389](https://www.dreamstime.com/ohms-law-vector-illustration-fun-physics-mathematical-equation-explanation-colorful-ohm-volt-men-rushing-ampere-image177188389)
 
-[scienceworld.ca/resource/static-electricity/] (scienceworld.ca/resource/static-electricity/)
+[scienceworld.ca/resource/static-electricity/](scienceworld.ca/resource/static-electricity/)
 
 ** ADD Circuit hand-out here
