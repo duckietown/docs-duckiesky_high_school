@@ -75,7 +75,7 @@ Use this [link](https://docs.duckietown.org/daffy/opmanual_sky/out/software_arch
 
 Recommended: X minutes/hours
 
-#### **Overview of important ROS concepts:** 
+#### **Overview of important ROS concepts** 
 
 **ROS master:** A node that every other node register in order to communicate with each other. It is created by running roscore command (Detailed: [http://wiki.ros.org/Master](http://wiki.ros.org/Master))
 
@@ -91,18 +91,18 @@ See also: Exercise: Print out all of the topics running by entering “rostopic 
 
 **Important ROS Commands:**
 
-roslaunch: roslaunch is a tool for easily launching multiple ROS nodes locally and remotely via SSH, as well as setting parameters on the Parameter Server. (Detailed: [http://wiki.ros.org/roslaunch](http://wiki.ros.org/roslaunch))
+_roslaunch_: roslaunch is a tool for easily launching multiple ROS nodes locally and remotely via SSH, as well as setting parameters on the Parameter Server. (Detailed: [http://wiki.ros.org/roslaunch](http://wiki.ros.org/roslaunch))
 
-roscd: roscd allows you to change directories using a package name, stack name, or special location. (Detailed: [http://wiki.ros.org/rosbash#roscd](http://wiki.ros.org/rosbash#roscd))
+_roscd_: roscd allows you to change directories using a package name, stack name, or special location. (Detailed: [http://wiki.ros.org/rosbash#roscd](http://wiki.ros.org/rosbash#roscd))
 
-rostopic: rostopic contains the rostopic command-line tool for displaying debug information about ROS Topics, including publishers, subscribers, publishing rate, and ROS Messages. (Detailed: [http://wiki.ros.org/rostopic](http://wiki.ros.org/rostopic))
+_rostopic_: rostopic contains the rostopic command-line tool for displaying debug information about ROS Topics, including publishers, subscribers, publishing rate, and ROS Messages. (Detailed: [http://wiki.ros.org/rostopic](http://wiki.ros.org/rostopic))
+
+</div>
 
 **Publishers:** Publishers are used to publish specific message types to specific topics.
 
 **Subscribers:** Subscribers are used to read the messages being published to a ROS topic.
 
-
-</div>
 
 TODO: a flow chart of controlling a LED with IR sensor 
 

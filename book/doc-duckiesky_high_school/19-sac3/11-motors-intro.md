@@ -4,11 +4,16 @@
 
 Requires: 
 
+- Hardware: basestation with Cleanflight, Build Parts with Cleanflight 1, 2, and 3 completed
+
+
 Result: 
+
+- Knowledge: How the motors and ESCs spin the rotors at a given rate, as commanded by the flight controller
 
 </div>
 
-## Lesson Title
+## Introduction to Motors 
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
