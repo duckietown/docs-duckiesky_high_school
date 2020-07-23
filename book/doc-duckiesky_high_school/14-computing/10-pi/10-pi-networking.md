@@ -84,5 +84,6 @@ TODO: Commands should be very explicit and minimal, they don’t have experience
 TODO: Make step by step 
 
 **Useful Resources and References**
+
 1. [Shell and Terminal Details](http://linuxcommand.org/lc3_lts0010.php)
 2. [SSH Details](https://www.ssh.com/ssh/protocol/)
