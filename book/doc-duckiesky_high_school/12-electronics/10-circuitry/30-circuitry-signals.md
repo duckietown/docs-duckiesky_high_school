@@ -93,8 +93,9 @@ Recommended: 15 minutes
 Give students binary game link, and challenge them to hit the highest level! 
 
 **Useful Resources and References**
-https://docs.google.com/document/d/1QnD9khmPUz1az3ZLc5L8vavR6lU0uScspotRhORnHxE/edit
 
-https://games.penjee.com/binary-bonanza/
+[https://docs.google.com/document/d/1QnD9khmPUz1az3ZLc5L8vavR6lU0uScspotRhORnHxE/edit](https://docs.google.com/document/d/1QnD9khmPUz1az3ZLc5L8vavR6lU0uScspotRhORnHxE/edit)
 
-https://www.rapidtables.com/code/text/ascii-table.html
+[https://games.penjee.com/binary-bonanza/](https://games.penjee.com/binary-bonanza/)
+
+[https://www.rapidtables.com/code/text/ascii-table.html](https://www.rapidtables.com/code/text/ascii-table.html)
