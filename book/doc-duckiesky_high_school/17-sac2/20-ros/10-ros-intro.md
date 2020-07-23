@@ -35,9 +35,16 @@ Result:
 
 ### Assessments and Evidence of Understanding
 
+Students will be able to undertand what ROS is and make a catkin workspace by the end of the lesson. 
+
 
 ### AGENDA (Brief Summary of Activities)
 
+5 mins: Introducing ROS 
+
+45 mins: Reviewing important ROS concepts and commands 
+
+10 mins: Making a catkin workspace 
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
@@ -46,9 +53,9 @@ Result:
 
 **Materials needed**
 
-For Students:
+For Students: Basestation
 
-For Teachers:
+For Teachers: Basestation
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -73,7 +80,7 @@ Use this [link](https://docs.duckietown.org/daffy/opmanual_sky/out/software_arch
 
 ### Main Lesson
 
-Recommended: X minutes/hours
+Recommended: 45 minutes
 
 #### **Overview of important ROS concepts** 
 
@@ -110,7 +117,7 @@ TODO: a flow chart of controlling a LED with IR sensor
 
 ### Ending The Lesson
 
-Recommended: X minutes/hours
+Recommended: 10 minutes
 
 - Go over any final questions.
 
