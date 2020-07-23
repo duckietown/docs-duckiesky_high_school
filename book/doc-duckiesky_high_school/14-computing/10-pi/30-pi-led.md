@@ -13,6 +13,10 @@ Result: Knowledge: Definition and purpose of Raspberry Pi GPIO; Skills: Read the
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+_NGSS: HS - ETS1 - 2_: Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.
+
+_ISTE: 1. d._: Understand the fundamental concepts of technology
+operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 
 ### Assessments and Evidence of Understanding

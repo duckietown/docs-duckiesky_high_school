@@ -13,6 +13,8 @@ Result: Knowledge: 7 layers of network abstraction, IP and MAC addresses, Defini
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+_ISTE: 1. d._: Understand the fundamental concepts of technology
+operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 
 ### Assessments and Evidence of Understanding
