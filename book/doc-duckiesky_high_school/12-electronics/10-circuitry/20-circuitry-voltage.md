@@ -101,8 +101,8 @@ Clean Up!
 
 **Useful Resources and References**
 
-https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE
+[https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE](https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE)
 
-https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law
+[https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law](https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law)
 
-https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html
+[https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html)
