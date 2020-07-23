@@ -79,7 +79,6 @@ By typingin `print()` and putting what you want the screen to show in the parent
 
 <!-- I don't know if these definitions are even right? -->
 
-</div>
 
 Note: This is explained clearly in [this online Python activity](https://cscircles.cemc.uwaterloo.ca)! 
 
