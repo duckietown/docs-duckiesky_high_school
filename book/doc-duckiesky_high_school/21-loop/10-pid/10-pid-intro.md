@@ -7,7 +7,7 @@ Previous lesson: Intro to the Motors
 
 Result: 
 
-Students will be able to understand feedback control systems and be ablet o use control system vocabulary terms such as: setpoint, control variable, error. 
+Students will be able to understand feedback control systems and be able to use control system vocabulary terms such as: setpoint, control variable, error. 
 
 </div>
 
@@ -33,7 +33,7 @@ Students will be able to understand feedback control systems and be ablet o use 
 
 For Students:
 
-For Teachers: Teachers can look over the EdX lectures that are linked under Userful Links and Resources regarding PID control and implementation. 
+For Teachers: Teachers can look over the EdX lectures that are linked under Useful Links and Resources regarding PID control and implementation. 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -126,3 +126,5 @@ Recommended: 5 minutes/hours
 **Useful Resources and References**
 
 - Teachers can see [EdX lectures](https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/course/#block-v1:BrownX+CS195R+2018_T1+type@chapter+block@0c4aafccbe244af093e640e6e81d9e26) on PID Control
+
+Here is a helpful [video] (https://www.youtube.com/watch?v=wkfEZmsQqiA) explaining PID controllers
