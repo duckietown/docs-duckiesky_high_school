@@ -7,7 +7,7 @@ Previous lesson: Intro to the Motors
 
 Result: 
 
-Students will be able to understand feedback control systems and be ablet o use control system vocabulary terms such as: setpoint, control variable, error. 
+Students will be able to understand feedback control systems and be able to use control system vocabulary terms such as: setpoint, control variable, error. 
 
 </div>
 
@@ -33,7 +33,7 @@ Students will be able to understand feedback control systems and be ablet o use 
 
 For Students:
 
-For Teachers: Teachers can look over the EdX lectures that are linked under Userful Links and Resources regarding PID control and implementation. 
+For Teachers: Teachers can look over the EdX lectures that are linked under Useful Links and Resources regarding PID control and implementation. 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -61,16 +61,16 @@ Recommended: 40 minutes/hours
 
 - Teachers define open loop vs closed loop systems
 
-See also: Open loop system, also known as a non-feedback system, is a continuous system where output does not affect the control action of the input (Electronics Tutorials). 
+See also: Open loop system, also known as a non-feedback system, is a continuous system where output does not affect the control action of the input (Electronics Tutorials). Ex: Toaster
 
-See also: A closed loop system, also known as a feedback system, is a system where the control action is based on the output (Electronics Tutorials). 
+See also: A closed loop system, also known as a feedback system, is a system where the control action is based on the output (Electronics Tutorials). Ex: Body thermoregulation
 
 <!-- https://www.electronics-tutorials.ws/systems/open-loop-system.html --> 
 
 
 TODO: Exercise: Do this in two stages, "open-loop" and "closed-loop". First, a student looks at a target they’re supposed to go to, gets blindfolded, and tries to walk there. Then the same thing without being blindfolded.
 
-- Teachers draw a block diagram of an open-loop controller. Show the single input into the controller: the setpoint. Then draw the feedback loop and explain that there are now two inputs to the controller: the setpoint and the error (how far the robot is from the setpoint). 
+- Teachers draw a block diagram of an closed-loop controller. Show the single input into the controller: the setpoint. Then draw the feedback loop and explain that there are now two inputs to the controller: the setpoint and the error (how far the robot is from the setpoint). 
 
 - Teachers should make it clear that the loop works in iterations, based on the current setpoint and measurements it determines an output, then does the same process over again after some delay.
 
@@ -126,3 +126,5 @@ Recommended: 5 minutes/hours
 **Useful Resources and References**
 
 - Teachers can see [EdX lectures](https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/course/#block-v1:BrownX+CS195R+2018_T1+type@chapter+block@0c4aafccbe244af093e640e6e81d9e26) on PID Control
+
+Here is a helpful [video] (https://www.youtube.com/watch?v=wkfEZmsQqiA) explaining PID controllers
