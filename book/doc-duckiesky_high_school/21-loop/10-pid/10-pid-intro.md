@@ -61,16 +61,16 @@ Recommended: 40 minutes/hours
 
 - Teachers define open loop vs closed loop systems
 
-See also: Open loop system, also known as a non-feedback system, is a continuous system where output does not affect the control action of the input (Electronics Tutorials). 
+See also: Open loop system, also known as a non-feedback system, is a continuous system where output does not affect the control action of the input (Electronics Tutorials). Ex: Toaster
 
-See also: A closed loop system, also known as a feedback system, is a system where the control action is based on the output (Electronics Tutorials). 
+See also: A closed loop system, also known as a feedback system, is a system where the control action is based on the output (Electronics Tutorials). Ex: Body thermoregulation
 
 <!-- https://www.electronics-tutorials.ws/systems/open-loop-system.html --> 
 
 
 TODO: Exercise: Do this in two stages, "open-loop" and "closed-loop". First, a student looks at a target they’re supposed to go to, gets blindfolded, and tries to walk there. Then the same thing without being blindfolded.
 
-- Teachers draw a block diagram of an open-loop controller. Show the single input into the controller: the setpoint. Then draw the feedback loop and explain that there are now two inputs to the controller: the setpoint and the error (how far the robot is from the setpoint). 
+- Teachers draw a block diagram of an closed-loop controller. Show the single input into the controller: the setpoint. Then draw the feedback loop and explain that there are now two inputs to the controller: the setpoint and the error (how far the robot is from the setpoint). 
 
 - Teachers should make it clear that the loop works in iterations, based on the current setpoint and measurements it determines an output, then does the same process over again after some delay.
 
