@@ -31,13 +31,24 @@ Result:
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+_NGSS: HS - ETS1 - 2_: Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.
+
+_ISTE: 1. d._: Understand the fundamental concepts of technology
+operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 
 ### Assessments and Evidence of Understanding
 
+Students will be able to undertand what ROS is and make a catkin workspace by the end of the lesson. 
+
 
 ### AGENDA (Brief Summary of Activities)
 
+5 mins: Introducing ROS 
+
+45 mins: Reviewing important ROS concepts and commands 
+
+10 mins: Making a catkin workspace 
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
@@ -46,9 +57,9 @@ Result:
 
 **Materials needed**
 
-For Students:
+For Students: Basestation
 
-For Teachers:
+For Teachers: Basestation
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -73,9 +84,21 @@ Use this [link](https://docs.duckietown.org/daffy/opmanual_sky/out/software_arch
 
 ### Main Lesson
 
-Recommended: X minutes/hours
+Recommended: 45 minutes
 
-#### **Overview of important ROS concepts:** 
+Solution: ROS (Robot Operating System): 
+http://wiki.ros.org/ROS/Introduction
+ROS is an open-source, meta-operating system for your robot. It provides the services you would expect from an operating system, including hardware abstraction, low-level device control, implementation of commonly-used functionality, message-passing between processes, and package management. It also provides tools and libraries for obtaining, building, writing, and running code across multiple computers.
+
+The primary goal of ROS: “support code reuse in robotics research and development.”
+
+To help students understand the goal, teacher then emphasizes the importance of modularizing code: Modular programming is a software design technique that emphasizes separating the functionality of a program into independent, interchangeable modules, such that each contains everything necessary to execute only one aspect of the desired functionality. (https://en.wikipedia.org/wiki/Modular_programming)
+
+Benefits of modularization: Easy to read, easy to test, easy to reuse, easy to maintain, etc.
+
+(To help students understand this, teachers might draw a comparison to reading and writing a book like this versus a book like this)
+
+#### **Overview of important ROS concepts** 
 
 **ROS master:** A node that every other node register in order to communicate with each other. It is created by running roscore command (Detailed: [http://wiki.ros.org/Master](http://wiki.ros.org/Master))
 
@@ -91,18 +114,18 @@ See also: Exercise: Print out all of the topics running by entering “rostopic 
 
 **Important ROS Commands:**
 
-roslaunch: roslaunch is a tool for easily launching multiple ROS nodes locally and remotely via SSH, as well as setting parameters on the Parameter Server. (Detailed: [http://wiki.ros.org/roslaunch](http://wiki.ros.org/roslaunch))
+_roslaunch_: roslaunch is a tool for easily launching multiple ROS nodes locally and remotely via SSH, as well as setting parameters on the Parameter Server. (Detailed: [http://wiki.ros.org/roslaunch](http://wiki.ros.org/roslaunch))
 
-roscd: roscd allows you to change directories using a package name, stack name, or special location. (Detailed: [http://wiki.ros.org/rosbash#roscd](http://wiki.ros.org/rosbash#roscd))
+_roscd_: roscd allows you to change directories using a package name, stack name, or special location. (Detailed: [http://wiki.ros.org/rosbash#roscd](http://wiki.ros.org/rosbash#roscd))
 
-rostopic: rostopic contains the rostopic command-line tool for displaying debug information about ROS Topics, including publishers, subscribers, publishing rate, and ROS Messages. (Detailed: [http://wiki.ros.org/rostopic](http://wiki.ros.org/rostopic))
+_rostopic_: rostopic contains the rostopic command-line tool for displaying debug information about ROS Topics, including publishers, subscribers, publishing rate, and ROS Messages. (Detailed: [http://wiki.ros.org/rostopic](http://wiki.ros.org/rostopic))
+
+</div>
 
 **Publishers:** Publishers are used to publish specific message types to specific topics.
 
 **Subscribers:** Subscribers are used to read the messages being published to a ROS topic.
 
-
-</div>
 
 TODO: a flow chart of controlling a LED with IR sensor 
 
@@ -110,7 +133,7 @@ TODO: a flow chart of controlling a LED with IR sensor
 
 ### Ending The Lesson
 
-Recommended: X minutes/hours
+Recommended: 10 minutes
 
 - Go over any final questions.
 

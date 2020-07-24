@@ -125,4 +125,4 @@ Recommended: 5 minutes/hours
 
 **Useful Resources and References**
 
-- Teachers can see EdX lectures on PID Control: https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/course/#block-v1:BrownX+CS195R+2018_T1+type@chapter+block@0c4aafccbe244af093e640e6e81d9e26
+- Teachers can see [EdX lectures](https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/course/#block-v1:BrownX+CS195R+2018_T1+type@chapter+block@0c4aafccbe244af093e640e6e81d9e26) on PID Control
