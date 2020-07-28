@@ -58,7 +58,7 @@ For Teachers: Place to play a video, basestation with Cleanflight, and drone.
 
 Recommended: 10 minutes 
 
-Watch [this video](https://www.youtube.com/watch?time_continue=200&v=DSypZP3R0sQ&feature=emb_title). 
+[Watch this video](https://youtu.be/DSypZP3R0sQ) 
 
 While watching, pay attention to the following:
 
