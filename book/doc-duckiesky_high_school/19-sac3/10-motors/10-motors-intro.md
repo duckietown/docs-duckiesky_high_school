@@ -94,12 +94,6 @@ Actuators aren’t completely accurate, just like sensors aren’t always comple
 
 _Back EMF_: **Back electromotive force**, aka counter electromotive force, is the voltage that is emitted in opposition to the change in current of the motors. Each ESC has a small sensor that measures the back EMF and sends that information to the FC in order to monitor the motors as they are spinning. 
 
-</div>
-
-<figure>
-    <figcaption>3-Phase AC Diagram</figcaption>
-    <img style='width:16em' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kebamerica.com%2Fblog%2Fhow-a-3-phase-ac-induction-motor-works%2F&psig=AOvVaw1Wd9OWE6QrvhF6rVpx8tFU&ust=1596125891413000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDK2r708uoCFQAAAAAdAAAAABAD"/>
-</figure> 
 
 <!-- These explanations can probably all be transfered to the student book-->
 
@@ -126,3 +120,5 @@ TODO: Might be best to give another option of an activity that doesn't involve P
 **Useful Resources and References**
 
 The Actuators video of [this edX lecture](https://studio.edge.edx.org/container/block-v1:Brown+CSCI1951-R+2020_summer+type@vertical+block@bdea8a9b9fa0429b943bc371afaf185e). 
+
+This [more advanced explanation](https://www.kebamerica.com/blog/how-a-3-phase-ac-induction-motor-works/) of 3-Phase AC motors. 
