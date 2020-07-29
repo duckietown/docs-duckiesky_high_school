@@ -93,7 +93,7 @@ Actuators aren’t completely accurate, just like sensors aren’t always comple
 
 - _3-Phase AC_: Stands for **3-Phase Alternating Current** and describes how none of the currents from each of the 3 wires leading to the motor align at the same point, which creates the dissonance and the magnetic field. 
 
-_Back EMF_: **Back electromotive force**, aka counter electromotive force, is the voltage that is emitted in opposition to the change in current of the motors. Each ESC has a small sensor that measures the back EMF and sends that information to the FC in order to monitor the motors as they are spinning. 
+- _Back EMF_: **Back electromotive force**, aka counter electromotive force, is the voltage that is emitted in opposition to the change in current of the motors. Each ESC has a small sensor that measures the back EMF and sends that information to the FC in order to monitor the motors as they are spinning. 
 
 </div>
 
