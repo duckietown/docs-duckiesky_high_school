@@ -86,6 +86,7 @@ _Accuracy Explanation_=
 
 Actuators aren’t completely accurate, just like sensors aren’t always completely accurate, so there is a small sensor inside the ESC that gets feedback from the motor by measuring it’s back current (the voltage that comes back into the 3 wires while it’s spinning). This sensor allows our drone to monitor it's motor activity mid-flight. 
 
+
 <div class='requirements' markdown='1'>
 
 **Vocabulary**: 
@@ -94,6 +95,7 @@ Actuators aren’t completely accurate, just like sensors aren’t always comple
 
 _Back EMF_: **Back electromotive force**, aka counter electromotive force, is the voltage that is emitted in opposition to the change in current of the motors. Each ESC has a small sensor that measures the back EMF and sends that information to the FC in order to monitor the motors as they are spinning. 
 
+</div>
 
 <!-- These explanations can probably all be transfered to the student book-->
 
