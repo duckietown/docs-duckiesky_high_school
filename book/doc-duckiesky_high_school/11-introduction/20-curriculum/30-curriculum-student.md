@@ -10,6 +10,8 @@ Peyton
 
 :) Rachel Ma says hello!
 
+jose says "hi"
+
 Jake says: "Present"
 
 Dougierad in the house!
