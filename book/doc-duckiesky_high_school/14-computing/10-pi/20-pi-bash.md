@@ -2,9 +2,31 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: Hardware: Basestation, Build Part 1 completed; Previous lessons: Networking
+Requires: 
 
-Result: Knowledge: Computer file structure, Essential bash commands; Skills: Navigating computer directories in the terminal, Editing files through the command line
+**Hardware** - 
+
+- Basestation 
+
+- Drone (Build Part 1 completed)
+
+**Previous lesson** - [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/pi_networking.html) 
+
+
+Result: 
+
+**Knowledge** - 
+
+- Computer file structure
+
+- Essential bash commands
+
+
+**Skills** - 
+
+- Navigating computer directories in the terminal
+
+- Editing files through the command line
 
 </div>
 
@@ -22,7 +44,7 @@ operations, demonstrate the ability to choose, use and troubleshoot current tech
 
 ### Assessments and Evidence of Understanding
 
-The student's ability to complete the below Bash terminal task.
+By the end of this lesson, students should be able to complete the below Bash terminal task.
 
 ### AGENDA (Brief Summary of Activities)
 
@@ -37,11 +59,13 @@ The student's ability to complete the below Bash terminal task.
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials**
 
-For Students: Basestation, Current Drone Build
+Basestation, a projector (if needed) 
 
-For Teachers: Basestation, a projector (if needed) 
+**Classroom Set Up**
+
+Teachers can write a DO NOW on the board for students to set up their basestations.
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
@@ -50,11 +74,7 @@ For Teachers: Basestation, a projector (if needed)
 
 Recommended: 5 minutes
 
-Pre Class:
-
-Do Now: Teacher writes on the board for students to prepare their basestations
-
-Hook: Teachers can talk about the following or their own.
+See: **Hook**
 
 -  This will be a lesson for the student on Bash scripting and the Shell. It is important to learn how to utilize a shell as it is the introduction to the inner processes of the operating system.
 - Conceptually connect Bash to Markdown in the sense that the computer is being affected via text: the purpose of Bash is to “control” the computer vs whereas Markdown is utilized for the purpose of "visual layout"
@@ -63,7 +83,7 @@ Hook: Teachers can talk about the following or their own.
 
 Recommended: 40 minutes
 
-Teachers can either use a live demonstration via a projector using the Pi over ssh or utilize an online Bash tutorial that the students can work through. Potential resources for a Online Bash Shell Emulator and an online Bash tutorial are included at the end of this document.
+Teachers can either use a live demonstration via a projector using the Pi over ssh or utilize an online Bash tutorial (see _Useful Resources and References_ below) that the students can work through. 
 
 By the end of the Main Lesson, students should be able to:
 
@@ -79,7 +99,7 @@ TODO: Using a CLI Text Editor
 
 Recommended: 15 minutes
 
-Students should do the following steps with Bash commands to test out their knowledge of the terminal. They can do this through the Pi over ssh:
+Better: Exercise: Students should do the following steps with Bash commands to test out their knowledge of the terminal. They can do this through the Pi over ssh:
 
 -  Print the directory they are currently working in 
 

@@ -2,11 +2,15 @@
 
 <div class='requirements' markdown='1'>
 
+
 Requires: 
+
 **Hardware** - Unassembled drone kit.   
 **Previous lesson** - None.
 
+
 Result: 
+
 **Knowledge** - 
 
 - Basic components of robot hardware and software
