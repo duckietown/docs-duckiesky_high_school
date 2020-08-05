@@ -16,6 +16,9 @@ Signals and Connections
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 
+### Purpose
+
+Porivde students with the understanding of more complctaed electrical connections seen on the drone, and how these different connections allow for different types of communication within the drone.
 
 ### Assessments and Evidence of Understanding
 
