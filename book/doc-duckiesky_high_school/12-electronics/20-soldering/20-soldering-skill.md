@@ -16,7 +16,7 @@ Building Skill with Soldering
 
 ### Purpose
 
-Provide students with practical methods for improving and troubleshooting their soldering on the drone.
+Provide students with practical methods for improving their soldering on the drone.
 
 ### Assessments and Evidence of Understanding
 
