@@ -15,6 +15,9 @@ Simple Circuits
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 
+### Purpose:
+
+Give students the ability to recognize circuits within the drone.
 
 ### Assessments and Evidence of Understanding
 
