@@ -17,7 +17,7 @@ Simple Circuits
 
 ### Purpose:
 
-Give students the ability to recognize circuits within the drone.
+Give students a basic understanding of circuits used within the drone.
 
 ### Assessments and Evidence of Understanding
 
