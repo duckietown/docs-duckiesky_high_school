@@ -18,7 +18,7 @@ Voltage, Current, and Resistance
 
 ### Purpose
 
-Allow students to diagnose faulty circuits and understand the theory behind it.
+Teach students how to use a multimeter to diagnose faulty circuits.
 
 ### Assessments and Evidence of Understanding
 
