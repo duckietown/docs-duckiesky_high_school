@@ -16,6 +16,9 @@ Voltage, Current, and Resistance
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 
+### Purpose
+
+Allow students to diagnose faulty circuits and understand the theory behind it.
 
 ### Assessments and Evidence of Understanding
 
