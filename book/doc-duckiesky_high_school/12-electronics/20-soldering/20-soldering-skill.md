@@ -14,6 +14,9 @@ Building Skill with Soldering
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 
+### Purpose
+
+Provide students with practical methods for improving and troubleshooting their soldering on the drone.
 
 ### Assessments and Evidence of Understanding
 
