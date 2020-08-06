@@ -2,7 +2,7 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: No previous lessons or hardware are required.
+Requires: No previous lessons or hardware required.
 
 Result: 
 
@@ -25,10 +25,11 @@ _Common Core ELA pg. 65: 2. b._ Develop the topic with well-chosen, relevant, an
    
 
 ### Assessments and Evidence of Understanding
-
+By the end of this lesson, students will be able to understand ethical implications of technology and engineering. 
+Students will be able to do presentations, debates, or other activities assigned to show their understanding and brainstorming of possible ethical consequences. 
 
 ### AGENDA (Brief Summary of Activities)
-5 min: Introduction to the lesson. What is ethics and why it is important. 
+10 min: Introduction to the lesson. What is ethics and why it is important. 
 
 40 min: Introducing students to specific ethical implications of technological and engineering systems. 
 
@@ -37,18 +38,20 @@ _Common Core ELA pg. 65: 2. b._ Develop the topic with well-chosen, relevant, an
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials**
 
-For Students: Laptop (if desired by teachers)
+For Teachers: Projector for displaying videos or slides, Large sheets of paper and markers for student brainstorming, 
 
-For Teachers: Slides (if desired)
+**Classroom Set Up**
+
+Space for students to be able to work or discuss in groups. 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
 ### Introducing The Lesson
 
-Recommended: 5 minutes/hours
+Recommended: 10 minutes/hours
 
 Teachers introduce ethics and explain why it is significant. 
 
@@ -62,25 +65,17 @@ See also: When there is a difficult situation, there are multiple possible solut
 
 See also: Universal Declaration of Human Rights regarding ethics
 
+Better: Exercise: Group Brainstorm: Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics (examples: Back to the Future, Spiderman: Far From Home).
+
 - Teachers explain the importance of ethics: 
 
 See also: By considering ethics during decision making, we can make better decisions that would benefit individuals and society as a whole.
 
-
 See also: Specifically for ethical issues that are related to AI, they can be split into three different categories. 
 
-The ethical implications of what AI is: 
+See: The ethical implications of what AI is: Bias and Fairness; Accountability and Remediability; Transparency, Interpretability, and Explainability.  
 
-1. Bias and Fairness  
-2. Accountability and Remediability  
-3. Transparency, Interpretability, and Explainability  
-
-The ethical implications related to what AI does: 
-
-1. Safety  
-2. Human-AI interaction  
-3. Cyber-security and Malicious Use  
-4. Privacy, Control, and Agency  
+See: The ethical implications related to what AI does: Safety; Human-AI interaction; Cyber-security and Malicious Use; Privacy, Control, and Agency  
 
 ### Main Lesson
 
@@ -215,7 +210,7 @@ See also: This can result in racial bias by algorithms, and in the case of auton
 
 See also: In 2014, MIT has created a series of questions and scenarios that involve autonomous cars and artificial intelligence, which is known as the Moral Machine. The Moral Machine asks people which choices autonomous cars should make when facing different variations of the trolley problem (Technology Review). 
 
-- Students can read about the Moral Machine and try out some of the questions on this interactive website here: https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html
+Better: Exerice: Students can try out some of the questions of the Moral Machine on this interactive [website](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html)
 
 The Moral Machine focuses on 9 different themes: 
 
@@ -237,7 +232,7 @@ The Moral Machine focuses on 9 different themes:
 
 See also: The results of the Moral Machine was closely related with culture and economics (Technology Review). 
 
-See: Students may read this article: https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/ to learn more about the experiment and findings.
+See: Students may read this [article](https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/) to learn more about the experiment and findings.
 
 See also: While this is presented in a very "game" like way, it is very interesting to take into consideration moral concepts that we think about in extreme situations. 
 
@@ -308,7 +303,7 @@ and https://www.wired.com/story/security-robotics/
 
 - Teachers can teach that there has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
 
-See also: Students can watch this video to learn more about Slaughterbots: https://www.youtube.com/watch?v=9CO6M2HsoIA
+See also: Students can watch this [video](https://www.youtube.com/watch?v=9CO6M2HsoIA) to learn more about Slaughterbots 
 
 #### International Traffic in Arms Regulations (ITAR)
 
@@ -395,7 +390,7 @@ to-access locations, Supporting damage assessments, Increasing situational aware
 
 - Teachers can teach that with the development of AI, there has been a growing reliance on them as tools in our daily lives. They have a large impact on all of us: 
 
-- Interesting video that can be watched: https://youtu.be/7Pq-S557XQU?
+- Interesting [video](https://youtu.be/7Pq-S557XQU?) that can be watched: 
 
 See also: Ethical implications related to what AI can impact: 
 
@@ -407,9 +402,7 @@ See also: Human-Human or Human-Agent interaction: As explored slightly in the me
 
 ##### Possible Assignments or Discussion Topics: 
 
-- As stated before students can read about the Moral Machine and try out some of the questions on this interactive website here: https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html. 
-
-- Teachers can assign or engage students about ethics through a variety of ways (presentations/debates/discussions) on many possible topics such as: 
+Better: Exercise: Teachers can assign a research based group project to students (presentations/debates/discussions) on many possible topics such as: 
 
 See also: Should code for large scale systems be open or closed source?
 
@@ -417,6 +410,7 @@ See also: Should autonomous cars be allowed on the road? Should robots be allowe
 
 See also: Should autonomous drones/systems be used in military operations? Should they be treated similarly to chemical weapons? 
 
+Better: Exercise: Teachers could also assign a short report or essay to students on a component from the lesson that they are interested in (scientific writing). 
 
 ### Ending The Lesson
 
@@ -426,17 +420,26 @@ Recommended: 5 minutes/hours
 
 - Teachers remind that there will be a safety module for the course coming up in one of the future classes:   
 
+**Glossary of Terms**
+Ethics: 
+AI: 
+DL:
+ML: 
+
+
+
 **Useful Resources and References**
 
 More information about the MCAS system for the Boeing 737 MAX: 
-https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ and https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa
+1. https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ 
 
-https://www.bbc.com/news/business-50177788
+2. https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa
 
-Paper: Predictive Inequity in Object Detection: 
-https://arxiv.org/pdf/1902.11097.pdf
+3. https://www.bbc.com/news/business-50177788
+
+4. [Paper on Predictive Inequity in Object Detection](https://arxiv.org/pdf/1902.11097.pdf)
 
 Moral machine links: 
-https://www.moralmachine.net
-https://doi.org/10.1038/s41586-018-0637-6 
-https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html
+5. https://www.moralmachine.net
+6. https://doi.org/10.1038/s41586-018-0637-6 
+7. https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html
