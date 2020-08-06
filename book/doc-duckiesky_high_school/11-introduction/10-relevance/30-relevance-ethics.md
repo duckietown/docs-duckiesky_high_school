@@ -2,9 +2,13 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: No previous lessons are required.
+Requires: No previous lessons or hardware are required.
 
-Result: Students will be able to learn about what ethics is and why it is important. They will also be introduced to ethical challenges in computer science and engineering including algorithmic bias, accessibility concerns, and human job security. 
+Result: 
+
+- Students will be able to learn about what ethics is and why it is important. 
+
+- They will also be introduced to ethical challenges in computer science and engineering including algorithmic bias, accessibility concerns, and human job security. 
 
 </div>
 
@@ -12,12 +16,12 @@ Result: Students will be able to learn about what ethics is and why it is import
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
-- ISTE 2. a. cultivate and manage their digital identity and reputation and are aware of the permanence of their actions in the
+_ISTE 2. a._ cultivate and manage their digital identity and reputation and are aware of the permanence of their actions in the
 digital world.
 
-- Influence of Science, Engineering, and Technology on Society and the Natural World. Modern civilization depends on major technological systems. Engineers continuously modify these technological systems by applying scientific knowledge and engineering design practices to increase benefits while decreasing costs and risks. 
+Influence of Science, Engineering, and Technology on Society and the Natural World. Modern civilization depends on major technological systems. Engineers continuously modify these technological systems by applying scientific knowledge and engineering design practices to increase benefits while decreasing costs and risks. 
 
-- Common Core ELA pg. 65: 2. b. Develop the topic with well-chosen, relevant, and sufficient facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience’s knowledge of the topic.
+_Common Core ELA pg. 65: 2. b._ Develop the topic with well-chosen, relevant, and sufficient facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience’s knowledge of the topic.
    
 
 ### Assessments and Evidence of Understanding
