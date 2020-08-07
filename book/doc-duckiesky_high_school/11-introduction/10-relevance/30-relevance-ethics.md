@@ -51,7 +51,7 @@ Space for students to be able to work or discuss in groups.
 
 ### Introducing The Lesson
 
-Recommended: 10 minutes/hours
+Recommended: 10 minutes
 
 Teachers introduce ethics and explain why it is significant. 
 
@@ -79,7 +79,7 @@ See: The ethical implications related to what AI does: Safety; Human-AI interact
 
 ### Main Lesson
 
-Recommended: 40 minutes/hours
+Recommended: 40 minutes
 
 - Teachers will teach students about important ethical problems that are present in technology, autonomous systems, and engineering.
 
@@ -414,7 +414,7 @@ Better: Exercise: Teachers could also assign a short report or essay to students
 
 ### Ending The Lesson
 
-Recommended: 5 minutes/hours
+Recommended: 5 minutes
 
 - Teachers can summarize ethics and the large positive and negative benefits of AI
 
@@ -443,3 +443,4 @@ Moral machine links:
 5. https://www.moralmachine.net
 6. https://doi.org/10.1038/s41586-018-0637-6 
 7. https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html
+
