@@ -38,9 +38,9 @@ Result:
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Teacher Materials**
+**Teacher Materials:**
 
-**Classroom Setup**
+**Classroom Setup:**
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -50,7 +50,7 @@ Result:
 
 Recommended: X minutes
 
-See: **Hook**
+**Hook:**
 
 ### Main Lesson
 
