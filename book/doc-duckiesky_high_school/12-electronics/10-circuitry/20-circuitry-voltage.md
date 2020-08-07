@@ -16,6 +16,9 @@ Voltage, Current, and Resistance
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 
+### Purpose
+
+Teach students how to use a multimeter to diagnose faulty circuits.
 
 ### Assessments and Evidence of Understanding
 

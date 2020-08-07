@@ -15,6 +15,9 @@ Troubleshooting Soldering
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 
+### Purpose
+
+Give students a plethera of possible problems that could occur during soldering of the drone, and provide solutions to these common issues.
 
 ### Assessments and Evidence of Understanding
 

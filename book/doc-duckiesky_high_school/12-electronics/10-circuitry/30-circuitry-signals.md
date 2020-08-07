@@ -5,7 +5,7 @@
 Requires: Uncompleted drone kit
 
 Result: Ability to identify different electrical connections used on the drone and the advantages of each, know the definition of signals and where they are used on the drone
-udnerstand the differences between and varying advantages of analog and digital signals, understand that values, properties, and concepts can be encoded into numbers and the purpose thereof, and know advantages of binary as a number system.
+understand the differences between and varying advantages of analog and digital signals, understand that values, properties, and concepts can be encoded into numbers and the purpose thereof, and know advantages of binary as a number system.
 
 
 </div>
@@ -16,6 +16,9 @@ Signals and Connections
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 
+### Purpose
+
+Provide students with the understanding of more complicated electrical connections on the drone, and how these different connections allow for various types of communication within the drone.
 
 ### Assessments and Evidence of Understanding
 

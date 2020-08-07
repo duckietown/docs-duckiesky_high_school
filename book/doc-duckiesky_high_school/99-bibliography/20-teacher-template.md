@@ -2,9 +2,23 @@
 
 <div class='requirements' markdown='1'>
 
+
 Requires: 
 
+**Hardware** -    
+**Previous lesson** - 
+
+
 Result: 
+
+**Knowledge** - 
+
+- <!--info-->
+
+
+**Skills** - 
+
+-  <!--info-->
 
 </div>
 
@@ -24,11 +38,9 @@ Result:
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials**
 
-For Students:
-
-For Teachers:
+**Classroom Setup**
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -36,17 +48,21 @@ For Teachers:
 
 ### Introducing The Lesson
 
-Recommended: X minutes/hours
+Recommended: X minutes
 
+See: **Hook**
 
 ### Main Lesson
 
-Recommended: X minutes/hours
+Recommended: X minutes
 
+Better: Exercise:
 
 ### Ending The Lesson
 
-Recommended: X minutes/hours
+Recommended: X minutes
 
 
 **Useful Resources and References**
+
+1. <!--info-->
