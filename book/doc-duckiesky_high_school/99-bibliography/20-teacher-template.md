@@ -29,9 +29,15 @@ Result:
 
 ### Assessments and Evidence of Understanding
 
+By the end of this lesson, students should be able to ...
 
 ### AGENDA (Brief Summary of Activities)
 
+X min: <!--insert time slot 1 (add or delete these as needed)-->
+
+X min: <!--insert time slot 2 (add or delete these as needed)-->
+
+X min: <!--insert time slot 3 (add or delete these as needed)-->
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
