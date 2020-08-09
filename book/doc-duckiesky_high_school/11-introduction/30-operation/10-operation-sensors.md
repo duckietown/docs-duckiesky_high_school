@@ -5,8 +5,8 @@
 
 Requires: 
 
-**Hardware** - Unassembled drone kit.   
-**Previous lesson** - None.
+**Hardware** - Unassembled drone kit   
+**Previous lesson** - None
 
 
 Result: 
@@ -30,21 +30,23 @@ Result:
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+_NGSS: HS - PS4 - 5_: Communicate technical information about how some technological devices use the principles of wave behavior and wave interactions with matter to transmit and capture information and energy.
 
+_ISTE: 1. d._: Understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 ### Assessments and Evidence of Understanding
 
-Students at the end of this lesson should be able to describe the basic components of a robot and point to what everything in their drone kit is. 
+By the end of this lesson, students should be able to describe the basic components of a robot and identify every part in their drone kit. 
 <!-- Potentially could put a link to a "label the parts" kind of assesment if wanted -->
 
 
 ### AGENDA (Brief Summary of Activities)
 
-1. Quick lecture about robot anatomy 
+15 min: Discussion questions about robot anatomy 
 
-2. Comprehensive disscussion with class 
+35 min: Learn drone parts with worksheet activity  
 
-3. Going through the physical parts of the drone and labeling their use 
+10 min: Game to assess ability to identify drone parts  
 
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
@@ -52,13 +54,13 @@ Students at the end of this lesson should be able to describe the basic componen
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials:**
 
-For Students: The drone kit 
+The drone kit, worksheets printed out 
 
-For Teachers: The  drone kit 
+**Classroom Set Up:**
 
-<!-- I don't think we need differentiation, advanced prep, or materials needed because this is a short lesson, but I'll leave them in there for now just in case-->
+The students' drone kits can be placed at their desks before class. 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -68,19 +70,16 @@ For Teachers: The  drone kit
 
 Recommended: 15 minutes 
 
-1. Introduce Important Vocabulary 
+**Hook:**
 
-<div class='requirements' markdown="1">
+Before students start building their drone, they need to be able to identify all of the components in their drone kit and, on a surface level, understand how they interact with each other. Even though these parts are specific to our drone, every robot has some combination of sensors, actuators, and controllers to accomplish their goal. Emphasize that, by the end of this class, this pile of parts will be a working drone, and knowing what the parts are is the first step to accomplishing that. 
 
-**Sensors** - parts on a robot that allow it to _sense_, or estimate, its own conditions or environment 
+1. Introduce Important Vocabulary:
 
-**Actuators** - parts on a robot that use energy to _interact_ with its environment
+Definitions found in the students book [here](https://docs.duckietown.org/daffy/duckiesky_high_school_student/out/introduction_operation_sensors.html). 
 
-**Controller** - connects the input from the sensors to create an output from the actuators in order to accomplish a goal 
 
-</div>
-
-2. Possible Class Discussion Questions: 
+2. Class Discussion Questions:
 
 Note: This is an optional discussion based on the engagement of your class. If this seems too basic, feel free to skip through the introduction. 
 <!-- this might not have to be said idk-->
@@ -111,86 +110,19 @@ Q: What are the _controllers_ that humans have to combine input and control acti
 A: The brain, spinal cord, control loops (handle reflexes, homeostasis, blood flow etc. based on outside information without having to conciosly think about it) 
 
 
-
 ### Main Lesson
 
 Recommended: 35 minutes/hours
 
-Note: These are the simple definitions of the parts to get a basic understanding. Everything will be described in greater detail later in the book. 
+Go through each of the Sensors, Actuators, and Controllers in the drone kit while having students take out each part and lay them out on their desk. 
 
-- Sensors in your drone: 
+See: Students can use this graphic organizer to fill in the name, type, and purpose of each part. 
 
-
-1. **Infared Sensor (IR)** - measures the distance to an object (or the ground) using infared beams, then uses the cable to report it 
-
-<figure>
-    <figcaption>IR + IR Sensor Cable</figcaption>
-    <img style='width:16em' src="https://docs.duckietown.org/daffy/opmanual_sky/out/assets/data-from-img-ir-e874dd15.png"/>
-</figure> 
+Note: The student book has simple definitions of drone parts to get a basic understanding. Everything will be described in greater detail later in the book. 
 
 
-2. **Camera** - observes 2D images of the world to allow the drone to determine its planar position and speed 
+Better: Exercise: While discussing propellers in the actuators portion, ask your students to identify which of their propellers are clockwise and which are counterclockwise using the arrows. Have them think critically about which propellers would have to be attached to which arm and spin when trying to preform different flying tasks (ex. flying up and straight, flying to the right without losing hight, etc.). If helpful, students could use this diagram to draw on and visualize the motion of the motors and propellers. 
 
-<figure>
-    <figcaption>Camera (Pi Cam) + Flexible Flat Cable (FFC)</figcaption>
-    <img style='width:16em' src="https://docs.duckietown.org/daffy/opmanual_sky/out/assets/data-from-img-cam-6416de2c.png"/>
-</figure> 
-
-
-3. **Inertial Measurement Unit (IMU)** - sensor on your flight controller (FC) that allows the drone to tell how it is accelerating and rotating in all 3 dimensions
-
-<figure>
-    <figcaption>Flight Controller (FC) with IMU</figcaption>
-    <img style='width:16em' src="https://docs.duckietown.org/daffy/opmanual_sky/out/assets/data-from-img-fc-31280b0a.png"/>
-</figure> 
-
-<!-- need to put in the part about roll, pitch, yaw with the paper airplane excercise--> 
-
-
-- Actuators on your drone: 
-
-1. **Motors** - actuators that spin at a variable RPM (revolutions per minute) depending on how much power it recieves (quantaty = 4)
-
-<figure>
-    <figcaption>2 CW and 2 CCW Motors</figcaption>
-    <img style='width:16em' src="https://docs.duckietown.org/daffy/opmanual_sky/out/assets/data-from-img-2205_2300kv_brushless_motors_red-5ef15e4a.jpg"/>
-</figure> 
-
-2. **Propellers** - device with blades attached to motors to turn rotational motion into thrust (quantity = 4) 
-
-<figure>
-    <figcaption>2 Clockwise and 2 Counterclockwise Blade Propellers</figcaption>
-    <img style='width:16em' src="https://docs.duckietown.org/daffy/opmanual_sky/out/assets/data-from-img-props-0d9497a1.png"/>
-</figure> 
-
-See also: Optional activity - The propellers will attach to the motors, which will attach to the 4 arms of your drone. Ask your students to identify which of their propellers are clockwise and which are counterclockwise using the arrows. A possible excersise is to have them think critically about which propellers would have to be attached to which arm and move when trying to preform different flying tasks (ex. flying up and straight, flying to the right without losing hight, etc.). 
-
-3. **LED** - actuator that lights up that you will be using in some experiments 
-
-- Controllers in your drone: 
-<!-- make the distinction between controllers and computers?-->
-
-1. **Electronic Speed Controllers (ESCs)** - small computers that react extremely quickly to accomplish to simply keep the motors spinning at a particular speed by sending it a variable amount of power based on the input it recieves (quantity = 4)
-
-<figure>
-    <figcaption>1 ESC for each Motor</figcaption>
-    <img style='width:16em' src="https://docs.duckietown.org/daffy/opmanual_sky/out/assets/data-from-img-esc-resized-1024-07963732.jpg"/>
-</figure> 
-
-2. **Flight Controller** - computer that connects the IMU sensor to the ESCs and motors to react quickly in order to fly the drone at a particular angle 
-<!--this definition is wordy-->
-
-<figure>
-    <figcaption>Flight Controller</figcaption>
-    <img style='width:16em' src="https://docs.duckietown.org/daffy/opmanual_sky/out/assets/data-from-img-fc_labeled-resized-1024-79c845dc.jpg"/>
-</figure> 
-
-3. **Raspberry Pi** - more powerful computer that accomplishes a complicated goal, such as flying at a particular speed or to a particular position (it excecutes specific code loaded via an SD card)
-
-<figure>
-    <figcaption>Raspberry Pi Model B</figcaption>
-    <img style='width:16em' src="https://docs.duckietown.org/daffy/opmanual_sky/out/assets/data-from-img-pi_on_box-327809ca.png"/>
-</figure>
 
 ### Ending The Lesson
 
@@ -198,13 +130,25 @@ Recommended: 10 minutes
 
 - Make sure that your students can identify every part of the drone, so they aren't confused on vocabulary during the build. 
 
-See also: Tangible games to enhance learning: Call out a part and see who can grab theirs first. You could also have them sort all of their parts into actuators, sensors, controllers, and other on their desk. 
+Better: Exercise: The teacher can call out the name of a part and see which student can grab theirs first. You could also have them sort all of their parts into groups (actuators, sensors, controllers, and other) on their desk. 
+
+Better: Exercise: The teacher could also hold up a part or show a picture of a part on the screen, and the students could raise their hand to say (or write down): 
+
+1. The name of the component (no acronyms) 
+
+2. Whether it is an actuator, sensor or controller
+
+3. What that device does
+
+4. How it functions (might not be covered indepth)
+
+5. What does it interface with
 
 - Understand that all of these components are just building blocks that can be put together to build a drone, but that can also be used in robotics to accomplish a multitude of tasks. 
 
-See also: Have your students come up with another use for a part or combination of parts that would allow a robot to do something other than fly a drone. Encourage them to use the vocabulary from this lesson in their responses. 
+See also: Journal activity: Have your students come up with another use for a part or combination of parts that would allow a robot to do something other than fly a drone. Encourage them to use the vocabulary from this lesson in their responses. 
 
 
 **Useful Resources and References**
  
-[Explanation of Drone Flight Dynamics](https://www.mathworks.com/videos/drone-simulation-and-control-part-1-setting-up-the-control-problem-1539323440930.html)
+1. [Explanation of Drone Flight Dynamics](https://www.mathworks.com/videos/drone-simulation-and-control-part-1-setting-up-the-control-problem-1539323440930.html)
