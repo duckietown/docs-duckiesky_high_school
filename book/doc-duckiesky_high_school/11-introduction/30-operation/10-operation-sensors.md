@@ -60,7 +60,7 @@ The drone kit, worksheets printed out
 
 **Classroom Set Up:**
 
-The students' drone kits can be placed at their desks before class. 
+The students' drone kits can be placed at their desks before class 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -76,7 +76,7 @@ Before students start building their drone, they need to be able to identify all
 
 1. Introduce Important Vocabulary:
 
-Definitions found in the students book [here](https://docs.duckietown.org/daffy/duckiesky_high_school_student/out/introduction_operation_sensors.html). 
+Definitions found in the student book [here](https://docs.duckietown.org/daffy/duckiesky_high_school_student/out/introduction_operation_sensors.html). 
 
 
 2. Class Discussion Questions:
@@ -116,7 +116,7 @@ Recommended: 35 minutes/hours
 
 Go through each of the Sensors, Actuators, and Controllers in the drone kit while having students take out each part and lay them out on their desk. 
 
-See: Students can use this graphic organizer to fill in the name, type, and purpose of each part. 
+See: Students can use [this graphic organizer](https://drive.google.com/file/d/1iIpJAF2NXWRicVxZYYPC2b7Poj-JN0EJ/view?usp=sharing) to fill in the name, type, and purpose of each part. 
 
 Note: The student book has simple definitions of drone parts to get a basic understanding. Everything will be described in greater detail later in the book. 
 
@@ -144,7 +144,7 @@ Better: Exercise: The teacher could also hold up a part or show a picture of a p
 
 5. What does it interface with
 
-- Understand that all of these components are just building blocks that can be put together to build a drone, but that can also be used in robotics to accomplish a multitude of tasks. 
+Note: Teacher should make sure the students understand that all of these components are just building blocks that can be put together to build a drone, but that can also be used in robotics to accomplish a multitude of tasks. 
 
 See also: Journal activity: Have your students come up with another use for a part or combination of parts that would allow a robot to do something other than fly a drone. Encourage them to use the vocabulary from this lesson in their responses. 
 
