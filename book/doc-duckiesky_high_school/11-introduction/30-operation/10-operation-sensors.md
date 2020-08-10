@@ -121,7 +121,7 @@ See: Students can use this graphic organizer to fill in the name, type, and purp
 Note: The student book has simple definitions of drone parts to get a basic understanding. Everything will be described in greater detail later in the book. 
 
 
-Better: Exercise: While discussing propellers in the actuators portion, ask your students to identify which of their propellers are clockwise and which are counterclockwise using the arrows. Have them think critically about which propellers would have to be attached to which arm and spin when trying to preform different flying tasks (ex. flying up and straight, flying to the right without losing hight, etc.). If helpful, students could use this diagram to draw on and visualize the motion of the motors and propellers. 
+Better: Exercise: While discussing propellers in the actuators portion, ask your students to identify which of their propellers are clockwise and which are counterclockwise using the arrows. Have them think critically about which propellers would have to be attached to which arm and spin when trying to preform different flying tasks (ex. flying up and straight, flying to the right without losing hight, etc.). If helpful, students could use [this diagram](file:///Users/pkstrong/Desktop/Propeller%20Worksheet%20.html) to draw on and visualize the motion of the motors and propellers. 
 
 
 ### Ending The Lesson
