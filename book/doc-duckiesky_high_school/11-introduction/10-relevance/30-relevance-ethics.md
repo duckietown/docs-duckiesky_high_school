@@ -287,14 +287,15 @@ Recommended: 5 minutes
 
 **Ethics:** The term ethics originated from the word "ethos", which is Greek for "way of living" (BBC). Ethics incorporates moral principles and values. It affects how we choose to live our lives, what we think is wrong and right, and what our responsibilities are (BBC).
 
-AI: 
-DL:
-ML: 
+**AI:** Artificial Intelligence allows systems to gain the potential to accomplish tasks that usually requires the intelligence of humans or decision making skills. 
+
+**DL:** Deep Learning is a portion of AI that replicates the human brain by processing data involved with object and speech recognition, and making decision. It enables AI to learn without guidance of humans, and relies on data matching and analysis algorithms from data that can be unstructured and unlabelled (Investopedia). 
+
+**ML:**  Machine Learning is a portion of AI that lets systems automatically learn and improve from their experiences without programming it into the system. 
+
 **Open source code:** when the source code can be accessible by the public. 
+
 **Closed source code:** when the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to.
-
-stockpiled and non stockpiled.
-
 
 **Useful Resources and References**
 
