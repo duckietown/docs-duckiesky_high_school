@@ -40,8 +40,6 @@ _NGSS: HS - ETS1 - 2_: Design a solution to a complex real-world problem by brea
 _ISTE: 1. d._: Understand the fundamental concepts of technology
 operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
-
-
 ### Assessments and Evidence of Understanding
 
 By the end of this lesson, students should be able to complete the below Bash terminal task.

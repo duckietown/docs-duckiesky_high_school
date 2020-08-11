@@ -2,9 +2,21 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: Hardware: basestation; Previous lessons: Git and Github
 
-Result: Knowledge: Definition and uses of markdown; Skills: Ability to program in Markdown via formating and styling text using the Markdown language, Ability to submit pull requests to the curriculum
+Requires: 
+
+**Hardware** - Basestation
+**Previous lesson** - Git and Github
+
+
+Result: 
+
+**Knowledge** - Definition and uses of markdown
+
+**Skills** - 
+
+- Ability to program in Markdown via formating and styling text using the Markdown language
+- Ability to submit pull requests to the curriculum
 
 </div>
 
@@ -13,11 +25,11 @@ Result: Knowledge: Definition and uses of markdown; Skills: Ability to program i
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-
+__ISTE: 1. c.__: Use technology to seek feedback that informs and improves their practice and to demonstrate their learning in a variety of ways.
 
 ### Assessments and Evidence of Understanding
 
-The student's ability to submit a pull request to alter a Duckiesky page.
+By the end of this lesson, students should be able to submit a pull request to alter a Duckiesky page.
 
 ### AGENDA (Brief Summary of Activities)
 
@@ -59,6 +71,18 @@ Hook: Teachers can talk about the following or their own.
 ### Main Lesson
 
 Recommended: 45 minutes
+
+
+- Teacher's demonstrate how our textbooks are hosted through Github
+- Students will be able to submit pull requests to make changes to the books directly that can be approved by the DuckieSky team!
+- The books are written in Markduck, which will be covered in the next lesson
+
+TODO: Insert a Video Demo of editing our documents using GitHub
+
+Teachers either can do a live demo of the process demonstrated in the video above of the or show the video to the class.
+
+- [Here](https://docs.duckietown.org/DT19/duckumentation/out/duckumentation_contribute_simple.html) is the Duckietown documentation on how to edit and submit pull requests the documentation with GitHub.
+- [This](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/doc-duckiesky_high_school/out/) is the location of the teacher-based book that should be used to demonstrate the repository.
 
 1. Students learn what Markdown and Marduck are used for 
 
