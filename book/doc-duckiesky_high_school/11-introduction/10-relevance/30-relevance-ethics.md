@@ -55,11 +55,11 @@ Recommended: 10 minutes
 
 - Explain the origin of the term ethics: 
 
-See also: The term ethics comes from the word "ethos", which is Greek for "way of living" (BBC). 
+See also: the word "ethos", which is Greek for "way of living" (BBC). 
 
 - Explain what is ethics: 
 
-See also: When there is a difficult situation, there are multiple solutions. Ethics consists of moral principles and values. It affects how we choose to live our lives, what we think is wrong and right, and what our responsibilities are (BBC).
+See also: Ethics incorporates moral principles and values. It affects how we choose to live our lives, what we think is wrong and right, and what our responsibilities are (BBC).
 
 See also: Universal Declaration of Human Rights regarding ethics
 
@@ -67,7 +67,7 @@ Better: Exercise: Group Brainstorm: Have students come up with movie or pop cult
 
 - Explain the importance of ethics: 
 
-See also: By considering ethics during decision making, we can make better decisions that would benefit individuals and society as a whole.
+See also: By considering ethics, we can make better decisions that would benefit individuals and society as a whole.
 
 See also: The ethical implications of what AI is: Bias and Fairness; Accountability and Remediability; Transparency, Interpretability, and Explainability.  
 
@@ -77,7 +77,9 @@ See also: The ethical implications related to what AI does: Safety; Human-AI int
 
 Recommended: 40 minutes
 
+
 - In this lesson, students will learn about important ethical problems that are present in technology, autonomous systems, and engineering.
+
 
 
 ##### Correctness and Uncertainty of Algorithms and Autonomous Systems
@@ -95,7 +97,7 @@ See also: Decisions will be less influenced by human emotions. The systems can l
 
 - Explain the disadvantages of AI autonomous systems and the use of algorithms in decision making processes: 
 
-See also: The algorithms may not represent all the factors that are related to a situation. There is also always chances that unexpected consequences will happen. Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
+See also: Not all factors may be represented. Unexpected consequences may happen. Also, the way that AI systems learn and their actions may become more unpredictable with more complicated tasks (Yampolskiy). 
 
 
 #### Example: Husky Vs Wolf In Image Identification
@@ -227,7 +229,7 @@ See also: The Chinese government began experimenting with social credit scores i
 
 See also: This is being implemented with the help of AI and facial recognition. 
 
-See also: There has been many concerns with the use of China's social credit system, fears about leading to social inequality and alienation. There are also fears of preventing a free market economy. While the benefits include trying to reduce the amount of crimes or bad habits of people. 
+See also: There has been many concerns with the use of China's social credit system (social inequality and alienation, lack of free market). There are also benefits (reduce the amount of crimes/bad habits). 
 
 <!-- 
 https://time.com/collection/davos-2019/5502592/china-social-credit-score/
@@ -279,10 +281,6 @@ See also: [website](https://digitalguardian.com/blog/what-itar-compliance)
 
 See also: In the US, there are two types of chemical warfare agents: stockpiled and non stockpiled. 
 
-See also:"In 1996, it was mandated that all stockpiles of lethal chemical agents must be destroyed. 
-
-See also: In 1997, the US ratified Chemical Weapons Convention Treaty and agreed to destory any remaining stockpiles of chemical warfare agents to no later than April 29, 2012" (CDC).
-
 See also: There has been much debate if autonomous weapons should be treated like chemical weapons? Should they also be prohibited from use and fully destroyed? 
 
 <!-- https://www.cdc.gov/nceh/demil/history.htm --> 
@@ -291,11 +289,9 @@ See also: There has been much debate if autonomous weapons should be treated lik
 
 - Explain that AI/autonomous systems and their impact on medicine and healthcare.
 
-See also: This includes the uses of robots to help with identification, medical diagnosis, treatment, or surgery. It also includes the uses of robots to help keep elderly, disabled, young children, or patients company and to surpervise them. While there are many benefits such as being able to take care and monitor health of whoever they are responsible for and can provide them with company, there are several ethical concerns:
+- They can be used for many things (ex: caretaker robots, IDs, etc). 
 
-See: Privacy/Security: Robots that spend a lot of time monitoring their patients or people that they are responsible for, may have the capability to be tapped into.Especially in the medical field, these robots may contain snippets of important information such as health records, or video feeds of their patients. 
-
-See: Trust between robots and humans, and their interactions: Humans have emotions while robots do not. Humans may have the capability to trust their robots too much, which can result in harm from the remote or manipulation of humans. 
+- There are many benefits, but there are important ethical implications such as privacy/security, trust between robots and humans, and their interactions. 
 
 #### The Emergency Exit Robot Study, Georgia Tech Howard
 
@@ -326,7 +322,7 @@ See also: UAVs have potential in three areas: humanitarian, development, and pea
 
 See also: In 2013, the UN has launched the first UAV mission to help protect civilians in the Democratic Republic of Congo (UN News). 
 
-See also: Read this article for more information: https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un and https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr 
+See also: Read this [article](https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un) for more information and [this](https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr)
 
 See also: "The most promising uses of drones include: Mapping, Delivering lightweight essential items to remote or hard-
 to-access locations, Supporting damage assessments, Increasing situational awareness, Monitoring changes" (Relief Web).
