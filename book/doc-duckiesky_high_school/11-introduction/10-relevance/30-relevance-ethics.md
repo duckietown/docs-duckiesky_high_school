@@ -373,9 +373,8 @@ Ethics:
 AI: 
 DL:
 ML: 
-See also: Open source code means that the source code can be accessed by the public. 
-
-See also: Closed source code means that the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to. 
+Open source code: when the source code can be accessible by the public. 
+Closed source code: when the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to. 
 
 
 **Useful Resources and References**
