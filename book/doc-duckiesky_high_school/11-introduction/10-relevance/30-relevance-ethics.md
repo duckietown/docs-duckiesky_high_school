@@ -8,7 +8,7 @@ Result:
 
 - Students will be able to learn about what ethics is and why it is important. 
 
-- They will also be introduced to ethical challenges in computer science and engineering including algorithmic bias, accessibility concerns, and human job security. 
+- Students will be introduced to ethical challenges in computer science and engineering including algorithmic bias, accessibility concerns, and human job security. 
 
 </div>
 
@@ -40,7 +40,10 @@ Students will be able to do presentations, debates, or other activities assigned
 
 **Teacher Materials**
 
-For Teachers: Projector for displaying videos or slides, Large sheets of paper and markers for student brainstorming, 
+For Teachers: 
+
+- Projector for displaying videos or slides
+- Large sheets of paper and markers for student brainstorming in small groups
 
 **Classroom Set Up**
 
@@ -53,13 +56,13 @@ Space for students to be able to work and discuss in small groups.
 
 Recommended: 10 minutes
 
+Better: Exercise: Group Brainstorm: Ask students brainstorm on paper in groups about ethics and important/common topics addressed by ethics. Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics (examples: Back to the Future, Spiderman: Far From Home).
+
 - Explain the origin of the word ethics
 
 - Explain what is ethics
 
 See also: Universal Declaration of Human Rights regarding ethics
-
-Better: Exercise: Group Brainstorm: Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics (examples: Back to the Future, Spiderman: Far From Home).
 
 - Explain the importance of ethics: 
 
@@ -85,18 +88,9 @@ Recommended: 40 minutes
 - Explain an example of algorithmic inaccuracy due to unfair/unrepresentative data example:  
 
 See also: University of Washington created an image classifier that can differentiate between wolves and huskies (Medium). Some photos were incorrectly classified.
-<!--
-Source: Ribeiro, Singh, Guestrin, Why Should I Trust You? Published in 2016
 
-and 
-
-https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
-10.13140/RG.2.2.22973.31207
-
-and
-
-https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08 
--->
+See: [Paper](https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
+10.13140/RG.2.2.22973.31207) about Fairness involved in Algorithms that undergo ML
 
 #### Example: Artificial Neural Network to predict risk of pneumonia patients
 
@@ -104,8 +98,7 @@ https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798
 
 See also: University of Pittsburgh studied a system used to predict the risk of pneumonia patients. From the data it was learning from, the autonomous system simply believed that the presence of asthma results in being low risk and classified patients as so, which was incorrect and problematic (Medium). 
 
-<!-->
-https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08 --> 
+See:[Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08) with more detail about Pneumonia and Asthma Risk System
 
 
 #### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
@@ -114,17 +107,7 @@ https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798
 
 - Explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX. 
 
-<!--https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ --> 
-
-<!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html --> 
-
-<!-- https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa --> 
-
 - Explain other flaws with the incident such as insufficient testing, lack of accountability, and lack of notice to pilots. 
-
-<!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html--> 
-
-<!--https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ --> 
 
 ##### Algorithmic Bias
 
@@ -140,11 +123,11 @@ See also: The dataset given to the system does not have enough variety, or the d
 
 - Explain another example of algorithmic inaccuracy in AI systems and possible consequences, this one is more applicable to humans. 
 
-See also: Rekognition: a facial recognition software. ACLU tested the software by matching Congress members, and the result was that 28 members were matched with criminals. 40% of the inaccurate image matches were of people of color (ACLU NorCal). 
+See also: Rekognition: a facial recognition software. ACLU tested the software by matching Congress members, and the result was members were matched with criminals. 40% of the inaccurate image matches were of people of color (ACLU NorCal). 
 
 - Explain risks with its implementation in law enforcement
 
-<!--https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots -->
+
 
 #### An example: Autonomous systems and identification by skin tone
 
@@ -156,7 +139,7 @@ See also: autonomous cars had trouble sensing pedestrians of darker skin color.
 
 - identify possible reasons that contributed to these systems not working such as lack of diversity in workplace, IR sensors
 
-<!-- https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology --> 
+See: [article] (https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology) about encoded racial bias in technology
 
 #### Another example: MIT's Moral Machine
 
@@ -172,14 +155,6 @@ See: Students may read this [article](https://www.technologyreview.com/2018/10/2
 
 Note: While this is presented in a very game-like way, it is very interesting to take into consideration moral concepts that we think about in extreme situations. 
 
-<!-- https://www.media.mit.edu/projects/moral-machine/overview/ 
-
-https://www.media.mit.edu/publications/the-moral-machine-experiment/
-
-https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
-
--->
-
 #### Security, on time, backups, as these systems become relied upon 
 
 - Explain that there are many systems in society that utilize autonomous systems that are important to society. 
@@ -188,18 +163,16 @@ https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to
  
 - Explain there has been ongoing debate whether important systems and algorithms should be close or open sourced. 
 
-See also: an interesting question is how much trust do we put into these autonomous systems? People can easily use these systems in ways that are beyond what developers anticipate. 
-
+- Explain an interesting question: how much trust do we put into these autonomous systems? People can easily use these systems in ways that are beyond what developers anticipate. 
 
 #### An example: Autonomous Systems Used in Social Credit System Development in China
 
-- Teachers can teach about an example of a system that utilizes AI: China's Social Credit System
+- Can explain example of a system that utilizes AI: China's Social Credit System
 
 - Explain disadvantages/concerns with the use of China's social credit system (ie social inequality and alienation, lack of free market) and explain benefits (ie: reduce the amount of crimes/bad habits). 
 
-<!-- 
-https://time.com/collection/davos-2019/5502592/china-social-credit-score/
--->
+See: [article](https://time.com/collection/davos-2019/5502592/china-social-credit-score/) on China's Social Credit System
+
 
 #### Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) 
 
@@ -207,46 +180,48 @@ https://time.com/collection/davos-2019/5502592/china-social-credit-score/
 
 - Explain that COMPAS displays bias against African Americans. 
 
-<!-- https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/ -->
+See: [Article](https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/)
 
 
 #### An example: Unsecured/Exposed Robots Running on ROS and Internet:
 
 - Teachers can teach about risks of vulnerable systems can be when connected to the internet.
 
-See also: A research team at Brown University discovered that they found almost 100 exposed systems that ran on ROS. "Up to 19 were considered to be fully operational robots". They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University). [Article 1](https://www.brown.edu/news/2018-07-24/robots) and [Article 2](https://www.wired.com/story/security-robotics/)
+See also: A team at Brown University discovered almost 100 exposed systems that ran on ROS. They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University). 
+
+See: [Article 1](https://www.brown.edu/news/2018-07-24/robots) and [Article 2](https://www.wired.com/story/security-robotics/)
 
 Note: Students will learn more about Robotics Operating System (ROS) in a later module, but it is a set of open source libraries that can help with programming of robots. 
 
 ##### Militarization
 
-- Teachers can teach that there has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
+- Explain the use of autonomous systems for militarization (decision process, or to take direct action)
 
 See also: Students can watch this [video](https://www.youtube.com/watch?v=9CO6M2HsoIA) to learn more about Slaughterbots 
 
 #### International Traffic in Arms Regulations (ITAR)
 
-- explain International Traffic in Arms Regulations (ITAR) and what it covers: 
+- Explain International Traffic in Arms Regulations (ITAR) and what it covers: 
 
 See also: [website](https://digitalguardian.com/blog/what-itar-compliance)
 
 #### Example: Predator drones utilized by the United States
 
-- Teachers about the predator drones as an example of drones/robotic systems that are currently/previously in use by the US government related to milatary operations.
+- Explain predator drones as an example of drones/robotic systems that are currently/previously in use by the US government related to milatary operations.
 
 #### Should we handle autonomous weapons like chemical weapons
 
-See also: In the US, there are two types of chemical warfare agents: stockpiled and non stockpiled. 
+- Explain the two types of chemical warfare agents in US: stockpiled and non stockpiled. 
+
+See: [History of US Chemical Weapons Elimination](https://www.cdc.gov/nceh/demil/history.htm)
 
 See also: There has been much debate if autonomous weapons should be treated like chemical weapons? Should they also be prohibited from use and fully destroyed? 
-
-<!-- https://www.cdc.gov/nceh/demil/history.htm --> 
 
 ##### Medical, Healthcare, and Caregiver Robots
 
 - Explain that AI/autonomous systems and their impact on medicine and healthcare.
 
-- Describe where these systems are implemented (ex: caretaker robots, IDs, etc). 
+- Describe where these systems are implemented (ex: caretaker robots, ID, etc). 
 
 - Explain that there are many benefits, but there are important ethical implications such as privacy/security, trust between robots and humans, and their interactions. 
 
@@ -268,9 +243,11 @@ See: [Study](https://www.cc.gatech.edu/~alanwags/pubs/Robinette-HRI-2016.pdf)
 
 - Explain that drones and UAVs have been utilized by the UN. 
 
-See: Read this [article](https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un) for more information and [this](https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr)
+See: Read this [article](https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un) for more information on UN and drones
 
-<!-- https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf --> 
+See: Read this [article](https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr) about UN's operation with unmanned aircraft in DR Congo
+
+See: Read this [article]https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf to learn more about Drones and Humanitarian Action
 
 ##### Future impact of AI on human jobs and responsibilities
 
@@ -302,32 +279,45 @@ Better: Exercise: Teachers could also assign a short report or essay to students
 
 Recommended: 5 minutes
 
-- Teachers can summarize ethics and the large positive and negative benefits of AI
+- Summarize ethics and the large positive and negative benefits of AI
 
 - Teachers remind that there will be a safety module for the course coming up in one of the future classes:   
 
-**Glossary of Terms**
-Ethics: 
+### Glossary of Terms ###
+
+**Ethics:** The term ethics originated from the word "ethos", which is Greek for "way of living" (BBC). Ethics incorporates moral principles and values. It affects how we choose to live our lives, what we think is wrong and right, and what our responsibilities are (BBC).
+
 AI: 
 DL:
 ML: 
-Open source code: when the source code can be accessible by the public. 
-Closed source code: when the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to. 
+**Open source code:** when the source code can be accessible by the public. 
+**Closed source code:** when the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to.
+
+stockpiled and non stockpiled.
 
 
 **Useful Resources and References**
 
-More information about the MCAS system for the Boeing 737 MAX: 
-1. https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ 
+1. [Seattle Times Article](https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/) for more information about the MCAS system for the Boeing 737 MAX: 
 
-2. https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa
+2. [Verge Article](https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa) about other flaws involved in the Boeing incidents
 
-3. https://www.bbc.com/news/business-50177788
+3. [Washington Post Article](https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html) on the lack of notice to FAA about Boeing MCAS system
+
 
 4. [Paper on Predictive Inequity in Object Detection](https://arxiv.org/pdf/1902.11097.pdf)
 
-Moral machine links: 
-5. https://www.moralmachine.net
-6. https://doi.org/10.1038/s41586-018-0637-6 
-7. https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html
+5. [Moral Machine Test](https://www.moralmachine.net)
 
+6. [Paper](https://doi.org/10.1038/s41586-018-0637-6) on the Moral Machine Experiment  
+
+7. [Interactive moral machine](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html)
+
+8. [Artcle analyzing results from different countries](https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/)
+
+9. [Paper](https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
+10.13140/RG.2.2.22973.31207) about Fairness involved in Algorithms that undergo ML
+
+10. [Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08) with more detail about Pneumonia and Asthma Risk System and Wolf Vs Husky Identifier
+
+11. [article](https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots) about Rekognition and its failed Congress classifications
