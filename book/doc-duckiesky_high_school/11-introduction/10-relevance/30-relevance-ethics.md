@@ -44,7 +44,7 @@ For Teachers: Projector for displaying videos or slides, Large sheets of paper a
 
 **Classroom Set Up**
 
-Space for students to be able to work or discuss in groups. 
+Space for students to be able to work and discuss in small groups. 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -53,60 +53,56 @@ Space for students to be able to work or discuss in groups.
 
 Recommended: 10 minutes
 
-Teachers introduce ethics and explain why it is significant. 
-
-- Teachers explain the origin of the term ethics: 
+- Explain the origin of the term ethics: 
 
 See also: The term ethics comes from the word "ethos", which is Greek for "way of living" (BBC). 
 
-- Teachers explain what is ethics: 
+- Explain what is ethics: 
 
-See also: When there is a difficult situation, there are multiple possible solutions. Ethics consists of moral principles and values of a person or a group of people. It affects how we choose to live our lives, what we think is wrong and right in morals and situations, and what our responsibilities are (BBC).
+See also: When there is a difficult situation, there are multiple solutions. Ethics consists of moral principles and values. It affects how we choose to live our lives, what we think is wrong and right, and what our responsibilities are (BBC).
 
 See also: Universal Declaration of Human Rights regarding ethics
 
 Better: Exercise: Group Brainstorm: Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics (examples: Back to the Future, Spiderman: Far From Home).
 
-- Teachers explain the importance of ethics: 
+- Explain the importance of ethics: 
 
 See also: By considering ethics during decision making, we can make better decisions that would benefit individuals and society as a whole.
 
-See also: Specifically for ethical issues that are related to AI, they can be split into three different categories. 
+See also: The ethical implications of what AI is: Bias and Fairness; Accountability and Remediability; Transparency, Interpretability, and Explainability.  
 
-See: The ethical implications of what AI is: Bias and Fairness; Accountability and Remediability; Transparency, Interpretability, and Explainability.  
-
-See: The ethical implications related to what AI does: Safety; Human-AI interaction; Cyber-security and Malicious Use; Privacy, Control, and Agency  
+See also: The ethical implications related to what AI does: Safety; Human-AI interaction; Cyber-security and Malicious Use; Privacy, Control, and Agency  
 
 ### Main Lesson
 
 Recommended: 40 minutes
 
-- Teachers will teach students about important ethical problems that are present in technology, autonomous systems, and engineering.
+- In this lesson, students will learn about important ethical problems that are present in technology, autonomous systems, and engineering.
 
-##### Correctness and Uncertainty of Algorithms and/or Autonomous Systems
 
-- Teachers explain autonomous systems, AI, ML, DL, and usage of algorithms: 
+##### Correctness and Uncertainty of Algorithms and Autonomous Systems
+
+
+- Explain autonomous systems, AI, ML, DL, and usage of algorithms: 
 
 See also: By incorporating artificial intelligence (AI) into systems, they gain the potential to accomplish tasks that usually rely on the intelligence of humans. 
 
-See also: AI systems utilize Deep Learning (DL) and Machine Learning (ML), which both rely on data matching and analysis algorithms. 
+See also: AI systems utilize Deep Learning (DL) and Machine Learning (ML), both rely on data matching and analysis algorithms. 
 
-- Teachers explain the benefits of AI autononous systems and the use of algorithms in decision making processes: 
+- Explain the benefits of AI autononous systems and the use of algorithms in decision making processes: 
 
 See also: Decisions will be less influenced by human emotions. The systems can learn from past actions and decisions that have been chosen and can analyze the consequences that resulted. 
 
-- Teachers explain the disadvantages of AI autonomous systems and the use of algorithms in decision making processes: 
+- Explain the disadvantages of AI autonomous systems and the use of algorithms in decision making processes: 
 
 See also: The algorithms may not represent all the factors that are related to a situation. There is also always chances that unexpected consequences will happen. Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
 
 
 #### Example: Husky Vs Wolf In Image Identification
 
-- Teachers explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
+- Explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
 
-See also: University of Washington wanted to create an image classifier that can differentiate between wolves and huskies (Medium). The AI systems were fed images to learn from. Some photos were incorrectly classified. System was learning from the images that wolves were more often with snowy backgrounds. 
-
-See also: When there was a wolf in an image with no snow in the background, it would be categorized as a husky. If there was a husky with a snowy background, it would be categorized as a wolf (Ribeiro et al.). 
+See also: University of Washington wanted to create an image classifier that can differentiate between wolves and huskies (Medium). Some photos were incorrectly classified. System was learning from the images that wolves were more often with snowy backgrounds. 
 
 See also: This inaccuracy of the system is because of a data set that was "unfair" or did not have a sufficient variety of scenarios (Besse et al.). 
 
@@ -125,9 +121,9 @@ https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798
 
 #### Example: Artificial Neural Network to predict risk of pneumonia patients
 
-- Teachers explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
+- Explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
 
-See also: University of Pittsburgh studied system to predict which pneumonia patients were low risk and which were at high risk. Patients who had both pneumonia and asthma had a higher recovery rate because when those patients were brought to the hospital, they were always considered to be at high risk, and immediately received proper treatment. 
+See also: University of Pittsburgh studied a system used to predict which pneumonia patients were low risk and which were at high risk. Patients who had both pneumonia and asthma had a higher recovery rate because when those patients were brought to the hospital, they were always considered to be at high risk, and immediately received proper treatment. 
 
 See: From the data it was learning from, the autonomous system simply believed that the presence of asthma results in being low risk and classified patients as so, which was incorrect and problematic (Medium). 
 
@@ -137,11 +133,11 @@ https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798
 
 #### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
 
-- Teachers can teach about another example: The Boeing 737 MAX: 
+- Explain another example: The Boeing 737 MAX: 
 
 See also: There have been a number of accidents which resulted in many casualties with the Boeing 737 MAX aircraft, which has resulted in the grounding of Boeing 737 MAX worldwide: Lion Air Flight 610 and Ehiopian Airlines Flight 302
 
-- Teachers explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX. 
+- Explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX. 
 
 See also: Boeing 737 Max 8 had major design changes: engines were moved forward and raised. This made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was implemented to automatically detect whenever the nose pitches too high and correct it (Seattle Times). 
 
@@ -155,15 +151,9 @@ See also: Pilots can temporarily switch MCAS off, however the system will restar
 
 <!-- https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa --> 
 
-- Teachers also explain other flaws with the incident:  
-
-See also: Insufficient testing: Boeing and FAA agreed to not install safety features due to calculations of impossibility of a MCAS failure, which analysts say later that these features could have saved both the planes from crashing (The Washington Post).
+- Teachers also explain other flaws with the incident such as insufficient testing, lack of accountability, and lack of notice to pilots. 
 
 <!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html--> 
-
-See also: Accountability: Boeing did not provide the risk assessment about the MCAS until very late, a couple of months before the MAX was certified. FAA also based on findings by Boeing that were inaccurate (The Washington Post). 
- 
-See also: Lack of notice to pilots: Assumed that pilots can respond to unexpected situations within three seconds and since low chances of MCAS failure, Boeing decided to not include the MCAS in the pilot manuals (Seattle Times). 
 
 <!--https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ --> 
 
@@ -307,25 +297,12 @@ See also: Students can watch this [video](https://www.youtube.com/watch?v=9CO6M2
 
 #### International Traffic in Arms Regulations (ITAR)
 
-- Teachers can teach about ITAR: 
-
-See also: International Traffic in Arms Regulations (ITAR) specifically covers: 
-
-1. Covers military items or defense articles  
-2. Regulates goods and technology designed to kill or defend against death in a military setting  
-3. Includes space-related technology because of application to missile technology  
-4. Includes technical data related to defense articles and services  
-5. Involves strict regulatory licensing and does not address commercial or research objectives  
-
-(Source: Digital Guardian)
-
-<!-- https://digitalguardian.com/blog/what-itar-compliance --> 
+- explain International Traffic in Arms Regulations (ITAR) and what it covers: 
+See also: [website](https://digitalguardian.com/blog/what-itar-compliance)
 
 #### Example: Predator drones utilized by the United States
 
 - Teachers about the predator drones as an example of drones/robotic systems that are currently/previously in use by the US government related to milatary operations.
-
-See also: There have been several predator drones that have been used by the United States Air Force (USAF) and Central Intelligence Ageny (CIA). Initially many are utilized for primarily reconaissance and spying, but many have been later equipped to be able to engage in warfare.
 
 #### Should we handle autonomous weapons like chemical weapons
 
