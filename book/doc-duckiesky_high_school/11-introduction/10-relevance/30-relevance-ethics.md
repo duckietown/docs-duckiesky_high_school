@@ -123,9 +123,7 @@ https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798
 
 - Explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
 
-See also: University of Pittsburgh studied a system used to predict which pneumonia patients were low risk and which were at high risk. Patients who had both pneumonia and asthma had a higher recovery rate because when those patients were brought to the hospital, they were always considered to be at high risk, and immediately received proper treatment. 
-
-See: From the data it was learning from, the autonomous system simply believed that the presence of asthma results in being low risk and classified patients as so, which was incorrect and problematic (Medium). 
+See also: University of Pittsburgh studied a system used to predict the risk of pneumonia patients. From the data it was learning from, the autonomous system simply believed that the presence of asthma results in being low risk and classified patients as so, which was incorrect and problematic (Medium). 
 
 <!-->
 https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08 --> 
@@ -139,19 +137,13 @@ See also: There have been a number of accidents which resulted in many casualtie
 
 - Explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX. 
 
-See also: Boeing 737 Max 8 had major design changes: engines were moved forward and raised. This made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was implemented to automatically detect whenever the nose pitches too high and correct it (Seattle Times). 
-
 <!--https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ --> 
 
-See also: MCAS relies on only a single angle of attack sensor, instead of two. An angle of attack sensor helps warn pilots of a possibility of them losing control of the plane due to lack of lift (causing stall). Pilots are usually able to handle when the sensors are malfunctioning, however MCAS makes it a much larger problem. In both of the fatal accidents, MCAS was automatically switched on because of incorrect data from the single sensor (The Washington Post). 
-
-<!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html -->
-
-See also: Pilots can temporarily switch MCAS off, however the system will restart and continue to work if the sensor continues to warn pilots of stalls. MCAS cannot ever been overriden by the pilots. The pilots lost control of the plane during the Ethiopian Airlines and Lion Air flights as the system was continuously fed inaccurate data from the sensor indicating that there are stalls, and they were unable to pitch up when needed, causing both flights to dive into the sea (The Verge). 
+<!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html --> 
 
 <!-- https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa --> 
 
-- Teachers also explain other flaws with the incident such as insufficient testing, lack of accountability, and lack of notice to pilots. 
+- Explain other flaws with the incident such as insufficient testing, lack of accountability, and lack of notice to pilots. 
 
 <!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html--> 
 
@@ -159,22 +151,16 @@ See also: Pilots can temporarily switch MCAS off, however the system will restar
 
 ##### Algorithmic Bias
 
-- Teachers teach that algorithmic bias can result from multiple sources. 
+- Explain that algorithmic bias can result from multiple sources. 
 
-See also: The algorithm may be programmed by someone who is biased.
-
-See also: Algorithm may learn from data that comes from biased sources.
-
-See also: The dataset given to the system does not have enough variety, or simply the data contains bias that developers are unaware of.
+See also: The algorithm may be programmed by someone who is biased. Or algorithm may learn from data that comes from biased sources. The dataset given to the system does not have enough variety, or simply the data contains bias that developers are unaware of.
 
 
 #### Example: Amazon: Congress Matched to Criminals 
 
-- Teachers teach about another example of algorithmic inaccuracy in AI systems and possible consequences, this one is more applicable to humans. 
+- Explain another example of algorithmic inaccuracy in AI systems and possible consequences, this one is more applicable to humans. 
 
-See also: Rekognition: a facial recognition software. ACLU tested the software by matching Congress members, and the result was that 28 members were matched with criminals. 
-
-See also: 40% of the inaccurate image matches were of people of color (ACLU NorCal). 
+See also: Rekognition: a facial recognition software. ACLU tested the software by matching Congress members, and the result was that 28 members were matched with criminals. 40% of the inaccurate image matches were of people of color (ACLU NorCal). 
 
 See also: Risks with implementation in law enforcement: police officer more biased before an initial encounter, increase the chances of a person being questioned or searched, or can increase bias towards people of color (ACLU NorCal).
 
@@ -182,9 +168,9 @@ See also: Risks with implementation in law enforcement: police officer more bias
 
 #### An example: Autonomous systems and identification by skin tone
 
-- Teachers teach about a persistant problem in autonomous systems: how they identify people of different skin tones
+- Explain about a consistent problem in autonomous systems: how they identify people of different skin tones
 
-See also: An autonomous soap dispenser by Technical Concepts was found to have trouble dispensing people for darker skin color. See also: Many systems rely on IR sensors, measures how much light is reflected back. Darker skin tones absorb more light than people with lighter skin tones (Reporter). 
+See also: An autonomous soap dispenser by Technical Concepts was found to have trouble dispensing people for darker skin color.
 
 See also: This design flaw was believed to be because of a lack of diversity in the workplace at Technical Concepts, who did not think to test their products on people with darker skin tones (Reporter). 
 
@@ -196,29 +182,13 @@ See also: This can result in racial bias by algorithms, and in the case of auton
 
 #### Another example: MIT's Moral Machine
 
-- Teachers teach about the Moral Machine. 
+- Explain about the Moral Machine. 
 
 See also: In 2014, MIT has created a series of questions and scenarios that involve autonomous cars and artificial intelligence, which is known as the Moral Machine. The Moral Machine asks people which choices autonomous cars should make when facing different variations of the trolley problem (Technology Review). 
 
 Better: Exerice: Students can try out some of the questions of the Moral Machine on this interactive [website](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html)
 
-The Moral Machine focuses on 9 different themes: 
-
-1. Humans or pets/animals?
-
-2. Passengers or pedestrians?
-
-3. More or fewer lives?
-
-4. Women or men?
-
-5. Young or old?
-
-6. Healthy or those with health conditions?
-
-7. People of those of higher or lower status? 
-
-8. Action or no action? 
+See also: The Moral Machine focuses on nine different themes.
 
 See also: The results of the Moral Machine was closely related with culture and economics (Technology Review). 
 
@@ -236,7 +206,7 @@ https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to
 
 #### Security, on time, backups, as these systems become relied upon 
 
-- Teachers teach that there are many systems in society that utilize autonomous systems that are important to society. 
+- Explain that there are many systems in society that utilize autonomous systems that are important to society. 
  
 See also: There has been ongoing debate whether these systems should be close or open sourced. 
 
@@ -251,9 +221,9 @@ See also: an interesting question is how much trust do we put into these autonom
 
 #### An example: Autonomous Systems Used in Social Credit System Development in China
 
-- Teachers can teach about an example of a system that utilized AI to be implemented in an entire society
+- Teachers can teach about an example of a system that utilizes AI: China's Social Credit System
 
-See also: The Chinese government began experimenting with social credit scores in 2015, when it allowed private companies to assign credit scores to people. Financial and social behaviors are analyzed and people are assigned scores (Time). People who accomplish good deeds are awarded points and can receive rewards. Those who do bad deeds, such as smoking or spending too much time on video games, are deducted points. Those with an extremely low social credit score are placed on the “List of Untrustworthy Persons” and will be prohibited from certain activities such as the ability to use public transportation or to make large purchases.
+See also: The Chinese government began experimenting with social credit scores in 2015. Financial and social behaviors are analyzed and people are assigned scores (Time). 
 
 See also: This is being implemented with the help of AI and facial recognition. 
 
@@ -263,11 +233,11 @@ See also: There has been many concerns with the use of China's social credit sys
 https://time.com/collection/davos-2019/5502592/china-social-credit-score/
 -->
 
-#### Correctional offender Management Profiling for Alternative Sanctions (COMPAS) 
+#### Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) 
 
-- Teachers can teach about COMPAS, which is a system used in the US
+- Explain Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)
 
-See also: COMPAS is an software that is used by US courts to assign scores to predict the risk of a certain person commiting another crime. 
+See also: COMPAS is a software used by US courts to assign scores to predict the risk of a certain person commiting another crime. 
 
 See also: It is an algorithm that utilizes an algorithm that considers answers to a questionnaire (The Atlantic). 
 
@@ -319,7 +289,7 @@ See also: There has been much debate if autonomous weapons should be treated lik
 
 ##### Medical, Healthcare, and Caregiver Robots
 
-- Teachers can teach that autonomous systems and AI systems have been also considered for usage in the healthcare industry. 
+- Explain that AI/autonomous systems and their impact on medicine and healthcare.
 
 See also: This includes the uses of robots to help with identification, medical diagnosis, treatment, or surgery. It also includes the uses of robots to help keep elderly, disabled, young children, or patients company and to surpervise them. While there are many benefits such as being able to take care and monitor health of whoever they are responsible for and can provide them with company, there are several ethical concerns:
 
@@ -366,17 +336,17 @@ to-access locations, Supporting damage assessments, Increasing situational aware
 
 ##### Future impact of AI on human jobs and responsibilities
 
-- Teachers can teach that with the development of AI, there has been a growing reliance on them as tools in our daily lives. They have a large impact on all of us: 
+- Explain that with the development of AI and technology, there has been a growing reliance on them as tools in our daily lives. They have a large impact on all of us: 
 
 - Interesting [video](https://youtu.be/7Pq-S557XQU?) that can be watched: 
 
-See also: Ethical implications related to what AI can impact: 
+-  Ethical implications related to what AI can impact: 
 
-See also: Automation, Job Loss, Labor Trends: With the automation of many jobs, people may lose those jobs to robots. This may be because some tasks are able to be done more efficiently by robots. Because some jobs are more adaptable to robots than others, this may produce labor trends. There will be new jobs created that are more oriented towards maintaining robots or certain jobs will die out. 
+See also: Automation, Job Loss, Labor Trends
 
-See also: Impact to Democracy and Civil Rights: AI may have a strong impact on democracy and civil rights. AI may be able to automatically detect certain messages or actions that are not permitted and can be used to prevent them. There has been related concerns to that and the Chinese Social Credit System, and fear that it may create a society focused around surveillance and conformity. 
+See also: Impact to Democracy and Civil Rights
 
-See also: Human-Human or Human-Agent interaction: As explored slightly in the medicine uses of robots, there will be much more interactions between human and non humans/robots in the future, which is different from interactions between humans only. 
+See also: Human-Human or Human-Agent interaction
 
 ##### Possible Assignments or Discussion Topics: 
 
@@ -403,7 +373,9 @@ Ethics:
 AI: 
 DL:
 ML: 
+See also: Open source code means that the source code can be accessed by the public. 
 
+See also: Closed source code means that the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to. 
 
 
 **Useful Resources and References**
