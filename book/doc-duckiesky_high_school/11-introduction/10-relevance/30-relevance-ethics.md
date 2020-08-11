@@ -298,6 +298,7 @@ See also: Students can watch this [video](https://www.youtube.com/watch?v=9CO6M2
 #### International Traffic in Arms Regulations (ITAR)
 
 - explain International Traffic in Arms Regulations (ITAR) and what it covers: 
+
 See also: [website](https://digitalguardian.com/blog/what-itar-compliance)
 
 #### Example: Predator drones utilized by the United States
