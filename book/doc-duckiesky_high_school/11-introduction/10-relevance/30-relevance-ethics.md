@@ -56,6 +56,8 @@ Space for students to be able to work and discuss in small groups.
 
 Recommended: 10 minutes
 
+Hook: There are many important decisions that need to be made for situations regularly. With drones or any AI or autonomous system that you are creating or using, students must understand that there are certain moral implications/ethics/principles that must be considered and have different consequences on others. 
+
 Better: Exercise: Group Brainstorm: Ask students brainstorm on paper in groups about ethics and important/common topics addressed by ethics. Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics (examples: Back to the Future, Spiderman: Far From Home).
 
 - Explain the origin of the word ethics
@@ -223,7 +225,7 @@ See also: There has been much debate if autonomous weapons should be treated lik
 
 - Describe where these systems are implemented (ex: caretaker robots, ID, etc). 
 
-- Explain that there are many benefits, but there are important ethical implications such as privacy/security, trust between robots and humans, and their interactions. 
+- Explain that there are many benefits, but there are important ethical implications such as privacy/security, trust between robots and humans, and their interactions. It can be dangerous when certain ethics are not considered. 
 
 #### The Emergency Exit Robot Study, Georgia Tech Howard
 
