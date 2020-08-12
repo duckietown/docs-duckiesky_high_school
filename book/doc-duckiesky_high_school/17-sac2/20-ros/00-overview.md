@@ -2,4 +2,4 @@
 
 Module Overview
 
-This is an introduction to ROS.
+This is an introduction to Robot Operating System. Besides learning relevant concetps, the goal of this section is to empower students with the ability to write a ROS publisher and subscriber on their own.
