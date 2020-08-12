@@ -35,20 +35,22 @@ By the end of this lesson, students should be able to submit a pull request to a
 
 5 min: Computer Setup
 
-45 min: Duckiesky Documents Tutorial and Markdown/Markduck
+40 min: Duckiesky Documents Tutorial and Markdown/Markduck
 
-10 min: Editing a Duckiesky Page
+15 min: Editing a DuckieSky Page
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials**
 
-For Students: A computer or device with web browser capabilities 
+Basestation, a projector (if needed)
 
-For Teachers: Screen to demonstrate website (if desired), Do Now and Expectations written
+**Classroom Set Up:**
+
+Teachers can write a DO NOW on the board for students to start up their computers/devices and open up a web browser.
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -58,45 +60,26 @@ For Teachers: Screen to demonstrate website (if desired), Do Now and Expectation
 
 Recommended: 5 minutes
 
-Pre Class:
+**Hook:**
 
-Do Now: Teacher writes on the board for students to open up their computers/devices and open up a web browser
-
-Hook: Teachers can talk about the following or their own.
-
--  This will be a lesson for the student on editing and adding to the Duckiesky documents. It is important to learn how to propose changes and alter the documents that the students are learning from.
-
-
+-  This will be a lesson for the student on editing and adding to the DuckieSky documents. It is important to learn how to propose changes and alter the documents that the students are learning from.
 
 ### Main Lesson
 
-Recommended: 45 minutes
+Recommended: 40 minutes
 
 
-- Teacher's demonstrate how our textbooks are hosted through Github
 - Students will be able to submit pull requests to make changes to the books directly that can be approved by the DuckieSky team!
-- The books are written in Markduck, which will be covered in the next lesson
-
-TODO: Insert a Video Demo of editing our documents using GitHub
-
-Teachers either can do a live demo of the process demonstrated in the video above of the or show the video to the class.
-
-- [Here](https://docs.duckietown.org/DT19/duckumentation/out/duckumentation_contribute_simple.html) is the Duckietown documentation on how to edit and submit pull requests the documentation with GitHub.
-- [This](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/doc-duckiesky_high_school/out/) is the location of the teacher-based book that should be used to demonstrate the repository.
+- The books are written in Markduck
 
 1. Students learn what Markdown and Marduck are used for 
 
 2. Students learn basic Markdown/Markduck
 
-Note: Markdown is a text-to-HTML conversion tool for web writers.
-
-Note: Markduck is a Markdown dialect that supports many Markdown features. It is the language that the majority of the Duckiesky High School Textbook (including this document) was written in.
-
-See also: The basics of Markduck can either be explained by the teacher or through the following [Basic Markduck Guide](https://docs.duckietown.org/DT19/duckumentation/out/markduck_basic.html) at the teacher's discretion.
+See also: The basics of Mardown Markduck can either be explained by the teacher or through the student book's instructions at the teacher's discretion.
 
 
 Students should be aware of the following features in Markduck:
-
 
 1. Wrapping text with two astricks(*) or two underscores(_) both at the beginning and at the end of the phrase **bolds** or __underlines__ respectively.
 2. Adding a hash # with a space in front of text on a new line creates a heading; adding more hashes will reduce this heading size (e.g. ### Hello)
@@ -105,9 +88,19 @@ Students should be aware of the following features in Markduck:
 5. Adding two spaces to the end of a line of text and entering will create a new paragraph.
 6. Knowing about the following [special paragraph tags](https://docs.duckietown.org/DT19/duckumentation/out/markduck_special_pars.html)
 
+
+- Teacher's demonstrate how our textbooks are hosted through Github
+
+TODO: Insert a Video Demo of editing our documents using GitHub
+
+Teachers either can do a live demo of the process demonstrated in the video above of the or show the video to the class.
+
+- [Here](https://docs.duckietown.org/DT19/duckumentation/out/duckumentation_contribute_simple.html) is the Duckietown documentation on how to edit and submit pull requests the documentation with GitHub.
+- [This](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/doc-duckiesky_high_school/out/) is the location of the teacher-based book that should be used to demonstrate the repository.
+
 ### Ending The Lesson
 
-Recommended: 10 minutes/hours
+Recommended: 15 minutes
 
 Students should submit a pull request to change the next page, __Students: Leave your mark here!__, with their newly acquired Markduck skills and GitHub skills from last lesson! 
 
@@ -116,4 +109,5 @@ Emphasize that if they see problems/areas that could be improved with the course
 
 **Useful Resources and References** 
 
-1. [Local Duckiesky Editing and Docker](https://docs.duckietown.org/DT19/duckumentation/out/duckumentation_workflow.html)
+1. [Basic Markduck Guide](https://docs.duckietown.org/DT19/duckumentation/out/markduck_basic.html)
+2. [Local Duckiesky Editing and Docker](https://docs.duckietown.org/DT19/duckumentation/out/duckumentation_workflow.html)
