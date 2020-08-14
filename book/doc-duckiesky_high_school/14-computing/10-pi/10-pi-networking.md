@@ -2,11 +2,27 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: Hardware: Basestation, Build Part 1 completed
 
-Result: Knowledge: 7 layers of network abstraction, IP and MAC addresses, Definition of the computer terminal/shell, Definition and use of SSH; Skills: SSH into a remote computer
+Requires: 
+
+**Hardware** - Basestation   
+**Previous lesson** - Build Part 1
+
+
+Result: 
+
+**Knowledge** - 
+
+- 7 layers of network abstraction
+- IP and MAC addresses
+- Definition of the computer terminal/shell
+- Definition and use of SSH
+
+
+**Skills** - SSH into a remote computer
 
 </div>
+
 
 ## Networking
 
@@ -19,7 +35,7 @@ operations, demonstrate the ability to choose, use and troubleshoot current tech
 
 ### Assessments and Evidence of Understanding
 
-Students will be able to connect to the Pi over ssh and verify its the right one by running an existing bash script to blink the built-in LED.
+By the end of this lesson, students should be able to connect to the Pi over ssh and verify its the right one by running an existing bash script to blink the built-in LED.
 
 ### AGENDA (Brief Summary of Activities)
 
@@ -34,11 +50,13 @@ Students will be able to connect to the Pi over ssh and verify its the right one
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials:**
 
-For Students: Basestation, Current Drone Build
+Basestation, a projector (optional) 
 
-For Teachers: Basestation
+**Classroom Setup:**
+
+Teachers can write a DO NOW on the board for students to set up their basestations.
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -48,44 +66,37 @@ For Teachers: Basestation
 
 Recommended: 5 minutes
 
-Pre Class:
-
-Do Now: Teacher writes on the board for students to prepare their basestations
-
-Hook: Teachers can talk about the following or their own.
+**Hook:**
 
 -  This will be a lesson for the student on the basics of Networking and Computer Terminals. It is important to comprehend networking to understand the basis of how computers connect with each other and to know computer terminal details to understand how computers can be controlled.
-
+- (Optional) Networking should be applied to how the drone communicates with the computer. To do this, teachers can start class with a small discussion instead or in addition to the above hook. The following questions are potential discussion points:
+    - Q: What are some other robots or devices in your daily life that have to communicate with each other? How do you think they do this? 
+    - Q: How will we control our drone? From what? 
+    - Q: What is our basestation/computer "talking to" if we want to send it commands for our drone to do?
 
 ### Main Lesson
 
 Recommended: 35 minutes
 
-- Teachers should cover the basics of the 7 layers of network abstraction and IP/MAC addresses
+- Teachers should cover the basics of the 7 layers of network abstraction and IP/MAC addresses as outlined in the student book.
+    - (Optional) Students should fill out worksheet during process.
+- Teachers define (and potentially demonstrate) what a computer terminal and shell is as outlined in the student book.
+- Teachers define SSH and what it is used for as outlined in the student book.
 
-TODO: Input a video/details based on the updated teacher training material on Networking. [Here](https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/courseware/0e3596880ec446d8ab63df427e02e9c4/56017f6d3048461b90466ad229ac8df6/?activate_block_id=block-v1%3ABrownX%2BCS195R%2B2018_T1%2Btype%40sequential%2Bblock%4056017f6d3048461b90466ad229ac8df6) is the college course video on Networking.
 
-- Teachers define what a computer terminal and shell is
-
-See also: A shell is a programming language that takes input and gives the input to the computer and operating system to analyze and perform the task that the input asks for. 
-
-See also: A terminal is a program that allows the user to interact with the shell.
-
-- Teachers define SSH and what it is used for 
-
-See also: SSH (Secure Shell) is a method that allows a user to remotely log in from one computer/device to another. We will be utilizing SSH to connect to our Pi. 
-
-### Pi SSH and Led Blinking Script
+### Ending The lesson
 
 Recommended: 20 minutes
 
-Exercise: Connect to the Pi over ssh, verify its the right one by running an existing bash script to blink the built-in LED, change the SSID. 
+Better: Exercise: Teachers should have students connect to the Pi via web browser, verify its the right one by running an existing bash script to blink the built-in LED, and change the SSID. 
 
-TODO: Commands should be very explicit and minimal, they don’t have experience with bash or editors yet (may want to automate setting the WiFi SSID even, e.g. guided setup process)
+- (Optional) If students are able to get through this section with additional time remaining, they can work towards connecting to the Pi via SSH.
 
-TODO: Make step by step 
+TODO: Add connecting to the Pi via SSH section.
+
 
 **Useful Resources and References**
 
-1. [Shell and Terminal Details](http://linuxcommand.org/lc3_lts0010.php)
-2. [SSH Details](https://www.ssh.com/ssh/protocol/)
+1. [Networking edX Lecture](https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/courseware/0e3596880ec446d8ab63df427e02e9c4/56017f6d3048461b90466ad229ac8df6/?activate_block_id=block-v1%3ABrownX%2BCS195R%2B2018_T1%2Btype%40sequential%2Bblock%4056017f6d3048461b90466ad229ac8df6)
+2. [Shell and Terminal Details](http://linuxcommand.org/lc3_lts0010.php)
+3. [SSH Details](https://www.ssh.com/ssh/protocol/)

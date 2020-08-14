@@ -48,7 +48,7 @@ By the end of this lesson, students should be able to navigate the GitHub GUI an
 
 **Teacher Materials:**
 
-Basestation, a projector (if needed) 
+Basestation, a projector (optional) 
 
 **Classroom Set Up:**
 
@@ -68,7 +68,7 @@ Recommended: 5 minutes
 - (Optional) Conceptually connect GitHub to Google Drive in the sense that both platforms host file systems that multiple people can upload, download, and edit from. Emphasis that GitHub and Git are catered towards code-based projects.
 
 
-### Motivations
+### Main Lesson
 
 Recommended: 15 minutes
 
@@ -81,7 +81,7 @@ Teachers should refer to the student book to either cover the following sections
 3. Students learn why we are using GitHub.
 
 
-### Tutorials
+### Ending The Lesson
 
 Recommended: 40 minutes
 

@@ -46,7 +46,7 @@ By the end of this lesson, students should be able to submit a pull request to a
 
 **Teacher Materials**
 
-Basestation, a projector (if needed)
+Basestation, a projector (optional)
 
 **Classroom Set Up:**
 

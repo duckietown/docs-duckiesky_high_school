@@ -48,6 +48,7 @@ X min: <!--insert time slot 3 (add or delete these as needed)-->
 
 **Classroom Setup:**
 
+Teachers can write a DO NOW on the board for students to ...
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
