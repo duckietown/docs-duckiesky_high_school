@@ -60,15 +60,24 @@ Hook: There are many important decisions that need to be made for situations reg
 
 Better: Exercise: Group Brainstorm: Ask students brainstorm on paper in groups about ethics and important/common topics addressed by ethics. Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics (examples: Back to the Future, Spiderman: Far From Home).
 
-- Explain the origin of the word ethics
+- Explain the origin of the word ethics:
+     - the Greek origins of "ethos"
 
-- Explain what is ethics
+- Explain what is ethics:
+     -  The Universal Declaration of Human Rights includes a [list](https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf) of fundamental human rights which often closely relates to ethics 
 
-See also: Universal Declaration of Human Rights regarding ethics
+- Explain the importance of ethics 
 
-- Explain the importance of ethics: 
+- Explain the ethical implications related to what AI is:
+     - Bias and Fairness
+     - Accountability and Remediability
+     - Transparency, Interpretability, and Explainability   
 
-- Explain the ethical implications of what AI is and what AI does
+- Explain the ethical implications related to what AI does: 
+     - Safety
+     - Human-AI Interaction
+     - Cybersecurity and Malicious Use
+     - Privacy, Control, and Agency
 
 ### Main Lesson
 
@@ -76,14 +85,19 @@ Recommended: 40 minutes
 
 - In this lesson, students will learn about important ethical problems that are present in technology, autonomous systems, and engineering.
 
-
 ##### Correctness and Uncertainty of Algorithms and Autonomous Systems
 
-- Explain autonomous systems, AI, ML, DL, and usage of algorithms
+- Explain autonomous systems, AI, ML, DL, and usage of algorithms 
 
-- Explain the benefits of AI autononous systems and the use of algorithms in decision making processes
+- Explain the benefits of AI autononous systems and the use of algorithms in decision making processes:
+     - more informed decisions, less reliance on emotions
+     - clearer and transparent criteria for choices
+     - systems can learn from history
 
-- Explain the disadvantages of AI autonomous systems and the use of algorithms in decision making processes
+- Explain the disadvantages of AI autonomous systems and the use of algorithms in decision making processes:
+     - not all factors represented fully
+     - chances of unexpected consequences
+     - unpredictability of systems learning
 
 #### Example: Husky Vs Wolf In Image Identification
 
@@ -107,29 +121,29 @@ See:[Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explai
 
 - Explain the incidents involving the Boeing 737 MAX
 
-- Explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX. 
+- Explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX 
 
-- Explain other flaws with the incident such as insufficient testing, lack of accountability, and lack of notice to pilots. 
+- Explain other flaws with the incident:
+     - insufficient testing
+     - lack of accountability
+     - lack of notice to pilots
 
 ##### Algorithmic Bias
 
 - Explain that algorithmic bias can result from multiple sources:
-
-See also: The algorithm may be programmed by someone who is biased. 
-
-See also: Algorithm may learn from data that comes from biased sources. 
-
-See also: The dataset given to the system does not have enough variety, or the data contains bias that developers are unaware of.
+     - biased programmer
+     - biased data sources
+     - other unexpecred source of bias in data
 
 #### Example: Amazon: Congress Matched to Criminals 
 
-- Explain another example of algorithmic inaccuracy in AI systems and possible consequences, this one is more applicable to humans. 
+- Explain another example of algorithmic inaccuracy, this one is more applicable to humans. 
+     - Rekognition: a facial recognition software. 
+     - ACLU tested the software by matching Congress members, and the result was members were matched with criminals. 
+     - 40% of the inaccurate image matches were of people of color of the congress (ACLU NorCal). 
 
-See also: Rekognition: a facial recognition software. ACLU tested the software by matching Congress members, and the result was members were matched with criminals. 40% of the inaccurate image matches were of people of color (ACLU NorCal). 
-
-- Explain risks with its implementation in law enforcement
-
-
+- Explain risks with its implementation in law enforcement:
+      - biased initial encounters
 
 #### An example: Autonomous systems and identification by skin tone
 
