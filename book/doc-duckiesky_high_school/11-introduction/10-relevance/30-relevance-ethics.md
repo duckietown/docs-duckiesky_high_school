@@ -102,19 +102,18 @@ Recommended: 40 minutes
 #### Example: Husky Vs Wolf In Image Identification
 
 - Explain an example of algorithmic inaccuracy due to unfair/unrepresentative data example:  
+     - University of Washington created an image classifier that can differentiate between wolves and huskies (Medium). Some photos were incorrectly classified.
 
-See also: University of Washington created an image classifier that can differentiate between wolves and huskies (Medium). Some photos were incorrectly classified.
-
-See: [Paper](https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
-10.13140/RG.2.2.22973.31207) about Fairness involved in Algorithms that undergo ML
+See also: [Paper](https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
+10.13140/RG.2.2.22973.31207) about fairness involved in algorithms that undergo ML
 
 #### Example: Artificial Neural Network to predict risk of pneumonia patients
 
 - Explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example:
+     - University of Pittsburgh studied a system used to predict the risk of pneumonia patients. 
+     - From the data it was learning from, the autonomous system simply believed that the presence of asthma results in being low risk and classified patients as so, which was incorrect and problematic (Medium). 
 
-See also: University of Pittsburgh studied a system used to predict the risk of pneumonia patients. From the data it was learning from, the autonomous system simply believed that the presence of asthma results in being low risk and classified patients as so, which was incorrect and problematic (Medium). 
-
-See:[Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08) with more detail about Pneumonia and Asthma Risk System
+See also:[Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08) with more detail about Pneumonia and Asthma Risk System
 
 
 #### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
@@ -140,18 +139,16 @@ See:[Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explai
 - Explain another example of algorithmic inaccuracy, this one is more applicable to humans. 
      - Rekognition: a facial recognition software. 
      - ACLU tested the software by matching Congress members, and the result was members were matched with criminals. 
-     - 40% of the inaccurate image matches were of people of color of the congress (ACLU NorCal). 
+     - 40% of the inaccurate image matches were of people of color for the congress (ACLU NorCal). 
 
 - Explain risks with its implementation in law enforcement:
-      - biased initial encounters
+     - biased initial encounters
 
 #### An example: Autonomous systems and identification by skin tone
 
 - Explain about a consistent problem in AI systems: how they identify people of different skin tones
-
-See also: autonomous soap dispenser by Technical Concepts had trouble dispensing people for darker skin color.
-
-See also: autonomous cars had trouble sensing pedestrians of darker skin color.
+     - autonomous soap dispenser by Technical Concepts had trouble dispensing people for darker skin color
+     - autonomous cars had trouble sensing pedestrians of darker skin color
 
 - identify possible reasons that contributed to these systems not working such as lack of diversity in workplace, IR sensors
 
@@ -159,33 +156,45 @@ See: [article] (https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-techno
 
 #### Another example: MIT's Moral Machine
 
-- Explain about the Moral Machine. 
+- Explain the Moral Machine. 
 
-Better: Exerice: Students can try out some of the questions of the Moral Machine on this interactive [website](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html)
+Better: Exerise: Students can try out some of the questions of the Moral Machine on this interactive [website](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html)
 
 - Explain that the Moral Machine focuses on nine different themes
 
 - Note about the correlation between results of the Moral Machine and culture and economics 
 
-See: Students may read this [article](https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/) to learn more about the experiment and findings.
+See also: Students may read this [article](https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/) to learn more about the experiment and findings.
 
 Note: While this is presented in a very game-like way, it is very interesting to take into consideration moral concepts that we think about in extreme situations. 
 
 #### Security, on time, backups, as these systems become relied upon 
 
-- Explain that there are many systems in society that utilize autonomous systems that are important to society. 
+- Explain that there are many systems in society that utilize autonomous systems that are important to society
 
 - Explain open source and close sourced code
- 
-- Explain there has been ongoing debate whether important systems and algorithms should be close or open sourced. 
+     - Should important systems/algorithms be close or open sourced? 
 
 - Explain an interesting question: how much trust do we put into these autonomous systems? People can easily use these systems in ways that are beyond what developers anticipate. 
 
+#### An example: Use of Biometric Data in Society 
+- Give examples of systems have begun using biometric data
+      - 
+- Explain what 
+- Explain why biometric data is good to use: 
+     - relatively difficult to create false data
+     - unique to each person
+
+- Disadvantages
+
+
 #### An example: Autonomous Systems Used in Social Credit System Development in China
 
-- Can explain example of a system that utilizes AI: China's Social Credit System
+- Explain example of a system that utilizes AI: China's Social Credit System
 
-- Explain disadvantages/concerns with the use of China's social credit system (ie social inequality and alienation, lack of free market) and explain benefits (ie: reduce the amount of crimes/bad habits). 
+- Explain disadvantages/concerns and benefits with the use of China's social credit system 
+     - concerns: social unequality, alienation, lack of free market
+     - benefits: reduction in crimes/bad habits
 
 See: [article](https://time.com/collection/davos-2019/5502592/china-social-credit-score/) on China's Social Credit System
 
@@ -202,8 +211,7 @@ See: [Article](https://www.theatlantic.com/technology/archive/2018/01/equivant-c
 #### An example: Unsecured/Exposed Robots Running on ROS and Internet:
 
 - Teachers can teach about risks of vulnerable systems can be when connected to the internet.
-
-See also: A team at Brown University discovered almost 100 exposed systems that ran on ROS. They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University). 
+     - A team at Brown University discovered almost 100 exposed systems that ran on ROS. They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University). 
 
 See: [Article 1](https://www.brown.edu/news/2018-07-24/robots) and [Article 2](https://www.wired.com/story/security-robotics/)
 
@@ -211,23 +219,25 @@ Note: Students will learn more about Robotics Operating System (ROS) in a later 
 
 ##### Militarization
 
-- Explain the use of autonomous systems for militarization (decision process, or to take direct action)
+- Explain the use of autonomous systems for militarization (to make military decisions, or to take direct action)
 
-See also: Students can watch this [video](https://www.youtube.com/watch?v=9CO6M2HsoIA) to learn more about Slaughterbots 
+<!-- See also: Students can watch this [video](https://www.youtube.com/watch?v=9CO6M2HsoIA) to learn more about Slaughterbots -->
 
 #### International Traffic in Arms Regulations (ITAR)
 
-- Explain International Traffic in Arms Regulations (ITAR) and what it covers: 
+- Explain International Traffic in Arms Regulations (ITAR) and what it covers
 
 See also: [website](https://digitalguardian.com/blog/what-itar-compliance)
 
 #### Example: Predator drones utilized by the United States
 
-- Explain predator drones as an example of drones/robotic systems that are currently/previously in use by the US government related to milatary operations.
+- Explain predator drones as an example of drones/robotic systems that are currently/previously in use by the US government related to milatary operations
+
+- Unmanned aerial vehicals face many ethical issues such as civillian casualties
 
 #### Should we handle autonomous weapons like chemical weapons
 
-- Explain the two types of chemical warfare agents in US: stockpiled and non stockpiled. 
+- Explain the different types of chemical warfare agents in US
 
 See: [History of US Chemical Weapons Elimination](https://www.cdc.gov/nceh/demil/history.htm)
 
@@ -235,11 +245,13 @@ See also: There has been much debate if autonomous weapons should be treated lik
 
 ##### Medical, Healthcare, and Caregiver Robots
 
-- Explain that AI/autonomous systems and their impact on medicine and healthcare.
+- Explain impact and uses of AI/autonomous systems on medicine and healthcare
 
 - Describe where these systems are implemented (ex: caretaker robots, ID, etc). 
 
-- Explain that there are many benefits, but there are important ethical implications such as privacy/security, trust between robots and humans, and their interactions. It can be dangerous when certain ethics are not considered. 
+- Explain that there are many benefits, but there are important ethical implications:
+     - privacy/security, trust between robots and humans, and their interactions
+     - Can be dangerous when certain ethics are not considered 
 
 #### The Emergency Exit Robot Study, Georgia Tech Howard
 
@@ -253,41 +265,36 @@ See: [Study](https://www.cc.gatech.edu/~alanwags/pubs/Robinette-HRI-2016.pdf)
 
 - Explain the effect of robot costs on consumers 
 
-- Explain that robots can help with humanitarian and emergency effots. 
+- Explain that robots can help with humanitarian and emergency efforts
 
 #### UN Guidelines for Emergency Uses of Drones
 
-- Explain that drones and UAVs have been utilized by the UN. 
+- Explain different uses of drones and UAVs by the UN. 
 
-See: Read this [article](https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un) for more information on UN and drones
+See also: Read this [article](https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un) for more information on UN and drones
 
-See: Read this [article](https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr) about UN's operation with unmanned aircraft in DR Congo
+See also: Read this [article](https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr) about UN's operation with unmanned aircraft in DR Congo
 
-See: Read this [article]https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf to learn more about Drones and Humanitarian Action
+See also: Read this [article]https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf to learn more about Drones and Humanitarian Action
 
 ##### Future impact of AI on human jobs and responsibilities
 
-- Explain that with the development of AI and technology, there has been a growing reliance on them as tools in our daily lives. They have a large impact on all of us: 
+- Explain that with the development of AI and technology, there has been a growing reliance on them as tools in our daily lives
 
 - Interesting [video](https://youtu.be/7Pq-S557XQU?) that can be watched: 
 
 -  Explain ethical implications related to what AI can impact: 
-
-See also: Automation, Job Loss, Labor Trends
-
-See also: Impact to Democracy and Civil Rights
-
-See also: Human-Human or Human-Agent interaction
+     - Automation, Job Loss, Labor Trends
+     - Impact to Democracy and Civil Rights
+     - Human-Human or Human-Agent interaction
 
 ##### Possible Assignments or Discussion Topics: 
 
 Better: Exercise: Teachers can assign a research based group project to students (presentations/debates/discussions) on many possible topics such as: 
 
-See also: Should code for large scale systems be open or closed source?
-
-See also: Should autonomous cars be allowed on the road? Should robots be allowed to take care of humans?
-
-See also: Should autonomous drones/systems be used in military operations? Should they be treated similarly to chemical weapons? 
+     - Should code for large scale systems be open or closed source?
+     - Should autonomous cars be allowed on the road? Should robots be allowed to take care of humans?
+     - Should autonomous drones/systems be used in military operations? Should they be treated similarly to chemical weapons? 
 
 Better: Exercise: Teachers could also assign a short report or essay to students on a component from the lesson that they are interested in (scientific writing). 
 
@@ -297,7 +304,7 @@ Recommended: 5 minutes
 
 - Summarize ethics and the large positive and negative benefits of AI
 
-- Teachers remind that there will be a safety module for the course coming up in one of the future classes:   
+- Remind students that there will be a safety module for the course coming up in one of the future classes   
 
 ### Glossary of Terms ###
 
@@ -337,4 +344,4 @@ Recommended: 5 minutes
 
 10. [Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08) with more detail about Pneumonia and Asthma Risk System and Wolf Vs Husky Identifier
 
-11. [article](https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots) about Rekognition and its failed Congress classifications
+11. [Article](https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots) about Rekognition and its failed Congress classifications
