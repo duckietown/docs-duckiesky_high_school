@@ -101,15 +101,15 @@ Recommended: 60 minutes
 
 Explain that the first challenge with automating the sensor reading is to get the hardware devices to "talk" to eachother. Recall that the IR sensor produces a voltage, which is an *analog* signal. However, many computers, including the Pi, can only read *digital* signals (1's and 0's only). Explain that the ADC takes in the analog signal and converts it to a digital signal that the Pi can read.
 
-Lead the students through Activity 1. This can be done either by having the students read through the activity, or by following the teacher through the activity on a projector.
+Lead the students through Activity 1 in the Student Book. This can be done either by having the students read through the activity, or by following the teacher through the activity on a projector.
 
-Explain that it is inconvenient to keep running the script every time we want to take a measurement. Introduce the concept of while loops in Python. Lead the students through Activity 2, and stop before the "Slow Down" section. Explain that the while loop is running as fast as the computer can go, but this slows down other computer processes. Additionally, it makes it hard for the students to read the values. Introduce the concept of waiting between measurements. Finish Activity 2.
+Explain that it is inconvenient to keep running the script every time we want to take a measurement. Introduce the concept of while loops in Python. Lead the students through Activity 2 in the Student Book , and stop before the "Slow Down" section. Explain that the while loop is running as fast as the computer can go, but this slows down other computer processes. Additionally, it makes it hard for the students to read the values. Introduce the concept of waiting between measurements. Finish Activity 2.
 
-For advanced students who are asking the question: *How did they know how to read from the ADC?*. Let them go or lead them through Activity 3.
+For advanced students who are asking the question: *How did they know how to read from the ADC?*. Let them go or lead them through Activity 3 in the Student Book.
 
-Depending on how advanced the students are, explain that although we have a calibration function from Volts to meters, the Python script can only read the ADC value. Therefore, we need a way to convert from the ADC value to meters. Lead the students through Activity 4.
+Depending on how advanced the students are, explain that although we have a calibration function from Volts to meters, the Python script can only read the ADC value. Therefore, we need a way to convert from the ADC value to meters. Lead the students through Activity 4 in the Student Book.
 
-For all students, explain that the ADC value needs to be converted to a distance measurement, just like the students had to do in the introduction activity. Lead the students through Activity 5 to convert the ADC values to distance.
+For all students, explain that the ADC value needs to be converted to a distance measurement, just like the students had to do in the introduction activity. Lead the students through Activity 5 in the Student Book to convert the ADC values to distance.
 
 
 ### Ending The Lesson
