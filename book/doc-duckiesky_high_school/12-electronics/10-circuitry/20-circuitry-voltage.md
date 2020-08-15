@@ -15,6 +15,8 @@ Voltage, Current, and Resistance
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+NGSS HS-PS3-1. Create a computational model to calculate the change in the energy of one component in a system when the
+change in energy of the other component(s) and energy flows in and out of the system are known.
 
 ### Purpose
 
