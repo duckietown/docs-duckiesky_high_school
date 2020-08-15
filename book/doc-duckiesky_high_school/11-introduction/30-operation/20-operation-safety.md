@@ -17,9 +17,10 @@ Students will be able to know the laws regulating hobby drone flight. They will 
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
+_ISTE: 2. b.:_ Engage in positive, safe, legal and ethical behavior when using technology, including social interactions online or when using networked devices.
 
-
-
+_NGSS: HS - ETS1 - 3:_ Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics, as well as possible social, cultural,
+and environmental impacts. 
 ### Assessments and Evidence of Understanding
 
 

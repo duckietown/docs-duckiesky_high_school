@@ -60,6 +60,8 @@ Recommended: 10 minutes
 Hook: There are many important decisions that need to be made for situations regularly. With drones or any AI or autonomous system that you are creating or using, students must understand that there are certain moral implications/ethics/principles that must be considered and have different consequences on others. 
 
 Better: Exercise: Group Brainstorm: Ask students brainstorm on paper in groups about ethics and important/common topics addressed by ethics. Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics.
+
+
 - examples of pop culture/movie references: 
      - Spider-Man: Far From Home: Mysterio used autonomous and programmed drones to create the illusions, cause harm and chaos in society. Also Peter's ordered drone strike on his classmate on the bus, example of almost civilian casualty/warfare. 
      - Avengers movies: Tony Stark's AI Jarvis, many instances of facial recognition in Tony's labs and suits, and the enemy Ultron (the whole let robots take over the world)
