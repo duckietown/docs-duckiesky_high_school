@@ -58,7 +58,11 @@ Recommended: 10 minutes
 
 Hook: There are many important decisions that need to be made for situations regularly. With drones or any AI or autonomous system that you are creating or using, students must understand that there are certain moral implications/ethics/principles that must be considered and have different consequences on others. 
 
-Better: Exercise: Group Brainstorm: Ask students brainstorm on paper in groups about ethics and important/common topics addressed by ethics. Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics (examples: Back to the Future, Spiderman: Far From Home).
+Better: Exercise: Group Brainstorm: Ask students brainstorm on paper in groups about ethics and important/common topics addressed by ethics. Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics.
+- examples of pop culture/movie references: 
+     - Spider-Man: Far From Home: Mysterio used autonomous and programmed drones to create the illusions, cause harm and chaos in society. Also Peter's ordered drone strike on his classmate on the bus, example of almost civilian casualty/warfare. 
+     - Avengers movies: Tony Stark's AI Jarvis, many instances of facial recognition in Tony's labs and suits, and the enemy Ultron (the whole let robots take over the world)
+     - Black Mirror TV show: many episodes revolving around technology and society. This [article](https://www.forbes.com/sites/cognitiveworld/2019/02/24/pop-culture-ai-and-ethics/#1491b1c17cd2) has particular examples of episodes and AI impacts on society
 
 - Explain the origin of the word ethics:
      - the Greek origins of "ethos"
@@ -99,7 +103,7 @@ Recommended: 40 minutes
      - chances of unexpected consequences
      - unpredictability of systems learning
 
-#### Example: Husky Vs Wolf In Image Identification
+#### Example: Husky Vs Wolf in Image Identification
 
 - Explain an example of algorithmic inaccuracy due to unfair/unrepresentative data example:  
      - University of Washington created an image classifier that can differentiate between wolves and huskies (Medium). Some photos were incorrectly classified.
@@ -107,16 +111,16 @@ Recommended: 40 minutes
 See also: [Paper](https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
 10.13140/RG.2.2.22973.31207) about fairness involved in algorithms that undergo ML
 
-#### Example: Artificial Neural Network to predict risk of pneumonia patients
+#### Example: Artificial Neural Network Predicting Risk of Pneumonia Patients
 
 - Explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example:
      - University of Pittsburgh studied a system used to predict the risk of pneumonia patients. 
      - From the data it was learning from, the autonomous system simply believed that the presence of asthma results in being low risk and classified patients as so, which was incorrect and problematic (Medium). 
 
-See also:[Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08) with more detail about Pneumonia and Asthma Risk System
+See also: [Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08) with more detail about Pneumonia and Asthma Risk System
 
 
-#### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
+#### Example: The Boeing 737 MAX
 
 - Explain the incidents involving the Boeing 737 MAX
 
@@ -134,25 +138,25 @@ See also:[Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-e
      - biased data sources
      - other unexpecred source of bias in data
 
-#### Example: Amazon: Congress Matched to Criminals 
+#### Example: Congress Matched to Criminals by Rekognition
 
 - Explain another example of algorithmic inaccuracy, this one is more applicable to humans. 
-     - Rekognition: a facial recognition software. 
+     - Rekognition: a facial recognition software 
      - ACLU tested the software by matching Congress members, and the result was members were matched with criminals. 
      - 40% of the inaccurate image matches were of people of color for the congress (ACLU NorCal). 
 
 - Explain risks with its implementation in law enforcement:
      - biased initial encounters
 
-#### An example: Autonomous systems and identification by skin tone
+#### An example: Autonomous Systems Identification by Skin Tone
 
 - Explain about a consistent problem in AI systems: how they identify people of different skin tones
      - autonomous soap dispenser by Technical Concepts had trouble dispensing people for darker skin color
      - autonomous cars had trouble sensing pedestrians of darker skin color
-
+- AI systems were less accurate at detecting people of darker skins by 5% (Georgia Institute of Tech)
 - identify possible reasons that contributed to these systems not working such as lack of diversity in workplace, IR sensors
 
-See: [article] (https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology) about encoded racial bias in technology
+See also: [article](https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology) about encoded racial bias in technology
 
 #### Another example: MIT's Moral Machine
 
@@ -161,32 +165,44 @@ See: [article] (https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-techno
 Better: Exerise: Students can try out some of the questions of the Moral Machine on this interactive [website](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html)
 
 - Explain that the Moral Machine focuses on nine different themes
-
 - Note about the correlation between results of the Moral Machine and culture and economics 
 
 See also: Students may read this [article](https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/) to learn more about the experiment and findings.
 
 Note: While this is presented in a very game-like way, it is very interesting to take into consideration moral concepts that we think about in extreme situations. 
 
-#### Security, on time, backups, as these systems become relied upon 
+#### Security/Systems Utilized in Society
+
+Better: Exercise: Students can brainstorm other ways that AI/autonomous systems/algorithms are used in systems used in society. 
 
 - Explain that there are many systems in society that utilize autonomous systems that are important to society
 
 - Explain open source and close sourced code
      - Should important systems/algorithms be close or open sourced? 
 
-- Explain an interesting question: how much trust do we put into these autonomous systems? People can easily use these systems in ways that are beyond what developers anticipate. 
+- Explain an interesting question: how much trust do we put into these autonomous systems? 
+
+- People can easily use these systems in ways that are beyond what developers anticipate. 
 
 #### An example: Use of Biometric Data in Society 
-- Give examples of systems have begun using biometric data
-      - 
-- Explain what 
-- Explain why biometric data is good to use: 
-     - relatively difficult to create false data
-     - unique to each person
+- Give examples of systems have begun using biometric data to replace passwords, as a form of authetication/verification
+     - FaceID, fingerprints, tracking down crime suspects, access to government buildings, facial recognition in public spaces, access to important services such as healthcare
+     
+- Explain advantages of biometric data in society: 
+     - relatively difficult to fake
+     - features unique to each person
+     - difficult to change immediately
+     - safer than passwords
+     - convenient
 
-- Disadvantages
+- Disadvantages:
+     - dangerous to keep a compressed version in technology
+     - biometric data readings systems are not yet perfect
+     - can be faked with the help of advanced tech (3D printers, cameras, etc)
 
+- Importance of double or multiple verification methods: usually combination of password, biometric data, or physical hardware key. 
+
+See also: [Article](https://www.cnet.com/news/police-use-of-facial-recognition-gets-reined-in-by-uk-court/) about Police Use of Facial Recognition
 
 #### An example: Autonomous Systems Used in Social Credit System Development in China
 
@@ -197,7 +213,6 @@ Note: While this is presented in a very game-like way, it is very interesting to
      - benefits: reduction in crimes/bad habits
 
 See: [article](https://time.com/collection/davos-2019/5502592/china-social-credit-score/) on China's Social Credit System
-
 
 #### Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) 
 
@@ -275,7 +290,7 @@ See also: Read this [article](https://news.un.org/en/story/2017/09/564452-featur
 
 See also: Read this [article](https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr) about UN's operation with unmanned aircraft in DR Congo
 
-See also: Read this [article]https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf to learn more about Drones and Humanitarian Action
+See also: Read this [article](https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf)to learn more about Drones and Humanitarian Action
 
 ##### Future impact of AI on human jobs and responsibilities
 
@@ -290,11 +305,10 @@ See also: Read this [article]https://reliefweb.int/sites/reliefweb.int/files/res
 
 ##### Possible Assignments or Discussion Topics: 
 
-Better: Exercise: Teachers can assign a research based group project to students (presentations/debates/discussions) on many possible topics such as: 
-
-     - Should code for large scale systems be open or closed source?
-     - Should autonomous cars be allowed on the road? Should robots be allowed to take care of humans?
-     - Should autonomous drones/systems be used in military operations? Should they be treated similarly to chemical weapons? 
+Better: Exercise: Teachers can assign a research based group project to students (presentations/debates/discussions) on many possible topics such as:   
+- Should code for large scale systems be open or closed source?
+- Should autonomous cars be allowed on the road? Should robots be allowed to take care of humans?
+- Should autonomous drones/systems be used in military operations? Should they be treated similarly to chemical weapons? 
 
 Better: Exercise: Teachers could also assign a short report or essay to students on a component from the lesson that they are interested in (scientific writing). 
 
