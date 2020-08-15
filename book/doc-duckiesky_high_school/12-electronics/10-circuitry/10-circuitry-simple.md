@@ -14,6 +14,7 @@ Simple Circuits
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+ISTE 4. d. exhibit a tolerance for ambiguity, perseverance and the capacity to work with open-ended problems.NGSS HS-PS3-5. Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction.
 
 ### Purpose:
 
