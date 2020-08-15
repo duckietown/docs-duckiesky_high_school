@@ -212,7 +212,7 @@ See also: [Article](https://www.cnet.com/news/police-use-of-facial-recognition-g
      - concerns: social unequality, alienation, lack of free market
      - benefits: reduction in crimes/bad habits
 
-See: [article](https://time.com/collection/davos-2019/5502592/china-social-credit-score/) on China's Social Credit System
+See also: [article](https://time.com/collection/davos-2019/5502592/china-social-credit-score/) on China's Social Credit System
 
 #### Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) 
 
@@ -220,7 +220,7 @@ See: [article](https://time.com/collection/davos-2019/5502592/china-social-credi
 
 - Explain that COMPAS displays bias against African Americans. 
 
-See: [Article](https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/)
+See also: [Article](https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/)
 
 
 #### An example: Unsecured/Exposed Robots Running on ROS and Internet:
@@ -228,7 +228,7 @@ See: [Article](https://www.theatlantic.com/technology/archive/2018/01/equivant-c
 - Teachers can teach about risks of vulnerable systems can be when connected to the internet.
      - A team at Brown University discovered almost 100 exposed systems that ran on ROS. They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University). 
 
-See: [Article 1](https://www.brown.edu/news/2018-07-24/robots) and [Article 2](https://www.wired.com/story/security-robotics/)
+See also: [Article 1](https://www.brown.edu/news/2018-07-24/robots) and [Article 2](https://www.wired.com/story/security-robotics/)
 
 Note: Students will learn more about Robotics Operating System (ROS) in a later module, but it is a set of open source libraries that can help with programming of robots. 
 
@@ -254,7 +254,7 @@ See also: [website](https://digitalguardian.com/blog/what-itar-compliance)
 
 - Explain the different types of chemical warfare agents in US
 
-See: [History of US Chemical Weapons Elimination](https://www.cdc.gov/nceh/demil/history.htm)
+See also: [History of US Chemical Weapons Elimination](https://www.cdc.gov/nceh/demil/history.htm)
 
 See also: There has been much debate if autonomous weapons should be treated like chemical weapons? Should they also be prohibited from use and fully destroyed? 
 
@@ -272,7 +272,7 @@ See also: There has been much debate if autonomous weapons should be treated lik
 
 - Explain about experiment conducted by Georgia Institute of Technology that highlighted the potential risks of putting too much trust into robots during emergency situations that utilizes robots in a care setting and show the risks of putting to much trust into robots.
 
-See: [Study](https://www.cc.gatech.edu/~alanwags/pubs/Robinette-HRI-2016.pdf)
+See also: [Study](https://www.cc.gatech.edu/~alanwags/pubs/Robinette-HRI-2016.pdf)
 
 ##### Availability/Accessibility/Uses
 
