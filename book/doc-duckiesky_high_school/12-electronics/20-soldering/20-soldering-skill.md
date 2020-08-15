@@ -13,6 +13,7 @@ Building Skill with Soldering
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+NGSS: HS-PS3-3: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy. ISTE: 1d: Students: understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 ### Purpose
 
@@ -69,7 +70,9 @@ Teacher should discuss:
 
 Recommended: 35 minutes
 
-Give the students the tools in the materials section, and ask them to solder wires together with and wiuthout flux, while also showing them how to get acclimated to using the various materials. This half hour should be dedicated to students becoming familiar and comfortable with using the soldering iron combined with flux.
+Give the students the tools in the materials section, and ask them to solder wires together with and without flux, while also showing them how to get acclimated to using the various materials. This half hour should be dedicated to students becoming familiar and comfortable with using the soldering iron combined with flux.
+
+Teacher should check student's soldering joints as the students are working.
 
 Heads up for next lesson: Keep all soldering joints that are weak or problematic, they will be useful in the next lesson.
 ### Ending The Lesson
