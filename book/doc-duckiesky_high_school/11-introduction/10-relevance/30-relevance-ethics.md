@@ -40,16 +40,14 @@ Students will be able to do presentations, debates, or other activities assigned
 
 **Teacher Materials**
 
-For Teachers: 
-
 - Projector for displaying videos or slides
 - Large sheets of paper and markers for student brainstorming in small groups
 - Print out [note sheets](https://docs.google.com/document/d/17OSygnSXLueR2K5h-1ncwIuaMdFhb5mv0fAuhiSRw9w/edit?usp=sharing) for students to help take notes
 
 **Classroom Set Up**
 
-Space for students to be able to work and discuss in small groups. 
-
+- Space for students to be able to work and discuss in small groups. 
+- Make sure each group of students have at least one large sheet of paper and a number of markers.
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
@@ -293,7 +291,7 @@ See also: Read this [article](https://news.un.org/en/story/2017/09/564452-featur
 
 See also: Read this [article](https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr) about UN's operation with unmanned aircraft in DR Congo
 
-See also: Read this [article](https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf)to learn more about Drones and Humanitarian Action
+See also: Read this [article](https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf) to learn more about Drones and Humanitarian Action
 
 ##### Future impact of AI on human jobs and responsibilities
 
@@ -309,6 +307,8 @@ See also: Read this [article](https://reliefweb.int/sites/reliefweb.int/files/re
 ##### Possible Assignments or Discussion Topics: 
 
 Better: Exercise: Teachers can assign a research based group project to students (presentations/debates/discussions) on many possible topics such as:   
+
+
 - Should code for large scale systems be open or closed source?
 - Should autonomous cars be allowed on the road? Should robots be allowed to take care of humans?
 - Should autonomous drones/systems be used in military operations? Should they be treated similarly to chemical weapons? 

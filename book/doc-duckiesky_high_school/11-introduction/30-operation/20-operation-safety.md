@@ -9,7 +9,11 @@ No previous lessons required.
 
 Result: 
 
-Students will be able to know the laws regulating hobby drone flight. They will be able to identify a safe environment for their drones to fly in and potential hazards of drone flight and soldering. Students will also learn about proper safety procedures to minimize safety hazards, and undestand the purpose of the pre-flight safety checklist. 
+- Students will be able to know the laws regulating hobby drone flight.
+- Students will be able to identify a safe environment for flight.
+- Students can identify potential hazards of drone flight and soldering.
+- Students will also learn about proper safety procedures to minimize safety hazards.
+- Students will learn about the pre-flight safety checklist.
 
 </div>
 
@@ -20,23 +24,33 @@ Students will be able to know the laws regulating hobby drone flight. They will 
 _ISTE: 2. b.:_ Engage in positive, safe, legal and ethical behavior when using technology, including social interactions online or when using networked devices.
 
 _NGSS: HS - ETS1 - 3:_ Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics, as well as possible social, cultural,
-and environmental impacts. 
-### Assessments and Evidence of Understanding
+and environmental impacts.
 
+### Assessments and Evidence of Understanding
+By the end of this lesson, students will recognize that there are laws regulating hobby drone flight in their area, and they will be able to identify a safe environment that they can fly their drones in. They will be able to identify potential hazards of drone flight and soldering, and will learn about proper safety procedures to minimize risk of these hazards. 
+
+Students will complete an assignment, that they can answer the questions and hand in to their teachers. 
 
 ### AGENDA (Brief Summary of Activities)
-
+5 min: Introduction to the lesson. 
+40 min: Students will analyze a case study, learn about FAA rules, be able to recognize a safe space for flight, learn about safety hazards and the pre flight checklist. 
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Student Materials:** 
+- Drone kit
+- Safety equipment
 
-For Students:
+**Teacher Materials:** 
+- Drone kit
+- Safety equipment
+- Projector
+- Print out the assignment worksheets and handouts
 
-For Teachers:
+**Classroom Set Up**
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -44,21 +58,19 @@ For Teachers:
 
 ### Introducing The Lesson
 
-Recommended: 5 minutes/hours
+Hook: The drones that students are building is relatively powerful, and can cause harm to them or others if not used safely. 
 
-Teachers should emphasize that the drone students are building is relatively powerful, and can cause harm to them or others if not used safely. 
+- Can show a drone fail compilation video and note the danger in those videos
+
 
 ### Main Lesson
-
-Recommended: 40 minutes/hours
 
 ##### Case Study: The Midair Collision in 2009
 
 - Teachers can do a case study about the Midair Collision in 2009 where safety was compromised. Another brief overview is given in the EdX lectures. 
+    - There was a collision between a private airplane and a sightseeing helicopter over Manhattan. The result was 9 deaths. 
 
-See also: There was a collision between a private airplane and a sightseeing helicopter over Manhattan. The result was 9 deaths. 
-
-See also: There were several causes that contributed to this: 
+    - There were several causes that contributed to this: 
 
 1. The limitations of the see and avoid concept: by the time the pilot of the airplane saw the helicopter, there was no time/not sufficient enough time to avoid the helicopter. 
 
