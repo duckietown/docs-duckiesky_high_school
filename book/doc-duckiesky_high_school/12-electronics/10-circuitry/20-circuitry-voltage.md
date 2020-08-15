@@ -52,7 +52,7 @@ Activity recommended to be done in pairs. Teachers should pair students to suppo
 
 **Materials needed**
 
-For Students: (Set for one pair) - 9V Battery, 9V Battery clip, 4 Alligator clip leads, LED, Various (Need to specify ohm values later) Resistors, Multimeter
+For Students: (Set for one pair) - 9V Battery (not portable battery for drone), 9V Battery clip, 4 Alligator clip leads, LED, Various (Need to specify ohm values later) Resistors, Multimeter
 
 For Teachers: Presentation device for explaination of topics
 
@@ -68,31 +68,31 @@ Put students into pairs. Give each pair a multimeter and battery and give them a
 
 ### Main Lesson
 
-1. Recommended: 10 min - Build and measure first circuit
+Recommended: 40 minutes
+
+1. Build and measure first circuit
 
 Give the students materials to build a circuit similar to last class's except without the LED. Show them how to measure voltage, resitance, and current with the multimeter.
 
-2. Recommended: 15 min - Explaination of Ohm's Law
+2. Explaination of Ohm's Law
 
-Show how voltage, resistance, and current relate mathmatically using Ohm's law. (A graphic may be helpful, similar to one listed below in resources.)
-
-Bring up a chart of ohms/distance for a copper wire of varying gauges, show process of picking a gauge for a given distance and resistance
+Show how voltage, resistance, and current relate mathmatically using Ohm's law. (A graphic may be helpful, similar to this one. [https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE](https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE))
 
 “Short circuit”, low resistance, unintended, alternate path through the circuit, how that could damage components in the circuit, power source, start fire, etc…
 
-3. Recommended: 5 min- Build and measure second circuit
+3. Build and measure second circuit
 
 Make the same circuit except for a different resistor, and ask students to prove Ohm's law using the multimeter.
 
-4. Recommended: 5 min - Build and measure circuit with LED
+4. Build and measure circuit with LED
 
 Make the same circuit except add an LED, and ask students to prove Ohm's law. (It won't.)
 
-5. Recommended: 5 min - Explaination of why LED doesn't observe Ohm's law
+5. Explaination of why LED doesn't observe Ohm's law
 
 (Need to get good explaination!)
 
-6. Recommended: 10 min - Explaination of AC and DC
+6. Explaination of AC and DC
 
 Teacher explains difference between AC and DC. Measures AC from a wall outlet using a multimeter.
 
