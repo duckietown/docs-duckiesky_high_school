@@ -44,6 +44,7 @@ For Teachers:
 
 - Projector for displaying videos or slides
 - Large sheets of paper and markers for student brainstorming in small groups
+- Print out [note sheets](https://docs.google.com/document/d/17OSygnSXLueR2K5h-1ncwIuaMdFhb5mv0fAuhiSRw9w/edit?usp=sharing) for students to help take notes
 
 **Classroom Set Up**
 
@@ -214,7 +215,7 @@ See also: [Article](https://www.cnet.com/news/police-use-of-facial-recognition-g
 
 See also: [article](https://time.com/collection/davos-2019/5502592/china-social-credit-score/) on China's Social Credit System
 
-#### Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) 
+#### An example: Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) 
 
 - Explain Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)
 
@@ -250,7 +251,7 @@ See also: [website](https://digitalguardian.com/blog/what-itar-compliance)
 
 - Unmanned aerial vehicals face many ethical issues such as civillian casualties
 
-#### Should we handle autonomous weapons like chemical weapons
+#### Autonomous Weapons and Chemical Weapons
 
 - Explain the different types of chemical warfare agents in US
 
@@ -268,7 +269,7 @@ See also: There has been much debate if autonomous weapons should be treated lik
      - privacy/security, trust between robots and humans, and their interactions
      - Can be dangerous when certain ethics are not considered 
 
-#### The Emergency Exit Robot Study, Georgia Tech Howard
+#### Example: The Emergency Exit Robot Study, Georgia Tech Howard
 
 - Explain about experiment conducted by Georgia Institute of Technology that highlighted the potential risks of putting too much trust into robots during emergency situations that utilizes robots in a care setting and show the risks of putting to much trust into robots.
 
