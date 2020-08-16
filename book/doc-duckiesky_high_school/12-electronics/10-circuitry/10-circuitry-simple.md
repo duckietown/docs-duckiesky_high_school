@@ -60,7 +60,7 @@ Teacher demonstrates the balloon static electricity experiment either on themsel
 
 Recommended: 15 minutes
 
-- Use resources below, or of your own to compare electricity to water flowing through pipes using a pump. 
+- Use this image [https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html), or one of your own to compare electricity to water flowing through pipes using a pump. 
 
 - also indroduce the topics of resistance and voltage (windows2universe.org) 
 
@@ -72,11 +72,11 @@ Recommended: 15 minutes
 
 Recommended: 30 minutes
 
-Provide students with diagram on how to build the circuit, as well as the actual resources. (Warn students not to connect LED straight to battery without the resisitor in the circuit.)
+Provide students with this diagram of the circuit [https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png](https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png), as well as the actual resources. (Warn students not to connect LED straight to battery without the resisitor in the circuit.)
 
 Let students trial and error their first build attempts. Ask students to try different resisitors, reverse the resistors, and reverse the LED and see what happens.
 
-Teacher should also show video of LED Burning out.
+Teacher should also show video of LED Burning out. [https://www.youtube.com/watch?v=Zd5GtGVcdDc](https://www.youtube.com/watch?v=Zd5GtGVcdDc)
 
 ### Ending The Lesson
 
@@ -84,13 +84,13 @@ Recommended: 10 minutes
 
 Teacher leads discussion based on the following questions:
 
-"What did you learn?"
+Q: "What did you learn?"
 
-"What affect did the resistors have? What happened when you reversed their order?" (Follow up with a brief description of polarity in circuits)
+Q: "What affect did the resistors have? What happened when you reversed their order?" (Follow up with a brief description of polarity in circuits)
 
-"Did anything go wrong?"
+Q: "Did anything go wrong?"
 
-"What do you still want to know about circuits?"
+Q: "What do you still want to know about circuits?"
 
 **Useful Resources and References**
 
