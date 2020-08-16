@@ -61,34 +61,39 @@ Students will complete an assignment, that they can answer the questions and han
 Hook: The drones that students are building is relatively powerful, and can cause harm to them or others if not used safely. 
 
 - Can show a drone fail compilation video and note the danger in those videos
+    - example video:[Video](https://youtu.be/6FVeZeT_TEA) involves mostly crashes from bad locations of flying
 
 
 ### Main Lesson
 
 ##### Case Study: The Midair Collision in 2009
 
-- Teachers can do a case study about the Midair Collision in 2009 where safety was compromised. Another brief overview is given in the EdX lectures. 
-    - There was a collision between a private airplane and a sightseeing helicopter over Manhattan. The result was 9 deaths. 
+- Do case study about the Midair Collision in 2009 where safety was compromised
+    - Collision between a private airplane and a sightseeing helicopter over Manhattan that resulted in 9 deaths.
 
-    - There were several causes that contributed to this: 
+See also: [EdX lectures on the Midair Collision](https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/courseware/0e3596880ec446d8ab63df427e02e9c4/b7d23abef7554c69aaeccf330568d7f2/?activate_block_id=block-v1%3ABrownX%2BCS195R%2B2018_T1%2Btype%40sequential%2Bblock%40b7d23abef7554c69aaeccf330568d7f2)
+ 
 
-1. The limitations of the see and avoid concept: by the time the pilot of the airplane saw the helicopter, there was no time/not sufficient enough time to avoid the helicopter. 
+- Explain the causes that contributed to this: 
+    - The limitations of the see and avoid concept
+    - Teterboro Airport local controller’s non pertinent telephone conversation 
+    - Inadequate FAA procedures and regulations
 
-2. Teterboro Airport local controller’s non pertinent telephone conversation (New York Times): The controller was distracted as he was having a phone call. He did not communicate with the pilot and was unable to warn the pilot of a potential crash. 
+See also: [The NTSB report of the collision](https://www.ntsb.gov/investigations/AccidentReports/Pages/AAR1005.aspx)
 
-3. Inadequate FAA procedures and regulations: There are inadequate FAA proceuures for transfer of communications between ATC facilities along that area of where the crash occured (New York Times). As well, the FAA regulations that not allow for sufficient vertical separation between aircraft flying in the region. 
+See also: [article 1](ttps://www.nytimes.com/2009/08/15/nyregion/15crash.html) and [article 2](ttps://www.nytimes.com/2009/08/10/nyregion/10collide.html)
 
-<!-- https://www.nytimes.com/2009/08/15/nyregion/15crash.html 
+Better: Have a class dicussion on the importance of this event. 
 
-https://www.nytimes.com/2009/08/10/nyregion/10collide.html
---> 
-
+- Examples of questions that can be considered during the discussion: 
+    - How might the see and avoid concept be applied to the smaller drones we are flying? 
+    - What are some distractions that you might experience when flying your drone? Can we mitigate these?
+    - Some of you may drive cars. What safety skills from driving can be translated to flying?
 
 ##### FAA rules
 
-- Teachers should ensure that they and students are following the FAA rules when operating their drones. 
-
-See also: The Federal Aviation Administration (FAA) is a US governmental boday that is responsible for regulating aviation and unmanned aircraft. It regulates flights outdoors. FAA rules do not apply to operations that take place indoors.  
+- Students must follow FAA rules when operating their drones
+- Explain what FAA stands for and what it is responsible for regulating.
 
 See also: Students are considered to be recreational users. 
 
@@ -221,5 +226,21 @@ Answer the following questions about flying in the CIT lobby.
 Recommended: X minutes/hours
 
 - Teachers should summarize the lesson and make sure that students can complete the assignment. 
+
+### Glossary of Terms
+
+**NTSB:**
+
+**See and Avoid Concept:**
+
+**UAS:**
+
+**Kill Switch**
+
+**OSHA:**
+
+**Bystander Effect**
+
+**B4UFLY App:**
 
 **Useful Resources and References**
