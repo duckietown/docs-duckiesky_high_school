@@ -50,7 +50,7 @@ For Teachers: Balloons, teaching method for static and current electricity
 
 Recommended: 5 minutes
 
-Teacher demonstrates the balloon static electricity experiment either on themselves or a student volunteer. Explain why the balloon sticks to the wall. (Teacher's discretion to do the experiment in class, or simply review it)
+Teacher demonstrates the balloon static electricity experiment either on themselves or a student volunteer. Explain why the balloon sticks to the wall. (Teacher's discretion to do the experiment in class, or simply review it) The main purose of this is to introduce electricity and how it interacts with objects in a classic experiment.
 
 ### Main Lesson
 
