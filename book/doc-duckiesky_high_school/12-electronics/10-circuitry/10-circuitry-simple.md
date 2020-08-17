@@ -2,7 +2,7 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: LED, resistor, battery, wire
+Requires: 9V Batteries, 9V Battery clips,Alligator clip leads, LEDs, Various Ohm Resistors 
 
 Result: Introduction to the concepts of charge, voltage, current, and resistance. DC Circuit
 
@@ -15,10 +15,6 @@ Simple Circuits
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
 ISTE 4. d. exhibit a tolerance for ambiguity, perseverance and the capacity to work with open-ended problems.NGSS HS-PS3-5. Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction.
-
-### Purpose:
-
-Give students a basic understanding of circuits used within the drone.
 
 ### Assessments and Evidence of Understanding
 
@@ -42,7 +38,7 @@ Activity recommended to be done in pairs. Teachers should pair students to suppo
 
 **Materials needed**
 
-For Students: (Set for one pair) - 9V Battery, 9V Battery clip, 4 Alligator clip leads, LED, Various (Need to specify ohm values later) Resistors 
+For Students: (Set for one pair) - 9V Battery, 9V Battery clip, 4 Alligator clip leads, LED, Various Ohm Resistors 
 
 For Teachers: Balloons, teaching method for static and current electricity
 
@@ -54,7 +50,7 @@ For Teachers: Balloons, teaching method for static and current electricity
 
 Recommended: 5 minutes
 
-Teacher demonstrates the balloon static electricity experiment either on themselves or a student volunteer. Explain why balloon sticks to the wall. (Teacher's discretion to do the experiment in class, or simply review it)
+Teacher demonstrates the balloon static electricity experiment either on themselves or a student volunteer. Explain why the balloon sticks to the wall. (Teacher's discretion to do the experiment in class, or simply review it)
 
 ### Main Lesson
 
