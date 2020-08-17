@@ -64,11 +64,7 @@ Recommended: 15 minutes
 
 - If time, discuss how different materials conduct electricity differently. (Conductors vs. Insulators)
 
-### Student Activity
-
-Recommended: 30 minutes
-
-Provide students with this diagram of the circuit [https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png](https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png), as well as the actual resources. (Warn students not to connect LED straight to battery without the resisitor in the circuit.)
+Better: Provide students with this diagram of the circuit [https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png](https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png), as well as the actual resources. (Warn students not to connect LED straight to battery without the resisitor in the circuit.)
 
 Let students trial and error their first build attempts. Ask students to try different resisitors, reverse the resistors, and reverse the LED and see what happens.
 
