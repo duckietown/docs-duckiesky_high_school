@@ -76,6 +76,8 @@ Give the students materials to build a circuit similar to last class's except wi
 
 2. Explaination of Ohm's Law
 
+Ohm's law states that the current through a conductor between two points is directly proportional to the voltage across the two points.
+
 Show how voltage, resistance, and current relate mathmatically using Ohm's law. (A graphic may be helpful, similar to this one. [https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE](https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE))
 
 “Short circuit”, low resistance, unintended, alternate path through the circuit, how that could damage components in the circuit, power source, start fire, etc…
@@ -103,6 +105,8 @@ If time: Brief overview (no math) of other passives (e.g. capacitors resist chan
 Recommended: 5 minutes
 
 Clean Up!
+
+(Also here's a vocab worksheet for in class or hw: [https://docs.google.com/document/d/18a2UVzlNQGC5mvZ_JpYRoVtIp8XaYsbznB4QR38_TL4/edit?usp=sharing](https://docs.google.com/document/d/18a2UVzlNQGC5mvZ_JpYRoVtIp8XaYsbznB4QR38_TL4/edit?usp=sharing)
 
 **Useful Resources and References**
 
