@@ -102,7 +102,7 @@ See also:   Tinning is what you do before you solder, which is coating a metal w
 
 See also: Solder iron is hot, only apply to needed components, solder can fling out and is necessary to have eye protection, do not breathe in soldering fumes, the metals that the solder is next to is also hot so use helping hands or long-nose pliers.
 
--  Teacher explains and shows how to set up the soldering station.
+-  Teacher explains and shows how to set up the soldering station. (while the teacher is setting up their soldering station, students should follow along setting up their stations, preheating the iron and cleaning the iron before beginning)
 -  Teacher turns on soldering iron and heat control (Each soldering iron model is different and you should know an appropriate heat to tin with.)
 -  Teacher shows how to clean soldering iron with gold curl soldering cleaners and a sponge.
 -  Teacher will show how to tin using the example wire.
