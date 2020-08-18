@@ -29,7 +29,7 @@ and environmental impacts.
 ### Assessments and Evidence of Understanding
 By the end of this lesson, students will recognize that there are laws regulating hobby drone flight in their area, and they will be able to identify a safe environment that they can fly their drones in. They will be able to identify potential hazards of drone flight and soldering, and will learn about proper safety procedures to minimize risk of these hazards. 
 
-Students will complete an assignment, that they can answer the questions and hand in to their teachers. 
+Students will complete an assignment, that they can answer the questions and hand in to their teachers as homework. 
 
 ### AGENDA (Brief Summary of Activities)
 5 min: Introduction to the lesson. 
@@ -48,7 +48,7 @@ Students will complete an assignment, that they can answer the questions and han
 - Drone kit
 - Safety equipment
 - Projector
-- Print out the assignment worksheets and handouts
+- Print out the [FAA rules handout](https://docs.google.com/document/d/1ZjEYoJe1Grx3ZsH7KuT0ExajMZIWFM91Sgr-eRX3FZM/edit?usp=sharing), [home assignment](https://docs.google.com/document/d/1poSQFkOB8Ye5RvB5iptiYyRnIeacTpSrlOOc4-FSNPY/edit?usp=sharing), 
 
 **Classroom Set Up**
 
@@ -73,11 +73,18 @@ Hook: The drones that students are building is relatively powerful, and can caus
 
 See also: [EdX lectures on the Midair Collision](https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/courseware/0e3596880ec446d8ab63df427e02e9c4/b7d23abef7554c69aaeccf330568d7f2/?activate_block_id=block-v1%3ABrownX%2BCS195R%2B2018_T1%2Btype%40sequential%2Bblock%40b7d23abef7554c69aaeccf330568d7f2)
  
+- [Video](https://www.youtube.com/watch?v=cwT6yP1UXE4) of impact druing incident
+
+- [Animation by NTSB](https://www.youtube.com/watch?v=2oHRBMs2qQQ) explaining the incident 
 
 - Explain the causes that contributed to this: 
     - The limitations of the see and avoid concept
     - Teterboro Airport local controller’s non pertinent telephone conversation 
     - Inadequate FAA procedures and regulations
+
+- Explain what the NTSB is, annd what are NTSB reports
+    - NTSB: National Transportation Safety Board
+    - NTSB reports: provides detailed account of accident.
 
 See also: [The NTSB report of the collision](https://www.ntsb.gov/investigations/AccidentReports/Pages/AAR1005.aspx)
 
@@ -87,29 +94,22 @@ Better: Have a class dicussion on the importance of this event.
 
 - Examples of questions that can be considered during the discussion: 
     - How might the see and avoid concept be applied to the smaller drones we are flying? 
-    - What are some distractions that you might experience when flying your drone? Can we mitigate these?
+    - What are some distractions that you might experience when flying your drone? 
+    - How can we mitigate these distractions?
     - Some of you may drive cars. What safety skills from driving can be translated to flying?
 
 ##### FAA rules
 
+- Explain what FAA stands for and what it is responsible for
+    - FAA: Federal Aviation Administration
+    - responsible for regulation of civil aviation: including airports, air traffic management, certification of people, certification of aircraft, and protection of US assets. 
+
 - Students must follow FAA rules when operating their drones
-- Explain what FAA stands for and what it is responsible for regulating.
 
-See also: Students are considered to be recreational users. 
+- Go over some of the general important safety guidelines by the FAA, the most applicable rules for students are in the [handout](https://docs.google.com/document/d/1ZjEYoJe1Grx3ZsH7KuT0ExajMZIWFM91Sgr-eRX3FZM/edit?usp=sharing).
 
-See also: Faculty and staff are considered to be non-recreational users. 
-
-See also: Here are some of the important safety guidelines by the FAA: 
-
-1. Fly at or below 400 feet  
-2. Be aware of airspace requirements and restrictions  
-3. Stay away from surrounding obstacles  
-4. Keep your UAS within sight  
-5. Never fly near other aircraft, especially near airports  
-6. Never fly over groups of people  
-7. Never fly over stadiums or sports events  
-8. Never fly near emergency response efforts such as fires  
-9. Never fly under the influence of drugs or alcohol  
+Note: Students are considered to be recreational users. 
+ 
 
 ##### Where to fly:
 
@@ -165,7 +165,8 @@ Before you fly, you should make sure that:
 
 ##### First Flight:
 
-- Teachers should supervise students for their first flight. There are many potential problems that could occur with the first flight due to incorrect build or just it being the students' first experience controlling the drone. 
+- Teachers should supervise students for their first flight. 
+    - There are many potential problems that could occur with the first flight due to incorrect build or just it being the students' first experience controlling the drone. 
 
 See also: The first time you fly the drone or start the drone, there may be some situations you may experience/be aware of:
 
@@ -176,49 +177,9 @@ See also: The first time you fly the drone or start the drone, there may be some
 
 ##### Assignment for students: 
 
-The goal of this assignment is to ask you to think critically about how to ensure robots are operated safely, and to devise guidelines for operating your robot safely.
+Better: Take [home assignment](https://docs.google.com/document/d/1poSQFkOB8Ye5RvB5iptiYyRnIeacTpSrlOOc4-FSNPY/edit?usp=sharing) for students. 
 
-#### OSHA Safety Analysis (50 points)
-Write answers in answers.txt. 
-Read the OSHA Technical Manual on Industrial Robots and Robot System Safety (https://www.osha.gov/dts/osta/otm/otm_iv/otm_iv_4.html).
-Perform a hazard analysis for the drone, based on the OSHA guidelines. Make sure you answer each of the following subquestions in a few sentences.
-
-
-1. What tasks will the robot be programmed to perform?
-2. What are the startup, command, or programming procedures?
-3. What environmental conditions are relevant?
-4. What are location/installation requirements to fly the drone?
-5. What are possible human errors?
-6. What maintenance is necessary?
-7. What are possible robot and system malfunctions?
-8. What is the normal mode of operation?
-
-#### FAA Rules (20 points)
-Write the answers to these questions in the corresponding sections in answers.txt.
-
-In the United States, the Federal Aviation Administration regulates outdoor flight. (It does not regulate flight indoors.) Read the FAA website on Unmanned Aircraft Systems (https://www.faa.gov/uas/). Provide short answers to the following questions.
-
-1. What procedures should you follow when flying your drone outside your school? (You might find it easiest to use the B4UFLY Smartphone App: https://www.faa.gov/uas/recreational_fliers/where_can_i_fly/b4ufly/).
-2. What is the closest airport to you? Hint: Make sure to check for heliports as well.
-3. What are some risks of drone flight? How could people get hurt with the robot?
-4. Do you need to register your drone?
-5. When do you need to report an accident to the FAA?
-
-#### Flying at Home (10 points)
-Write your answers in answers.txt.
-Answer the following questions about flying at home.
-
-1. What are the risks?
-2. What should you do to plan?
-3. What safety precautions should you take before you fly?
-
-#### Flying at School (10 points)
-Write your answers in answers.txt.
-Answer the following questions about flying in the CIT lobby.
-
-1. What are the risks?
-2. What should you do to plan?
-3. What safety precautions should you take before you fly?
+The goal of this assignment is to ask students to think critically about how to ensure robots are operated safely, and to devise guidelines for operating their robot safely.
 
 
 ### Ending The Lesson
@@ -229,7 +190,9 @@ Recommended: X minutes/hours
 
 ### Glossary of Terms
 
-**NTSB:**
+**NTSB:** National Transportation Safety Board. US investigative body for vehicle/transportation accidents. 
+
+**FAA:** Federal Aviation Administration which is responsible for regulation of civil aviation: including airports, air traffic management, certification of people, certification of aircraft, and protection of US assets. 
 
 **See and Avoid Concept:**
 
@@ -239,7 +202,7 @@ Recommended: X minutes/hours
 
 **OSHA:**
 
-**Bystander Effect**
+**Bystander Effect:** The more people that are present, the less likely someone will help a victim during a situation. Be wary of this, make sure that if there is a dangerous situation, be cautious and aware, and take action to help those who need it.
 
 **B4UFLY App:**
 
