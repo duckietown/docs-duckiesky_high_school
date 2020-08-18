@@ -85,10 +85,10 @@ Today robots impact everyday life in the service industry, with potential to pos
 
 **Useful Resources and References**
 
-https://www.lexico.com/en/definition/robot
+[Lexico.com](https://www.lexico.com/en/definition/robot) Definition of Robot
 
-https://en.wikipedia.org/wiki/Robot
+[Wikepidia](https://en.wikipedia.org/wiki/Robot) What is a Robot
 
-https://en.wikipedia.org/wiki/Robotics
+[Wikepidia](https://en.wikipedia.org/wiki/Robotics) Info on Robotics
 
-https://sciencing.com/robots-used-in-everyday-life-12084150.html
+[Sciencing.com](https://sciencing.com/robots-used-in-everyday-life-12084150.html) Use of Robotics
