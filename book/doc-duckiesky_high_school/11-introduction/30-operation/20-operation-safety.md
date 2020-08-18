@@ -178,7 +178,7 @@ Note: Teachers should have the [pre-flight checklist handout](https://docs.googl
 - Emphasize that teachers should supervise students for their first flight. 
     - There are many potential problems that could occur with the first flight due to incorrect build or just it being the students' first experience controlling the drone. 
 
-- There may be some situations students may experience/should be aware of, students should recognize them and identify potential ways to fix them. 
+- Go through some situations students may experience/should be aware of, students should recognize them and identify potential ways to fix them. 
     - Written on the [pre-flight checklist handout](https://docs.google.com/document/d/1dtgmRaOTyjgUGNAs9_B03avwvllN0LdCCeAQ5GOPj6o/edit?usp=sharing)
 
 
@@ -201,7 +201,7 @@ The goal of this assignment is to ask students to think critically about how to 
 
 **Kill Switch:** spacebar on the keyboard which immediately disarms the drone after they have begun flying it. If something goes wrong during flight, press the spacebar. 
 
-**OSHA:**
+**OSHA:** Occupational Safety and Health Adminstration. 
 
 **Bystander Effect:** The more people that are present, the less likely someone will help a victim during a situation. Be wary of this, make sure that if there is a dangerous situation, be cautious and aware, and take action to help those who need it.
 
