@@ -102,3 +102,5 @@ Give students binary game link, and challenge them to hit the highest level!
 [https://games.penjee.com/binary-bonanza/](https://games.penjee.com/binary-bonanza/)
 
 [https://www.rapidtables.com/code/text/ascii-table.html](https://www.rapidtables.com/code/text/ascii-table.html)
+
+[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
