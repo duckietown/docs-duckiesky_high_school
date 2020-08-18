@@ -82,3 +82,5 @@ Recommended: 5 minutes
 Clean up! This practice will use a lot of materials, so be sure to have students clean up their workspaces.
 
 **Useful Resources and References**
+
+[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
