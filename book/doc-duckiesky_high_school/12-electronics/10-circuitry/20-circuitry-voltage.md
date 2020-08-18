@@ -115,3 +115,5 @@ Clean Up!
 [https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law](https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law)
 
 [https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html)
+
+[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
