@@ -5,7 +5,6 @@
 Requires: 
 
 Hardware: Completed drone build if available, or use video resource to demonstrate the pre-flight safety check. 
-No previous lessons required. 
 
 Result: 
 
@@ -33,7 +32,8 @@ Students will complete an assignment, that they can answer the questions and han
 
 ### AGENDA (Brief Summary of Activities)
 5 min: Introduction to the lesson. 
-40 min: Students will analyze a case study, learn about FAA rules, be able to recognize a safe space for flight, learn about safety hazards and the pre flight checklist. 
+30 min: Students will analyze a case study, learn about FAA rules, be able to recognize a safe space for flight, learn about safety hazards and the pre flight checklist. 
+20 min: Ending of lesson: preparing and flying drone demonstration
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
@@ -41,17 +41,20 @@ Students will complete an assignment, that they can answer the questions and han
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
 **Student Materials:** 
-- Drone kit
+
+- Drone and soldering kit
 - Safety equipment
 
 **Teacher Materials:** 
-- Drone kit
+
+- Drone and soldering kit
 - Safety equipment
 - Projector
-- Print out the [FAA rules handout](https://docs.google.com/document/d/1ZjEYoJe1Grx3ZsH7KuT0ExajMZIWFM91Sgr-eRX3FZM/edit?usp=sharing), [home assignment](https://docs.google.com/document/d/1poSQFkOB8Ye5RvB5iptiYyRnIeacTpSrlOOc4-FSNPY/edit?usp=sharing), 
+- Print out the [FAA rules handout](https://docs.google.com/document/d/1ZjEYoJe1Grx3ZsH7KuT0ExajMZIWFM91Sgr-eRX3FZM/edit?usp=sharing), [home assignment](https://docs.google.com/document/d/1poSQFkOB8Ye5RvB5iptiYyRnIeacTpSrlOOc4-FSNPY/edit?usp=sharing), [pre-flight checklist handout](https://docs.google.com/document/d/1dtgmRaOTyjgUGNAs9_B03avwvllN0LdCCeAQ5GOPj6o/edit?usp=sharing)
 
 **Classroom Set Up**
 
+- have an area of the classroom free for teacher example drone flight and neighborhood modeling activities. 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
@@ -104,75 +107,79 @@ Better: Have a class dicussion on the importance of this event.
     - FAA: Federal Aviation Administration
     - responsible for regulation of civil aviation: including airports, air traffic management, certification of people, certification of aircraft, and protection of US assets. 
 
+See also: [FAA website](https://www.faa.gov)
+
 - Students must follow FAA rules when operating their drones
 
 - Go over some of the general important safety guidelines by the FAA, the most applicable rules for students are in the [handout](https://docs.google.com/document/d/1ZjEYoJe1Grx3ZsH7KuT0ExajMZIWFM91Sgr-eRX3FZM/edit?usp=sharing).
 
 Note: Students are considered to be recreational users. 
  
+Better: Exercise: Teachers can set up a diorama of a mini neighborhood in the classroom (with paper or boxes). Teachers can hold a paper airplane over it, and ask students to guide the "drone" through the neighborhood. Teachers can also ask students where and where not they can fly and their reasoning.  
 
 ##### Where to fly:
 
-- Teachers should make sure that students understand where they can operate their drones.
+- Explain to students where/how they can choose a space where they can safely operate their drones.
 
-See also: You may fly your drone indoors if you have enough space, as FAA rules do not apply to operations that take place indoors. 
+Note: Encouraged to fly your drone indoors if you have enough space. FAA rules do not apply to operations that take place indoors. 
 
-See also: Before flying outside, please check the FAA's website (the Chart  User's Guide or the aeronautical charts provided) to check which airspace you are located in.
-
-See also: The B4UFLY app, which is created by the FAA, helps recreational flyers to figure out where they can safely fly and if there are any restrictions in a location. 
+- If flying outdoors, ask students to double check their airspace and restrictions/regulations in their area: 
+    - [FAA's Aeronautical Chart Users' Guide](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/aero_guide/)
+    - [the B4UFLY app](https://www.faa.gov/uas/recreational_fliers/where_can_i_fly/b4ufly/)
 
 ##### Possible Sources for Danger:
 
-- Teachers should make sure that students understand what are potential sources of danger, and to be aware of what is happening while operating their drone. 
+- Explain there are potential sources of danger and students should be constantly aware when operating their drone. 
 
-See also: During soldering, there are potentials sources of danger such as burns. Make sure that students are taking precaution and understand that they are operating hot materials, and must not leave anything unattended. More details will be covered in the soldering module.
+Better: Exercise: While teachers lists of potential sources of danger, students can pick out drone/soldering kit part that could present that danger. Students should also name that part(s). 
 
-See also: There are several possible sources of danger that can result from the drone: 
+- Explain potential sources of danger with soldering: 
+    - extreme heat and possible burns 
+    - don't leave materials unattended
 
-1. applying force to your body
-2. energy discharge from the body
-3. parts or propellers dislodging from the drone 
-4. electric shorts and fires
+- There are several possible sources of danger that can result from the drone: 
+    - applying force to your body
+    - energy discharge from the body
+    - parts or propellers dislodging from the drone
+    - electric shorts and fires
+    - faulty battery
 
 ##### Safe Environment
 
-- Teachers should teach students about The Bystander Effect, and make sure that students be able to find a safe environment and have the appropriate equipment to fly their drones.
+- Explain "The Bystander Effect" and emphasize that students should always be aware of surroundings and be ready to act
+    - the more people that are present, the less likely someone will help a victim during a situation
 
-See also: The Bystander Effect: The more people that are present, the less likely someone will help a victim during a situation. Be wary of this, make sure that if there is a dangerous situation, be cautious and aware, and take action to help those who need it.
+- Explain that students should always make sure that have a safe environment to fly
 
-See also: Make sure that you have a safe environment to fly indoors, and make sure this an adequate amount of space. 
+- If students can solder or fly their drones in a designated school space, please make sure to address any rules or protocol that must be followed to ensure that students are safe or in case of an accident.  
 
-See also: If students can solder or fly their drones in a designated school space, please make sure to address any rules or protocol that must be followed to ensure that students are safe.  
 
-See also: Make sure you have equipment: 
-1. Safety glasses
-2. Gloves
-3. Walls
-4. Distance
-5. Net (not required)
+- Explain important safety equipment: 
+    - Safety glasses, gloves, walls, distance
+    - net (not required but point it out if there is one in the class)
 
-##### Pre-flight Safety Checklist
+Better: Exercise: Get students to gather their required safety equipment while teacher sets up a safe flying space. 
 
-- Teachers should make that before students fly their drones, they must make sure that they have checked all steps of the pre-flight safety checklist. 
+### Ending The Lesson
 
-Before you fly, you should make sure that: 
+##### Pre-flight Checklist
 
-1. Am I connected to the correct drone?
-2. Safety glasses are on?
-3. Do I have space to fly? Possibilities of flying away or collisions?
-4. Check the kill switch and ensure that it works
-5. Are the propellers armed?
+- Introduce the idea of the pre-flight checklist, and that students must go through it whenever they fly
+
+Better: Exercise: Teachers can go through the pre-flight safety checklist as they are gearing up their drone flight for the students to see. 
+
+- Go through the pre-flight checklist that is on the handout:
+
+Note: Teachers should have the [pre-flight checklist handout](https://docs.google.com/document/d/1dtgmRaOTyjgUGNAs9_B03avwvllN0LdCCeAQ5GOPj6o/edit?usp=sharing) printed for each student, and make sure they always have it with them during flights. 
+
 
 ##### First Flight:
 
-- Teachers should supervise students for their first flight. 
+- Emphasize that teachers should supervise students for their first flight. 
     - There are many potential problems that could occur with the first flight due to incorrect build or just it being the students' first experience controlling the drone. 
 
-See also: The first time you fly the drone or start the drone, there may be some situations you may experience/be aware of:
-
-1. Drone flips (propellers are on upside down)  
-2. Collisions (No side or back sensors)  
-3. Battery mishaps (when the battery shorts or explodes)  
+- There may be some situations students may experience/should be aware of, students should recognize them and identify potential ways to fix them. 
+    - Written on the [pre-flight checklist handout](https://docs.google.com/document/d/1dtgmRaOTyjgUGNAs9_B03avwvllN0LdCCeAQ5GOPj6o/edit?usp=sharing)
 
 
 ##### Assignment for students: 
@@ -182,28 +189,22 @@ Better: Take [home assignment](https://docs.google.com/document/d/1poSQFkOB8Ye5R
 The goal of this assignment is to ask students to think critically about how to ensure robots are operated safely, and to devise guidelines for operating their robot safely.
 
 
-### Ending The Lesson
-
-Recommended: X minutes/hours
-
-- Teachers should summarize the lesson and make sure that students can complete the assignment. 
-
 ### Glossary of Terms
 
 **NTSB:** National Transportation Safety Board. US investigative body for vehicle/transportation accidents. 
 
 **FAA:** Federal Aviation Administration which is responsible for regulation of civil aviation: including airports, air traffic management, certification of people, certification of aircraft, and protection of US assets. 
 
-**See and Avoid Concept:**
+**See and Avoid Concept:** the concept of taking action to avoid what you see. If you are able to see a ball coming at you, you can take action: catch, dodge, etc. In the Midair Collision, time was too short to be able to take any action. 
 
-**UAS:**
+**UAS:** unmanned aerial systems: systems/vehicles with no human pilot, like drones. 
 
-**Kill Switch**
+**Kill Switch:** spacebar on the keyboard which immediately disarms the drone after they have begun flying it. If something goes wrong during flight, press the spacebar. 
 
 **OSHA:**
 
 **Bystander Effect:** The more people that are present, the less likely someone will help a victim during a situation. Be wary of this, make sure that if there is a dangerous situation, be cautious and aware, and take action to help those who need it.
 
-**B4UFLY App:**
+**B4UFLY App:** app created by the FAA, helps recreational flyers to figure out where they can safely fly and if there are any restrictions in a location. 
 
 **Useful Resources and References**
