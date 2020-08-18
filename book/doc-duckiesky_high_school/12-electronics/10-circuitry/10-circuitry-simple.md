@@ -93,3 +93,5 @@ Q: "What do you still want to know about circuits?"
 [scienceworld.ca/resource/static-electricity/](scienceworld.ca/resource/static-electricity/)
 
 [https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png](https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png)
+
+[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
