@@ -82,3 +82,5 @@ Recommended: 5 minutes/hours
 Teacher should ask the students, on a scale of 1 to 10, how comforable they feel with the tools. If the majority of the class still feels uncomfortable, it might be wise to take half of another class to continue to work on their skills.
 
 **Useful Resources and References**
+
+[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
