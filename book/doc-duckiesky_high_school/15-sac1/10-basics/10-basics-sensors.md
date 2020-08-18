@@ -71,14 +71,7 @@ After this is done, teachers do a review what our drone’s three sensors measur
 
 - The camera - measures planar motion
 
-**Explain the definition of roll, pitch, and yaw.**
-
-<figure>
-    <figcaption>Roll, Pitch, and Yaw Diagram</figcaption>
-    <img style='width:12em' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flight_dynamics_with_text_ortho.svg/1200px-Flight_dynamics_with_text_ortho.svg.png"/>
-</figure>
-
-With the help of this picture, teacher introduces the terms roll pitch and yaw, and then asks the students to identify which of the sensors measure each of them (IMU for roll and pitch, camera for yaw)
+[**Explain the definition of roll, pitch, and yaw.**](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy-develop/duckiesky_high_school_student/out/sac1_basics_sensors.html)
 
 Better: **Optional**: Have your students make paper airplanes to physically demonstrate roll, pitch, and yaw. 
 
@@ -94,18 +87,7 @@ Q: Refer to the [signals lesson](https://docs.duckietown.org/daffy/downloads/duc
 
 Pause for discussion if necessary
 
-A: Analog-to-Digital Converter (ADC)!
-
-<div class='requirements' markdown="1">
-
-Voltage or Current is produced by the sensors -> amplification (convert to voltage if necessary) -> ADC
-
-</div> 
-
-<figure>
-    <figcaption>Analog and Digital Signal Diagram</figcaption>
-    <img style='width:12em' src="https://www.allaboutcircuits.com/uploads/articles/An-Introduction-to-Digital-Signal-Processing-(1).png"/>
-</figure>
+[Answer](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy-develop/duckiesky_high_school_student/out/sac1_basics_sensors.html)
 
 Question 2. **How we acquire data that are not directly measured.**
 
@@ -113,12 +95,7 @@ Q: What if we want the data in between those signals? Or if we want to predict t
 
 Pause for discussion if necessary
 
-A: Interpolation (estimate the data points in between known data) and extrapolation (using the current trend to predict the future data)
-
-<figure>
-    <figcaption>Interpolation and Exterpolation Graph</figcaption>
-    <img style='width:12em' src="https://storage.ning.com/topology/rest/1.0/file/get/2656751898?profile=original"/>
-</figure>
+[Answer](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy-develop/duckiesky_high_school_student/out/sac1_basics_sensors.html)
 
 Question 3. **How good are our sensors?**
 
@@ -137,26 +114,28 @@ See also: We need to pay extra attention to the units used. Here are the industr
 
     - Meters, NOT inches or feet
     
-    - Radians, NOT degrees
+    - [Radians](https://en.wikipedia.org/wiki/Radian), NOT degrees
 
 Q: Sensors have errors, too! Just like the signal noise from the [electronics unit](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html). How might we mitigate them?
 
 Pause for discussion if necessary
 
-A: 
-
-    - Filtering Frequencies: cut the frequency measurements that are unreasonably high or low
-
-    - Combining data from multiple sensors
-
-    - Cleverly decide which data are trustworthy
+[Answer](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy-develop/duckiesky_high_school_student/out/sac1_basics_sensors.html)
 
 
 ### Ending The Lesson
 
 Recommended: 15 minutes 
 
-Better: Mimicking the second way (combining data from multiple sensors) that make sensors more accurate – students individually measure something (a distance, number of jelly beans in a jar, or any other creative activities) and then averaging the individual guesses.
+A quick review of the lesson, sample questions include:
+
+Q: What does ADC stand for?
+
+Q: Why do we need an ADC?
+
+Q: Can you demonstrate row, pitch, and yaw using your body?
+
+Better: Mimicking the second way (combining data from multiple sensors) that make sensors more accurate – students individually measure something (a distance of a paper airplane flight, number of jelly beans in a jar, or any other creative activities) and then averaging the individual guesses. Then, ask students how accurate their measusures are. What about precision?
 
 
 **Useful Resources and References**
