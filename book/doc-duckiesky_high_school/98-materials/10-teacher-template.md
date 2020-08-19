@@ -1,4 +1,4 @@
-# Teacher Template {#introduction-template status=ready}
+# Teacher Template {#materials-template status=ready}
 
 <div class='requirements' markdown='1'>
 

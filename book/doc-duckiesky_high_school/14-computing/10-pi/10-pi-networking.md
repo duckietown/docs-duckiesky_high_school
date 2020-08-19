@@ -35,15 +35,15 @@ operations, demonstrate the ability to choose, use and troubleshoot current tech
 
 ### Assessments and Evidence of Understanding
 
-By the end of this lesson, students should be able to connect to the Pi over ssh and verify its the right one by running an existing bash script to blink the built-in LED.
+By the end of this lesson, students should be able to connect to the Pi and verify its the right one by running an existing bash script to blink the built-in LED.
 
 ### AGENDA (Brief Summary of Activities)
 
-5 min: Basestation Setup
+10 min: Basestation Setup
 
-35 min: Networking Lesson
+30 min: Networking Lesson
 
-25 min: Pi SSH and Led Blinking Script
+25 min: Pi Connection and Led Blinking Script
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
@@ -64,19 +64,23 @@ Teachers can write a DO NOW on the board for students to set up their basestatio
 
 ### Introducing The Lesson
 
-Recommended: 5 minutes
+Recommended: 10 minutes
 
 **Hook:**
 
 -  This will be a lesson for the student on the basics of Networking and Computer Terminals. It is important to comprehend networking to understand the basis of how computers connect with each other and to know computer terminal details to understand how computers can be controlled.
-- (Optional) Networking should be applied to how the drone communicates with the computer. To do this, teachers can start class with a small discussion instead or in addition to the above hook. The following questions are potential discussion points:
-    - Q: What are some other robots or devices in your daily life that have to communicate with each other? How do you think they do this? 
-    - Q: How will we control our drone? From what? 
-    - Q: What is our basestation/computer "talking to" if we want to send it commands for our drone to do?
+    - One robot can be made up of one or more computers that need to coordinate with each other, and robots may need to communicate with external systems; for these purposes, networking is essential. 
+- (Optional) Networking should be applied to how the drone communicates with the basestation. To do this, teachers can start class with a small discussion instead of or in addition to the above hook. The following questions are potential discussion points:
+
+Q: What are some other robots or devices in your daily life that have to communicate with each other? How do you think they do this? 
+
+Q: How will we control our drone? From what? 
+
+Q: What features of the communication channel between our basestation and the drone could be important? Wireless connectivity, latency (delay between communications), throughput (maximum volume of communications)?
 
 ### Main Lesson
 
-Recommended: 35 minutes
+Recommended: 30 minutes
 
 - Teachers should cover the basics of the 7 layers of network abstraction and IP/MAC addresses as outlined in the student book.
     - (Optional) Students should fill out worksheet during process.
@@ -88,11 +92,14 @@ Recommended: 35 minutes
 
 Recommended: 20 minutes
 
-Better: Exercise: Teachers should have students connect to the Pi via web browser, verify its the right one by running an existing bash script to blink the built-in LED, and change the SSID. 
+Better: Exercise: Teachers should have students connect to the Pi via web browser, verify its the right one by running an existing bash script to blink the built-in LED.
 
-- (Optional) If students are able to get through this section with additional time remaining, they can work towards connecting to the Pi via SSH.
 
-TODO: Add connecting to the Pi via SSH section.
+<!-- (Optional) If students are able to get through this section with additional time remaining, they can work towards connecting to the Pi via SSH.
+    - SSH (Secure Shell) is a method that allows a user to remotely log in from one computer/device to another. Typically, we would be utilizing SSH to connect to our Pi, but 
+ -->
+
+TODO: Add optional material for connecting to the Pi via SSH section.
 
 
 **Useful Resources and References**
