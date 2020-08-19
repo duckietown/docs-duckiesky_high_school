@@ -85,7 +85,7 @@ See also: You may also recommend that students use one level lower strip number 
 
 -  Take the wire cutter and show students a pre tinned wire. Now use the wire cutters to cut the pre tinned part off. Emphasize that all wires that are pre tinned must be cut off and re tinned.
 
-Task: Teachers now have students strip and cut the same wire as they did and answer questions.
+Task: Teachers now have students strip cut, and tin the same wire as they did and answer questions.
 
 
 ### Soldering Intro
