@@ -2,9 +2,24 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: 9V Batteries, 9V Battery clips,Alligator clip leads, LEDs, Various Ohm Resistors 
+Requires:
 
-Result: Introduction to the concepts of charge, voltage, current, and resistance. DC Circuit
+**Hardware** - 9V Batteries, 9V Battery clips,Alligator clip leads, LEDs, Various Ohm Resistors 
+**Previous lesson** - None
+
+
+
+Result: 
+
+**Knowledge** -
+
+- Introduction to the concepts of: 
+- charge
+- voltage
+- current
+- resistance
+
+**Skills** - Ability to construct a simple DC circuit
 
 </div>
 
@@ -14,11 +29,13 @@ Simple Circuits
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-ISTE 4. d. exhibit a tolerance for ambiguity, perseverance and the capacity to work with open-ended problems.NGSS HS-PS3-5. Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction.
+__ISTE 4. d.__: Exhibit a tolerance for ambiguity, perseverance and the capacity to work with open-ended problems. 
+
+__NGSS HS-PS3-5.__: Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction.
 
 ### Assessments and Evidence of Understanding
 
-1. Circuit with lighted LED, and brightness can be varied
+By the end of this lesson, students should be able to construct a circuit with lighted LED, and with brightness that can be varied
 
 ### AGENDA (Brief Summary of Activities)
 
@@ -36,11 +53,13 @@ Activity recommended to be done in pairs. Teachers should pair students to suppo
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher materials**
 
-For Students: (Set for one pair) - 9V Battery, 9V Battery clip, 4 Alligator clip leads, LED, Various Ohm Resistors 
+Balloons, teaching method for static and current electricity
 
-For Teachers: Balloons, teaching method for static and current electricity
+**Student Materials**
+
+Students: (Set for one pair) - 9V Battery, 9V Battery clip, 4 Alligator clip leads, LED, Various Ohm Resistors 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -56,7 +75,7 @@ Teacher demonstrates the balloon static electricity experiment either on themsel
 
 Recommended: 15 minutes
 
-- Use this image [https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html), or one of your own to compare electricity to water flowing through pipes using a pump. 
+- Use this [image](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html), or one of your own to compare electricity to water flowing through pipes using a pump. 
 
 - also indroduce the topics of resistance and voltage (windows2universe.org) 
 
