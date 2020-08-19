@@ -95,6 +95,8 @@ Recommended: 15 minutes
 
 Give students binary game link, and challenge them to hit the highest level! 
 
+[https://games.penjee.com/binary-bonanza/](https://games.penjee.com/binary-bonanza/)
+
 **Useful Resources and References**
 
 [https://docs.google.com/document/d/1QnD9khmPUz1az3ZLc5L8vavR6lU0uScspotRhORnHxE/edit](https://docs.google.com/document/d/1QnD9khmPUz1az3ZLc5L8vavR6lU0uScspotRhORnHxE/edit)
