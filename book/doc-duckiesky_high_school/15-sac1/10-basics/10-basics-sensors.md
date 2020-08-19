@@ -28,7 +28,8 @@ potential
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-
+NGSS: HS - PS4 - 5: Communicate technical information about how some technological devices use the principles of wave behavior
+and wave interactions with matter to transmit and capture information and energy. 
 
 ### Assessments and Evidence of Understanding
 
