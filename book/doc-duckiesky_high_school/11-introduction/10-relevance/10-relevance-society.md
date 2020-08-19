@@ -70,7 +70,7 @@ Navigating the Book/Resources will be as follows:
 
 By the end of the course, students will have a completed **quadcopter** drone capable of flying with commands inputted into a terminal on their computers.  With the content in the following lessons students will dive into; Safety Regulations, Hardaware, Software, and Additional Content.
 
-### Glossary ###
+### Vocabulary ###
 
 quadcopter: a more specific term used to refer to a drone that is flown with four motors.
 
