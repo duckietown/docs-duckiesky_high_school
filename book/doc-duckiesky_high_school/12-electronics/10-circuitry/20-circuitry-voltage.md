@@ -2,9 +2,22 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: LED, resistor,  battery, wire, multimeter
+Requires:
 
-Result: Understanding of the relation of charge, voltage, current, and resistance defined by Ohm's law, causes and effects of short circuit, and difference between AC and DC.
+**Hardware** - LED, resistor,  battery, wire, multimeter
+**Previous lesson** - Simple Circuits
+
+Result: 
+
+**Knowledge"" -
+
+Understanding of the relation of: 
+- charge
+- voltage 
+- current
+- resistance defined by Ohm's law
+- causes and effects of short circuit
+- difference between AC and DC
 
 
 </div>
@@ -15,32 +28,20 @@ Voltage, Current, and Resistance
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-NGSS HS-PS3-1. Create a computational model to calculate the change in the energy of one component in a system when the
+__NGSS HS-PS3-1.__: Create a computational model to calculate the change in the energy of one component in a system when the
 change in energy of the other component(s) and energy flows in and out of the system are known.
 
-### Purpose
-
-Teach students how to use a multimeter to diagnose faulty circuits.
+This is a helpful [video](https://www.youtube.com/watch?v=beMpBp88ge8) that shows Ohm's Law through a similar experiment done here.
 
 ### Assessments and Evidence of Understanding
 
-1. Student has built a circuit and has recorded voltage, current, and resistance, and have shown that Ohm's law holds for multiple circuits.
+By the end of this lesson, students should have built a circuit and records voltage, current, and resistance, and they have shown that Ohm's law holds for multiple circuits.
 
 ### AGENDA (Brief Summary of Activities)
 
 5 min: Intro to Multimeter
 
-10 min: Build and measure first circuit
-
-15 min: Explaination of Ohm's Law
-
-5 min: Build and measure second circuit
-
-5 min: Build and measure circuit with LED
-
-5 min: Explaination of why LED doesn't observe Ohm's law
-
-10 min: Explaination of AC and DC
+40 min: Circuit Activity
 
 5 min: Clean up
 
@@ -50,11 +51,14 @@ Activity recommended to be done in pairs. Teachers should pair students to suppo
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials**
 
-For Students: (Set for one pair) - 9V Battery (not portable battery for drone), 9V Battery clip, 4 Alligator clip leads, LED, Various (Need to specify ohm values later) Resistors, Multimeter
+Presentation device for explaination of topics
 
-For Teachers: Presentation device for explaination of topics
+**Student Materials**
+
+(Set for one pair) - 9V Battery (not portable battery for drone), 9V Battery clip, 4 Alligator clip leads, LED, Various (Need to specify ohm values later) Resistors, Multimeter
+
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -63,6 +67,8 @@ For Teachers: Presentation device for explaination of topics
 ### Introducing The Lesson
 
 Recommended: 5 minutes
+
+**Hook:**
 
 Put students into pairs. Give each pair a multimeter and battery and give them a couple minutes to answer these two questions: "What do you know about this device?" and "What questions do you have?" (Let them play around with it.) Then let them share out answers as a class.
 
