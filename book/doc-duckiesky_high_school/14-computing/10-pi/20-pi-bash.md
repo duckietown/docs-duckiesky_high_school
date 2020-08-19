@@ -40,8 +40,6 @@ _NGSS: HS - ETS1 - 2_: Design a solution to a complex real-world problem by brea
 _ISTE: 1. d._: Understand the fundamental concepts of technology
 operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
-
-
 ### Assessments and Evidence of Understanding
 
 By the end of this lesson, students should be able to complete the below Bash terminal task.
@@ -59,11 +57,11 @@ By the end of this lesson, students should be able to complete the below Bash te
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Teacher Materials**
+**Teacher Materials:**
 
-Basestation, a projector (if needed) 
+Basestation, a projector (optional) 
 
-**Classroom Set Up**
+**Classroom Set Up:**
 
 Teachers can write a DO NOW on the board for students to set up their basestations.
 
@@ -74,7 +72,7 @@ Teachers can write a DO NOW on the board for students to set up their basestatio
 
 Recommended: 5 minutes
 
-See: **Hook**
+**Hook:**
 
 -  This will be a lesson for the student on Bash scripting and the Shell. It is important to learn how to utilize a shell as it is the introduction to the inner processes of the operating system.
 - Conceptually connect Bash to Markdown in the sense that the computer is being affected via text: the purpose of Bash is to “control” the computer vs whereas Markdown is utilized for the purpose of "visual layout"

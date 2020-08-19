@@ -81,21 +81,22 @@ With rise in computer industries, academia has advanced these inventions into th
 
 **Useful Resources and References**
 
-https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html         
-https://news.stanford.edu/2019/02/28/ancient-myths-reveal-early-fantasies-artificial-life/
+[Standford University](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html) History of Robotics
 
-https://en.wikipedia.org/wiki/Golem
+[Standford University](https://news.stanford.edu/2019/02/28/ancient-myths-reveal-early-fantasies-artificial-life/) Ancient Lore of Robots
 
-https://www.thoughtco.com/timeline-of-robots-1992363
+[Wikepidia](https://en.wikipedia.org/wiki/Golem) Definition of Golems
 
-https://en.wikipedia.org/wiki/History_of_robots
+[Thought Co.](https://www.thoughtco.com/timeline-of-robots-1992363) History of Robotics
 
-https://www.acieta.com/automation-application/assembly-robotics/
+[Wikepidia](https://en.wikipedia.org/wiki/History_of_robots) History of Robotics
 
-https://future-markets-magazine.com/en/markets-technology-en/transport-robots/
+[Acieta.com](https://www.acieta.com/automation-application/assembly-robotics/) Industry Use
 
-https://www.automation.com/en-us/articles/2016-2/what-does-the-future-hold-for-robotics
+[Future Market Magazine](https://future-markets-magazine.com/en/markets-technology-en/transport-robots/) Transport Robots
 
-https://blog.bliley.com/robots-used-in-space-exploration
+[Automation.com](https://www.automation.com/en-us/articles/2016-2/what-does-the-future-hold-for-robotics) Future of Robot Industries
 
-https://www.washingtonpost.com/news/the-switch/wp/2018/06/29/spacex-is-flying-an-artificially-intelligent-robot-named-cimon-to-the-international-space-station/
+[Bliley.com](https://blog.bliley.com/robots-used-in-space-exploration) Space Robots
+
+[Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/06/29/spacex-is-flying-an-artificially-intelligent-robot-named-cimon-to-the-international-space-station/) Space X Robot Program

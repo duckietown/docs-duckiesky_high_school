@@ -4,15 +4,25 @@
 
 Requires: 
 
-- Hardware: basestation, Build Parts 1 and 2 completed
+**Hardware** - 
 
-- Previous Lesson: [Introduction to ROS](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/sac2_ros_intro.html)
+- basestation
+
+- Build Parts 1 and 2 completed
+
+**Previous Lesson** - [Introduction to ROS](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/sac2_ros_intro.html)
 
 Result: 
 
-- Knowledge: Python loops 
+**Knowledge** - Python loops 
 
-- Skills: The ability to create custom ROS messages, create ROS publisher, and use ROS commands
+**Skills** - 
+
+- Create custom ROS messages
+
+- Create ROS publishers
+
+- Use ROS commands
 
 
 </div>
@@ -40,11 +50,13 @@ _ISTE: 5. c._: Break problems into component parts, extract key information, and
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials**
 
-For Students:
+Basestation, drone build
 
-For Teachers:
+**Classroom Set Up**
+
+Teachers can write a DO NOW on the board for students to open the python file that read and print sensor values written in [the sensor lesson](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/sac2_sensing_reading.html).
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -52,16 +64,21 @@ For Teachers:
 
 ### Introducing The Lesson
 
-Recommended: 15 minutes 
+Recommended: 5 minutes
 
-[Creat a package](http://wiki.ros.org/ROS/Tutorials/CreatingPackage) and [build a package](http://wiki.ros.org/ROS/Tutorials/BuildingPackages) with the linked instructions.
+Review the code of reading sensor values.
 
+See: **Hook**
+
+Q: How should we make this information useful to other parts of the robots?
+
+A: ROS!
 
 ### Main Lesson
 
 Recommended: 30 minutes
 
-Use [this tutorial](https://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv) to explain how to creat ROS messages. 
+Teacher uses [this tutorial](https://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv) to explain how to creat ROS messages. 
 
 Two types of messages that might need more explaining: 
 
@@ -69,20 +86,50 @@ Two types of messages that might need more explaining:
 
 2. **Float:** More precise measurement than integers
 
-Lead students to create various messages. 
+Then, students follow the teacher step by step to create a ROS publisher:
 
-See also: Possible example: Create a ROS message called MyMessage with a field for a string, called name, and a field for an array of float64, called contents. Edit files such as CMakeLists.txt to ensure your message is compiled and available for use.
+1. Import the ROS python library and the needed message types.
 
+See also: Add the line 'import rospy' to the top of the program.
+
+See also: Add the line 'from std_msgs.msg import Float32' to the top of the program.
+
+2. Create a publisher and explain the three message types () involved.
+
+See also: Type 'distance_publisher = rospy.Publisher('distance', Float32, queue_size=1)' right before the calibration function 'adc_to_distance'.
+
+3. Create an infrared sensor node.
+
+See also: Type "rospy.init_node('infrared_node')" in the next line.
+
+4. Publish the message in the previously created while loop.
+
+See also: Type "distance_publisher.publish(Float32(distance))" right after the line 'print(distance)' in the while loop, assuming that name of the local variable that represents the output of the 'adc_to_distance' function is named 'distance'. If not, adjust the code accordingly.
+
+5. Change the structure of the while loop to a ROS manner. (This step is just a change of syntax)
+
+See also: Change the top of the loop from 'while True:' to 'while not rospy.is_shutdown():'
+
+See also: Change the bottom of the loop from 'time.sleep(1)' to 'rospy.sleep(1)'.
 
 ### Ending The Lesson
 
 Recommended: 15 minutes 
 
-Implement the IR publisher, and then see the results on the screen.
+Time to visualize our progress!
 
-TODO: A high-schooler friendly template that they can go into a loop in which they can put their existing IR sensor code, set the loop rate, and explain the importance of rate consistency, limiting, and minimum. Rostopic echo their newly published messages
+Open up a new terminal, start up roscore by typing 'roscore' and hit enter in order to get nodes running.
 
+Navigate back to the previous terminal, run the code. We can see it is still printing sensor values.
+
+Q: What about the publisher we just created?
+
+A: Open another terminal, run 'rostopic list' and see the 'distance' topic we just created. Then we run 'rostopic info distance' to see the message type (Float32) and where it is published from (infrared_node). Lastly, run 'rostopic echo distance' to show the message we just created in the terminal! (It should be Float32 messages with data label)
+
+TODO: Intro to the web UI. Run their IR publisher and see the results onscreen.
 
 **Useful Resources and References**
 
-[Python Loops](https://www.learnpython.org/en/Loops) 
+[Python Loops](https://www.learnpython.org/en/Loops)
+
+[ROS Tutorial on Creating Publisher and Subscriber](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)

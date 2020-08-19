@@ -18,6 +18,8 @@ Result:
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+articulate and set personal learning goals, develop strategies leveraging technology to achieve them and reflect on the learning process itself to improve learning outcomes.
+
 ### Assessments and Evidence of Understanding
 
 The students ability to explain why robotic technology is important in our day and age.
@@ -40,15 +42,13 @@ For Students: Pencil and Paper
 
 For Teachers: Screen to showcase students Do Now (if desired), Do Now and expectations written.
 
-
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
-
 
 ### Introducing The Lesson
 
 Recommended: 5 - 10 minutes 
 
-Do Now: In a piece of paper write down robots you are aware of in the world. How are these robots aiding communities and industries? **Teachers can search in a web browser a selected few of the students contributions to showcase them.**
+Do Now: Have students get into groups and try to write on a board more modern uses of robots than the other groups. 
 
 Hook: Teachers can talk about the following or their own:
  
@@ -58,37 +58,54 @@ Hook: Teachers can talk about the following or their own:
 
 Recommended: 30 minutes
 
-When we think of a robot, what definition could we reference? 
+TODO: showcase of drone flying.
 
-According to the Oxford and Spanish Dictionary:
-A robot is a machine (especially one programmable by a computer) designed to execute one or more tasks automatically and efficiently.
+**For navigating the book teachers may open the site on the board to add visual aid to the book explanation Or students may open it themselves by using their designated laptops.**
 
-Navigating the Book/Resources while be as follows:
-
-- Lessons
-
+Navigating the Book/Resources will be as follows:
+- Sections
+- Units
 - Subsections
 + References and Resources
 
-By the end of the course, students will have a completed quadcopeter drone capable of flying with commands inputted into a terminal on their computers.  With the content in the following lessons students will dive into; Safety Regulations, Hardaware, Software, and Additional Content.
+By the end of the course, students will have a completed **quadcopter** drone capable of flying with commands inputted into a terminal on their computers.  With the content in the following lessons students will dive into; Safety Regulations, Hardaware, Software, and Additional Content.
+
+### Glossary ###
+
+quadcopter: a more specific term used to refer to a drone that is flown with four motors.
+
+robot: a machine (especially one programmable by a computer) designed to execute one or more tasks automatically and efficiently.
 
 ## ** -Live Demo of Drone Here- ** ##
 
+The best way for instructors to Demo their drone safely is recomended in an outdoors area. If this is not an option, a containment cage may be required. Crafting these cages may require netting and PVC pipes. For the safety of instrcutors and students the drone should be 6 feet away when taking off.
+
+Teachers can share their screen on a laptop while preparing to fly. The Javascript page with in the pidrone package can show the students the drones control panel alongside the IR sensors readings and camera image.
+
 **Why is it essential to learn about this? How do robotics help our communities in society?**
 
-Robotics matter because they hold a part of the key to the future with efficiency for most if not all crafts.
-In essence it is an interdisciplinary research area part of Engineering and Science. It involves the design, construction, operation, and use of robots. The end goal is to materialize the designs of intelligent machines that out perform a human beings ability in a specific task or replace said human in a task too complex or far too dangerous. Making them near perfect multi use tools for industries and corporations of any kind. 
+When we think of a robot, what definition could we reference? 
+
+Robotics matter because they hold a part of the key to the future with efficiency for most if not all crafts. In essence it is an interdisciplinary research area part of Engineering and Science. It involves the design, construction, operation, and use of robots. The end goal is to materialize the designs of intelligent machines that out perform a human beings ability in a specific task or replace said human in a task too complex or far too dangerous. Making them near perfect multi use tools for industries and corporations of any kind. 
 
 Today robots impact everyday life in the service industry, with potential to positively transform work practices. 
 
 ### Ending The Lesson
 
+Group Research: Students research in groups one ongoing robotics field that interest them to share with the class.
+
+1. Medicine
+2. Transportation
+3. Military
+4. Space
+5. ect.
+
 **Useful Resources and References**
 
-https://www.lexico.com/en/definition/robot
+1. [Lexico.com](https://www.lexico.com/en/definition/robot) Definition of Robot
 
-https://en.wikipedia.org/wiki/Robot
+2. [Wikepidia](https://en.wikipedia.org/wiki/Robot) What is a Robot
 
-https://en.wikipedia.org/wiki/Robotics
+3. [Wikepidia](https://en.wikipedia.org/wiki/Robotics) Info on Robotics
 
-https://sciencing.com/robots-used-in-everyday-life-12084150.html
+4. [Sciencing.com](https://sciencing.com/robots-used-in-everyday-life-12084150.html) Use of Robotics

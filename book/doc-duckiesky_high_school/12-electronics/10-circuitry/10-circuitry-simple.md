@@ -2,9 +2,24 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: LED, resistor, battery, wire
+Requires:
 
-Result: Introduction to the concepts of charge, voltage, current, and resistance. DC Circuit
+**Hardware** - 9V Batteries, 9V Battery clips,Alligator clip leads, LEDs, Various Ohm Resistors 
+**Previous lesson** - None
+
+
+
+Result: 
+
+**Knowledge** -
+
+- Introduction to the concepts of: 
+- charge
+- voltage
+- current
+- resistance
+
+**Skills** - Ability to construct a simple DC circuit
 
 </div>
 
@@ -14,14 +29,13 @@ Simple Circuits
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+__ISTE 4. d.__: Exhibit a tolerance for ambiguity, perseverance and the capacity to work with open-ended problems. 
 
-### Purpose:
-
-Give students a basic understanding of circuits used within the drone.
+__NGSS HS-PS3-5.__: Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction.
 
 ### Assessments and Evidence of Understanding
 
-1. Circuit with lighted LED, and brightness can be varied
+By the end of this lesson, students should be able to construct a circuit with lighted LED, and with brightness that can be varied
 
 ### AGENDA (Brief Summary of Activities)
 
@@ -39,11 +53,13 @@ Activity recommended to be done in pairs. Teachers should pair students to suppo
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher materials**
 
-For Students: (Set for one pair) - 9V Battery, 9V Battery clip, 4 Alligator clip leads, LED, Various (Need to specify ohm values later) Resistors 
+Balloons, teaching method for static and current electricity
 
-For Teachers: Balloons, teaching method for static and current electricity
+**Student Materials**
+
+Students: (Set for one pair) - 9V Battery, 9V Battery clip, 4 Alligator clip leads, LED, Various Ohm Resistors 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -53,13 +69,13 @@ For Teachers: Balloons, teaching method for static and current electricity
 
 Recommended: 5 minutes
 
-Teacher demonstrates the balloon static electricity experiment either on themselves or a student volunteer. Explain why balloon sticks to the wall. (Teacher's discretion to do the experiment in class, or simply review it)
+Teacher demonstrates the balloon static electricity experiment either on themselves or a student volunteer. Explain why the balloon sticks to the wall. (Teacher's discretion to do the experiment in class, or simply review it) The main purose of this is to introduce electricity and how it interacts with objects in a classic experiment.
 
 ### Main Lesson
 
 Recommended: 15 minutes
 
-- Use resources below, or of your own to compare electricity to water flowing through pipes using a pump. 
+- Use this [image](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html), or one of your own to compare electricity to water flowing through pipes using a pump. 
 
 - also indroduce the topics of resistance and voltage (windows2universe.org) 
 
@@ -67,15 +83,11 @@ Recommended: 15 minutes
 
 - If time, discuss how different materials conduct electricity differently. (Conductors vs. Insulators)
 
-### Student Activity
-
-Recommended: 30 minutes
-
-Provide students with diagram on how to build the circuit, as well as the actual resources. (Warn students not to connect LED straight to battery without the resisitor in the circuit.)
+Provide students with this diagram of the circuit [https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png](https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png), as well as the actual resources. (Warn students not to connect LED straight to battery without the resisitor in the circuit.)
 
 Let students trial and error their first build attempts. Ask students to try different resisitors, reverse the resistors, and reverse the LED and see what happens.
 
-Teacher should also show video of LED Burning out.
+Teacher should also show video of LED Burning out. [https://www.youtube.com/watch?v=Zd5GtGVcdDc](https://www.youtube.com/watch?v=Zd5GtGVcdDc)
 
 ### Ending The Lesson
 
@@ -83,13 +95,13 @@ Recommended: 10 minutes
 
 Teacher leads discussion based on the following questions:
 
-"What did you learn?"
+Q: "What did you learn?"
 
-"What affect did the resistors have? What happened when you reversed their order?" (Follow up with a brief description of polarity in circuits)
+Q: "What affect did the resistors have? What happened when you reversed their order?" (Follow up with a brief description of polarity in circuits)
 
-"Did anything go wrong?"
+Q: "Did anything go wrong?"
 
-"What do you still want to know about circuits?"
+Q: "What do you still want to know about circuits?"
 
 **Useful Resources and References**
 
@@ -100,3 +112,5 @@ Teacher leads discussion based on the following questions:
 [scienceworld.ca/resource/static-electricity/](scienceworld.ca/resource/static-electricity/)
 
 [https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png](https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png)
+
+[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)

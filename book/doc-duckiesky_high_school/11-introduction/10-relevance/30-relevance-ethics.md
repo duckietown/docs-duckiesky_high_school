@@ -8,7 +8,7 @@ Result:
 
 - Students will be able to learn about what ethics is and why it is important. 
 
-- They will also be introduced to ethical challenges in computer science and engineering including algorithmic bias, accessibility concerns, and human job security. 
+- Students will be introduced to ethical challenges in computer science and engineering including algorithmic bias, accessibility concerns, and human job security. 
 
 </div>
 
@@ -40,12 +40,14 @@ Students will be able to do presentations, debates, or other activities assigned
 
 **Teacher Materials**
 
-For Teachers: Projector for displaying videos or slides, Large sheets of paper and markers for student brainstorming, 
+- Projector for displaying videos or slides
+- Large sheets of paper and markers for student brainstorming in small groups
+- Print out [note sheets](https://docs.google.com/document/d/17OSygnSXLueR2K5h-1ncwIuaMdFhb5mv0fAuhiSRw9w/edit?usp=sharing) for students to help take notes
 
 **Classroom Set Up**
 
-Space for students to be able to work or discuss in groups. 
-
+- Space for students to be able to work and discuss in small groups. 
+- Make sure each group of students have at least one large sheet of paper and a number of markers.
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
@@ -53,362 +55,263 @@ Space for students to be able to work or discuss in groups.
 
 Recommended: 10 minutes
 
-Teachers introduce ethics and explain why it is significant. 
+Hook: There are many important decisions that need to be made for situations regularly. With drones or any AI or autonomous system that you are creating or using, students must understand that there are certain moral implications/ethics/principles that must be considered and have different consequences on others. 
 
-- Teachers explain the origin of the term ethics: 
+Better: Exercise: Group Brainstorm: Ask students brainstorm on paper in groups about ethics and important/common topics addressed by ethics. Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics.
 
-See also: The term ethics comes from the word "ethos", which is Greek for "way of living" (BBC). 
 
-- Teachers explain what is ethics: 
+- examples of pop culture/movie references: 
+     - Spider-Man: Far From Home: Mysterio used autonomous and programmed drones to create the illusions, cause harm and chaos in society. Also Peter's ordered drone strike on his classmate on the bus, example of almost civilian casualty/warfare. 
+     - Avengers movies: Tony Stark's AI Jarvis, many instances of facial recognition in Tony's labs and suits, and the enemy Ultron (the whole let robots take over the world)
+     - Black Mirror TV show: many episodes revolving around technology and society. This [article](https://www.forbes.com/sites/cognitiveworld/2019/02/24/pop-culture-ai-and-ethics/#1491b1c17cd2) has particular examples of episodes and AI impacts on society
 
-See also: When there is a difficult situation, there are multiple possible solutions. Ethics consists of moral principles and values of a person or a group of people. It affects how we choose to live our lives, what we think is wrong and right in morals and situations, and what our responsibilities are (BBC).
+- Explain the origin of the word ethics:
+     - the Greek origins of "ethos"
 
-See also: Universal Declaration of Human Rights regarding ethics
+- Explain what is ethics:
+     -  The Universal Declaration of Human Rights includes a [list](https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf) of fundamental human rights which often closely relates to ethics 
 
-Better: Exercise: Group Brainstorm: Have students come up with movie or pop culture references for ethical dilemas surround technology and robotics (examples: Back to the Future, Spiderman: Far From Home).
+- Explain the importance of ethics 
 
-- Teachers explain the importance of ethics: 
+- Explain the ethical implications related to what AI is:
+     - Bias and Fairness
+     - Accountability and Remediability
+     - Transparency, Interpretability, and Explainability   
 
-See also: By considering ethics during decision making, we can make better decisions that would benefit individuals and society as a whole.
-
-See also: Specifically for ethical issues that are related to AI, they can be split into three different categories. 
-
-See: The ethical implications of what AI is: Bias and Fairness; Accountability and Remediability; Transparency, Interpretability, and Explainability.  
-
-See: The ethical implications related to what AI does: Safety; Human-AI interaction; Cyber-security and Malicious Use; Privacy, Control, and Agency  
+- Explain the ethical implications related to what AI does: 
+     - Safety
+     - Human-AI Interaction
+     - Cybersecurity and Malicious Use
+     - Privacy, Control, and Agency
 
 ### Main Lesson
 
 Recommended: 40 minutes
 
-- Teachers will teach students about important ethical problems that are present in technology, autonomous systems, and engineering.
+- In this lesson, students will learn about important ethical problems that are present in technology, autonomous systems, and engineering.
 
-##### Correctness and Uncertainty of Algorithms and/or Autonomous Systems
+##### Correctness and Uncertainty of Algorithms and Autonomous Systems
 
-- Teachers explain autonomous systems, AI, ML, DL, and usage of algorithms: 
+- Explain autonomous systems, AI, ML, DL, and usage of algorithms 
 
-See also: By incorporating artificial intelligence (AI) into systems, they gain the potential to accomplish tasks that usually rely on the intelligence of humans. 
+- Explain the benefits of AI autononous systems and the use of algorithms in decision making processes:
+     - more informed decisions, less reliance on emotions
+     - clearer and transparent criteria for choices
+     - systems can learn from history
 
-See also: AI systems utilize Deep Learning (DL) and Machine Learning (ML), which both rely on data matching and analysis algorithms. 
+- Explain the disadvantages of AI autonomous systems and the use of algorithms in decision making processes:
+     - not all factors represented fully
+     - chances of unexpected consequences
+     - unpredictability of systems learning
 
-- Teachers explain the benefits of AI autononous systems and the use of algorithms in decision making processes: 
+#### Example: Husky Vs Wolf in Image Identification
 
-See also: Decisions will be less influenced by human emotions. The systems can learn from past actions and decisions that have been chosen and can analyze the consequences that resulted. 
+- Explain an example of algorithmic inaccuracy due to unfair/unrepresentative data example:  
+     - University of Washington created an image classifier that can differentiate between wolves and huskies (Medium). Some photos were incorrectly classified.
 
-- Teachers explain the disadvantages of AI autonomous systems and the use of algorithms in decision making processes: 
+See also: [Paper](https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
+10.13140/RG.2.2.22973.31207) about fairness involved in algorithms that undergo ML
 
-See also: The algorithms may not represent all the factors that are related to a situation. There is also always chances that unexpected consequences will happen. Also, the way that AI systems learn and their actions may become more unpredictable as they are given more complicated tasks that require more decision making skills (Yampolskiy). 
+#### Example: Artificial Neural Network Predicting Risk of Pneumonia Patients
 
+- Explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example:
+     - University of Pittsburgh studied a system used to predict the risk of pneumonia patients. 
+     - From the data it was learning from, the autonomous system simply believed that the presence of asthma results in being low risk and classified patients as so, which was incorrect and problematic (Medium). 
 
-#### Example: Husky Vs Wolf In Image Identification
-
-- Teachers explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
-
-See also: University of Washington wanted to create an image classifier that can differentiate between wolves and huskies (Medium). The AI systems were fed images to learn from. Some photos were incorrectly classified. System was learning from the images that wolves were more often with snowy backgrounds. 
-
-See also: When there was a wolf in an image with no snow in the background, it would be categorized as a husky. If there was a husky with a snowy background, it would be categorized as a wolf (Ribeiro et al.). 
-
-See also: This inaccuracy of the system is because of a data set that was "unfair" or did not have a sufficient variety of scenarios (Besse et al.). 
-
-<!--
-Source: Ribeiro, Singh, Guestrin, Why Should I Trust You? Published in 2016
-
-and 
-
-https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
-10.13140/RG.2.2.22973.31207
-
-and
-
-https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08 
--->
-
-#### Example: Artificial Neural Network to predict risk of pneumonia patients
-
-- Teachers explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example. 
-
-See also: University of Pittsburgh studied system to predict which pneumonia patients were low risk and which were at high risk. Patients who had both pneumonia and asthma had a higher recovery rate because when those patients were brought to the hospital, they were always considered to be at high risk, and immediately received proper treatment. 
-
-See: From the data it was learning from, the autonomous system simply believed that the presence of asthma results in being low risk and classified patients as so, which was incorrect and problematic (Medium). 
-
-<!-->
-https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08 --> 
+See also: [Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08) with more detail about Pneumonia and Asthma Risk System
 
 
-#### Example: Teachers can teach about an example of Algorithmic inaccuracy: The Boeing 737 MAX.
+#### Example: The Boeing 737 MAX
 
-- Teachers can teach about another example: The Boeing 737 MAX: 
+- Explain the incidents involving the Boeing 737 MAX
 
-See also: There have been a number of accidents which resulted in many casualties with the Boeing 737 MAX aircraft, which has resulted in the grounding of Boeing 737 MAX worldwide: Lion Air Flight 610 and Ehiopian Airlines Flight 302
+- Explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX 
 
-- Teachers explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX. 
-
-See also: Boeing 737 Max 8 had major design changes: engines were moved forward and raised. This made it more likely for the nose to pitch up while flying, so Maneuvering Characteristics Augmentation System (MCAS) was implemented to automatically detect whenever the nose pitches too high and correct it (Seattle Times). 
-
-<!--https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ --> 
-
-See also: MCAS relies on only a single angle of attack sensor, instead of two. An angle of attack sensor helps warn pilots of a possibility of them losing control of the plane due to lack of lift (causing stall). Pilots are usually able to handle when the sensors are malfunctioning, however MCAS makes it a much larger problem. In both of the fatal accidents, MCAS was automatically switched on because of incorrect data from the single sensor (The Washington Post). 
-
-<!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html -->
-
-See also: Pilots can temporarily switch MCAS off, however the system will restart and continue to work if the sensor continues to warn pilots of stalls. MCAS cannot ever been overriden by the pilots. The pilots lost control of the plane during the Ethiopian Airlines and Lion Air flights as the system was continuously fed inaccurate data from the sensor indicating that there are stalls, and they were unable to pitch up when needed, causing both flights to dive into the sea (The Verge). 
-
-<!-- https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa --> 
-
-- Teachers also explain other flaws with the incident:  
-
-See also: Insufficient testing: Boeing and FAA agreed to not install safety features due to calculations of impossibility of a MCAS failure, which analysts say later that these features could have saved both the planes from crashing (The Washington Post).
-
-<!-- https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html--> 
-
-See also: Accountability: Boeing did not provide the risk assessment about the MCAS until very late, a couple of months before the MAX was certified. FAA also based on findings by Boeing that were inaccurate (The Washington Post). 
- 
-See also: Lack of notice to pilots: Assumed that pilots can respond to unexpected situations within three seconds and since low chances of MCAS failure, Boeing decided to not include the MCAS in the pilot manuals (Seattle Times). 
-
-<!--https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ --> 
+- Explain other flaws with the incident:
+     - insufficient testing
+     - lack of accountability
+     - lack of notice to pilots
 
 ##### Algorithmic Bias
 
-- Teachers teach that algorithmic bias can result from multiple sources. 
+- Explain that algorithmic bias can result from multiple sources:
+     - biased programmer
+     - biased data sources
+     - other unexpecred source of bias in data
 
-See also: The algorithm may be programmed by someone who is biased.
+#### Example: Congress Matched to Criminals by Rekognition
 
-See also: Algorithm may learn from data that comes from biased sources.
+- Explain another example of algorithmic inaccuracy, this one is more applicable to humans. 
+     - Rekognition: a facial recognition software 
+     - ACLU tested the software by matching Congress members, and the result was members were matched with criminals. 
+     - 40% of the inaccurate image matches were of people of color for the congress (ACLU NorCal). 
 
-See also: The dataset given to the system does not have enough variety, or simply the data contains bias that developers are unaware of.
+- Explain risks with its implementation in law enforcement:
+     - biased initial encounters
 
+#### An example: Autonomous Systems Identification by Skin Tone
 
-#### Example: Amazon: Congress Matched to Criminals 
+- Explain about a consistent problem in AI systems: how they identify people of different skin tones
+     - autonomous soap dispenser by Technical Concepts had trouble dispensing people for darker skin color
+     - autonomous cars had trouble sensing pedestrians of darker skin color
+- AI systems were less accurate at detecting people of darker skins by 5% (Georgia Institute of Tech)
+- identify possible reasons that contributed to these systems not working such as lack of diversity in workplace, IR sensors
 
-- Teachers teach about another example of algorithmic inaccuracy in AI systems and possible consequences, this one is more applicable to humans. 
-
-See also: Rekognition: a facial recognition software. ACLU tested the software by matching Congress members, and the result was that 28 members were matched with criminals. 
-
-See also: 40% of the inaccurate image matches were of people of color (ACLU NorCal). 
-
-See also: Risks with implementation in law enforcement: police officer more biased before an initial encounter, increase the chances of a person being questioned or searched, or can increase bias towards people of color (ACLU NorCal).
-
-<!--https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots -->
-
-#### An example: Autonomous systems and identification by skin tone
-
-- Teachers teach about a persistant problem in autonomous systems: how they identify people of different skin tones
-
-See also: An autonomous soap dispenser by Technical Concepts was found to have trouble dispensing people for darker skin color. See also: Many systems rely on IR sensors, measures how much light is reflected back. Darker skin tones absorb more light than people with lighter skin tones (Reporter). 
-
-See also: This design flaw was believed to be because of a lack of diversity in the workplace at Technical Concepts, who did not think to test their products on people with darker skin tones (Reporter). 
-
-<!-- https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology --> 
-
-See also: According to a study done with autonomous systems by Georgia Institute of Technology, AI systems were more consistently accurately identifying people with lighter skin tones than darker. Their results show that detection of people with darker skins were less accurate by 5%. 
-
-See also: This can result in racial bias by algorithms, and in the case of autonomous cars, people with darker skin would be more likely to be harmed or involved in an accident than those with lighter skin. 
+See also: [article](https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology) about encoded racial bias in technology
 
 #### Another example: MIT's Moral Machine
 
-- Teachers teach about the Moral Machine. 
+- Explain the Moral Machine. 
 
-See also: In 2014, MIT has created a series of questions and scenarios that involve autonomous cars and artificial intelligence, which is known as the Moral Machine. The Moral Machine asks people which choices autonomous cars should make when facing different variations of the trolley problem (Technology Review). 
+Better: Exerise: Students can try out some of the questions of the Moral Machine on this interactive [website](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html)
 
-Better: Exerice: Students can try out some of the questions of the Moral Machine on this interactive [website](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html)
+- Explain that the Moral Machine focuses on nine different themes
+- Note about the correlation between results of the Moral Machine and culture and economics 
 
-The Moral Machine focuses on 9 different themes: 
+See also: Students may read this [article](https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/) to learn more about the experiment and findings.
 
-1. Humans or pets/animals?
+Note: While this is presented in a very game-like way, it is very interesting to take into consideration moral concepts that we think about in extreme situations. 
 
-2. Passengers or pedestrians?
+#### Security/Systems Utilized in Society
 
-3. More or fewer lives?
+Better: Exercise: Students can brainstorm other ways that AI/autonomous systems/algorithms are used in systems used in society. 
 
-4. Women or men?
+- Explain that there are many systems in society that utilize autonomous systems that are important to society
 
-5. Young or old?
+- Explain open source and close sourced code
+     - Should important systems/algorithms be close or open sourced? 
 
-6. Healthy or those with health conditions?
+- Explain an interesting question: how much trust do we put into these autonomous systems? 
 
-7. People of those of higher or lower status? 
+- People can easily use these systems in ways that are beyond what developers anticipate. 
 
-8. Action or no action? 
+#### An example: Use of Biometric Data in Society 
+- Give examples of systems have begun using biometric data to replace passwords, as a form of authetication/verification
+     - FaceID, fingerprints, tracking down crime suspects, access to government buildings, facial recognition in public spaces, access to important services such as healthcare
+     
+- Explain advantages of biometric data in society: 
+     - relatively difficult to fake
+     - features unique to each person
+     - difficult to change immediately
+     - safer than passwords
+     - convenient
 
-See also: The results of the Moral Machine was closely related with culture and economics (Technology Review). 
+- Disadvantages:
+     - dangerous to keep a compressed version in technology
+     - biometric data readings systems are not yet perfect
+     - can be faked with the help of advanced tech (3D printers, cameras, etc)
 
-See: Students may read this [article](https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/) to learn more about the experiment and findings.
+- Importance of double or multiple verification methods: usually combination of password, biometric data, or physical hardware key. 
 
-See also: While this is presented in a very "game" like way, it is very interesting to take into consideration moral concepts that we think about in extreme situations. 
-
-<!-- https://www.media.mit.edu/projects/moral-machine/overview/ 
-
-https://www.media.mit.edu/publications/the-moral-machine-experiment/
-
-https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
-
--->
-
-#### Security, on time, backups, as these systems become relied upon 
-
-- Teachers teach that there are many systems in society that utilize autonomous systems that are important to society. 
- 
-See also: There has been ongoing debate whether these systems should be close or open sourced. 
-
-See also: Open source code means that the source code can be accessed by the public. 
-
-See also: Closed source code means that the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to. 
-
-See also: While closed source codes may safer from prying eyes or hackers, it also prevents closer scrutiny for potential biases or problems in the code by the public. 
-
-See also: an interesting question is how much trust do we put into these autonomous systems? People can easily use these systems in ways that are beyond what developers anticipate. 
-
+See also: [Article](https://www.cnet.com/news/police-use-of-facial-recognition-gets-reined-in-by-uk-court/) about Police Use of Facial Recognition
 
 #### An example: Autonomous Systems Used in Social Credit System Development in China
 
-- Teachers can teach about an example of a system that utilized AI to be implemented in an entire society
+- Explain example of a system that utilizes AI: China's Social Credit System
 
-See also: The Chinese government began experimenting with social credit scores in 2015, when it allowed private companies to assign credit scores to people. Financial and social behaviors are analyzed and people are assigned scores (Time). People who accomplish good deeds are awarded points and can receive rewards. Those who do bad deeds, such as smoking or spending too much time on video games, are deducted points. Those with an extremely low social credit score are placed on the “List of Untrustworthy Persons” and will be prohibited from certain activities such as the ability to use public transportation or to make large purchases.
+- Explain disadvantages/concerns and benefits with the use of China's social credit system 
+     - concerns: social unequality, alienation, lack of free market
+     - benefits: reduction in crimes/bad habits
 
-See also: This is being implemented with the help of AI and facial recognition. 
+See also: [article](https://time.com/collection/davos-2019/5502592/china-social-credit-score/) on China's Social Credit System
 
-See also: There has been many concerns with the use of China's social credit system, fears about leading to social inequality and alienation. There are also fears of preventing a free market economy. While the benefits include trying to reduce the amount of crimes or bad habits of people. 
+#### An example: Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) 
 
-<!-- 
-https://time.com/collection/davos-2019/5502592/china-social-credit-score/
--->
+- Explain Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)
 
-#### Correctional offender Management Profiling for Alternative Sanctions (COMPAS) 
+- Explain that COMPAS displays bias against African Americans. 
 
-- Teachers can teach about COMPAS, which is a system used in the US
-
-See also: COMPAS is an software that is used by US courts to assign scores to predict the risk of a certain person commiting another crime. 
-
-See also: It is an algorithm that utilizes an algorithm that considers answers to a questionnaire (The Atlantic). 
-
-See also: In 2016, ProPublica has analzyed COMPAS and has found that COMPAS displays bias against African Americans. 
-
-<!-- https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/ -->
+See also: [Article](https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/)
 
 
 #### An example: Unsecured/Exposed Robots Running on ROS and Internet:
 
 - Teachers can teach about risks of vulnerable systems can be when connected to the internet.
+     - A team at Brown University discovered almost 100 exposed systems that ran on ROS. They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University). 
 
-- Students will learn more about Robotics Operating System (ROS) in a later module, but it is a set of open source libraries that can help with programming of robots. 
+See also: [Article 1](https://www.brown.edu/news/2018-07-24/robots) and [Article 2](https://www.wired.com/story/security-robotics/)
 
-See also: A research team at Brown University discovered that they found almost 100 exposed systems that ran on ROS. "Up to 19 were considered to be fully operational robots". They found that they could access the cameras of the robots, and be able to give them commands for movement remotely (Brown University).  
-
-<!-- https://www.brown.edu/news/2018-07-24/robots 
-and https://www.wired.com/story/security-robotics/
--->
-
+Note: Students will learn more about Robotics Operating System (ROS) in a later module, but it is a set of open source libraries that can help with programming of robots. 
 
 ##### Militarization
 
-- Teachers can teach that there has been consideration of using autonomous systems for militarization. This could be for making military based decisions or using these systems to take action on made military decisions. 
+- Explain the use of autonomous systems for militarization (to make military decisions, or to take direct action)
 
-See also: Students can watch this [video](https://www.youtube.com/watch?v=9CO6M2HsoIA) to learn more about Slaughterbots 
+<!-- See also: Students can watch this [video](https://www.youtube.com/watch?v=9CO6M2HsoIA) to learn more about Slaughterbots -->
 
 #### International Traffic in Arms Regulations (ITAR)
 
-- Teachers can teach about ITAR: 
+- Explain International Traffic in Arms Regulations (ITAR) and what it covers
 
-See also: International Traffic in Arms Regulations (ITAR) specifically covers: 
-
-1. Covers military items or defense articles  
-2. Regulates goods and technology designed to kill or defend against death in a military setting  
-3. Includes space-related technology because of application to missile technology  
-4. Includes technical data related to defense articles and services  
-5. Involves strict regulatory licensing and does not address commercial or research objectives  
-
-(Source: Digital Guardian)
-
-<!-- https://digitalguardian.com/blog/what-itar-compliance --> 
+See also: [website](https://digitalguardian.com/blog/what-itar-compliance)
 
 #### Example: Predator drones utilized by the United States
 
-- Teachers about the predator drones as an example of drones/robotic systems that are currently/previously in use by the US government related to milatary operations.
+- Explain predator drones as an example of drones/robotic systems that are currently/previously in use by the US government related to milatary operations
 
-See also: There have been several predator drones that have been used by the United States Air Force (USAF) and Central Intelligence Ageny (CIA). Initially many are utilized for primarily reconaissance and spying, but many have been later equipped to be able to engage in warfare.
+- Unmanned aerial vehicals face many ethical issues such as civillian casualties
 
-#### Should we handle autonomous weapons like chemical weapons
+#### Autonomous Weapons and Chemical Weapons
 
-See also: In the US, there are two types of chemical warfare agents: stockpiled and non stockpiled. 
+- Explain the different types of chemical warfare agents in US
 
-See also:"In 1996, it was mandated that all stockpiles of lethal chemical agents must be destroyed. 
-
-See also: In 1997, the US ratified Chemical Weapons Convention Treaty and agreed to destory any remaining stockpiles of chemical warfare agents to no later than April 29, 2012" (CDC).
+See also: [History of US Chemical Weapons Elimination](https://www.cdc.gov/nceh/demil/history.htm)
 
 See also: There has been much debate if autonomous weapons should be treated like chemical weapons? Should they also be prohibited from use and fully destroyed? 
 
-<!-- https://www.cdc.gov/nceh/demil/history.htm --> 
-
 ##### Medical, Healthcare, and Caregiver Robots
 
-- Teachers can teach that autonomous systems and AI systems have been also considered for usage in the healthcare industry. 
+- Explain impact and uses of AI/autonomous systems on medicine and healthcare
 
-See also: This includes the uses of robots to help with identification, medical diagnosis, treatment, or surgery. It also includes the uses of robots to help keep elderly, disabled, young children, or patients company and to surpervise them. While there are many benefits such as being able to take care and monitor health of whoever they are responsible for and can provide them with company, there are several ethical concerns:
+- Describe where these systems are implemented (ex: caretaker robots, ID, etc). 
 
-See: Privacy/Security: Robots that spend a lot of time monitoring their patients or people that they are responsible for, may have the capability to be tapped into.Especially in the medical field, these robots may contain snippets of important information such as health records, or video feeds of their patients. 
+- Explain that there are many benefits, but there are important ethical implications:
+     - privacy/security, trust between robots and humans, and their interactions
+     - Can be dangerous when certain ethics are not considered 
 
-See: Trust between robots and humans, and their interactions: Humans have emotions while robots do not. Humans may have the capability to trust their robots too much, which can result in harm from the remote or manipulation of humans. 
+#### Example: The Emergency Exit Robot Study, Georgia Tech Howard
 
-#### The Emergency Exit Robot Study, Georgia Tech Howard
+- Explain about experiment conducted by Georgia Institute of Technology that highlighted the potential risks of putting too much trust into robots during emergency situations that utilizes robots in a care setting and show the risks of putting to much trust into robots.
 
-- Teachers can teach students about an experiment that utilizes robots in a care setting and show the risks of putting to much trust into robots.
-
-See also: There was a study conducted by researchers at the Georgia Institute of Technology, highlighted the potential risks of putting too much trust into robots during emergency situations. 
-
-See also: They did an experiment that simulated an emergency situation. It was found that all participants of the experiment decided to follow the robot during the emergency, even if it led them through an noticeably incorrect path. Half of the participants have also seen the robot fail at navigating earlier before the specific experiment (Robinette et al.).  
-
-<!-- https://www.cc.gatech.edu/~alanwags/pubs/Robinette-HRI-2016.pdf
--->
+See also: [Study](https://www.cc.gatech.edu/~alanwags/pubs/Robinette-HRI-2016.pdf)
 
 ##### Availability/Accessibility/Uses
 
-- Teachers can teach about the extent that robots are available to the public vs private sectors, accessibility of robots to people who may have accessibility issues, and the large amount of uses of UAV and autonomous systems. 
+- Explain robots are available to the public vs private sectors, accessibility of robots to people who may have accessibility issues, and the large amount of uses of UAV and autonomous systems. 
 
-See also: The cost of autonomous systems may be high depending on the purpose of the robot. The high prices of robots currently are barring many people from more complex robots. 
+- Explain the effect of robot costs on consumers 
 
-See also: Robots can be used to help those with accessbility issues. 
-
-See also: Beyond the other purposes already explained, autonomous systems and advanced technology may also be used to help with emergency aid purposes. Drones can be used to help with potentially locating lost items or people, or helping transport emergency items quickly (water for forest fires ex.). 
+- Explain that robots can help with humanitarian and emergency efforts
 
 #### UN Guidelines for Emergency Uses of Drones
 
-- Teachers can teach that drones have been utilized by the UN. 
+- Explain different uses of drones and UAVs by the UN. 
 
-See also: UAVs have potential in three areas: humanitarian, development, and peacekeeping operations (UN). 
+See also: Read this [article](https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un) for more information on UN and drones
 
-See also: In 2013, the UN has launched the first UAV mission to help protect civilians in the Democratic Republic of Congo (UN News). 
+See also: Read this [article](https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr) about UN's operation with unmanned aircraft in DR Congo
 
-See also: Read this article for more information: https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un and https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr 
-
-See also: "The most promising uses of drones include: Mapping, Delivering lightweight essential items to remote or hard-
-to-access locations, Supporting damage assessments, Increasing situational awareness, Monitoring changes" (Relief Web).
-
-
-<!-- https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf --> 
+See also: Read this [article](https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf) to learn more about Drones and Humanitarian Action
 
 ##### Future impact of AI on human jobs and responsibilities
 
-- Teachers can teach that with the development of AI, there has been a growing reliance on them as tools in our daily lives. They have a large impact on all of us: 
+- Explain that with the development of AI and technology, there has been a growing reliance on them as tools in our daily lives
 
 - Interesting [video](https://youtu.be/7Pq-S557XQU?) that can be watched: 
 
-See also: Ethical implications related to what AI can impact: 
-
-See also: Automation, Job Loss, Labor Trends: With the automation of many jobs, people may lose those jobs to robots. This may be because some tasks are able to be done more efficiently by robots. Because some jobs are more adaptable to robots than others, this may produce labor trends. There will be new jobs created that are more oriented towards maintaining robots or certain jobs will die out. 
-
-See also: Impact to Democracy and Civil Rights: AI may have a strong impact on democracy and civil rights. AI may be able to automatically detect certain messages or actions that are not permitted and can be used to prevent them. There has been related concerns to that and the Chinese Social Credit System, and fear that it may create a society focused around surveillance and conformity. 
-
-See also: Human-Human or Human-Agent interaction: As explored slightly in the medicine uses of robots, there will be much more interactions between human and non humans/robots in the future, which is different from interactions between humans only. 
+-  Explain ethical implications related to what AI can impact: 
+     - Automation, Job Loss, Labor Trends
+     - Impact to Democracy and Civil Rights
+     - Human-Human or Human-Agent interaction
 
 ##### Possible Assignments or Discussion Topics: 
 
-Better: Exercise: Teachers can assign a research based group project to students (presentations/debates/discussions) on many possible topics such as: 
+Better: Exercise: Teachers can assign a research based group project to students (presentations/debates/discussions) on many possible topics such as:   
 
-See also: Should code for large scale systems be open or closed source?
 
-See also: Should autonomous cars be allowed on the road? Should robots be allowed to take care of humans?
-
-See also: Should autonomous drones/systems be used in military operations? Should they be treated similarly to chemical weapons? 
+- Should code for large scale systems be open or closed source?
+- Should autonomous cars be allowed on the road? Should robots be allowed to take care of humans?
+- Should autonomous drones/systems be used in military operations? Should they be treated similarly to chemical weapons? 
 
 Better: Exercise: Teachers could also assign a short report or essay to students on a component from the lesson that they are interested in (scientific writing). 
 
@@ -416,31 +319,46 @@ Better: Exercise: Teachers could also assign a short report or essay to students
 
 Recommended: 5 minutes
 
-- Teachers can summarize ethics and the large positive and negative benefits of AI
+- Summarize ethics and the large positive and negative benefits of AI
 
-- Teachers remind that there will be a safety module for the course coming up in one of the future classes:   
+- Remind students that there will be a safety module for the course coming up in one of the future classes   
 
-**Glossary of Terms**
-Ethics: 
-AI: 
-DL:
-ML: 
+### Glossary of Terms ###
 
+**Ethics:** The term ethics originated from the word "ethos", which is Greek for "way of living" (BBC). Ethics incorporates moral principles and values. It affects how we choose to live our lives, what we think is wrong and right, and what our responsibilities are (BBC).
 
+**AI:** Artificial Intelligence allows systems to gain the potential to accomplish tasks that usually requires the intelligence of humans or decision making skills. 
+
+**DL:** Deep Learning is a portion of AI that replicates the human brain by processing data involved with object and speech recognition, and making decision. It enables AI to learn without guidance of humans, and relies on data matching and analysis algorithms from data that can be unstructured and unlabelled (Investopedia). 
+
+**ML:**  Machine Learning is a portion of AI that lets systems automatically learn and improve from their experiences without programming it into the system. 
+
+**Open source code:** when the source code can be accessible by the public. 
+
+**Closed source code:** when the source code cannot be accessed by others, or it remains classified, only seen by those who are authorized to.
 
 **Useful Resources and References**
 
-More information about the MCAS system for the Boeing 737 MAX: 
-1. https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/ 
+1. [Seattle Times Article](https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/) for more information about the MCAS system for the Boeing 737 MAX: 
 
-2. https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa
+2. [Verge Article](https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa) about other flaws involved in the Boeing incidents
 
-3. https://www.bbc.com/news/business-50177788
+3. [Washington Post Article](https://www.washingtonpost.com/local/trafficandcommuting/boeing-minimized-to-faa-the-importance-of-flight-control-system-implicated-in-737-max-crashes-new-report-says/2020/07/01/9900adda-bba4-11ea-8cf5-9c1b8d7f84c6_story.html) on the lack of notice to FAA about Boeing MCAS system
+
 
 4. [Paper on Predictive Inequity in Object Detection](https://arxiv.org/pdf/1902.11097.pdf)
 
-Moral machine links: 
-5. https://www.moralmachine.net
-6. https://doi.org/10.1038/s41586-018-0637-6 
-7. https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html
+5. [Moral Machine Test](https://www.moralmachine.net)
 
+6. [Paper](https://doi.org/10.1038/s41586-018-0637-6) on the Moral Machine Experiment  
+
+7. [Interactive moral machine](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html)
+
+8. [Artcle analyzing results from different countries](https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/)
+
+9. [Paper](https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
+10.13140/RG.2.2.22973.31207) about Fairness involved in Algorithms that undergo ML
+
+10. [Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08) with more detail about Pneumonia and Asthma Risk System and Wolf Vs Husky Identifier
+
+11. [Article](https://www.aclunc.org/blog/amazon-s-face-recognition-falsely-matched-28-members-congress-mugshots) about Rekognition and its failed Congress classifications

@@ -85,7 +85,7 @@ See also: You may also recommend that students use one level lower strip number 
 
 -  Take the wire cutter and show students a pre tinned wire. Now use the wire cutters to cut the pre tinned part off. Emphasize that all wires that are pre tinned must be cut off and re tinned.
 
-Task: Teachers now have students strip and cut the same wire as they did and answer questions.
+Task: Teachers now have students strip cut, and tin the same wire as they did and answer questions.
 
 
 ### Soldering Intro
@@ -102,7 +102,7 @@ See also:   Tinning is what you do before you solder, which is coating a metal w
 
 See also: Solder iron is hot, only apply to needed components, solder can fling out and is necessary to have eye protection, do not breathe in soldering fumes, the metals that the solder is next to is also hot so use helping hands or long-nose pliers.
 
--  Teacher explains and shows how to set up the soldering station.
+-  Teacher explains and shows how to set up the soldering station. (while the teacher is setting up their soldering station, students should follow along setting up their stations, preheating the iron and cleaning the iron before beginning)
 -  Teacher turns on soldering iron and heat control (Each soldering iron model is different and you should know an appropriate heat to tin with.)
 -  Teacher shows how to clean soldering iron with gold curl soldering cleaners and a sponge.
 -  Teacher will show how to tin using the example wire.
@@ -150,3 +150,5 @@ Task:  Optional Exit Ticket- Students will write down what they have completed a
 1. [For detailed instructions of each component and tinning](https://docs.duckietown.org/daffy/opmanual_sky/out/build_phase0.html)
 2. [Soldering Tutorial for Beginners in 5 easy steps. Supplemental video.](https://www.youtube.com/watch?v=Qps9woUGkvI)
 3. [How to Tin a Wire, in lesson, also supplemental](https://www.youtube.com/watch?v=pRPF4wpXX9Q)
+
+[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)

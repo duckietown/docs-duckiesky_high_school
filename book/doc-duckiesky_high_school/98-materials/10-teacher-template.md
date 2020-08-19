@@ -1,4 +1,4 @@
-# Teacher Template {#introduction-template status=ready}
+# Teacher Template {#materials-template status=ready}
 
 <div class='requirements' markdown='1'>
 
@@ -29,19 +29,26 @@ Result:
 
 ### Assessments and Evidence of Understanding
 
+By the end of this lesson, students should be able to ...
 
 ### AGENDA (Brief Summary of Activities)
 
+X min: <!--insert time slot 1 (add or delete these as needed)-->
+
+X min: <!--insert time slot 2 (add or delete these as needed)-->
+
+X min: <!--insert time slot 3 (add or delete these as needed)-->
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Teacher Materials**
+**Teacher Materials:**
 
-**Classroom Setup**
+**Classroom Setup:**
 
+Teachers can write a DO NOW on the board for students to ...
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
@@ -50,7 +57,7 @@ Result:
 
 Recommended: X minutes
 
-See: **Hook**
+**Hook:**
 
 ### Main Lesson
 

@@ -14,6 +14,7 @@ Troubleshooting Soldering
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+NGSS: HS-PS3-3: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy. ISTE: 1d: Students: understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 ### Purpose
 
@@ -44,7 +45,7 @@ For Teachers: Should have a set of their own to demonstrate to students (Or simp
 
 Recommended: 5 minutes
 
-This lesson is necessary for students to have a grasp on how to troubleshoot problems with their soldering. A possible intro to this lesson could be the teacher presenting a purposefully bad soldering job, and ask the students what is wrong with the connection. 
+This lesson is necessary for students to have a grasp on how to troubleshoot problems with their soldering. Teachers should display mitsakes they've made in soldering the wires on the drone, and demonstate/explain how they fixed the problem.
 
 ### Main Lesson
 
@@ -72,9 +73,7 @@ Some troubleshooting solutions a teacher may present are:
 
 Recommended: 30 min
 
-Students should use materials listed above and have partners create bad soldering jobs (too much solder, bad connection), and have their partner diagnose and troubleshoot. The teacher should walk around the class, making sure the student's aren't causing any harm to the materials unnintentionally. The teacher could also give out some of the student's past soldering jobs that failed, and possible ask the whole class to diagnose it together.
-
-
+Students should use materials listed above and have partners create bad soldering jobs (too much solder, bad connection), and have their partner diagnose and troubleshoot. More importantly, the students should focus on how these soldering mistakes. The teacher should walk around the class, making sure the student's aren't causing any harm to the materials unnintentionally. The teacher could also give out some of the student's past soldering jobs that failed, and possible ask the whole class to diagnose it together.
 
 ### Ending The Lesson
 
@@ -83,3 +82,5 @@ Recommended: 5 minutes
 Clean up! This practice will use a lot of materials, so be sure to have students clean up their workspaces.
 
 **Useful Resources and References**
+
+[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
