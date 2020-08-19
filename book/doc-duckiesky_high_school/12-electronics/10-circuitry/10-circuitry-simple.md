@@ -11,7 +11,7 @@ Requires:
 
 Result: 
 
-**Knowledge** -
+ **Knowledge** -
 
 - Introduction to the concepts of: 
 - charge
