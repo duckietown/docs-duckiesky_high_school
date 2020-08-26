@@ -2,9 +2,29 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: Hardware: Basestation, Build Part 1 completed; Previous lessons: Networking, Bash
+Requires: 
 
-Result: Knowledge: Definition and purpose of Raspberry Pi GPIO; Skills: Read the GPIO pin chart for the Raspberry Pi, Write a bash script to blink their LED
+**Previous lesson** - 
+
+- [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/pi_networking.html)
+
+- [Bash](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/computing_pi_bash.html)
+
+**Hardware** - 
+
+- Basestation
+
+- Build Part 1 completed
+
+Result: 
+
+**Knowledge** - Definition and purpose of Raspberry Pi GPIO
+
+**Skills** -
+
+- Read the GPIO pin chart for the Raspberry Pi
+
+- Write a bash script to blink their LED
 
 </div>
 
@@ -36,11 +56,9 @@ Students write a bash script to make the led that they've soldered blink.
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Classroom Set Up**
 
-For Students: Basestation, Current Drone Build
-
-For Teachers: BaseStation
+Teacher can write a DO NOW on the board for students to set up their basestations.
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -50,11 +68,9 @@ For Teachers: BaseStation
 
 Recommended: 5 minutes
 
-Pre Class:
+See: **Hook**
 
-Do Now: Teacher writes on the board for students to prepare their basestations
-
-Hook: Teachers can talk about the following or their own.
+Teachers can talk about the following or their own.
 
 -  This will be a lesson for the student on creating a bash script that will blink the LED on their drone. It is important to understand scripts as they will come up when continuing with programming.
 
@@ -63,21 +79,33 @@ Hook: Teachers can talk about the following or their own.
 
 Recommended: 20 minutes
 
-- Teachers cover what a REPL is and what a script is
-- Teachers show how to make and run bash scripts, delays, printing, pin setting
-- Teachers speak on Pi GPIO numbering, pin capabilities (dedicated pins that can’t be used)
+1. Teachers cover what a REPL (Read–eval–print loop) is and what a script is
 
-TODO: Details
+- Read–eval–print loop: a simple interactive computer programming environment that takes **single** user inputs, executes them, and returns the result to the user
+
+- Script: a programming language for a special run-time environment that automates the execution of tasks; the tasks could alternatively be executed **one-by-one** by a human operator.
+
+See: Difference - script saves the commands to be run sequentially in the future
+
+2. Teachers speak on Pi GPIO numbering
+
+- On the Raspberry Pi, Pin can be defined in two ways, using the **GPIO Board** and **GPIO BCM** methods.
+
+- **GPIO BCM** refers to the default pin of the Broadcom SOC channel chip.
+
+- **GPIO Board** refers to the naming on the Raspberry Pi board. This is the numbering on the Pi Hat
+
 
 ### Writing a Bash Script
 
 Recommended: 35 minutes
 
-Exercise: Students write a bash script to make the led that they've soldered blink
+Better: Instructors show how to make and run bash scripts, delays, printing, pin setting by leading students write a bash script to make the led that they've soldered blink
 
-TODO: Instructions for Exercise
+[See the student book for details](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy-develop/duckiesky_high_school_student/out/computing_pi_led.html)
 
 **Useful Resources and References**
 
 1. [More information on REPLs](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop#:~:text=A%20read%E2%80%93eval%E2%80%93print%20loop,REPL%20environment%20is%20executed%20piecewise.)
 2. [More information on scripts](https://techterms.com/definition/script)
+3. [More information on blinking an LED](https://www.teknotut.com/en/first-raspberry-pi-project-blink-led/)
