@@ -77,7 +77,7 @@ Recommended: 15 minutes
 
 - Use this [image](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html), or one of your own to compare electricity to water flowing through pipes using a pump. 
 
-- also indroduce the topics of resistance and voltage (windows2universe.org) 
+- also indroduce the topics of resistance and voltage
 
 - Discuss how to get a current to move using different energy conversions. (battery, generator, etc.) 
 
