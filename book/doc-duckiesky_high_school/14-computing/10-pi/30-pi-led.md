@@ -6,9 +6,9 @@ Requires:
 
 **Previous lesson** - 
 
-- [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/pi_networking.html)
+- [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/doc-duckiesky_high_school/out/pi_networking.html)
 
-- [Bash](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/computing_pi_bash.html)
+- [Bash](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/doc-duckiesky_high_school/out/computing_pi_bash.html)
 
 **Hardware** - 
 
@@ -81,13 +81,17 @@ Recommended: 20 minutes
 
 1 - Teachers cover what a REPL (Read–eval–print loop) is and what a script is
 
+In the [bash lesson](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/computing_pi_bash.html), we have already learned how to control our computer in the terminal. However, we seem to only able to type one line/command at a time. Can we do better than that? Before we discuss the possibilities, we introduce two related terminologies.
+
 - Read–eval–print loop: a simple interactive computer programming environment that takes **single** user inputs, executes them, and returns the result to the user.
 
 - Script: a programming language for a special run-time environment that automates the execution of tasks; the tasks could alternatively be executed **one-by-one** by a human operator.
 
-See: Difference - script saves the commands to be run sequentially in the future.
+See: Difference: script saves the commands to be run sequentially in the future, while the REPL runs only one command at a time. Previously in the [bash lesson](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/computing_pi_bash.html), all the commands you ran were executed by the REPL. In this lesson, you will learn how to 'save' multiple commands and run them all at once in bash!
 
 2 - Teachers speak on Pi GPIO numbering
+
+Motivation: The goal of this lesson is to our terminal on the Pi to blink the LED soldered on your drone. LED lights up when their is electric current flows throught it. Therefore, we want to write commands that activate the pin on the Pi to provide the current. However, we need to know first how to refer to a specific pin in the terminal.
 
 - On the Raspberry Pi, Pin can be defined in two ways, using the **GPIO Board** and **GPIO BCM** methods.
 
