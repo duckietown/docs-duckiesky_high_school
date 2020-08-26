@@ -68,7 +68,7 @@ Teacher can write a DO NOW on the board for students to set up their basestation
 
 Recommended: 5 minutes
 
-See: **Hook**
+**Hook**
 
 Teachers can talk about the following or their own.
 
@@ -79,28 +79,28 @@ Teachers can talk about the following or their own.
 
 Recommended: 20 minutes
 
-1. Teachers cover what a REPL (Read–eval–print loop) is and what a script is
+1 - Teachers cover what a REPL (Read–eval–print loop) is and what a script is
 
-- Read–eval–print loop: a simple interactive computer programming environment that takes **single** user inputs, executes them, and returns the result to the user
+- Read–eval–print loop: a simple interactive computer programming environment that takes **single** user inputs, executes them, and returns the result to the user.
 
 - Script: a programming language for a special run-time environment that automates the execution of tasks; the tasks could alternatively be executed **one-by-one** by a human operator.
 
-See: Difference - script saves the commands to be run sequentially in the future
+See: Difference - script saves the commands to be run sequentially in the future.
 
-2. Teachers speak on Pi GPIO numbering
+2 - Teachers speak on Pi GPIO numbering
 
 - On the Raspberry Pi, Pin can be defined in two ways, using the **GPIO Board** and **GPIO BCM** methods.
 
-- **GPIO BCM** refers to the default pin of the Broadcom SOC channel chip.
+- **GPIO Board** refers to the naming on the Raspberry Pi board. This is the numbering on the Pi Hat.
 
-- **GPIO Board** refers to the naming on the Raspberry Pi board. This is the numbering on the Pi Hat
+- **GPIO BCM** refers to the default pin of the Broadcom SOC channel chip. This is the numbering we are going to use in this lesson. We need to know how the BCM pin numbering corresponds to the numberings on the Pi Hat. [Here it is](https://pi4j.com/1.2/pins/model-b-rev2.html). 
 
 
 ### Writing a Bash Script
 
 Recommended: 35 minutes
 
-Better: Instructors show how to make and run bash scripts, delays, printing, pin setting by leading students write a bash script to make the led that they've soldered blink
+Better: Exercise: Instructors show how to make and run bash scripts, delays, printing, pin setting by leading students write a bash script to make the led that they've soldered blink.
 
 [See the student book for details](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy-develop/duckiesky_high_school_student/out/computing_pi_led.html)
 
