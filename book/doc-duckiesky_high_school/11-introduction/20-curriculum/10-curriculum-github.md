@@ -87,7 +87,8 @@ Recommended: 40 minutes
 
 - Students learn the basics of Git/GitHub.
     - The basics of GitHub can either be explained by the teacher or by having students learn through the tutorials in the student book at the teacher's discretion.
-        1. If preferred for the Forking Tutorial's cloning and committing section, the teacher can demo the process. 
+        1. If preferred for the Forking Tutorial's cloning and committing section, the teacher can demo the process.
+    - Teachers should emphasize to the students that they are learning this material and/or going through these tutorials to be able to directly interact with our drone curriculum in a more comprehensive manner, which will become more clear next lecture. 
 
 Students need to know the following features of Git and GitHub by the end of this lesson:
 
@@ -97,10 +98,11 @@ Students need to know the following features of Git and GitHub by the end of thi
 4. Forking a repository
 5. Cloning a repository
 6. Making and merging a pull request
+7. Making a GitHub issue 
 
-TODO: Making a GitHub issue 
-
+Better: Exercise: Teachers can have students fill out the accompanying GitHub Defintions worksheet either while they are going through the tutorials or after they are completed with them.
 
 **Useful Resources and References**
 
 1. [GitHub Guides](https://guides.github.com/)
+2. [GitHub Glossary](https://docs.github.com/en/github/getting-started-with-github/github-glossary)
