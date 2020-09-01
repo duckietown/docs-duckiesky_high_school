@@ -2,17 +2,22 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: Students know each gathered material and component, at least by sight
+Requires:
 
-Result: Students will be able to identify wire gauges, strip wires, and use a soldering iron to tin the wires.
+**Hardware** - Drone kit, soldering iron, soldering iron cleaning supplies like golden curl soldering cleaners and sponges, solder, wire strippers, wire cutters, working space, helping hands, long-nose pliers, eye protection, soldering fan, other school mandated safety equipment
+**Previous lesson** - None
+
+Result: 
+
+**Knowledge** - Students will be able to identify wire gauges, strip wires, and use a soldering iron to tin the wires.
 
 </div>
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-NGSS: HS-PS3-3: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy.
+__NGSS: HS-PS3-3__: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy.
 
-ISTE: 1d: Students: understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
+__ISTE: 1d: Students__: understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 
 ### Assessments and Evidence of Understanding
@@ -24,11 +29,7 @@ ISTE: 1d: Students: understand the fundamental concepts of technology operations
 
 1 min: Hook
 
-4 min: Demonstration/Practice Wire Gauges and Stripping
-
-10 min: Solder Intro/Demonstration/Safety and Tinning
-
-40 min: Student Practice
+54 min: Intro to Soldering Lesson
 
 5 min: Clean Up and Optional Exit Ticket
 
@@ -68,7 +69,7 @@ See also: Working here and knowing how to use maker’s tools will give students
 
 ### Main Lesson
 
-Recommended: 4 minutes
+Recommended: 54 minutes
 
 Wire Gauges and Stripping:
 
@@ -86,11 +87,6 @@ See also: You may also recommend that students use one level lower strip number 
 -  Take the wire cutter and show students a pre tinned wire. Now use the wire cutters to cut the pre tinned part off. Emphasize that all wires that are pre tinned must be cut off and re tinned.
 
 Task: Teachers now have students strip cut, and tin the same wire as they did and answer questions.
-
-
-### Soldering Intro
-
-Recommended: 10 minutes
 
 -  Teacher explains what soldering and tinning is.
 
@@ -124,17 +120,11 @@ See: [How To Tin a Wire:](https://www.youtube.com/watch?v=pRPF4wpXX9Q) 1:30-3:00
 
 Task: Teacher will circulate and answer student questions. Students will tin their first wire and ask questions
 
-
-### Student Practice Time
-
-Recommended: 40 minutes
-
 -  The teacher will have the Expectations on the board and discuss them with the students before they begin their work.
 
 See also: All wires for the following components must be self tinned: 4 ESCs, 4 Motors, 1 BEC on the IN side, Red and Brown Wire Pair in the Flight Control Box
 
 Task: Teachers will circulate assisting students in completing their work.
-
 
 ### Ending The Lesson
 

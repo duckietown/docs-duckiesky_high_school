@@ -48,11 +48,11 @@ By the end of this lesson, students should be able to navigate the GitHub GUI an
 
 **Teacher Materials:**
 
-Basestation, a projector (optional) 
+Basestation, a projector (optional), worksheets printed out 
 
 **Classroom Set Up:**
 
-Teachers can write a DO NOW on the board for students to set up their basestations and open a web browser. Have them complete the creation of a GitHub account process (step 1 in the student book) while you introduce the lesson.
+Teachers can write a DO NOW on the board for students to set up their basestations and open a web browser and have them complete the creation of a GitHub account process (step 1 in the student book) while you introduce the lesson. Teachers can hand out the worksheets located in the student book at this point if they are printed.
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -87,7 +87,10 @@ Recommended: 40 minutes
 
 - Students learn the basics of Git/GitHub.
     - The basics of GitHub can either be explained by the teacher or by having students learn through the tutorials in the student book at the teacher's discretion.
-        1. If preferred for the Forking Tutorial's cloning and committing section, the teacher can demo the process. 
+        1. If preferred for the Forking Tutorial's cloning and committing section, the teacher can demo the process.
+    - Teachers should emphasize to the students that they are learning this material and/or going through these tutorials to be able to directly interact with our drone curriculum in a more comprehensive manner, which will become more clear next lecture. 
+
+
 
 Students need to know the following features of Git and GitHub by the end of this lesson:
 
@@ -97,10 +100,11 @@ Students need to know the following features of Git and GitHub by the end of thi
 4. Forking a repository
 5. Cloning a repository
 6. Making and merging a pull request
+7. Making a GitHub issue 
 
-TODO: Making a GitHub issue 
-
+Better: Exercise: Teachers can have students fill out the accompanying GitHub Defintions worksheet either while they are going through the tutorials or after they are completed with them. [Here](https://drive.google.com/file/d/1_VnUXQejhmLyc5guR0zxH6mZKQFTAFXW/view?usp=sharing) is the answer key if necessary.
 
 **Useful Resources and References**
 
 1. [GitHub Guides](https://guides.github.com/)
+2. [GitHub Glossary](https://docs.github.com/en/github/getting-started-with-github/github-glossary)
