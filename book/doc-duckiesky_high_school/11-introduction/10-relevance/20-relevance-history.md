@@ -4,14 +4,23 @@
 
 Requires:
 
-          -Hardware: (N/A)
-          -Previous Lesson: (N/A)
+**Hardware** - 
+
+- Pencil and paper. 
+
+- Laptop for research. 
+          
+**Previous Lesson** - none. 
 
 Result:
 
-          -General understanding of the history of robotics.
-          -Scope of industries where robotics are applied.
-          -Overview of state of the art robotics and what is in production.
+**Knowledge** - 
+
+- General understanding of the history of robotics.
+
+- Scope of industries where robotics are applied.
+
+- Overview of state of the art robotics and what is in production.
          
 </div>
 
@@ -20,9 +29,12 @@ Result:
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
+_ISTE 1. d._: Understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies. 
+
 
 ### Assessments and Evidence of Understanding
 
+By the end of this lesson, students should understand the general development of robotics and be familiar with some of the emerging technologies in the field. 
 
 ### AGENDA (Brief Summary of Activities)
 
@@ -32,11 +44,9 @@ Result:
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials:**
 
-For Students: Pencil and Paper
-
-For Teachers: No special material required for this lesson.
+**Classroom Set Up:**
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
