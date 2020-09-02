@@ -123,6 +123,8 @@ Note: The student book has simple definitions of drone parts to get a basic unde
 
 Better: Exercise: While discussing propellers in the actuators portion, ask your students to identify which of their propellers are clockwise and which are counterclockwise using the arrows. Have them think critically about which propellers would have to be attached to which arm and spin when trying to preform different flying tasks (ex. flying up and straight, flying to the right without losing hight, etc.). If helpful, students could use [this diagram](https://drive.google.com/file/d/11Y_SWK49lU8IWqxGj3YtxuNcvzNqBCmS/view?usp=sharing) to draw on and visualize the motion of the motors and propellers. 
 
+Note: The way the propellers spin to maneuver the drone the way we want them to is actually pretty complicated. If you want to get into it in full detail with your students, there are four short youtube videos linked down below that explain flight in more detail. 
+
 
 ### Ending The Lesson
 
@@ -152,3 +154,11 @@ See also: Journal activity: Have your students come up with another use for a pa
 **Useful Resources and References**
  
 1. [Explanation of Drone Flight Dynamics](https://www.mathworks.com/videos/drone-simulation-and-control-part-1-setting-up-the-control-problem-1539323440930.html)
+
+2. [Omnicoptor Flight Dynamic Video](https://www.youtube.com/watch?v=sIi80LMLJSY)
+
+3. [Flying Machine TED Talk Video](https://www.youtube.com/watch?v=RCXGpEmFbOw)
+
+4. [Aggressive Flight Video](https://www.youtube.com/watch?v=5l27chpTzhg)
+
+5. [Quadcopter TED Talk Video](https://www.youtube.com/watch?v=w2itwFJCgFQ)

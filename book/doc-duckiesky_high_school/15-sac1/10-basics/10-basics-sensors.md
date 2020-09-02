@@ -28,7 +28,7 @@ potential
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-
+_NGSS: HS - PS4 - 5_: Communicate technical information about how some technological devices use the principles of wave behavior and wave interactions with matter to transmit and capture information and energy. 
 
 ### Assessments and Evidence of Understanding
 
@@ -59,9 +59,9 @@ Teacher can write a DO NOW on the board for students to think about what can be 
 
 Recommended: 10 mintues
 
-See: **Hook**
+**Hook:**
 
-Students brainstorm and discuss in groups the things that can be measured by a robot, and possibly write their ideas on board.
+Better: Exercise: Students brainstorm and discuss in groups the things that can be measured by a robot, and possibly write their ideas on board.
 
 After this is done, teachers do a review what our drone’s three sensors measure: 
 
@@ -73,13 +73,13 @@ After this is done, teachers do a review what our drone’s three sensors measur
 
 [**Explain the definition of roll, pitch, and yaw.**](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy-develop/duckiesky_high_school_student/out/sac1_basics_sensors.html)
 
-Better: **Optional**: Have your students make paper airplanes to physically demonstrate roll, pitch, and yaw. 
+Better: Exercise: Have your students make paper airplanes to physically demonstrate roll, pitch, and yaw. 
 
 ### Main Lesson
 
 Recommended: 25 minutes
 
-The main lesson is evolved around introducing 3 questions, possibly let students discuss their solutions, and then providing solutions to questions.
+The main lesson is evolved around introducing 3 questions, possibly let students discuss their solutions, and then provide the linked student book answers. 
 
 Question 1. **How computers interpret sensors' output.** 
 
@@ -135,7 +135,7 @@ Q: Why do we need an ADC?
 
 Q: Can you demonstrate row, pitch, and yaw using your body?
 
-Better: Mimicking the second way (combining data from multiple sensors) that make sensors more accurate – students individually measure something (a distance of a paper airplane flight, number of jelly beans in a jar, or any other creative activities) and then averaging the individual guesses. Then, ask students how accurate their measusures are. What about precision?
+Better: Exercise: Mimicking the second way (combining data from multiple sensors) that make sensors more accurate – students individually measure something (a distance of a paper airplane flight, number of jelly beans in a jar, or any other creative activities) and then averaging the individual guesses. Then, ask students how accurate their measusures are. What about precision?
 
 
 **Useful Resources and References**
