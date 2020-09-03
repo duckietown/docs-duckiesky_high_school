@@ -1,5 +1,7 @@
 # Calibration {#sac2-sensing-calibration status=ready}
 
+[Student version](+duckiesky_high_school_student#sac2-sensing-calibration)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

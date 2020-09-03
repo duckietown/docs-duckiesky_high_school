@@ -1,5 +1,7 @@
 # Intro to ROS {#sac2-ros-intro status=ready}
 
+[Student version](+duckiesky_high_school_student#sac2-ros-intro)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

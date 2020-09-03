@@ -1,5 +1,7 @@
 # Signals and Connections {#electronics-circuitry-signals status=ready}
 
+[Student version](+duckiesky_high_school_student#electronics-circuitry-signals)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

@@ -1,5 +1,7 @@
 # Troubleshooting {#electronics-soldering-troubleshooting status=ready}
 
+[Student version](+duckiesky_high_school_student#electronics-soldering-troubleshooting)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

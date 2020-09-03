@@ -1,5 +1,7 @@
 # Intro to the Motors {#sac3-motors-intro status=ready}
 
+[Student version](+duckiesky_high_school_student#sac3-motors-intro)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

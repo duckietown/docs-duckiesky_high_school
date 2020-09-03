@@ -1,5 +1,7 @@
 # Intro to the IMU {#sac3-imu-intro status=ready}
 
+[Student version](+duckiesky_high_school_student#sac3-imu-intro)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

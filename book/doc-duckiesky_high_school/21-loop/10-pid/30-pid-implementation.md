@@ -1,5 +1,7 @@
 # Implementation of PID {#loop-pid-implementation status=ready}
 
+[Student version](+duckiesky_high_school_student#loop-pid-implementation)
+
 <div class='requirements' markdown='1'>
 
 Requires: basestation, Completed Build Part 1

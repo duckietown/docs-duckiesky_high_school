@@ -1,5 +1,7 @@
 # Git and Github {#introduction-curriculum-github status=ready}
 
+[Student version](+duckiesky_high_school_student#introduction-curriculum-github)
+
 <div class='requirements' markdown='1'>
 
 

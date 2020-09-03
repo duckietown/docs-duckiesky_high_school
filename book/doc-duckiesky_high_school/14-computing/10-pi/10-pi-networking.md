@@ -1,4 +1,6 @@
-# Networking {#pi-networking status=ready}
+# Networking {#computing-pi-networking status=ready}
+
+[Student version](+duckiesky_high_school_student#computing-pi-networking)
 
 <div class='requirements' markdown='1'>
 

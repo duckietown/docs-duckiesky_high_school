@@ -1,5 +1,7 @@
 # Simple Circuits {#electronics-circuitry-simple status=ready}
 
+[Student version](+duckiesky_high_school_student#electronics-circuitry-simple)
+
 <div class='requirements' markdown='1'>
 
 Requires:

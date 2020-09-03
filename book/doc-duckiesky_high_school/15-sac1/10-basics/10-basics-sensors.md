@@ -1,5 +1,7 @@
 # Intro to Sensors {#sac1-basics-sensors status=ready}
 
+[Student version](+duckiesky_high_school_student#sac1-basics-sensors)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

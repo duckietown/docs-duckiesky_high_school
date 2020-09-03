@@ -1,5 +1,7 @@
 # Building Skill {#electronics-soldering-skill status=ready}
 
+[Student version](+duckiesky_high_school_student#electronics-soldering-skill)
+
 <div class='requirements' markdown='1'>
 
 Requires:
