@@ -268,7 +268,7 @@ Recommended: 5 minutes
 
 - Remind students that there will be a safety module for the course coming up in one of the future classes   
 
-Better: Exercise: Teachers could also assign a short report/presentation/essay to students on a specific section of this lesson or overall how their opinions have changed before & after the lesson
+Better: Exercise: Teachers could also assign a short report/presentation/essay to students on a specific section of this lesson or overall how their opinions have changed before and after the lesson
 
 **Useful Resources and References**
 

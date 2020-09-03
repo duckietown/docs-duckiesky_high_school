@@ -54,7 +54,7 @@ Students will complete an assignment, that they can answer the questions and han
 
 **Classroom Set Up**
 
-- have an area of the classroom free for teacher example drone flight and neighborhood modeling activities. 
+- Have an area of the classroom free for teacher example drone flight and neighborhood modeling activities. 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
@@ -64,7 +64,7 @@ Students will complete an assignment, that they can answer the questions and han
 Hook: The drones that students are building is relatively powerful, and can cause harm to them or others if not used safely. 
 
 - Can show a drone fail compilation video and note the danger in those videos
-    - example video:[Video](https://youtu.be/6FVeZeT_TEA) involves mostly crashes from bad locations of flying
+    - Example video:[Video](https://youtu.be/6FVeZeT_TEA) involves mostly crashes from bad locations of flying
 
 
 ### Main Lesson
@@ -87,13 +87,13 @@ See also: [EdX lectures on the Midair Collision](https://edge.edx.org/courses/co
 
 - Explain what the NTSB is, annd what are NTSB reports
     - NTSB: National Transportation Safety Board
-    - NTSB reports: provides detailed account of accident.
+    - NTSB reports: provides detailed accounts of accidents.
 
 See also: [The NTSB report of the collision](https://www.ntsb.gov/investigations/AccidentReports/Pages/AAR1005.aspx)
 
 See also: [article 1](ttps://www.nytimes.com/2009/08/15/nyregion/15crash.html) and [article 2](ttps://www.nytimes.com/2009/08/10/nyregion/10collide.html)
 
-Better: Have a class dicussion on the importance of this event. 
+Better: Have a class discussion on the importance of this event. 
 
 - Examples of questions that can be considered during the discussion: 
     - How might the see and avoid concept be applied to the smaller drones we are flying? 
@@ -131,7 +131,7 @@ Note: Encouraged to fly your drone indoors if you have enough space. FAA rules d
 
 - Explain there are potential sources of danger and students should be constantly aware when operating their drone. 
 
-Better: Exercise: While teachers lists of potential sources of danger, students can pick out drone/soldering kit part that could present that danger. Students should also name that part(s). 
+Better: Exercise: While teachers list potential sources of danger, students can pick out drone/soldering kit part that could present that danger. Students should also name the part(s). 
 
 - Explain potential sources of danger with soldering: 
     - extreme heat and possible burns 
@@ -201,7 +201,7 @@ The goal of this assignment is to ask students to think critically about how to 
 
 **Kill Switch:** spacebar on the keyboard which immediately disarms the drone after they have begun flying it. If something goes wrong during flight, press the spacebar. 
 
-**OSHA:** Occupational Safety and Health Adminstration. 
+**OSHA:** Occupational Safety and Health Administration. 
 
 **Bystander Effect:** The more people that are present, the less likely someone will help a victim during a situation. Be wary of this, make sure that if there is a dangerous situation, be cautious and aware, and take action to help those who need it.
 
