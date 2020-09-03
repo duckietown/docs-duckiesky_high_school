@@ -1,3 +1,5 @@
 # Sensors, Actuators, and Control: 2 {#part:sac2 status=ready}
 
-Unit Overview
+The goal of this section is to leverage the Infrared Sensor and LED as opportunity to explain the challenges and solutions of using a sensor and controlling an actuator. In particular, in this section you will be guiding students through the processes of reading the _raw_ output from a sensor, converting the raw output into a useful measurement, and then using a framework called ROS to share the measurement amongst programs running on the Raspberry Pi. Raw sensor output is some signal that is either a varying voltage or current, and the process of calibration is used to convert the signal into a measurement, such as distance. The steps in this section are applied to all of the sensors on the drone; however, students only look at the process for the IR sensor at first because it is the most straightforward example.
+
+Once the sensor data is calibrated and shared using ROS, the students will create an _open loop controller_ to vary the brightness of the LED based on the measurement from the IR sensor. The open loop controller is the simplest form of a control system, and it motivates the need for ROS since there is one program sharing the data (the program that reads the IR sensor) and there is another program using the data (the open loop controller).

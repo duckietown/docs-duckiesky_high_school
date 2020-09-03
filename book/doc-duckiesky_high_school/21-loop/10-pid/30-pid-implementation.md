@@ -48,6 +48,7 @@ Recommended: 5 minutes/hours
 
 
 ### Main Lesson
+TODO: EDIT THE SIMULATION FIX THE INSTRUCTIONS
 
 Recommended: X minutes/hours
 
@@ -263,8 +264,8 @@ Take a one minute video of your drone flying in velocity control, and then engag
 
 Recommended: 5 minutes/hours
 
-- Students now should should be able to tune their PID loops!
+- Students now should be able to tune their PID loops!
 
 **Useful Resources and References**
 
-- Teachers can see EdX lectures on PID Control: https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/course/#block-v1:BrownX+CS195R+2018_T1+type@chapter+block@0c4aafccbe244af093e640e6e81d9e26
+- Teachers can see [EdX lectures on PID Control](https://edge.edx.org/courses/course-v1:BrownX+CS195R+2018_T1/course/#block-v1:BrownX+CS195R+2018_T1+type@chapter+block@0c4aafccbe244af093e640e6e81d9e26)

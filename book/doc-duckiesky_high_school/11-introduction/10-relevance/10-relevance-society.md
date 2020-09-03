@@ -6,13 +6,20 @@
 
 Requires: 
  
-          - Hardware (N/A)
-          - Previous Lesson (N/A)
+**Hardware** - 
+
+- Pencil and paper 
+
+**Previous lesson** - none 
 
 Result:  
 
-       - What robotics is and why it matters
-       - Scope of the course
+**Knowledge** - 
+
+- What robotics is and why it matters
+
+- Scope of the course
+
        
 </div>
 
@@ -20,29 +27,33 @@ Result:
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-articulate and set personal learning goals, develop strategies leveraging technology to achieve them and reflect on the learning process itself to improve learning outcomes.
+_ISTE 1. a._: Articulate and set personal learning goals, develop strategies leveraging technology to achieve them and reflect on the learning process itself to improve learning outcomes.
 
 ### Assessments and Evidence of Understanding
 
-The students ability to explain why robotic technology is important in our day and age.
+By the end of this lesson, students should be able to explain why robotic technology is important in our day and age.
 
 ### AGENDA (Brief Summary of Activities)
 
-5 - 10 min: Do Now set up with discussion
+5 - 10 min: DO NOW set up with discussion
 
-30 min: Robotic Marvels In Industries and Communities Lesson
+10 min: Robotic Marvels In Industries and Communities Lesson
+
+20 min: Live Drone Demo 
+
+10 min: Groupd Research Exercise 
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-No previous lesson completion required
+**Teacher Materials**
 
-**Materials needed**
+Screen to showcase students' DO NOW 
 
-For Students: Pencil and Paper
+**Classroom Set Up**
 
-For Teachers: Screen to showcase students Do Now (if desired), Do Now and expectations written.
+DO NOW and expectations written.
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
@@ -50,9 +61,9 @@ For Teachers: Screen to showcase students Do Now (if desired), Do Now and expect
 
 Recommended: 5 - 10 minutes 
 
-Do Now: Have students get into groups and try to write on a board more modern uses of robots than the other groups. 
+DO NOW: Have students get into groups and try to write on a board more modern uses of robots than the other groups. 
 
-Hook: Teachers can talk about the following or their own:
+**Hook:** 
  
 - Robotics have become a seemless part of everyday life in the 21st century. As a generation raised in a technological era, we are able to easily overlook the idea of robotics. This will be an introduction lesson for students on the importance of robots for the world we are accostumed to. 
 
@@ -72,11 +83,11 @@ Navigating the Book/Resources will be as follows:
 
 By the end of the course, students will have a completed **quadcopter** drone capable of flying with commands inputted into a terminal on their computers.  With the content in the following lessons students will dive into; Safety Regulations, Hardaware, Software, and Additional Content.
 
-### Vocabulary ###
+#### Vocabulary ####
 
-quadcopter: a more specific term used to refer to a drone that is flown with four motors.
+_Quadcopter_ a more specific term used to refer to a drone that is flown with four motors.
 
-robot: a machine (especially one programmable by a computer) designed to execute one or more tasks automatically and efficiently.
+_Robot_: a machine (especially one programmable by a computer) designed to execute one or more tasks automatically and efficiently.
 
 ## ** -Live Demo of Drone Here- ** ##
 
@@ -94,7 +105,7 @@ Today robots impact everyday life in the service industry, with potential to pos
 
 ### Ending The Lesson
 
-Group Research: Students research in groups one ongoing robotics field that interest them to share with the class.
+Better: Exercise: Group Research: Students research in groups one ongoing robotics field that interest them to share with the class.
 
 1. Medicine
 2. Transportation
