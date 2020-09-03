@@ -1,5 +1,7 @@
 # Subscriber and Open Loop {#sac2-ros-subscriber status=ready}
 
+[Student version](+duckiesky_high_school_student#sac2-ros-subscriber)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

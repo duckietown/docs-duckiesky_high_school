@@ -1,5 +1,7 @@
 # Reading Sensors {#sac2-sensing-reading status=ready}
 
+[Student version](+duckiesky_high_school_student#sac2-sensing-reading)
+
 <div class='requirements' markdown='1'>
 
 Requires:

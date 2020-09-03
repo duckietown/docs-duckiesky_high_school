@@ -1,5 +1,7 @@
 # Drone Localization {#localization-camera-localization status=ready}
 
+[Student version](+duckiesky_high_school_student#localization-camera-localization)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

@@ -1,5 +1,7 @@
 # Voltage, Current, Resistance {#electronics-circuitry-voltage status=ready}
 
+[Student version](+duckiesky_high_school_student#electronics-circuitry-voltage)
+
 <div class='requirements' markdown='1'>
 
 Requires:

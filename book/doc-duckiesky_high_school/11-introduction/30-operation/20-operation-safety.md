@@ -1,5 +1,7 @@
 # Safety {#introduction-operation-safety status=ready}
 
+[Student version](+duckiesky_high_school_student#introduction-operation-safety)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

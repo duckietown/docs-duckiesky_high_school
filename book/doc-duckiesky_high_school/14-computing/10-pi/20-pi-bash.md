@@ -1,5 +1,7 @@
 # Bash {#computing-pi-bash status=ready}
 
+[Student version](+duckiesky_high_school_student#computing-pi-bash)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

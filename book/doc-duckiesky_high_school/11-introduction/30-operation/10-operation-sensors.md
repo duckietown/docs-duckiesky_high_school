@@ -1,5 +1,7 @@
 # Sensors and Actuators {#introduction-operation-sensors status=ready}
 
+[Student version](+duckiesky_high_school_student#introduction-operation-sensors)
+
 <div class='requirements' markdown='1'>
 
 

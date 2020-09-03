@@ -1,5 +1,7 @@
 # Intro to PID {#loop-pid-intro status=ready}
 
+[Student version](+duckiesky_high_school_student#loop-pid-intro)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

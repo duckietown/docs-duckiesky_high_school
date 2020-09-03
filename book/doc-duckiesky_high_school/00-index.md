@@ -1,4 +1,4 @@
-# Duckiesky Teacher Curriculum {#book:duckiesky status=ready}
+# Duckiesky Teacher Curriculum {#book:book status=ready}
 
 
 <div id="logo-container">

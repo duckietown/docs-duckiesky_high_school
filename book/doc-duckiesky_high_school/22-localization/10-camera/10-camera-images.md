@@ -1,5 +1,7 @@
 # Comparing Images {#localization-camera-images status=ready}
 
+[Student version](+duckiesky_high_school_student#localization-camera-images)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

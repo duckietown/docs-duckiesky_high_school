@@ -1,5 +1,7 @@
 # The Three PID Terms {#loop-pid-terms status=ready}
 
+[Student version](+duckiesky_high_school_student#loop-pid-terms)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

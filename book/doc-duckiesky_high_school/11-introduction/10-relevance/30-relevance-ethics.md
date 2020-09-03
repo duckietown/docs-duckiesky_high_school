@@ -1,5 +1,7 @@
 # Intro to Ethics {#introduction-relevance-ethics status=ready}
 
+[Student version](+duckiesky_high_school_student#introduction-relevance-ethics)
+
 <div class='requirements' markdown='1'>
 
 Requires: No previous lessons or hardware required.

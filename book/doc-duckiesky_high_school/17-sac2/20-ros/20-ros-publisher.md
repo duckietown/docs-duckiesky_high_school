@@ -1,5 +1,7 @@
 # Creating a ROS Publisher {#sac2-ros-publisher status=ready}
 
+[Student version](+duckiesky_high_school_student#sac2-ros-publisher)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

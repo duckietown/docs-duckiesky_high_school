@@ -1,5 +1,7 @@
 # Intro to the Course {#introduction-relevance-society status=ready}
 
+[Student version](+duckiesky_high_school_student#introduction-relevance-society)
+
 <div class='requirements' markdown='1'>
 
 Requires: 

@@ -1,5 +1,7 @@
 # Markdown and Contributions {#introduction-curriculum-editing status=ready}
 
+[Student version](+duckiesky_high_school_student#introduction-curriculum-editing)
+
 <div class='requirements' markdown='1'>
 
 
@@ -7,7 +9,6 @@ Requires:
 
 **Hardware** - Basestation
 **Previous lesson** - Git and Github
-
 
 Result: 
 

@@ -1,5 +1,7 @@
 # Intro to Soldering {#electronics-soldering-introduction status=ready}
 
+[Student version](+duckiesky_high_school_student#electronics-soldering-introduction)
+
 <div class='requirements' markdown='1'>
 
 Requires:

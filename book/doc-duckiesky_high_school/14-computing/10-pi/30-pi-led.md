@@ -1,5 +1,7 @@
 # Blinking an LED {#computing-pi-led status=ready}
 
+[Student version](+duckiesky_high_school_student#computing-pi-led)
+
 <div class='requirements' markdown='1'>
 
 Requires: 
