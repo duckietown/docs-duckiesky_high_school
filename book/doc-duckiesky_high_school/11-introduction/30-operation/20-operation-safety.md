@@ -188,23 +188,3 @@ Better: Take [home assignment](https://docs.google.com/document/d/1poSQFkOB8Ye5R
 
 The goal of this assignment is to ask students to think critically about how to ensure robots are operated safely, and to devise guidelines for operating their robot safely.
 
-
-### Glossary of Terms
-
-**NTSB:** National Transportation Safety Board. US investigative body for vehicle/transportation accidents. 
-
-**FAA:** Federal Aviation Administration which is responsible for regulation of civil aviation: including airports, air traffic management, certification of people, certification of aircraft, and protection of US assets. 
-
-**See and Avoid Concept:** the concept of taking action to avoid what you see. If you are able to see a ball coming at you, you can take action: catch, dodge, etc. In the Midair Collision, time was too short to be able to take any action. 
-
-**UAS:** unmanned aerial systems: systems/vehicles with no human pilot, like drones. 
-
-**Kill Switch:** spacebar on the keyboard which immediately disarms the drone after they have begun flying it. If something goes wrong during flight, press the spacebar. 
-
-**OSHA:** Occupational Safety and Health Administration. 
-
-**Bystander Effect:** The more people that are present, the less likely someone will help a victim during a situation. Be wary of this, make sure that if there is a dangerous situation, be cautious and aware, and take action to help those who need it.
-
-**B4UFLY App:** app created by the FAA, helps recreational flyers to figure out where they can safely fly and if there are any restrictions in a location. 
-
-**Useful Resources and References**
