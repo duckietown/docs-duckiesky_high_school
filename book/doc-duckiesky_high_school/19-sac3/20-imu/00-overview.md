@@ -1,5 +1,3 @@
 # IMU {#subpart:sac3-imu status=ready}
 
-Module Overview
-
-This module presents how Inertial Measurement Unit, one of our drone's sensors, work.
+This subsection explains the theory behind the Inertial Measurement Unit. The drone must know it's roll, pitch, and yaw in order to fly-- the IMU makes this possible. 
