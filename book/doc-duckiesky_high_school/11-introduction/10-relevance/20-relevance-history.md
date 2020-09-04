@@ -65,6 +65,16 @@ Intro: In this lesson we will take an in depth look at the evolution of robotics
 
 Recommended: 45 minutes
 
+### Activities ###
+
+* Intro- short fun clip on the evolution of Robots:
+
+[Evolution of Robotics](https://www.youtube.com/watch?v=nlrr5b1XWoY) Wired Episode 1
+
+* Have students get into groups, read a section from the text and write about the important points. These notes can be shared at the end of class to recap the lesson. 
+
+* During the end of the lesson students can be tasked to research what robotic technology is being manufactured for the future to share with their class after reading the lesson.
+
 **HISTORY**
 
 When we think of robots we tend to reference lots of pop culture films like; Star Wars with the famous duo of R2-D2 and C3-PO, The Iron Giant, Transformers, or the infamous T-1000 Terminators. But where does the word for these mechanical creations originate from?
