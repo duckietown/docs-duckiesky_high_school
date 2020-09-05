@@ -53,7 +53,7 @@ Screen to showcase students' DO NOW
 
 **Classroom Set Up**
 
-DO NOW and expectations written.
+DO NOW and expectations written
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
@@ -71,47 +71,43 @@ DO NOW: Have students get into groups and try to write on a board more modern us
 
 Recommended: 30 minutes
 
-TODO: showcase of drone flying.
-
-**For navigating the book teachers may open the site on the board to add visual aid to the book explanation Or students may open it themselves by using their designated laptops.**
+Better: For navigating the book, teachers may open the site on the board to add visual aid to the book explanation Or students may open it themselves by using their designated laptops.
 
 Navigating the Book/Resources will be as follows:
+
 - Sections
+
 - Units
+
 - Subsections
-+ References and Resources
 
-By the end of the course, students will have a completed **quadcopter** drone capable of flying with commands inputted into a terminal on their computers.  With the content in the following lessons students will dive into; Safety Regulations, Hardaware, Software, and Additional Content.
+- References and Resources
 
-#### Vocabulary ####
+By the end of the course, students will have a completed **quadcopter drone** capable of flying with commands inputted into a terminal on their computers! With the content in the following lessons students will dive into: Safety Regulations, Hardaware, Software, and Additional Content.
 
-_Quadcopter_ a more specific term used to refer to a drone that is flown with four motors.
-
-_Robot_: a machine (especially one programmable by a computer) designed to execute one or more tasks automatically and efficiently.
+See also: Go over the vocabulary of a _robot_ and a _quadcopter_ found in the student book. 
 
 ## ** -Live Demo of Drone Here- ** ##
 
-The best way for instructors to Demo their drone safely is recomended in an outdoors area. If this is not an option, a containment cage may be required. Crafting these cages may require netting and PVC pipes. For the safety of instrcutors and students the drone should be 6 feet away when taking off.
+- The best way for instructors to Demo their drone safely is recomended in an outdoors area. If this is not an option, a containment cage may be required. Crafting these cages may require netting and PVC pipes. For the safety of instrcutors and students, the drone should be 6 feet away when taking off.
 
-Teachers can share their screen on a laptop while preparing to fly. The Javascript page with in the pidrone package can show the students the drones control panel alongside the IR sensors readings and camera image.
+- Teachers can share their screen on a laptop while preparing to fly. The Javascript page with in the pidrone package can show the students the drone's control panel alongside the IR sensor's readings and camera image.
 
-**Why is it essential to learn about this? How do robotics help our communities in society?**
+See also: Cover the _Why is it essential to learn about this? How do robotics help our communities in society?_ section in the student book. 
 
-When we think of a robot, what definition could we reference? 
-
-Robotics matter because they hold a part of the key to the future with efficiency for most if not all crafts. In essence it is an interdisciplinary research area part of Engineering and Science. It involves the design, construction, operation, and use of robots. The end goal is to materialize the designs of intelligent machines that out perform a human beings ability in a specific task or replace said human in a task too complex or far too dangerous. Making them near perfect multi use tools for industries and corporations of any kind. 
-
-Today robots impact everyday life in the service industry, with potential to positively transform work practices. 
 
 ### Ending The Lesson
 
-Better: Exercise: Group Research: Students research in groups one ongoing robotics field that interest them to share with the class.
+Better: Exercise: Group Research: Students research in groups one ongoing robotics field that interest them to share with the class. Here are some examples: 
 
 1. Medicine
+
 2. Transportation
+
 3. Military
+
 4. Space
-5. ect.
+
 
 **Useful Resources and References**
 
