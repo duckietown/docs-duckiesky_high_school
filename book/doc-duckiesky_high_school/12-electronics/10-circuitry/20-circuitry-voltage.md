@@ -6,27 +6,52 @@
 
 Requires:
 
-**Hardware** - LED, resistor,  battery, wire, multimeter
-**Previous lesson** - Simple Circuits
+**Hardware** - 
+
+- LED
+
+- Various Resistor
+
+- 9V battery (1/student) (not portable battery of drone)
+
+- 9V Battery clips 
+
+- Alligator clip leads (4/student)
+
+- Wire
+
+- Multimeter (1/student)
+
+**Previous lesson** - 
+
+- [Simple Circuits](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_simple.html)
 
 Result: 
 
-**Knowledge"" -
+**Knowledge** -
 
 Understanding of the relation of: 
+
 - charge
+
 - voltage 
+
 - current
+
 - resistance defined by Ohm's law
+
 - causes and effects of short circuit
+
 - difference between AC and DC
 
+**Skills** - 
+
+- The ability to build and measure simple circuits using a multimeter
 
 </div>
 
-## Lesson Title
+## Voltage, Current, and Resistance
 
-Voltage, Current, and Resistance
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
@@ -57,10 +82,9 @@ Activity recommended to be done in pairs. Teachers should pair students to suppo
 
 Presentation device for explaination of topics
 
-**Student Materials**
+**Classroom Set Up**
 
-(Set for one pair) - 9V Battery (not portable battery for drone), 9V Battery clip, 4 Alligator clip leads, LED, Various (Need to specify ohm values later) Resistors, Multimeter
-
+Might be helpful to have supplies already divided up for students prior to the beginning of class. 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -72,41 +96,34 @@ Recommended: 5 minutes
 
 **Hook:**
 
-Put students into pairs. Give each pair a multimeter and battery and give them a couple minutes to answer these two questions: "What do you know about this device?" and "What questions do you have?" (Let them play around with it.) Then let them share out answers as a class.
+- Put students into pairs. Give each pair a multimeter and a battery and give them a couple minutes to answer these two questions: 
+ 
+Q: What do you know about this device?
+
+Q: What questions do you have?
+
+- Let them play around with it. Then let them share out answers as a class.
 
 ### Main Lesson
 
 Recommended: 40 minutes
 
-1. Build and measure first circuit
-
+1. **Build and measure first circuit**:
 Give the students materials to build a circuit similar to last class's except without the LED. Show them how to measure voltage, resitance, and current with the multimeter.
 
-2. Explaination of Ohm's Law
+2. **Explaination of Ohm's Law**:
+Ohm's law states that the current through a conductor between two points is directly proportional to the voltage across the two points. Show how voltage, resistance, and current relate mathmatically using Ohm's law. (A graphic may be helpful, similar to [this one](https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE)). Explain how “short circuit” is a low resistance, unintended, alternate path through the circuit, and how that could damage components in the circuit, power source, start fire, etc…
 
-Ohm's law states that the current through a conductor between two points is directly proportional to the voltage across the two points.
+3. **Build and measure second circuit**: Make the same circuit except for a different resistor, and ask students to prove Ohm's law using the multimeter.
 
-Show how voltage, resistance, and current relate mathmatically using Ohm's law. (A graphic may be helpful, similar to this one. [https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE](https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE))
+4. **Build and measure circuit with LED**: Make the same circuit except add an LED, and ask students to prove Ohm's law. (It won't.)
 
-“Short circuit”, low resistance, unintended, alternate path through the circuit, how that could damage components in the circuit, power source, start fire, etc…
+5. **Explaination of why LED doesn't observe Ohm's law**
 
-3. Build and measure second circuit
 
-Make the same circuit except for a different resistor, and ask students to prove Ohm's law using the multimeter.
+6. **Explaination of AC and DC**: Explain the difference between AC and DC. Measures AC from a wall outlet using a multimeter.
 
-4. Build and measure circuit with LED
-
-Make the same circuit except add an LED, and ask students to prove Ohm's law. (It won't.)
-
-5. Explaination of why LED doesn't observe Ohm's law
-
-(Need to get good explaination!)
-
-6. Explaination of AC and DC
-
-Teacher explains difference between AC and DC. Measures AC from a wall outlet using a multimeter.
-
-If time: Brief overview (no math) of other passives (e.g. capacitors resist change in voltage, inductors resist changes in current), actives (controlling flow, diodes as one-way valves, transistors as switches, mention that you can do logic/calculations by combining them), and “integrating circuits” into ICs, assembling those into computers, robots
+Note: If time: Brief overview (no math) of other passives (e.g. capacitors resist change in voltage, inductors resist changes in current), actives (controlling flow, diodes as one-way valves, transistors as switches, mention that you can do logic/calculations by combining them), and “integrating circuits” into ICs, assembling those into computers, robots
 
 ### Ending The Lesson
 
@@ -114,14 +131,14 @@ Recommended: 5 minutes
 
 Clean Up!
 
-(Also here's a vocab worksheet for in class or hw: [https://docs.google.com/document/d/18a2UVzlNQGC5mvZ_JpYRoVtIp8XaYsbznB4QR38_TL4/edit?usp=sharing](https://docs.google.com/document/d/18a2UVzlNQGC5mvZ_JpYRoVtIp8XaYsbznB4QR38_TL4/edit?usp=sharing)
+(Also here's a [vocab worksheet](https://docs.google.com/document/d/18a2UVzlNQGC5mvZ_JpYRoVtIp8XaYsbznB4QR38_TL4/edit?usp=sharing) for in class or hw. 
 
 **Useful Resources and References**
 
-[https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE](https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE)
+1. [Ohm's Law Explanation](https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE)
 
-[https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law](https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law)
+[How to Analyze Resistive Circuits Using Ohm's Law](https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law)
 
-[https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html)
+[Electical Circuits and Water Pipes Analogy](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html)
 
 [Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
