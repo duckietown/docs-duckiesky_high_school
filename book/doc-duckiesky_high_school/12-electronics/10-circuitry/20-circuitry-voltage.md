@@ -102,7 +102,7 @@ Q: What do you know about this device?
 
 Q: What questions do you have?
 
-- Let them play around with it. Then let them share out answers as a class.
+Let them play around with it. Then, let them share out answers as a class.
 
 ### Main Lesson
 
@@ -123,7 +123,7 @@ Ohm's law states that the current through a conductor between two points is dire
 
 6. **Explaination of AC and DC**: Explain the difference between AC and DC. Measures AC from a wall outlet using a multimeter.
 
-Note: If time: Brief overview (no math) of other passives (e.g. capacitors resist change in voltage, inductors resist changes in current), actives (controlling flow, diodes as one-way valves, transistors as switches, mention that you can do logic/calculations by combining them), and “integrating circuits” into ICs, assembling those into computers, robots
+See also: If time: Brief overview (no math) of other passives (e.g. capacitors resist change in voltage, inductors resist changes in current), actives (controlling flow, diodes as one-way valves, transistors as switches, mention that you can do logic/calculations by combining them), and “integrating circuits” into ICs, assembling those into computers, robots, etc. 
 
 ### Ending The Lesson
 
@@ -131,14 +131,14 @@ Recommended: 5 minutes
 
 Clean Up!
 
-(Also here's a [vocab worksheet](https://docs.google.com/document/d/18a2UVzlNQGC5mvZ_JpYRoVtIp8XaYsbznB4QR38_TL4/edit?usp=sharing) for in class or hw. 
+Better: Here's a [vocab worksheet](https://docs.google.com/document/d/18a2UVzlNQGC5mvZ_JpYRoVtIp8XaYsbznB4QR38_TL4/edit?usp=sharing) for in class or for homework. 
 
 **Useful Resources and References**
 
 1. [Ohm's Law Explanation](https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE)
 
-[How to Analyze Resistive Circuits Using Ohm's Law](https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law)
+2. [How to Analyze Resistive Circuits Using Ohm's Law](https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law)
 
-[Electical Circuits and Water Pipes Analogy](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html)
+3. [Electical Circuits and Water Pipes Analogy](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html)
 
-[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
+4. [Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
