@@ -8,6 +8,8 @@ Requires: No previous lessons or hardware required.
 
 Result: 
 
+**Knowledge** - 
+
 - Students will be able to learn about what ethics is and why it is important. 
 
 - Students will be introduced to ethical challenges in computer science and engineering including algorithmic bias, accessibility concerns, and human job security. 
@@ -43,13 +45,17 @@ Students will be able to do presentations, debates, or other activities assigned
 **Teacher Materials**
 
 - Projector for displaying videos or slides
+
 - Large sheets of paper and markers for student brainstorming in small groups
+
 - Print out [note sheets](https://docs.google.com/document/d/17OSygnSXLueR2K5h-1ncwIuaMdFhb5mv0fAuhiSRw9w/edit?usp=sharing) for students to help take notes
-- reference the student textbook for more detailed explanations of concepts and examples
+
+- Reference the student textbook for more detailed explanations of concepts and examples
 
 **Classroom Set Up**
 
 - Space for students to be able to work and discuss in small groups. 
+
 - Make sure each group of students have at least one large sheet of paper and a number of markers.
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -58,7 +64,9 @@ Students will be able to do presentations, debates, or other activities assigned
 
 Recommended: 10 minutes
 
-Hook: There are many important decisions that need to be made for situations regularly. With drones or any AI or autonomous system that you are creating or using, students must understand that there are certain moral implications/ethics/principles that must be considered and have different consequences on others. 
+**Hook** 
+
+- There are many important decisions that need to be made for situations regularly. With drones or any AI or autonomous system that you are creating or using, students must understand that there are certain moral implications/ethics/principles that must be considered and have different consequences on others. 
 
 Better: Exercise: Group Brainstorm: Ask students brainstorm on paper in groups about ethics and important/common topics addressed by ethics. Have students come up with movie or pop culture references for ethical dilemmas surround technology and robotics.
 
@@ -85,48 +93,55 @@ Recommended: 40 minutes
 
 Better: Exercise: Students brainstorm different autonomous systems they have heard about or used. Students should think about whether they trust these specific systems and why or why not?
 
-- Explain autonomous systems, AI, ML, DL, and usage of algorithms 
-- Explain the benefits and disadvantages of autonomous systems and the use of algorithms in decision making processes
+- Explain autonomous systems, AI, ML, DL, and usage of algorithms.
+
+- Explain the benefits and disadvantages of autonomous systems and the use of algorithms in decision making processes.
 
 #### Example: Husky Vs Wolf in Image Identification
 
-- Explain an example of algorithmic inaccuracy due to unfair/unrepresentative data example with differentiating huskies and wolves
+- Explain an example of algorithmic inaccuracy due to unfair/unrepresentative data example with differentiating huskies and wolves.
 
 See also: [Paper](https://www.researchgate.net/publication/329277474_Can_Everyday_AI_be_Ethical_Machine_Learning_Algorithm_Fairness_english_version
 10.13140/RG.2.2.22973.31207) about fairness involved in algorithms that undergo ML
 
 #### Example: Artificial Neural Network Predicting Risk of Pneumonia Patients
 
-- Explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example with identifying risk of pneumonia patients
+- Explain a simple algorithmic inaccuracy due to unfair/unrepresentative data example with identifying risk of pneumonia patients.
 
 See also: [Article](https://becominghuman.ai/its-magic-i-owe-you-no-explanation-explainableai-43e798273a08) with more detail about Pneumonia and Asthma Risk System
 
 
 #### Example: The Boeing 737 MAX
 
-- Explain the incidents involving the Boeing 737 MAX
-- Explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX 
-- Explain other flaws with the incident
+- Explain the incidents involving the Boeing 737 MAX.
+
+- Explain why MCAS was added and how the MCAS and a faulty sensor contributed to the grounding of the Boeing 737 MAX.
+
+- Explain other flaws with the incident.
 
 ##### Algorithmic Bias
 
 Better: Exercise: Students should brainstorm about potential sources of algorithmic bias
 
-Better: Exercise: Students can play this [game](https://www.survivalofthebestfit.com) to learn more about machine learning bias in the workforce
+Better: Exercise: Students can play this [game](https://www.survivalofthebestfit.com) to learn more about machine learning bias in the workforce.
 
-- Explain that algorithmic bias can result from multiple sources
+- Explain that algorithmic bias can result from multiple sources.
 
 #### Example: Congress Matched to Criminals by Rekognition
 
-- Explain another example of algorithmic inaccuracy, this one is regarding facial recognition which is more applicable to humans
-- Explain risks with its implementation in law enforcement
+- Explain another example of algorithmic inaccuracy, this one is regarding facial recognition which is more applicable to humans.
+
+- Explain risks with its implementation in law enforcement.
 
 #### An example: Autonomous Systems Identification by Skin Tone
 
-- Explain about a consistent problem in AI systems: how they identify people of different skin tones
-     - autonomous soap dispenser and autonomous cars have trouble with this
-- AI systems were less accurate at detecting people of darker skins by 5% (Georgia Institute of Tech)
-- identify possible reasons that contributed to these systems not working such as lack of diversity in workplace, IR sensors
+- Explain about a consistent problem in AI systems: how they identify people of different skin tones.
+
+     - Autonomous soap dispenser and autonomous cars have trouble with this
+
+- AI systems were less accurate at detecting people of darker skins by 5% (Georgia Institute of Tech).
+
+- Identify possible reasons that contributed to these systems not working such as lack of diversity in workplace, IR sensors.
 
 See also: [article](https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology) about encoded racial bias in technology
 
@@ -134,8 +149,9 @@ See also: [article](https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-te
 
 Better: Exercise: Students can try out some of the questions of the Moral Machine on this interactive [website](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/index-en.html)
 
-- Explain that the Moral Machine focuses on nine different themes
-- Note about the correlation between results of the Moral Machine and culture and economics 
+- Explain that the Moral Machine focuses on nine different themes.
+
+- Note about the correlation between results of the Moral Machine and culture and economics.
 
 See also: Students may read this [article](https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/) to learn more about the experiment and findings.
 
@@ -145,9 +161,9 @@ Note: While this is presented in a very game-like way, it is very interesting to
 
 Better: Exercise: Students can brainstorm other ways that AI/autonomous systems/algorithms are used in systems used in society. 
 
-- Explain that there are many systems in society that utilize autonomous systems that are important to society
+- Explain that there are many systems in society that utilize autonomous systems that are important to society.
 
-- Explain open source and close sourced code
+- Explain open source and close sourced code.
 
 Better: Exercise: Students think or write down about whether important systems/algorithms should be close or open sourced? 
 
@@ -158,7 +174,8 @@ Better: Exercise: Based on what they have learned so far, has their original opi
 Better: Exercise: Students brainstorm about systems, apps, tools that use biometric data (ex: FaceID, tracking down crime suspects, access to restricted buildings,  access to important services such as healthcare)
      
 - Explain advantages and disadvantages of biometric data in society: 
-     - compare with pros and cons of other methods of verification (passwords, emails, hardware key)
+
+     - Compare with pros and cons of other methods of verification (passwords, emails, hardware key)
 
 - Importance of using multiple of these verification methods
 
@@ -166,7 +183,7 @@ See also: [Article](https://www.cnet.com/news/police-use-of-facial-recognition-g
 
 #### An example: Autonomous Systems Used in Social Credit System Development in China
 
-- Explain example of a system that utilizes AI: China's Social Credit System
+- Explain example of a system that utilizes AI: China's Social Credit System.
 
 Better: Exercise: Class or group discussion about potential advantages and disadvantages of this system. 
 
@@ -174,7 +191,7 @@ See also: [article](https://time.com/collection/davos-2019/5502592/china-social-
 
 #### An example: Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) 
 
-- Explain Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)
+- Explain Correctional Offender Management Profiling for Alternative Sanctions (COMPAS).
 
 - Explain that COMPAS has displayed bias against African Americans. 
 
@@ -183,7 +200,7 @@ See also: [Article](https://www.theatlantic.com/technology/archive/2018/01/equiv
 
 #### An example: Unsecured/Exposed Robots Running on ROS and Internet:
 
-- Teachers can teach about risks of vulnerable systems can be when connected to the internet
+- Teachers can teach about risks of vulnerable systems can be when connected to the internet. 
 
 See also: [Article 1](https://www.brown.edu/news/2018-07-24/robots) and [Article 2](https://www.wired.com/story/security-robotics/)
 
@@ -191,27 +208,27 @@ Note: Students will learn more about Robotics Operating System (ROS) in a later 
 
 ##### Militarization
 
-- Explain the use of autonomous systems for militarization (to make military decisions, or to take direct action)
+- Explain the use of autonomous systems for militarization (to make military decisions, or to take direct action).
 
 <!-- See also: Students can watch this [video](https://www.youtube.com/watch?v=9CO6M2HsoIA) to learn more about Slaughterbots -->
 
 #### International Traffic in Arms Regulations (ITAR)
 
-- Explain International Traffic in Arms Regulations (ITAR) and what it covers
+- Explain International Traffic in Arms Regulations (ITAR) and what it covers. 
 
 See also: [website](https://digitalguardian.com/blog/what-itar-compliance)
 
 #### Example: Predator drones utilized by the United States
 
-- Explain predator drones as an example of drone systems that are in use by the US government for military operations
+- Explain predator drones as an example of drone systems that are in use by the US government for military operations.
 
-- Unmanned aerial vehicles face many ethical issues such as civillian casualties
+- Unmanned aerial vehicles face many ethical issues such as civillian casualties.
 
 Better: Exercise: Students can write a paper/debate in groups about whether they think predator drones should be used. 
 
 #### Autonomous Weapons and Chemical Weapons
 
-- Explain the different types of chemical warfare agents in US
+- Explain the different types of chemical warfare agents in US.
 
 See also: [History of US Chemical Weapons Elimination](https://www.cdc.gov/nceh/demil/history.htm)
 
@@ -219,10 +236,10 @@ See also: Class discussion: autonomous weapons should be treated like chemical w
 
 ##### Medical, Healthcare, and Caregiver Robots
 
-Better: Exercise: students can brainstorm where AI systems are utilized in healthcare
+Better: Exercise: Students can brainstorm where AI systems are utilized in healthcare.
 
 - Explain that there are many benefits, but there are important ethical implications:
-     - privacy/security, trust between robots and humans, and their interactions 
+     - Privacy/security, trust between robots and humans, and their interactions 
 
 #### Example: The Emergency Exit Robot Study, Georgia Tech Howard
 
@@ -230,7 +247,7 @@ Better: Exercise: Show of hands by students: would you follow a robot during an 
 
 Better: Exercise: Show of hands: What if it seems to be going in a not so great path?
 
-- Explain about experiment conducted by Georgia Institute of Technology
+- Explain about experiment conducted by Georgia Institute of Technology.
 
 See also: [Study](https://www.cc.gatech.edu/~alanwags/pubs/Robinette-HRI-2016.pdf)
 
@@ -238,39 +255,39 @@ See also: [Study](https://www.cc.gatech.edu/~alanwags/pubs/Robinette-HRI-2016.pd
 
 - Explain robots are available to the public vs private sectors, accessibility of robots to people who may have accessibility issues, and the large amount of uses of UAV and autonomous systems. 
 
-- Explain the effect of robot costs on consumers 
+- Explain the effect of robot costs on consumers.
 
-- Explain that robots can help with humanitarian and emergency efforts
+- Explain that robots can help with humanitarian and emergency efforts.
 
 #### UN Guidelines for Emergency Uses of Drones
 
 - Explain different uses of drones and UAVs by the UN. 
 
-See also: Read this [article](https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un) for more information on UN and drones
+See also: Read this [article](https://news.un.org/en/story/2017/09/564452-feature-does-drone-technology-hold-promise-un) for more information on UN and drones.
 
-See also: Read this [article](https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr) about UN's operation with unmanned aircraft in DR Congo
+See also: Read this [article](https://news.un.org/en/story/2013/12/456942-un-launches-unmanned-surveillance-aircraft-better-protect-civilians-vast-dr) about UN's operation with unmanned aircraft in DR Congo.
 
-See also: Read this [article](https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf) to learn more about Drones and Humanitarian Action
+See also: Read this [article](https://reliefweb.int/sites/reliefweb.int/files/resources/Drones%20in%20Humanitarian%20Action.pdf) to learn more about Drones and Humanitarian Action.
 
 ##### Future impact of AI on human jobs and responsibilities
 
-- Explain that with the development of AI and technology, there has been a growing reliance on them as tools in our daily lives
+- Explain that with the development of AI and technology, there has been a growing reliance on them as tools in our daily lives.
 
 - Interesting [video](https://youtu.be/7Pq-S557XQU?) that can be watched: 
 
 -  Explain ethical implications related to what AI can impact: 
-     - Automation, Job Loss, Labor Trends; Impact to Democracy and Civil Rights; Human-Human or Human-Agent interaction
+     - Automation, Job Loss, Labor Trends; Impact to Democracy and Civil Rights; Human-Human or Human-Agent interaction.
 
 
 ### Ending The Lesson
 
 Recommended: 5 minutes
 
-- Summarize ethics and the large positive and negative benefits of AI
+- Summarize ethics and the large positive and negative benefits of AI.
 
-- Remind students that there will be a safety module for the course coming up in one of the future classes   
+- Remind students that there will be a safety module for the course coming up in one of the future classes.   
 
-Better: Exercise: Teachers could also assign a short report/presentation/essay to students on a specific section of this lesson or overall how their opinions have changed before and after the lesson
+Better: Exercise: Teachers could also assign a short report/presentation/essay to students on a specific section of this lesson or overall how their opinions have changed before and after the lesson.
 
 **Useful Resources and References**
 

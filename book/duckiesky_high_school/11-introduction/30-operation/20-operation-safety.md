@@ -33,9 +33,12 @@ By the end of this lesson, students will recognize that there are laws regulatin
 Students will complete an assignment, that they can answer the questions and hand in to their teachers as homework. 
 
 ### AGENDA (Brief Summary of Activities)
-5 min: Introduction to the lesson. 
-30 min: Students will analyze a case study, learn about FAA rules, be able to recognize a safe space for flight, learn about safety hazards and the pre flight checklist. 
-20 min: Ending of lesson: preparing and flying drone demonstration
+5 min: Introduction to the lesson.   
+
+30 min: Students will analyze a case study, learn about FAA rules, be able to recognize a safe space for flight, learn about safety hazards and the pre flight checklist.   
+
+20 min: Ending of lesson by preparing and flying drone demonstration  
+
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
