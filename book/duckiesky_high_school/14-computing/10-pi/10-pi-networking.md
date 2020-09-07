@@ -103,7 +103,7 @@ Better: Exercise: Teachers should have students connect to the Pi via web browse
     - SSH (Secure Shell) is a method that allows a user to remotely log in from one computer/device to another. Typically, we would be utilizing SSH to connect to our Pi, but 
  -->
 
-Better: Optional Exercise: Teachers can attempt to follow our [old build instructions](https://docs.duckietown.org/DT19/opmanual_sky/out/build_phase5.html) to connect to the drone over SSH; if you are able to, you can try to have students follow the similar process. These instructions are not too detailed and are outdated, so it may take additional troubleshooting on your end to figure this out (additionally this may not be compatible on chromebook). 
+Better: Exercise: (Optional) Teachers can attempt to follow our [old build instructions](https://docs.duckietown.org/DT19/opmanual_sky/out/build_phase5.html) to connect to the drone over SSH; if you are able to, you can try to have students follow the similar process. These instructions are not too detailed and are outdated, so it may take additional troubleshooting on your end to figure this out (additionally this may not be compatible on chromebook). 
 
 **Useful Resources and References**
 
