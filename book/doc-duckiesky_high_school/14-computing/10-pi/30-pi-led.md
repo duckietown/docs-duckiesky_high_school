@@ -6,9 +6,9 @@ Requires:
 
 **Previous lesson** - 
 
-- [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/pi_networking.html)
+- [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/computing_pi_networking.html)
 
-- [Bash](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/computing_pi_bash.html)
+- [Bash](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/computing_pi_bash.html)
 
 **Hardware** - 
 

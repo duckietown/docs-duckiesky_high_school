@@ -10,7 +10,7 @@ Requires:
 
 - Build Parts 1, 2, and 3 completed
 
-**Previous Lesson** - [Drone Operation - Sensors and Actuators](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/introduction_operation_sensors.html) 
+**Previous Lesson** - [Drone Operation - Sensors and Actuators](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/introduction_operation_sensors.html) 
 
 Result: 
 
