@@ -28,11 +28,11 @@ __ISTE: 1d__: Students: understand the fundamental concepts of technology operat
 
 ### AGENDA (Brief Summary of Activities)
 
-- Intro
+5 min: Intro
 
-- Tips on how to best use soldering iron + Experiment
+50 min: Tips on how to best use soldering iron + Experiment
 
-- Regroup and Discussion
+5 min: Regroup and Discussion
 
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_

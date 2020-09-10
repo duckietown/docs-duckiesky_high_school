@@ -6,7 +6,7 @@
 
 Requires: 
 
-**Previous lesson** - [Signals and Connections](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html)
+**Previous lesson** - [Signals and Connections](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/electronics_circuitry_signals.html)
 
 
 Result: 
@@ -97,7 +97,7 @@ Q: What if we want the data in between those signals? Or if we want to predict t
 
 Pause for discussion if necessary
 
-[Answer](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy-develop/duckiesky_high_school_student/out/sac1_basics_sensors.html)
+[Answer](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy/duckiesky_high_school_student/out/sac1_basics_sensors.html)
 
 Question 3. **How good are our sensors?**
 
@@ -118,11 +118,11 @@ See also: We need to pay extra attention to the units used. Here are the industr
     
     - [Radians](https://en.wikipedia.org/wiki/Radian), NOT degrees
 
-Q: Sensors have errors, too! Just like the signal noise from the [electronics unit](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_signals.html). How might we mitigate them?
+Q: Sensors have errors, too! Just like the signal noise from the [electronics unit](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/electronics_circuitry_signals.html). How might we mitigate them?
 
 Pause for discussion if necessary
 
-[Answer](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy-develop/duckiesky_high_school_student/out/sac1_basics_sensors.html)
+[Answer](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy/duckiesky_high_school_student/out/sac1_basics_sensors.html)
 
 
 ### Ending The Lesson
