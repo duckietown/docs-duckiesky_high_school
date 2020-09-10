@@ -8,15 +8,9 @@ Requires:
 
 **Previous lesson** - 
 
-<<<<<<< HEAD:book/doc-duckiesky_high_school/14-computing/10-pi/30-pi-led.md
 - [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/computing_pi_networking.html)
 
 - [Bash](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/computing_pi_bash.html)
-=======
-- [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/doc-duckiesky_high_school/out/pi_networking.html)
-
-- [Bash](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/doc-duckiesky_high_school/out/computing_pi_bash.html)
->>>>>>> 2314c1cc2ee1b79ecc9943d6f017d2cc1de0a848:book/duckiesky_high_school/14-computing/10-pi/30-pi-led.md
 
 **Hardware** - 
 

@@ -12,11 +12,7 @@ Requires:
 
 - Build Parts 1, 2, and 3 completed
 
-<<<<<<< HEAD:book/doc-duckiesky_high_school/19-sac3/20-imu/21-imu-intro.md
 **Previous Lesson** - [Drone Operation - Sensors and Actuators](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/introduction_operation_sensors.html) 
-=======
-**Previous Lesson** - [Drone Operation - Sensors and Actuators](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/introduction_operation_sensors.html)
->>>>>>> 2314c1cc2ee1b79ecc9943d6f017d2cc1de0a848:book/duckiesky_high_school/19-sac3/20-imu/21-imu-intro.md
 
 Result:
 
