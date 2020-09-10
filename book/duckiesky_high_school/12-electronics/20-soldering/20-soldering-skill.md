@@ -5,26 +5,46 @@
 <div class='requirements' markdown='1'>
 
 Requires:
-**Hardware** - soldering irons, soldering mats, solder fume extractors, solder rolls, solder flux, spare wire
-**Previous lesson** - Intro to Soldering
+
+**Hardware** - 
+
+- Soldering irons 
+
+- Soldering mats
+
+- Solder fume extractors
+
+- Solder rolls
+
+- Solder fluxp
+
+- Spare wire
+
+**Previous lesson** - [Intro to Soldering][https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/duckiesky_high_school/out/electronics_soldering_introduction.html#sec:electronics-soldering-introduction]
 
 Result: 
 
-**Knowledge** - Understanding the principles of effective soldering, and being able to through-hole solder succesfully.
+**Knowledge** - 
+
+- Understanding the principles of effective soldering
+
+**Skills** - 
+
+- Being able to through-hole solder succesfully
 
 </div>
 
-## Lesson Title
-Building Skill with Soldering
+## Building Skill with Soldering
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-__NGSS: HS-PS3-3__: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy. 
+_NGSS: HS-PS3-3_: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy. 
 
-__ISTE: 1d__: Students: understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
+_ISTE: 1d_: Understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 ### Assessments and Evidence of Understanding
 
+By the end of this lesson, students should be able to solder with flux and through-hole solder.  
 
 ### AGENDA (Brief Summary of Activities)
 
@@ -36,13 +56,14 @@ __ISTE: 1d__: Students: understand the fundamental concepts of technology operat
 
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
+
 Work in pairs, but if possible have one soldering unit for each student. Teacher should create these pairs to cater to each student's needs.
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
 **Teacher Materials**
 
-Should have a set of student materials for themselves to demonstrate to students
+Should have a set of student materials for themselves to demonstrate to students.
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
