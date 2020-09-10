@@ -77,7 +77,7 @@ Recommended: 5 minutes
 **Hook:**
 
 -  This will be a lesson for the student on Bash scripting and the Shell. It is important to learn how to utilize a shell as it is the introduction to the inner processes of the operating system.
-- Conceptually connect Bash to Markdown in the sense that the computer is being affected via text: the purpose of Bash is to “control” the computer vs whereas Markdown is utilized for the purpose of "visual layout"
+- Conceptually connect Bash to Markdown in the sense that the computer is being affected via text: the purpose of Bash is to “control” the computer vs whereas Markdown is utilized for the purpose of "visual layout."
 
 ### Main Lesson
 
@@ -87,19 +87,17 @@ Teachers can either use a live demonstration via a projector using the webpage f
 
 By the end of the Main Lesson, students should be able to:
 
-- See basic information in the terminal and navigate the file system (pwd, ls, cd)
-- Creating, moving, and removing files and directories (touch, mv, cp, rm, mkdir, rmdir)
-- Using a carat to output to a file (e.g. "echo 'foo' >bar.txt")
-- Printing output in the terminal (echo, cat)
-- Clearing terminal output and exiting (clear, exit)
-
-TODO: Using a CLI Text Editor
+- See basic information in the terminal and navigate the file system (pwd, ls, cd).
+- Creating, moving, and removing files and directories (touch, mv, cp, rm, mkdir, rmdir).
+- Using a carat to output to a file (e.g. "echo 'foo' >bar.txt").
+- Printing output in the terminal (echo, cat).
+- Clearing terminal output and exiting (clear, exit).
 
 ### Ending The Lesson
 
 Recommended: 15 minutes
 
-Better: Exercise: Students should do the following steps with Bash commands to test out their knowledge of the terminal. They can do this through the Pi over ssh:
+Better: Exercise: Students should do the following steps with Bash commands to test out their knowledge of the terminal. They can do this through the online web editor when connected to the Pi:
 
 -  Print the directory they are currently working in 
 
