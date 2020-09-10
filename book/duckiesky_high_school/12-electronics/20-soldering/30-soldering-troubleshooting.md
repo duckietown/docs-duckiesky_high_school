@@ -30,6 +30,11 @@ __ISTE: 1d__: Students: understand the fundamental concepts of technology operat
 
 ### AGENDA (Brief Summary of Activities)
 
+5 min: Intro
+
+40 min: Problems and Solutions for Soldering
+
+5 min: Ending the lesson
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
