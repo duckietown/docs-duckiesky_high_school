@@ -83,15 +83,15 @@ Recommended: 5 minutes
 
 Recommended: 40 minutes
 
-Teachers can either use a live demonstration via a projector using the Pi over ssh or utilize an online Bash tutorial (see _Useful Resources and References_ below) that the students can work through. 
+Teachers can either use a live demonstration via a projector using the webpage for the Pi's text editor or utilize an online Bash tutorial (see _Useful Resources and References_ below) that the students can work through. 
 
 By the end of the Main Lesson, students should be able to:
 
--  See basic information in the terminal and navigate the file system (pwd, ls, cd)
--  Creating, moving, and removing files and directories (touch, mv, cp, rm, mkdir, rmdir)
--  Using a carat to output to a file (e.g. "echo 'foo' >bar.txt")
+- See basic information in the terminal and navigate the file system (pwd, ls, cd)
+- Creating, moving, and removing files and directories (touch, mv, cp, rm, mkdir, rmdir)
+- Using a carat to output to a file (e.g. "echo 'foo' >bar.txt")
 - Printing output in the terminal (echo, cat)
--  Clearing terminal output and exiting (clear, exit)
+- Clearing terminal output and exiting (clear, exit)
 
 TODO: Using a CLI Text Editor
 

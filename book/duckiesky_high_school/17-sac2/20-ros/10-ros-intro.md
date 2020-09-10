@@ -8,7 +8,7 @@ Requires:
 
 **Hardware** - basestation 
 
-**Previous Lesson** - Beginning of [Unit - Sensors, Actuators, and Control Part 2](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/sac2.html)
+**Previous Lesson** - Beginning of [Unit - Sensors, Actuators, and Control Part 2](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/sac2.html)
 
 
 Result: 
