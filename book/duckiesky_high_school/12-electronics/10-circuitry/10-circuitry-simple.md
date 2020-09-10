@@ -128,7 +128,7 @@ Q: "What do you still want to know about circuits?"
 
 2. [Ohms Law Animation](https://www.dreamstime.com/ohms-law-vector-illustration-fun-physics-mathematical-equation-explanation-colorful-ohm-volt-men-rushing-ampere-image177188389)
 
-3. [Static Electricity Balloon Resource](scienceworld.ca/resource/static-electricity/)
+3. [Static Electricity Balloon Resource](scienceworld.ca/resource/static-electricity)
 
 4. [Circuit Image](https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png)
 
