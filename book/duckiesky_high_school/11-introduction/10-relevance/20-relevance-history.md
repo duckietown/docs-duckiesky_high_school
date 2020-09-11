@@ -8,21 +8,21 @@ Requires:
 
 **Hardware** - 
 
-- Pencil and paper. 
+- Pencil and paper 
 
-- Laptop for research. 
+- Laptop for research
           
-**Previous Lesson** - none. 
+**Previous Lesson** - N/A 
 
 Result:
 
 **Knowledge** - 
 
-- General understanding of the history of robotics.
+- General understanding of the history of robotics
 
-- Scope of industries where robotics are applied.
+- Scope of industries where robotics are applied
 
-- Overview of state of the art robotics and what is in production.
+- Overview of state of the art robotics and what is in production
          
 </div>
 

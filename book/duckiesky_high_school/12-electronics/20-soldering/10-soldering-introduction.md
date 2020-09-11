@@ -32,7 +32,7 @@ Requires:
 
 - Other school mandated safety equipment
 
-**Previous lesson** - None.
+**Previous lesson** - N/A 
 
 Result: 
 
@@ -49,6 +49,7 @@ Result:
 
 </div>
 
+## Intro to Soldering
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 

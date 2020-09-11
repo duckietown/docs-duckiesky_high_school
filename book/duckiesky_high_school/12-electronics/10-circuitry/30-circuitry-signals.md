@@ -10,7 +10,10 @@ Requires:
 
 - Uncompleted drone kit
 
-**Previous Lesson** - [Voltage, Current, and Resistance](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_voltage.html)
+**Previous Lesson** 
+
+- [Simple Circuits](#electronics-circuitry-simple)
+- [Voltage, Current, and Resistance](#electronics-circuitry-voltage)
 
 Result: 
 
@@ -23,6 +26,8 @@ Result:
 - Understand the differences between and varying advantages of analog and digital signals
 
 - Understand that values, properties, and concepts can be encoded into numbers and the purpose thereof, and know advantages of binary as a number system.
+
+**Skills** - N/A 
 
 </div>
 

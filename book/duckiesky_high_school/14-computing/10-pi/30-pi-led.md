@@ -6,17 +6,17 @@
 
 Requires: 
 
-**Previous lesson** - 
-
-- [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/computing_pi_networking.html)
-
-- [Bash](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/computing_pi_bash.html)
-
 **Hardware** - 
 
 - Basestation
 
 - Build Part 1 completed
+
+**Previous lesson** - 
+
+- [Networking](#computing-pi-networking)
+
+- [Bash](#computing-pi-bash)
 
 Result: 
 

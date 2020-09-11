@@ -22,9 +22,7 @@ Requires:
 
 - Multimeter (1/student)
 
-**Previous lesson** - 
-
-- [Simple Circuits](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/electronics_circuitry_simple.html)
+**Previous lesson** - [Simple Circuits](#electronics-circuitry-simple)
 
 Result: 
 
@@ -44,9 +42,7 @@ Understanding of the relation of:
 
 - difference between AC and DC
 
-**Skills** - 
-
-- The ability to build and measure simple circuits using a multimeter
+**Skills** - The ability to build and measure simple circuits using a multimeter
 
 </div>
 

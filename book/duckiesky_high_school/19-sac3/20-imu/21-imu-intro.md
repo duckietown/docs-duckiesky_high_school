@@ -12,7 +12,11 @@ Requires:
 
 - Build Parts 1, 2, and 3 completed
 
-**Previous Lesson** - [Drone Operation - Sensors and Actuators](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/introduction_operation_sensors.html) 
+**Previous Lesson** 
+
+- [Drone Operation](#introduction-operation-sensors)
+
+- [Sensors, Actuators, and Control: 2](#sac2)
 
 Result:
 
@@ -23,6 +27,8 @@ Result:
 - Be able to point out the location of the IMU on the drone
 
 - Be able to explain how the IMU works
+
+**Skills** - N/A
 
 </div>
 

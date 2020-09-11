@@ -22,6 +22,7 @@ Result:
 
 </div>
 
+## Lesson Title
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 

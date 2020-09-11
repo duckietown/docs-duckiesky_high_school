@@ -5,15 +5,26 @@
 <div class='requirements' markdown='1'>
 
 Requires: 
-Previous lesson: Intro to the Motors 
+
+**Hardware** -  N/A  
+**Previous lesson** - [Intro to the Motors](#sac3-motors-intro)
+
 
 Result: 
 
-Students will be able to understand feedback control systems and be able to use control system vocabulary terms such as: setpoint, control variable, error. 
+**Knowledge** - 
+
+- Students will be able to understand feedback control systems and be able to use control system vocabulary terms such as: 
+    - Setpoint
+    - Control variable
+    - Error
+
+
+**Skills** - N/A
 
 </div>
 
-## Lesson Title
+## Intro to PID
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)

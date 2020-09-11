@@ -4,14 +4,25 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: basestation, Completed Build Part 1
-Previous lessons: The Three PID Terms
+Requires: 
 
-Result: Students will learn about python classes and will learn how to implement a 1D PID controller
+**Hardware** 
+
+- Basestation
+- Build Part 1 Completed
+
+**Previous lesson** - [The Three PID Terms](#loop-pid-terms)
+
+
+Result: 
+
+**Knowledge** - Python classes
+
+**Skills** - Learn how to implement a 1D PID controller
 
 </div>
 
-## Lesson Title
+## Implementation of PID
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)

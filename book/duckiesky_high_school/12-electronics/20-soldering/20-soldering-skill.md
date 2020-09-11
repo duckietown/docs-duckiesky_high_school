@@ -20,7 +20,7 @@ Requires:
 
 - Spare wire
 
-**Previous lesson** - [Intro to Soldering][https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/duckiesky_high_school/out/electronics_soldering_introduction.html#sec:electronics-soldering-introduction]
+**Previous lesson** - [Intro to Soldering][#electronics-soldering-introduction]
 
 Result: 
 

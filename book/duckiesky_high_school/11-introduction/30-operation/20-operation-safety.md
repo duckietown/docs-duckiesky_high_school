@@ -6,19 +6,28 @@
 
 Requires: 
 
-Hardware: Completed drone build if available, or use video resource to demonstrate the pre-flight safety check. 
+**Hardware** - Completed drone build if available, or use video resource to demonstrate the pre-flight safety check. 
+
+**Previous lesson** - N/A 
 
 Result: 
 
+**Knowledge** - 
+
 - Students will be able to know the laws regulating hobby drone flight.
+
 - Students will be able to identify a safe environment for flight.
+
 - Students can identify potential hazards of drone flight and soldering.
+
 - Students will also learn about proper safety procedures to minimize safety hazards.
-- Students will learn about the pre-flight safety checklist.
+
+
+**Skills** - Students will learn about the purpose of and be able to find the pre-flight safety checklist.
 
 </div>
 
-## Lesson Title
+## Safety
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)

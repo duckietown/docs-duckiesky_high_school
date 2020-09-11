@@ -12,7 +12,7 @@ Requires:
 
 - Drone (Build Part 1 completed)
 
-**Previous lesson** - [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/pi_networking.html) 
+**Previous lesson** - [Networking](#computing-pi-networking) 
 
 
 Result: 
@@ -83,7 +83,7 @@ Recommended: 5 minutes
 
 Recommended: 40 minutes
 
-Teachers can either use a live demonstration via a projector using the webpage for the Pi's text editor or utilize an online Bash tutorial (see _Useful Resources and References_ below) that the students can work through. 
+Teachers can either use a live demonstration of the exercise via a projector using the webpage for the Pi's text editor where students follow along, let students follow along with the student book instructions, or utilize an online Bash tutorial (see _Useful Resources and References_ below) that the students can work through. 
 
 By the end of the Main Lesson, students should be able to:
 

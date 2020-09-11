@@ -5,15 +5,26 @@
 <div class='requirements' markdown='1'>
 
 Requires: 
-Hardware: basestation, Build Part 1 completed
-Previous lessons: Intro to PID
 
-Result: 
-Students will understand what each term of a PID controller does, why each term is important, and rough mathematical understanding o how each term works. Students will be able to tun a PID loop. 
+**Hardware** 
+
+- Basestation
+- Build Part 1 Completed
+
+**Previous lesson** - [Intro to PID](#loop-pid-intro)
+
+
+**Knowledge** - 
+
+- What each term of a PID controller does
+- Why each term is important
+- Rough mathematical understanding of how each term works
+
+**Skills** - Tuning a PID loop
 
 </div>
 
-## Lesson Title
+## The Three PID Terms
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)

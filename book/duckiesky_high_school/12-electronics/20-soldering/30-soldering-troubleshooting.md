@@ -22,7 +22,10 @@ Requires:
 
 - Proto board
 
-**Previous lesson** - Troubleshooting
+**Previous lesson** 
+
+- [Intro to Soldering][#electronics-soldering-introduction]
+- [Building Skill](#electronics-soldering-skill)
 
 Result:
 

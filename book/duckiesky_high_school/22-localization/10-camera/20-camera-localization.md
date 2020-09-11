@@ -2,16 +2,34 @@
 
 [Student version](+duckiesky_high_school_student#localization-camera-localization)
 
+
 <div class='requirements' markdown='1'>
+
 
 Requires: 
 
+**Hardware** -    
+
+- Basestation
+- Completed Build Part 4 
+
+**Previous lesson** - [Comparing Images](#localization-camera-images)
+
+
 Result: 
+
+**Knowledge** - Definition and purpose of localization
+
+
+**Skills**
+
+- Make a map for the drone to localize over
+- Move the drone to global positions within the map
+
 
 </div>
 
-## Lesson Title
-
+## Drone Localization
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
@@ -19,38 +37,47 @@ Result:
 
 ### Assessments and Evidence of Understanding
 
+By the end of this lesson, students should be able to ...
 
 ### AGENDA (Brief Summary of Activities)
 
+X min: <!--insert time slot 1 (add or delete these as needed)-->
+
+X min: <!--insert time slot 2 (add or delete these as needed)-->
+
+X min: <!--insert time slot 3 (add or delete these as needed)-->
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials:**
 
-For Students:
+**Classroom Setup:**
 
-For Teachers:
-
+Teachers can write a DO NOW on the board for students to ...
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
 
 ### Introducing The Lesson
 
-Recommended: X minutes/hours
+Recommended: X minutes
 
+**Hook:**
 
 ### Main Lesson
 
-Recommended: X minutes/hours
+Recommended: X minutes
 
+Better: Exercise:
 
 ### Ending The Lesson
 
-Recommended: X minutes/hours
+Recommended: X minutes
 
 
 **Useful Resources and References**
+
+1. <!--info-->

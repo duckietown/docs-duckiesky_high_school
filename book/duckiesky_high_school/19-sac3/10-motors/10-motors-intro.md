@@ -4,15 +4,25 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: 
+**Hardware** - 
 
-- Hardware: basestation with Cleanflight, Build Parts 1, 2, and 3 completed
+- Basestation
+
+- Build Parts 1, 2, and 3 completed
+
+**Previous Lesson** 
+
+- [Drone Operation](#introduction-operation-sensors)
+
+- [Sensors, Actuators, and Control: 2](#sac2)
 
 Result: 
 
-- Knowledge: How our motors work, what systems are in place to check them 
+**Knowledge** - How our motors work, what systems are in place to check them
 
-- Skills: The ability to utilize Cleanflight and a corresponding Python script interacting with Cleanflight 
+
+**Skills** - The ability to utilize Cleanflight and a corresponding Python script interacting with Cleanflight
+
 
 </div>
 
