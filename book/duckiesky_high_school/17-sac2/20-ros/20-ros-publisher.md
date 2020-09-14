@@ -8,11 +8,14 @@ Requires:
 
 **Hardware** - 
 
-- basestation
+- Basestation
 
 - Build Parts 1 and 2 completed
 
-**Previous Lesson** - [Introduction to ROS](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/sac2_ros_intro.html)
+**Previous Lesson** 
+
+- [Sensing](#sac2-sensing)
+- [Introduction to ROS](#sac2-ros-intro)
 
 Result: 
 

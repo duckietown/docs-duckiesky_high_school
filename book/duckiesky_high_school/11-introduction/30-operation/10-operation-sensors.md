@@ -8,7 +8,8 @@
 Requires: 
 
 **Hardware** - Unassembled drone kit   
-**Previous lesson** - None
+
+**Previous lesson** - N/A 
 
 
 Result: 

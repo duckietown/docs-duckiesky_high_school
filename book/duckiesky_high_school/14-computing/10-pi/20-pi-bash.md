@@ -12,7 +12,7 @@ Requires:
 
 - Drone (Build Part 1 completed)
 
-**Previous lesson** - [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/pi_networking.html) 
+**Previous lesson** - [Networking](#computing-pi-networking) 
 
 
 Result: 
@@ -50,9 +50,9 @@ By the end of this lesson, students should be able to complete the below Bash te
 
 5 min: Basestation Setup
 
-40 min: Bash Lesson
+35 min: Bash Lesson
 
-15 min: Bash Terminal Task
+20 min: Bash Terminal Task
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
@@ -77,72 +77,28 @@ Recommended: 5 minutes
 **Hook:**
 
 -  This will be a lesson for the student on Bash scripting and the Shell. It is important to learn how to utilize a shell as it is the introduction to the inner processes of the operating system.
-- Conceptually connect Bash to Markdown in the sense that the computer is being affected via text: the purpose of Bash is to “control” the computer vs whereas Markdown is utilized for the purpose of "visual layout"
+- Conceptually connect Bash to Markdown in the sense that the computer is being affected via text: the purpose of Bash is to “control” the computer vs whereas Markdown is utilized for the purpose of "visual layout."
 
 ### Main Lesson
 
-Recommended: 40 minutes
+Recommended: 35 minutes
 
-Teachers can either use a live demonstration via a projector using the webpage for the Pi's text editor or utilize an online Bash tutorial (see _Useful Resources and References_ below) that the students can work through. 
+Teachers can either use a live demonstration of the exercise via a projector using the webpage for the Pi's text editor where students follow along, let students follow along with the student book instructions, or utilize an online Bash tutorial (see _Useful Resources and References_ below) that the students can work through as an alternative. 
 
 By the end of the Main Lesson, students should be able to:
 
-- See basic information in the terminal and navigate the file system (pwd, ls, cd)
-- Creating, moving, and removing files and directories (touch, mv, cp, rm, mkdir, rmdir)
-- Using a carat to output to a file (e.g. "echo 'foo' >bar.txt")
-- Printing output in the terminal (echo, cat)
-- Clearing terminal output and exiting (clear, exit)
-
-TODO: Using a CLI Text Editor
+- See basic information in the terminal and navigate the file system (pwd, ls, cd).
+- Creating, moving, and removing files and directories (touch, mv, cp, rm, mkdir, rmdir).
+- Using a carat to output to a file (e.g. "echo 'foo' >bar.txt").
+- Printing output in the terminal (echo, cat).
+- Clearing terminal output and exiting (clear, exit).
+- Making and executing a Bash script
 
 ### Ending The Lesson
 
-Recommended: 15 minutes
+Recommended: 20 minutes
 
-Better: Exercise: Students should do the following steps with Bash commands to test out their knowledge of the terminal. They can do this through the Pi over ssh:
-
--  Print the directory they are currently working in 
-
-See also: "pwd"
-
--  Create a directory named "Hello"
-
-See also: "mkdir 'Hello'"
-
--  Check that the directory has been created by listing the current files/directories
-
-See also: "ls"
-
--  Enter into the directory 
-
-See also: "cd Hello"
-
--  Create a text file called "World.txt" within the "Hello" directory with the contents "Hello World" within it
-
-See also: "echo 'Hello World' >World.txt"
-
--  Print the contents of the "World.txt" file
-
-See also: "cat World.txt"
-
--  (Optional) Have the teacher check off that the "Hello" directory has a "World.txt" file with the contents of "Hello World" in it
--  Delete the "World.txt" file
-
-See also: "rm 'World.txt'"
-
--  Leave the directory
-
-See also: "cd .."
-
--  Delete the directory along with its contents
-
-See also: "rmdir 'Hello'"
-
--  Check that the directory has been deleted by listing the current files/directories
-
-See also: "ls"
-
--  (Optional) Have the teacher check off the outputs of the terminal
+Better: Exercise: Students should do the exercise in the textbook with Bash commands to test out their knowledge of the terminal. They can do this through the online web editor when connected to the Pi.
 
 **Useful Resources and References**
 

@@ -12,7 +12,8 @@ Requires:
 - battery
 
 **Previous lessons**
-- [Computing and Networking](#part:computing)
+
+- [Computing and Networking](#computing)
 
 - [Calibration](#sac2-sensing-calibration)
 

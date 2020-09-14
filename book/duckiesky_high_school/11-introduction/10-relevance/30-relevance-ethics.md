@@ -4,15 +4,21 @@
 
 <div class='requirements' markdown='1'>
 
-Requires: No previous lessons or hardware required.
+Requires:
+
+**Hardware** - N/A 
+   
+**Previous lesson** - N/A 
 
 Result: 
 
 **Knowledge** - 
 
-- Students will be able to learn about what ethics is and why it is important. 
+- Students will be able to learn about what ethics is and why it is important 
 
-- Students will be introduced to ethical challenges in computer science and engineering including algorithmic bias, accessibility concerns, and human job security. 
+- Students will be introduced to ethical challenges in computer science and engineering including algorithmic bias, accessibility concerns, and human job security
+
+**Skills** - N/A 
 
 </div>
 
