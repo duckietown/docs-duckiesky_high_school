@@ -148,9 +148,6 @@ Pause for group discussion and presentation.
 
 A: We need sensors that interact with the outside world, such as GPS, to know the location.
 
-TODO: show these values and drone visualization in cleanflight
-
-
 **Useful Resources and References**
 
 Between times 0:21 and 5:00 of [this video](https://www.youtube.com/watch?v=whSw42XddsU).
