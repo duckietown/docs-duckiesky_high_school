@@ -77,11 +77,11 @@ In order for the drone to use localization you will be using two algorithms on t
 
 For the purpose of this course we will be using the Monte Carlo localization (M.C.localization) which refers to the priniciple of using random sampling to model a complicated unavoidable process. In a more in depth analysis the M.C. localization is a very popular particle filter algorithm. In every new frame captured by the drones camera the filter will apply a motion prediction to adjust each possible position of the drone. At each movement correction the motion predictions will be resampled until it finds a match.**Do not worry if you still feel uneasy on the concept, we recomend doing the localization activities for better understanding**
 
-**Better: Exercise:**: if a jigsaw puzzle is available, otherwise with pictures of one, give students a few pieces and let them try to figure out where their pieces come from by looking at the finished puzzle picture on the box.
+Better: Exercise: if a jigsaw puzzle is available, otherwise with pictures of one, give students a few pieces and let them try to figure out where their pieces come from by looking at the finished puzzle picture on the box.
 
 The drones primary sensor is the pi camera facing downward. To complete understanding of how the particle filters allow localization we will take a closer look at the process the camera extracts features and shapes to determine its position. To process information from the camera we will use a open source computer vision library callled OpenVC. From a computers perspective a **feature** is a point of interest. Unlike humans that are able to identify a point of interest on a picture like; texture, patterns, color, or what ever may call our attention, a computer needs a precise definition of the point of interest. Features can also be defined as areas in an image where the pixel intensities change rapidly. Once a feauture is extracted the OpenCV will give us a keypoint and descriptor for each feature with its corresponding (x,y) coordinates.
 
-### Getting Set Up ###
+### Getting Set Up 
 
 1. place your directory in the /ws/src folder on your drone.
 
@@ -95,24 +95,13 @@ The drones primary sensor is the pi camera facing downward. To complete understa
 
 (this allows your package to be ros-runnable from the pidrone_pkg. This is a one time step) 
 
-### Using the Localization ###
+### Using the Localization 
 
 **Coming Soon**
 
-### Vocabulary ### 
+### Vocabulary  
 
-localization: the fact of being or becoming located or fixed in a particular place.
+Localization: the fact of being or becoming located or fixed in a particular place.
 
 S.L.A.M. (acronym): simultaneous localization and mapping problem
 
-### Ending The Lesson
-
-Recommended: 10 - 15 minutes
-
-**Better:Exercise:** Have the drone use it to localize and fly to different targets.
-
-**Useful Resources and References**
-
-1. <!--info-->
-
-[Oxford Dictionary](https://www.google.com/search?channel=fs&client=ubuntu&q=definition+of+localization) Definition of localization
