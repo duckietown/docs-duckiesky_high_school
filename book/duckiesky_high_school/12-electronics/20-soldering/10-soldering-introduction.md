@@ -6,26 +6,61 @@
 
 Requires:
 
-**Hardware** - Drone kit, soldering iron, soldering iron cleaning supplies like golden curl soldering cleaners and sponges, solder, wire strippers, wire cutters, working space, helping hands, long-nose pliers, eye protection, soldering fan, other school mandated safety equipment
-**Previous lesson** - None
+**Hardware** - 
+
+- Drone kit
+
+- Soldering iron
+
+- Soldering iron cleaning supplies (golden curl soldering cleaners and sponges) 
+
+- Solder
+
+- Wire strippers
+
+- Wire cutters
+
+- Working space
+
+- Helping hands
+
+- Long-nose pliers
+
+- Eye protection
+
+- Soldering fan
+
+- Other school mandated safety equipment
+
+**Previous lesson** - N/A 
 
 Result: 
 
-**Knowledge** - Students will be able to identify wire gauges, strip wires, and use a soldering iron to tin the wires.
+**Knowledge** - 
+
+- Identifying wire gauges
+
+
+**Skills** - 
+
+- Stripping wires 
+
+- Soldering iron to tin the wires 
 
 </div>
 
+## Intro to Soldering
+
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
-__NGSS: HS-PS3-3__: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy.
+_NGSS: HS-PS3-3_: Students who demonstrate understanding can design, build and refine a device that works within given constraints to convert one form of energy into another form of energy.
 
-__ISTE: 1d: Students__: understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
+_ISTE: 1d_: Understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 
 ### Assessments and Evidence of Understanding
 
-1. Students use the correct wire stripper gauge for each wire.
-2. Students successful strip and tin the ESC, Motor, BEC, Red and Brown Wire
+By the end of this lesson, students will be able to use the correct wire stripper gauge for each wire to successfully strip and tin the ESC, Motor, BEC, Red and Brown Wire.
 
 ### AGENDA (Brief Summary of Activities)
 
@@ -45,9 +80,14 @@ Students with dexterity problems. Inclusion might be teacher/student assistance,
 
 **Materials needed**
 
-For Students: Drone kit, soldering iron, soldering iron cleaning supplies like golden curl soldering cleaners and sponges, solder, wire strippers, wire cutters, working space, helping hands, long-nose pliers, eye protection, soldering fan, other school mandated safety equipment.
+**Teacher Materials:**
 
-For Teachers: Screen to play Video (if desired), Do Now and Expectations written, examples of correctly cut and tinned wires
+Screen to play video (if desired), examples of correctly cut and tinned wires
+
+**Classroom Set Up:**
+
+Teacher can write a DO NOW on the board for students to grab their drone kits and sit at their maker’s space. 
+
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
@@ -56,17 +96,13 @@ For Teachers: Screen to play Video (if desired), Do Now and Expectations written
 
 Recommended: 1 minute
 
-Pre Class:
-
-Do Now: Teacher writes on the board for students to grab their drone kits and sit at their maker’s space
-
-Hook: Teachers can talk about the following or their own hook.
+**Hook:** 
 
 -  This will be students’ first step to building their own drone. It is important to learn and practice basic soldering skills here so that they can feel confident when doing more advanced soldering work later on on the drone.
 
-See also:  It is important to prepare the grunt work so that their drone building is easier and faster.
+See also: It is important to prepare the grunt work so that their drone building is easier and faster.
 
-See also: Working here and knowing how to use maker’s tools will give students the knowledge and tools to embark on other electrical/maker projects
+See also: Working here and knowing how to use maker’s tools will give students the knowledge and tools to embark on other electrical/maker projects. 
 
 
 ### Main Lesson
@@ -76,11 +112,10 @@ Recommended: 54 minutes
 Wire Gauges and Stripping:
 
 -  Reintroduce the 4 ESC, 4 Motor, 1 BEC and 1 Red and Brown wire pair found in the flight control box and where to find in students’ drone kit. Students should gather these materials and set them on the side.
+
 -  Take one of them (that is pre tinned) and point out where to find the wire gauge.
 
-See also:  The gauge is written on the wire coating. It will be a number followed by AWG (American Wire Gauge).
-
-See also: A pre tinned wire is a wire tinned at the factory. It looks shiny on the tip and the end cannot be frayed.
+Note: The gauge is written on the wire coating. It will be a number followed by AWG (American Wire Gauge). A pre tinned wire is a wire tinned at the factory. It looks shiny on the tip and the end cannot be frayed.
 
 -  Take a wire stripper and show where the wire stripper displays its AWG number. Then take the model wire and strip it.
 
@@ -88,59 +123,48 @@ See also: You may also recommend that students use one level lower strip number 
 
 -  Take the wire cutter and show students a pre tinned wire. Now use the wire cutters to cut the pre tinned part off. Emphasize that all wires that are pre tinned must be cut off and re tinned.
 
-Task: Teachers now have students strip cut, and tin the same wire as they did and answer questions.
+Better: Exercise: Teachers now have students strip, cut, and tin the same wire as they did and answer questions.
 
--  Teacher explains what soldering and tinning is.
-
-See also:  Soldering is when two metals (solder and metal) are melted together. You use solder (show solder), to join wires.
-
-See also:   Tinning is what you do before you solder, which is coating a metal with solder to help it join and flow electricity better to another wire.
-
--  Teacher explains the safety components of soldering.
-
-See also: Solder iron is hot, only apply to needed components, solder can fling out and is necessary to have eye protection, do not breathe in soldering fumes, the metals that the solder is next to is also hot so use helping hands or long-nose pliers.
-
--  Teacher explains and shows how to set up the soldering station. (while the teacher is setting up their soldering station, students should follow along setting up their stations, preheating the iron and cleaning the iron before beginning)
--  Teacher turns on soldering iron and heat control (Each soldering iron model is different and you should know an appropriate heat to tin with.)
--  Teacher shows how to clean soldering iron with gold curl soldering cleaners and a sponge.
--  Teacher will show how to tin using the example wire.
-
-See also: The teacher should emphasize safety during this tutorial. You may use the 3rd video before or after your tutorial to emphasize how to tin.
+-  Explain what soldering and tinning is and the safety components of soldering.
 
 
-See: [How To Tin a Wire:](https://www.youtube.com/watch?v=pRPF4wpXX9Q) 1:30-3:00
+Better: Exercise: Lead students through or demonstrate the process of setting up their soldering station (preheading and cleaning the iron before beginning), turning on the soldering iron, and cleaning the iron with gold curl soldering cleaners and a sponge.
 
-1.  Twist the loose wire ends into a tight twist
-2.  Hold the wire stably in place with helping hands or a plier.
-3.  Apply a solder dot onto the iron (to increase heat transfer from the iron to the wire)
-4. Apply the iron onto the wire about to be tinned. Wait a few seconds for the wire to heat up.
-5. Apply the solder onto the wire **NOT THE IRON** , and let the solder melt and flow into and on the wire.
-6.  Wipe away any excess solder with the iron being careful to not fling it too aggressively so to avoid burning someone/something.
-7.  Remove the iron and clean it
-8.  Let the wire cool.
+Note: Each soldering iron model is different and you should know an appropriate heat to tin with.
 
 
-Task: Teacher will circulate and answer student questions. Students will tin their first wire and ask questions
+Better: Exercise: Demonstrate how to tin using the example wire, and then have students try to tin their own wires using the instructions found in the student book or the teacher's own instruction. 
 
--  The teacher will have the Expectations on the board and discuss them with the students before they begin their work.
+Note: The teacher should emphasize safety during this tutorial. You may use [this video](https://www.youtube.com/watch?v=pRPF4wpXX9Q) (1:30-3:00) before or after your tutorial to emphasize how to tin.
 
-See also: All wires for the following components must be self tinned: 4 ESCs, 4 Motors, 1 BEC on the IN side, Red and Brown Wire Pair in the Flight Control Box
 
-Task: Teachers will circulate assisting students in completing their work.
+Better: Exercise: Circulate assisting students in tinning all of the required wires. 
+
+All wires for the following components must be self tinned: 
+
+1. 4 ESCs
+
+2. 4 Motors
+
+3. 1 BEC on the IN side
+
+4. Red and Brown Wire Pair in the Flight Control Box 
+
 
 ### Ending The Lesson
 
 Recommended: 5 minutes
 
--  Students will clean up their work space
+-  Have students clean up their work space, using the appropriate methods and safety precautions. 
 
-Task:  Optional Exit Ticket- Students will write down what they have completed and what they need to do for the next class.
+Better: Optional Exit Ticket: Students will reflect and write down what they have completed and what they potentially still need to do for the next class.
 
 
 **Useful Resources and References**
 
-1. [For detailed instructions of each component and tinning](https://docs.duckietown.org/daffy/opmanual_sky/out/build_phase0.html)
-2. [Soldering Tutorial for Beginners in 5 easy steps. Supplemental video.](https://www.youtube.com/watch?v=Qps9woUGkvI)
-3. [How to Tin a Wire, in lesson, also supplemental](https://www.youtube.com/watch?v=pRPF4wpXX9Q)
+1. [Detailed instructions of each component and tinning](https://docs.duckietown.org/daffy/opmanual_sky/out/build_phase0.html)
 
-[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
+2. [Soldering Tutorial for Beginners in 5 easy steps](https://www.youtube.com/watch?v=Qps9woUGkvI)
+3. [How to Tin a Wire (in lesson)](https://www.youtube.com/watch?v=pRPF4wpXX9Q)
+
+4. [Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)

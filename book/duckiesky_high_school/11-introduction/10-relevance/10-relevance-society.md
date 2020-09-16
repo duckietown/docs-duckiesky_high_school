@@ -10,7 +10,7 @@ Requires:
 
 - Pencil and paper 
 
-**Previous lesson** - none 
+**Previous lesson** - N/A 
 
 Result:  
 

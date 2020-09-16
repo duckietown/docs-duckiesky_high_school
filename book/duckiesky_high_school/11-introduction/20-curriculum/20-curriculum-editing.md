@@ -8,7 +8,8 @@
 Requires: 
 
 **Hardware** - Basestation
-**Previous lesson** - Git and Github
+
+**Previous lesson** - [Git and Github](#introduction-curriculum-github)
 
 Result: 
 
@@ -34,7 +35,7 @@ By the end of this lesson, students should be able to submit a pull request to a
 
 ### AGENDA (Brief Summary of Activities)
 
-5 min: Computer Setup
+5 min: Basestation Setup
 
 40 min: Duckiesky Documents Tutorial and Markdown/Markduck
 

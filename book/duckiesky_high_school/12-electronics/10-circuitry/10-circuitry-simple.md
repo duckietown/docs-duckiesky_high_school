@@ -18,7 +18,7 @@ Requires:
 
 - Various Ohm Resistors 
 
-**Previous lesson** - none. 
+**Previous lesson** - N/A 
 
 
 Result: 

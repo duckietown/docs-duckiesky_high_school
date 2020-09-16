@@ -6,7 +6,7 @@
 
 Requires: 
 
-**Previous lesson** - [Signals and Connections](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/electronics_circuitry_signals.html)
+**Previous lesson** - [Signals and Connections](#electronics-circuitry-signals)
 
 
 Result: 
@@ -21,6 +21,8 @@ Result:
 potential
 
 - Get a sense of the limitations of electrical sensors
+
+**Skills** - N/A
 
 
 </div>

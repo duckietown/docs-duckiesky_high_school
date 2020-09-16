@@ -9,7 +9,7 @@ Requires:
 
 **Hardware** - Basestation
    
-**Previous lesson** - None
+**Previous lesson** - N/A
 
 
 Result: 

@@ -6,17 +6,17 @@
 
 Requires: 
 
-**Previous lesson** - 
-
-- [Networking](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/computing_pi_networking.html)
-
-- [Bash](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/computing_pi_bash.html)
-
 **Hardware** - 
 
 - Basestation
 
 - Build Part 1 completed
+
+**Previous lesson** - 
+
+- [Networking](#computing-pi-networking)
+
+- [Bash](#computing-pi-bash)
 
 Result: 
 
@@ -83,13 +83,13 @@ Recommended: 20 minutes
 
 1 - Teachers cover what a REPL (Read–eval–print loop) is and what a script is
 
-In the [bash lesson](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/computing_pi_bash.html), we have already learned how to control our computer in the terminal. However, we seem to only able to type one line/command at a time. Can we do better than that? Before we discuss the possibilities, we introduce two related terminologies.
+In the [bash lesson](#computing-pi-bash), we have already learned how to control our computer in the terminal. However, we seem to only able to type one line/command at a time. Can we do better than that? Before we discuss the possibilities, we introduce two related terminologies.
 
 - Read–eval–print loop: a simple interactive computer programming environment that takes **single** user inputs, executes them, and returns the result to the user.
 
 - Script: a programming language for a special run-time environment that automates the execution of tasks; the tasks could alternatively be executed **one-by-one** by a human operator.
 
-See: Difference: script saves the commands to be run sequentially in the future, while the REPL runs only one command at a time. Previously in the [bash lesson](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy-develop/doc-duckiesky_high_school/out/computing_pi_bash.html), all the commands you ran were executed by the REPL. In this lesson, you will learn how to 'save' multiple commands and run them all at once in bash!
+See: Difference: script saves the commands to be run sequentially in the future, while the REPL runs only one command at a time. Previously in the [bash lesson](#computing-pi-bash), all the commands you ran were executed by the REPL. In this lesson, you will learn how to 'save' multiple commands and run them all at once in bash!
 
 2 - Teachers speak on Pi GPIO numbering
 
@@ -108,7 +108,7 @@ Recommended: 35 minutes
 
 Better: Exercise: Instructors show how to make and run bash scripts, delays, printing, pin setting by leading students write a bash script to make the led that they've soldered blink.
 
-[See the student book for details](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school_student/docs-duckiesky_high_school_student/branch/daffy-develop/duckiesky_high_school_student/out/computing_pi_led.html)
+See the student book for details
 
 **Useful Resources and References**
 

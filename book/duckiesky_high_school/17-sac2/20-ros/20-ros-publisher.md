@@ -8,11 +8,14 @@ Requires:
 
 **Hardware** - 
 
-- basestation
+- Basestation
 
 - Build Parts 1 and 2 completed
 
-**Previous Lesson** - [Introduction to ROS](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/sac2_ros_intro.html)
+**Previous Lesson** 
+
+- [Sensing](#sac2-sensing)
+- [Introduction to ROS](#sac2-ros-intro)
 
 Result: 
 
@@ -102,7 +105,12 @@ Navigate back to the previous terminal, run the code. We can see it is still pri
 
 Q: What about the publisher we just created?
 
-A: Open another terminal, run `rostopic list` and see the `distance` topic we just created. Then we run `rostopic info distance` to see the message type (Float32) and where it is published from (infrared_node). Lastly, run `rostopic echo distance` to show the message we just created in the terminal! (It should be Float32 messages with data label)
+A: Open another terminal, run `rostopic list` and see the `distance` topic we just created. Then we run `rostopic info distance` to see the message type (Range) and where it is published from (infrared_node). Lastly, run `rostopic echo distance` to show the message we just created in the terminal! (It should be Range messages with data label)
+
+Q: How can we show **our** calibrated value (instead of the default) on the web interface?
+
+A: According to [the operations manual](https://docs.duckietown.org/daffy/opmanual_sky/out/flight.html), before taking flight, after students start the flight code by hitting `./start`, they might hit "tick 5" to go to the infrared node and hit 'Ctrl + C' to stop it. Next, they might run their own script `python ~/ws/src/pidrone_pkg/ir.py`. Now the image shown on the web interface uses the value from the publisher they just wrote! 
+
 
 **Useful Resources and References**
 

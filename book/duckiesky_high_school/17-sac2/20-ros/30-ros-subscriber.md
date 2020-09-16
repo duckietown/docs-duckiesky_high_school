@@ -6,11 +6,41 @@
 
 Requires: 
 
+**Hardware** - 
+
+- Basestation
+
+- Build Parts 1 and 2 completed
+
+**Previous Lesson** 
+
+- [Sensing](#sac2-sensing)
+- [Introduction to ROS](#sac2-ros-intro)
+- [Creating a ROS Publisher](#sac2-ros-publisher)
+
 Result: 
+
+**Knowledge** 
+
+- Open loop control
+
+- Callbacks 
+
+- Global variables
+
+
+**Skills** - 
+
+- Create ROS subscriber
+
+- Program a proportional controller
+
+- Map a range of values onto another range
+
 
 </div>
 
-## Lesson Title
+## Subscriber and Open Loop
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)

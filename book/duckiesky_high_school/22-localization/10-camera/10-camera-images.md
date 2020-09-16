@@ -2,16 +2,30 @@
 
 [Student version](+duckiesky_high_school_student#localization-camera-images)
 
+
 <div class='requirements' markdown='1'>
+
 
 Requires: 
 
+**Hardware** 
+
+- Basestation
+- Completed Build Part 4 
+
+**Previous lesson** - N/A
+
+
 Result: 
+
+**Knowledge** - How the camera allows the drone to measure the drones planar position and velocity
+
+
+**Skills** - N/A
 
 </div>
 
-## Lesson Title
-
+## Comparing Images
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
@@ -19,38 +33,47 @@ Result:
 
 ### Assessments and Evidence of Understanding
 
+By the end of this lesson, students should be able to ...
 
 ### AGENDA (Brief Summary of Activities)
 
+X min: <!--insert time slot 1 (add or delete these as needed)-->
+
+X min: <!--insert time slot 2 (add or delete these as needed)-->
+
+X min: <!--insert time slot 3 (add or delete these as needed)-->
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
 
 ### Advanced preparation/Materials/Set Up (Including Misconceptions)
 
-**Materials needed**
+**Teacher Materials:**
 
-For Students:
+**Classroom Setup:**
 
-For Teachers:
-
+Teachers can write a DO NOW on the board for students to ...
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
 
 
 ### Introducing The Lesson
 
-Recommended: X minutes/hours
+Recommended: X minutes
 
+**Hook:**
 
 ### Main Lesson
 
-Recommended: X minutes/hours
+Recommended: X minutes
 
+Better: Exercise:
 
 ### Ending The Lesson
 
-Recommended: X minutes/hours
+Recommended: X minutes
 
 
 **Useful Resources and References**
+
+1. <!--info-->
