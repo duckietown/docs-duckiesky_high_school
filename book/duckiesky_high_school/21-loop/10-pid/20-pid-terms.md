@@ -9,7 +9,7 @@ Requires:
 **Hardware** 
 
 - Basestation
-- Build Part 1 Completed
+- Part 1 of drone
 
 **Previous lesson** - [Intro to PID](#loop-pid-intro)
 
@@ -28,16 +28,18 @@ Requires:
 
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
-
+_ISTE: 1. d.:_ Understand the fundamental concepts of technology operations, demonstrate the ability to choose, use and troubleshoot current technologies and are able to transfer their knowledge to explore emerging technologies.
 
 
 ### Assessments and Evidence of Understanding
-
+By the end of this lesson, students will understand the different terms used in PID systems.
 
 ### AGENDA (Brief Summary of Activities)
-Introduction: 5 min
-Main lesson: 40 min
-Conclusion: 5 min
+5 min: Introduction to lesson  
+
+40 min: Go over definitions of PID terms and their effects  
+
+5 min: Conclusion
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
@@ -46,9 +48,11 @@ Conclusion: 5 min
 
 **Materials needed**
 
-For Students:
-
-For Teachers: Teachers can look over the EdX lectures that are linked under Userful Links and Resources regarding PID control and implementation. 
+**Teacher Materials**
+ 
+- Projector for displaying videos or slides
+- Reference the student textbook, EdX and Youtube videos (both linked in the useful resources section below) for more detailed explanations of concept snad examples
+ 
 
 
 ## SCRIPT OF TEACHING AND LEARNING ACTIVITIES
@@ -56,11 +60,9 @@ For Teachers: Teachers can look over the EdX lectures that are linked under User
 
 ### Introducing The Lesson
 
-- Teachers will explain that they will use the vocabulary and concepts that they learned in the last lesson to be able to understand how PID works and they will be able to tune a PID loop. 
+- Hook: They will use the vocabulary and concepts that they learned in the last lesson to be able to understand how PID works, the terms associated with PID, and its effects in the 1D Hovering Drone Problem. 
 
 ### Main Lesson
-
-Recommended: 40 minutes/hours
 
 - Show students [video](https://www.youtube.com/watch?v=wkfEZmsQqiA) explaining PID controllers
 
@@ -69,55 +71,35 @@ Recommended: 40 minutes/hours
 Better: Exercise: Students try different extreme values for the P term in the simulation
 
 - Explain the P term and try tuning in simulation. 
-    - The proportional term produces an output that is proportional to the calculated error:
-    - $$ P = K_pe(t)$$
-    - the discretized form: $$P = K_pe(t_k)$$
 
-See also: The magnitude of the proportional response is dependent upon $K_p$ which is the proportional gain constant. A higher proportional gain constant indicates a greater change in the controller’s output in response to the system’s error.
+- Explain the effects of having a higher or lower proportional gain constant.
 
-See also: The propellers will spin faster the farther away the drone is. Or can also be imagined as a spring pulling harder the further away you are. 
-
-See also: Oscillations, get damped to some extent by drag. 
+- Explain affects of the proportional term regarding the altitude problem.
 
 ##### The Derivative Term
 
-Better: Exercise: Students try different extreme values for the D term in the simulation
+Better: Exercise: Students try different extreme values for the D term in the simulation.
 
-- Explain the D term and try tuning in simulation
-    - determined by the rate of change of the system’s error over time multiplied by the derivative gain constant $K_d$. 
-    - $$D = K_d \frac{de(t)}{dt}$$
-    - If students do not yet know calculus, the discretized form of the term: $$D = K_d\frac{e(t_k)-e(t_{k-1})}{\Delta t}$$
+- Explain the D term and try tuning in simulation.
 
-See also: Propellors will spin slower the faster you are moving. Can be also like drag pulling harder the faster you are moving.
+- Explain affects of the derivative term regarding the altitude problem and its limitations.
 
-See also: Teahers should show graphs of different levels of damping: over, under, critical. 
+See also: Teachers can show graphs of different levels of damping: over, under, critical. 
 
-See also: Will not be able to get to setpoint if there are constant effects like gravity. 
 
 ##### The Integral Term
 
 Better: Exercise: Students try different extreme values for the I term in the simulation
 
 - Teachers will explain the I term
-    - accounts for the accumulated error of the system over time. The output produced is comprised of the sum of the instantaneous error over time multiplied by the integral gain constant $K_i$.
 
-$$I = K_i \int_{0} ^ {t} e (\tau) d \tau$$
+- Explain affects of the integral term regarding the altitude problem and its limitations.
 
-- If students do not yet know calculus, the discretized form of the term: $$I = K_i\sum_{i=0}^k e(t_i)\Delta t$$
 
--  Propellers were spin faster the longer you are away from the set point
-
-Note: Teachers should explain that while we are looking at the terms from the context of 1D altitute control, they are also used for others such as angle, velocity, position, etc of the drone.
 
 ##### The overall control function
 
-The overall control function consists as the sum of proportional, integral, and derivative terms. 
-
-$$u(t) = K_pe(t) + K_d \frac{de(t)}{dt} + K_i \int_{0} ^ {t} e (\tau) d \tau$$
-
-In practice, the discretized form of the control function may be more suitable for implementation:
-
-$$u(t) = K_pe(t_k) + K_i\sum_{i=0}^k e(t_i)\Delta t + K_d\frac{e(t_k)-e(t_{k-1})}{\Delta t}$$
+- Explain the overall control function
 
 #### Show diagram of PID controller Block Diagram
 
@@ -130,21 +112,23 @@ The figure below summarizes the inclusion of a PID controller within a basic con
 
 ##### Tuning: 
 
-See also: Tuning a PID controller is done by setting the control parameters $K_p, K_i, K_d$ to values that fit to be able to get an ideal control response. The three control terms may be correlated and so changing one parameter may impact the influence of another. 
+- Explain why tuning a PID controller is necessary
 
 #### Effects of $K_p$:
 
-- Teachers will describe the effects of $K_p$ 
+- Describe the effects of $K_p$ 
 
 #### Effects of $K_i$
 
-- Teachers will describe the effects of $K_i$ 
+- Describe the effects of $K_i$ 
 
 #### Effects of $K_d$
 
-- Teachers will describe the effects of $K_d$ 
+- Describe the effects of $K_d$ 
 
 ### Ending The Lesson
+
+- Explain that while we are looking at the terms from the context of 1D altitute control, they are also used for others such as angle, velocity, position, etc of the drone.
 
 - Summarize the effects and what each term is 
 <figure>
