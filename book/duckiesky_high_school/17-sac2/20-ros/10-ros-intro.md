@@ -137,9 +137,7 @@ _rostopic_: rostopic contains the rostopic command-line tool for displaying debu
 
 </div>
 
-
-TODO: a flow chart of controlling a LED with IR sensor 
-
+In your [future lesson about ROS subscriber](https://docs.duckietown.org/daffy/downloads/duckiesky_high_school/docs-duckiesky_high_school/branch/daffy/duckiesky_high_school/out/sac2_ros_subscriber.html), you will create a ROS program to control your LED according to readings in of your sensor. In this case, there will be three nodes: sensor, LED, and controller. The controller node **subscribes** to the sensor node, receiving its value, determines how the LED should behave, and then **publishes** its message to the LED node.
 
 ### Ending The Lesson
 
