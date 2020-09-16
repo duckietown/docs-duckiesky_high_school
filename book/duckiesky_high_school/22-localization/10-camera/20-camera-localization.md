@@ -105,3 +105,17 @@ Localization: the fact of being or becoming located or fixed in a particular pla
 
 S.L.A.M. (acronym): simultaneous localization and mapping problem
 
+
+
+### Ending The Lesson
+
+Recommended: 10 - 15 minutes
+
+
+Better: Exercise: Have the drone use it to localize and fly to different targets.
+
+
+**Useful Resources and References**
+
+
+1. [Oxford Dictionary](https://onlinelibrary.wiley.com/doi/full/10.1002/047134608X.W8318) - Definition of localization

@@ -76,27 +76,28 @@ Recommended: 5 minutes
 
 **Hook:**
 
--  This will be a lesson for the student on Bash scripting and the Shell. It is important to learn how to utilize a shell as it is the introduction to the inner processes of the operating system.
+-  This will be a lesson for the student on Bash and the Shell. It is important to learn how to utilize a shell as it is the introduction to the inner processes of the operating system. Additionally, the shell will be our gateway to interacting with the Pi on our drone.
 - Conceptually connect Bash to Markdown in the sense that the computer is being affected via text: the purpose of Bash is to “control” the computer vs whereas Markdown is utilized for the purpose of "visual layout."
 
 ### Main Lesson
 
-Recommended: 35 minutes
+Recommended: 40 minutes
 
 Teachers can either use a live demonstration of the exercise via a projector using the webpage for the Pi's text editor where students follow along, let students follow along with the student book instructions, or utilize an online Bash tutorial (see _Useful Resources and References_ below) that the students can work through as an alternative. 
+
+-  (Optional) Have the teacher check off the outputs in the terminals for the exercise
 
 By the end of the Main Lesson, students should be able to:
 
 - See basic information in the terminal and navigate the file system (pwd, ls, cd).
-- Creating, moving, and removing files and directories (touch, mv, cp, rm, mkdir, rmdir).
+- Creating and removing files and directories (touch, rm, mkdir, rmdir).
 - Using a carat to output to a file (e.g. "echo 'foo' >bar.txt").
 - Printing output in the terminal (echo, cat).
 - Clearing terminal output and exiting (clear, exit).
-- Making and executing a Bash script
 
 ### Ending The Lesson
 
-Recommended: 20 minutes
+Recommended: 15 minutes
 
 Better: Exercise: Students should do the exercise in the textbook with Bash commands to test out their knowledge of the terminal. They can do this through the online web editor when connected to the Pi.
 
