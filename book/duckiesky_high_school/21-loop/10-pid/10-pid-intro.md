@@ -36,9 +36,11 @@ By the end of this lesson, students will understand the different between open a
  
  
 ### AGENDA (Brief Summary of Activities)
-5 min: Introduction to the lesson and identify the 1D hovering problem of a drone.
-40 min: Main lesson which includes learning about feedback loops, an example of feedback loops, and defining terms associated with feedback loops.
-5 min: Conclusion and summary of the lesson.
+5 min: Introduction to the lesson and identify the 1D hovering problem of a drone.  
+
+40 min: Main lesson which includes learning about feedback loops, an example of feedback loops, and defining terms associated with feedback loops.  
+
+5 min: Conclusion and summary of the lesson.  
  
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
  
