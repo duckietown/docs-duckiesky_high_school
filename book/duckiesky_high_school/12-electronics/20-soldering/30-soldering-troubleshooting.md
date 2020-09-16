@@ -107,7 +107,9 @@ Some troubleshooting solutions a teacher may present are:
 
 - Testing strength of joints with fingers
 
+
 Better: Exercise: Students should use materials listed above and have partners create bad soldering jobs (too much solder, bad connection), and have their partner diagnose and troubleshoot. More importantly, the students should focus on how these soldering mistakes. The teacher should walk around the class, making sure the student's aren't causing any harm to the materials unnintentionally. The teacher could also give out some of the student's past soldering jobs that failed, and possibly ask the whole class to diagnose it together.
+
 
 ### Ending The Lesson
 
