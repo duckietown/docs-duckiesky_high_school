@@ -41,7 +41,7 @@ By the end of this lesson, students should be able to explain why robotic techno
 
 20 min: Live Drone Demo 
 
-10 min: Groupd Research Exercise 
+10 min: Group Research Exercise 
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
@@ -83,7 +83,7 @@ Navigating the Book/Resources will be as follows:
 
 - References and Resources
 
-By the end of the course, students will have a completed **quadcopter drone** capable of flying with commands inputted into a terminal on their computers! With the content in the following lessons students will dive into: Safety Regulations, Hardaware, Software, and Additional Content.
+By the end of the course, students will have a completed **autonomous quadcopter drone** controlled with their computers! With the content in the following lessons students will dive into: Safety Regulations, Hardaware, Software, and Additional Content.
 
 See also: Go over the vocabulary of a _robot_ and a _quadcopter_ found in the student book. 
 
