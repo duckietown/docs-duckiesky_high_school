@@ -98,11 +98,11 @@ __Student Experimentation__
 Give the students the tools in the materials section (spare wire, soldering tools, and flux), and ask them to solder wires together with and without flux, while also showing them how to get acclimated to using the various materials. This half hour should be dedicated to students becoming familiar and comfortable with using the soldering iron combined with flux.
 
 To solder with flux, simply follow trhe steps of soldering from the previous lesson, except before tinning the wire, stick the soldering iron into the flux and apply it on the wires. This will make the solder flow easier, but is not always necessary.
-
+<!-- gwnote: In above paragraph: do we want students sticking the soldering iron into the flux or coating the metal components with flux? -->
 Teacher should check student's soldering joints as the students are working.
 
 Heads up for next lesson: Keep all soldering joints that are weak or problematic, they will be useful in the next lesson.
-
+<!-- gwnote: I like the student experimentation in this lesson. I would like students to practice the 3 types of solders used for the drone build: through-hole, wire-to-wire, and wire-to-pad. Whether it's done in this lesson or another, I think it is important practice, and these techniques are referenced throughout the build docs -->
 ### Ending The Lesson
 
 Recommended: 5 minutes

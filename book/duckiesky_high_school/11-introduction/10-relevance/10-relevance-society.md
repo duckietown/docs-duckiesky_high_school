@@ -36,7 +36,11 @@ By the end of this lesson, students should be able to explain why robotic techno
 ### AGENDA (Brief Summary of Activities)
 
 5 - 10 min: DO NOW set up with discussion
-
+<!-- gwnote:
+    This agenda seems to diverge from the main lesson.
+        Where is the "Robotic Marvels..." lesson? 
+        Should "navigating the book/resources" be included in the agenda? 
+ -->
 10 min: Robotic Marvels In Industries and Communities Lesson
 
 20 min: Live Drone Demo 
@@ -69,6 +73,10 @@ DO NOW: Have students get into groups and try to write on a board more modern us
 
 ### Main Lesson
 
+<!-- gwnote:
+    It would be helpful to explain the goals of the curriculum overview, and to give teacher's a suggested approach for showing to students.
+ -->
+
 Recommended: 30 minutes
 
 Better: For navigating the book, teachers may open the site on the board to add visual aid to the book explanation Or students may open it themselves by using their designated laptops.
@@ -85,6 +93,10 @@ Navigating the Book/Resources will be as follows:
 
 By the end of the course, students will have a completed **autonomous quadcopter drone** controlled with their computers! With the content in the following lessons students will dive into: Safety Regulations, Hardaware, Software, and Additional Content.
 
+<!-- gwnote:
+    It could be helpful to include an exercise for the studnets to attempt come up with their own definitions for these terms.
+ -->
+
 See also: Go over the vocabulary of a _robot_ and a _quadcopter_ found in the student book. 
 
 ## ** -Live Demo of Drone Here- ** ##
@@ -93,6 +105,9 @@ See also: Go over the vocabulary of a _robot_ and a _quadcopter_ found in the st
 
 - Teachers can share their screen on a laptop while preparing to fly. The Javascript page with in the pidrone package can show the students the drone's control panel alongside the IR sensor's readings and camera image.
 
+<!-- gwnote:
+    Link the questions to the student book where they are answered
+ -->
 See also: Cover the _Why is it essential to learn about this? How do robotics help our communities in society?_ section in the student book. 
 
 

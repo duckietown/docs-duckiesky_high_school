@@ -85,7 +85,7 @@ Definitions found in the student book [here](https://docs.duckietown.org/daffy/d
 2. Class Discussion Questions:
 
 Note: This is an optional discussion based on the engagement of your class. If this seems too basic, feel free to skip through the introduction. 
-<!-- this might not have to be said idk-->
+<!-- gwnote: I think we can omit "seems too basic" and just say that the exercise is optional.-->
 
 
 Q: What _sensors_ to humans have to percieve the world around them? 
@@ -117,7 +117,10 @@ A: The brain, spinal cord, control loops (handle reflexes, homeostasis, blood fl
 
 Recommended: 35 minutes/hours
 
+<!-- gwnote: I think we want to include a section before the drone parts about the general robot anatomy. some of this is covered in the Hook section, but discussing how the sensors, actuators, and controllers fit together in general should be mentioned. Can have an exercise where students come up with a task they want to automate and then describe at hight level what sensors, actuators, and controller they would need. For example, robot vacuum cleaner: need to sense where the robot is, actuator needs to move robot and suck up dirt, controller controls the robots motors and tells when to suck up dirt.-->
+
 Go through each of the Sensors, Actuators, and Controllers in the drone kit while having students take out each part and lay them out on their desk. 
+<!-- gwnote: reiterate the reason for the sensors on the drone. what is the goal? autonomous flight? what does that mean? we want the drone to hover in one place. While going through the parts, after explaining what the sensor measures, ask the students how that sensor helps achieve autonomous flight. -->
 
 See: Students can use [this graphic organizer](https://drive.google.com/file/d/1iIpJAF2NXWRicVxZYYPC2b7Poj-JN0EJ/view?usp=sharing) to fill in the name, type, and purpose of each part. 
 
@@ -127,6 +130,8 @@ Note: The student book has simple definitions of drone parts to get a basic unde
 Better: Exercise: While discussing propellers in the actuators portion, ask your students to identify which of their propellers are clockwise and which are counterclockwise using the arrows. Have them think critically about which propellers would have to be attached to which arm and spin when trying to preform different flying tasks (ex. flying up and straight, flying to the right without losing hight, etc.). If helpful, students could use [this diagram](https://drive.google.com/file/d/11Y_SWK49lU8IWqxGj3YtxuNcvzNqBCmS/view?usp=sharing) to draw on and visualize the motion of the motors and propellers. 
 
 Note: The way the propellers spin to maneuver the drone the way we want them to is actually pretty complicated. If you want to get into it in full detail with your students, there are four short youtube videos linked down below that explain flight in more detail. 
+
+<!-- gwnote: I don't think that we should say that it is complicated because it can be discouraging to learn if students are already told it is difficult. We should add in information about the 6 degress of freedom, explain roll, pitch, and yaw with the paper airplane exercise, and then then explain how the drone manuevers. It is very important for students to understand the high-level mechanics of how a drone flies. A simple explanation is that all motors spin at the same speed to move the drone up, one side spins faster to change roll, either the front or back spin faster to change pitch, and diagonal spin up to change yaw.-->
 
 
 ### Ending The Lesson
@@ -157,6 +162,8 @@ See also: Journal activity: Have your students come up with another use for a pa
 **Useful Resources and References**
  
 1. [Explanation of Drone Flight Dynamics](https://www.mathworks.com/videos/drone-simulation-and-control-part-1-setting-up-the-control-problem-1539323440930.html)
+
+<!-- gwnote: the above video has some great info, but it also has info we don't need. let's provide which time intervals are useful to watch. -->
 
 2. [Omnicoptor Flight Dynamic Video](https://www.youtube.com/watch?v=sIi80LMLJSY)
 

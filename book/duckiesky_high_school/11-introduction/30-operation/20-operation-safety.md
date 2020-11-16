@@ -200,5 +200,7 @@ Note: Teachers should have the [pre-flight checklist handout](https://docs.googl
 
 Better: Take [home assignment](https://docs.google.com/document/d/1poSQFkOB8Ye5RvB5iptiYyRnIeacTpSrlOOc4-FSNPY/edit?usp=sharing) for students. 
 
+<!-- gwnote: this assignment asks really important questions. It could be useful to discuss these questions in class with the students because indivdually the studnets might not think of all of the sources of danger, but collectively they will cover a lot. Students could take home what they learned and fill out the assignment? -->
+
 The goal of this assignment is to ask students to think critically about how to ensure robots are operated safely, and to devise guidelines for operating their robot safely.
 

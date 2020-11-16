@@ -40,6 +40,8 @@ By the end of this lesson, students should understand the general development of
 
 ### AGENDA (Brief Summary of Activities)
 
+<!-- gwnote: this needs to be filled in -->
+
 
 ### Differentiation _(strategies for grouping, ELL, and inclusion)_
 
@@ -74,6 +76,9 @@ Recommended: 20 minutes
 
 Using the information in the student book and through the online resources below, have students do these optional activities: 
 
+<!-- gwnote: how does this exercise contribute to the goals of the lesson?
+        should the students be reading a specific part of the textbook?    
+ -->
 Better: Exercise: **5-5-5**: Have students get into groups, read a section from the student book (or a website) for 5 minutes, write notes bout the important points of it for 5 minutes, and present to the class about it for 5 minutes. This is a quick, interactive way to absorb information. 
 
 Better: Have students find images on their own of past technological achievements. Teachers could put various images of old inventions on the board and have students guess what their use is.

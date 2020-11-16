@@ -88,6 +88,7 @@ In the [bash lesson](#computing-pi-bash), we have already learned how to control
 - Read–eval–print loop: a simple interactive computer programming environment that takes **single** user inputs, executes them, and returns the result to the user.
 
 - Script: a programming language for a special run-time environment that automates the execution of tasks; the tasks could alternatively be executed **one-by-one** by a human operator.
+<!-- gwnote: I don't think we should define script as a programming language. We can explain what a script is, define a scripting lanugage, and then specify that we are writing "shell scripts" (hence the .sh) -->
 
 See: Difference: script saves the commands to be run sequentially in the future, while the REPL runs only one command at a time. Previously in the [bash lesson](#computing-pi-bash), all the commands you ran were executed by the REPL. In this lesson, you will learn how to 'save' multiple commands and run them all at once in bash!
 
@@ -100,7 +101,7 @@ Motivation: The goal of this lesson is to our terminal on the Pi to blink the LE
 - **GPIO Board** refers to the naming on the Raspberry Pi board. This is the numbering on the Pi Hat.
 
 - **GPIO BCM** refers to the default pin of the Broadcom SOC channel chip. This is the numbering we are going to use in this lesson. We need to know how the BCM pin numbering corresponds to the numberings on the Pi Hat. [Here it is](https://pi4j.com/1.2/pins/model-b-rev2.html). 
-
+<!-- gwnote: maybe include a sentence that explains they we'll be using the Board numbering in the build, but the that's why it is relevant to differentiate the two -->
 
 ### Writing a Bash Script
 

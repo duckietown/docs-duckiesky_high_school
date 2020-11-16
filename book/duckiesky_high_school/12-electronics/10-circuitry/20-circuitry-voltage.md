@@ -107,6 +107,8 @@ Recommended: 40 minutes
 1. **Build and measure first circuit**:
 Give the students materials to build a circuit similar to last class's except without the LED. Show them how to measure voltage, resitance, and current with the multimeter.
 
+<!-- gwnote: could be useful to provide a "cheat sheet" for measuring these values. For example, circuit diagraoms that show where to place the multimeter. For example: (https://practicalee.com/wp-content/uploads/2019/04/multimeter_voltage.png). Also, since continuity checks will be essential for the drone build, it is worth teaching this as well. An exercise can be to use the continuity check to determine if objects are insulators or conductors.  -->
+
 2. **Explaination of Ohm's Law**:
 Ohm's law states that the current through a conductor between two points is directly proportional to the voltage across the two points. Show how voltage, resistance, and current relate mathmatically using Ohm's law. (A graphic may be helpful, similar to [this one](https://spl-binal.blogspot.com/2017/09/ohms-law.html#.XvqBNihKhhE)). Explain how “short circuit” is a low resistance, unintended, alternate path through the circuit, and how that could damage components in the circuit, power source, start fire, etc…
 

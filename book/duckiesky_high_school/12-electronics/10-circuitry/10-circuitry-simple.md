@@ -96,15 +96,20 @@ Recommended: 15 minutes
 
 - Use this [image](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html), or one of your own to compare electricity to water flowing through pipes using a pump. 
 
+<!-- gwnote: my computer took a long time to display this image, could be worth mentioning or using another link. there are a lot of good images online, so shouldn't be tough to switch. Could also be worth finding a simulator that shows electricity flowing through a circuit, and explaining the water analogy. -->
+
 - Indroduce the topics of resistance and voltage. 
 
 - Discuss how to get a current to move using different energy conversions (battery, generator, etc.).  
 
 - If time, discuss how different materials conduct electricity differently (Conductors vs. Insulators). 
 
+<!-- gwnote: mention that for students with an interest in chemsitry, you can relate conuctors and insulators to the periodic table and the number of valence electrons which conduct electrcity -->
+
 See also: Provide students with [this diagram of the circuit](https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png), as well as the actual resources from the student book. 
 
 Note: Warn students not to connect LED straight to battery without the resisitor in the circuit.)
+<!-- gwnote: it is worth explaining that some elements are directional, meaning electricity can only flow through them in one direction. LEDs are directional but resistors are not -->
 
 Better: Exercise: Let students trial and error their first build attempts. Ask students to try different resisitors, reverse the resistors, and reverse the LED and see what happens. Teacher should also show [this video](https://www.youtube.com/watch?v=Zd5GtGVcdDc) as an example of an LED burning out. 
 
@@ -121,6 +126,8 @@ Q: "What affect did the resistors have? What happened when you reversed their or
 Q: "Did anything go wrong?"
 
 Q: "What do you still want to know about circuits?"
+
+<!-- gwnote: we should try to connect this lesson to the drone. How are these concepts used on the drone? Explain how drone uses battery to power the electronics, and where current, voltage, and resistance fit in. Another example: voltage is used to measure how full a battery is. Use the multimeter to check your LiPo battery. (note that it is actually tricky to measure how full a battery is since we can't actually measure charge, but voltage is a good indicator. Not sure if we need to include that side note here though. But it is an intersting point, especially if we want to include the concept of "charge" as well which is relevant to the first lesson with static electricity. ) -->
 
 **Useful Resources and References**
 

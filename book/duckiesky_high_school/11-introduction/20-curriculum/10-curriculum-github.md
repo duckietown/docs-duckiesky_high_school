@@ -7,6 +7,8 @@
 
 Requires: 
 
+<!-- gwnote: we should link to the description of a basestation because this is the first mention of it. The description is in the ops manual
+-->
 **Hardware** - Basestation
    
 **Previous lesson** - N/A
@@ -51,7 +53,7 @@ By the end of this lesson, students should be able to navigate the GitHub GUI an
 
 **Teacher Materials:**
 
-Basestation, a projector (optional), worksheets printed out 
+Basestation, a projector (optional), worksheets printed out (from student book)
 
 **Classroom Set Up:**
 
@@ -67,8 +69,9 @@ Recommended: 5 minutes
 
 **Hook:**
 
--  This will be a lesson for the students on understanding Git and navigating GitHub. It is important to learn how to utilize version control systems for most code-based projects. The DuckieSky textbooks are managed through GitHub, so the hope is that students will be able to directly edit and submit possible changes in our textbook to the DuckieSky Team, directly!
+-  This will be a lesson for the students on understanding Git and navigating GitHub. It is important to learn how to utilize version control systems for most code-based projects. The DuckieSky textbooks are managed through GitHub, so the hope is that students will be able to edit and submit possible changes in our textbook to the DuckieSky Team, directly!
 - (Optional) Conceptually connect GitHub to Google Drive in the sense that both platforms host file systems that multiple people can upload, download, and edit from. Emphasis that GitHub and Git are catered towards code-based projects.
+<!-- gwnote: you can take this optional exercise one step further and look at the "revision history" provided by google docs and compare this to git history -->
 
 
 ### Main Lesson
@@ -83,6 +86,9 @@ Teachers should refer to the student book to either cover the following sections
 
 3. Students learn why we are using GitHub.
 
+<!-- suggested exercise: I really like the exercises that are linked. If we wanted to, I think we could add an optional, hands-on exercises to explain the fundamentals of GitHub. For example, we could demonstrate git by having students write a couple of sentences on a piece of paper. Then, we can ask the students to make a few changes to their sentences, and record each change on second piece of paper by writing down what text they deleted, and what they added. Then We can tell students to create a new branch, and have them duplicate their sentences. Then students can make changes on the new branch and keep track of them on another piece of paper (the git history of the new branch). Then we can ask students to "merge" their branches and explain git confilcts. For this exercise, the students can resolve the conflicts however they want, but they must add the merge history to the branch that they are merging into. Then we can ask the students in the group to create a remote repository in which they combine their work. Have one student "push" their repository to a hosting service (explain that we use GitHub for this). Then, have the person who pushed the repository give write access to the other members of their group. Then, one at a time, have the other students in the group clone the repository, add their text to the file, "commit" their changes, and then "push" to the remote repo. Make sure the other students use "git pull" after cloning and before they add their own changes to ensure that they have the most updated version. Once all of the work has been combined, have this group pair up with another group. Group A can now fork group B's remote repository (since they don't have write permissions), clone the fork locally, add their own text to the forked repo, push these changes, and then create a pull request. Group B can then accept group A's pull request to combine all of the students' work!
+
+This could be done conceptually with paper, or actually using text files on git, or both!-->
 
 ### Ending The Lesson
 

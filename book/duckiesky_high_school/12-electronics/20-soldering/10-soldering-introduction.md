@@ -1,5 +1,5 @@
 # Intro to Soldering {#electronics-soldering-introduction status=ready}
-
+<!-- gwnote: minor semantic note: this lesson is more about introducing the students to stripping and tinning a wire, and does not really discuss soldering. could be worth re-evaluating the lesson title. Perhaps this lesson could be called "Stripping and Tining" and the next lesson could be "Intro to Soldering" -->
 [Student version](+duckiesky_high_school_student#electronics-soldering-introduction)
 
 <div class='requirements' markdown='1'>
@@ -165,6 +165,7 @@ Better: Optional Exit Ticket: Students will reflect and write down what they hav
 1. [Detailed instructions of each component and tinning](https://docs.duckietown.org/daffy/opmanual_sky/out/build_phase0.html)
 
 2. [Soldering Tutorial for Beginners in 5 easy steps](https://www.youtube.com/watch?v=Qps9woUGkvI)
+<!-- gwnote: I love this tutorial ^ but this lesson is about striping and tinning wires, and this tutorial is about soldering. Perhaps it should be moved to the next lesson. -->
 3. [How to Tin a Wire (in lesson)](https://www.youtube.com/watch?v=pRPF4wpXX9Q)
 
 4. [Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)

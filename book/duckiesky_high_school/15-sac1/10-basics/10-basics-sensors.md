@@ -39,7 +39,7 @@ _NGSS: HS - PS4 - 5_: Communicate technical information about how some technolog
 By the end of the lesson, students are able to understand how sensors process signals, as well as how they are subject to errors.
 
 ### AGENDA (Brief Summary of Activities)
-
+<!-- gwnote: I think that these exercises are used already in lesson A.3.1 which is the introduction to drone operation lesson. Perhaps put a new fun twist on it such as, how would could we give a robot a sense of smell? answer could be to create a transducer to convert environment data into electricsl signal. for example, the transistor could be a circuit that outputs a current or voltage related to what molecules are in the air.  -->
 10 min: Brainstorming the senses of robots based on human experience
 
 25 min: Introduce conecepts about sensors

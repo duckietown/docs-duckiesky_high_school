@@ -72,9 +72,9 @@ Recommended: 10 minutes
 
 **Hook** 
 
-- There are many important decisions that need to be made for situations regularly. With drones or any AI or autonomous system that you are creating or using, students must understand that there are certain moral implications/ethics/principles that must be considered and have different consequences on others. 
+- With drones or any AI or autonomous system that you are creating or using, students must understand that there are certain moral implications/ethics/principles that must be considered and have different consequences on others. 
 
-Better: Exercise: Group Brainstorm: Ask students brainstorm on paper in groups about ethics and important/common topics addressed by ethics. Have students come up with movie or pop culture references for ethical dilemmas surround technology and robotics.
+Better: Exercise: Group Brainstorm: Ask students to brainstorm on paper in groups about ethics and important/common topics addressed by ethics. Have students come up with movie or pop culture references for ethical dilemmas surround technology and robotics.
 
 
 - Examples of pop culture/movie references: 
@@ -148,6 +148,8 @@ Better: Exercise: Students can play this [game](https://www.survivalofthebestfit
 - AI systems were less accurate at detecting people of darker skins by 5% (Georgia Institute of Tech).
 
 - Identify possible reasons that contributed to these systems not working such as lack of diversity in workplace, IR sensors.
+
+<!-- gwnote: what is meant by IR sensors? ^ -->
 
 See also: [article](https://reporter.rit.edu/tech/bigotry-encoded-racial-bias-technology) about encoded racial bias in technology
 

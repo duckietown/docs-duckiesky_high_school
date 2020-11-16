@@ -115,7 +115,7 @@ Better: Exercise: To understand binary, here is a [short activity](https://docs.
 Using the resources below and in the student book, teachers should discuss: 
 
 - How digits can be represented as ranges of voltages with an undefined zone in between (used as a break). Also, mention having only two symbols (binary) simplifies the circuitry and reduces effects of noise. 
-
+<!-- gwnote: I think these last two bullets can be explained a bit more. what are the learning goals from these? -->
 - Binary can be transmitted in parallel and over time, which are two ways to represent more than one symbol, sacrificing either complexity or time. 
 
 - Mention electrical vs timing vs content specifications of signals (discussing this will set up for future networking lessons with higher levels of abstraction). 

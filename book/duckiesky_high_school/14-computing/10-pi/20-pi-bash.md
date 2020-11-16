@@ -94,7 +94,7 @@ By the end of the Main Lesson, students should be able to:
 - Using a carat to output to a file (e.g. "echo 'foo' >bar.txt").
 - Printing output in the terminal (echo, cat).
 - Clearing terminal output and exiting (clear, exit).
-
+<!-- gwnote: we could also include ipconfig (Window) and ifconfig (Unix) for finding the ip address of a device. This would connect bash back to the networking lesson, and will be useful for debugging connectivity issues later on.  -->
 ### Ending The Lesson
 
 Recommended: 15 minutes
