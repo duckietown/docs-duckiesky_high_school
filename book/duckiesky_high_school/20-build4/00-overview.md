@@ -6,4 +6,3 @@ In this section of the build, students will attach the camera, and finalize the 
 
 After completing all of the build parts and checkpoints, instructors can walk students (individually) through flying by following the [safety checks and flight instructions](https://docs.duckietown.org/daffy/opmanual_sky/out/flight.html#sec:flight) in the Operations Manual.
 
-drone
