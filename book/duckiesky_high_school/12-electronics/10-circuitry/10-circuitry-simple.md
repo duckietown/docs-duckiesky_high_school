@@ -43,6 +43,8 @@ Result:
 
 ## Simple Circuits 
 
+Note: In the student textbook, this "Simple Circuits" section and the following section, "Voltage, Current, and Resistance," are combined. The concepts in both sections are heavily intertwined so we recommend that the lessons are taught in quick succession. We encourage you to ensure students have a good basic understanding of the concepts of voltage, current, and resistance after this lesson, which will enable them to better understand how circuits work. Then, we want students to dive deeper into voltage, current, and resistance in the next section in order to get a full grasp of those important concepts and the key mathematical equation that relates them. 
+
 
 ### STANDARDS: Next Generation Science Standards (NGSS) and International Society for Technology in Education (ISTE)
 
@@ -96,7 +98,7 @@ Recommended: 15 minutes
 
 - Use this [image](https://www.windows2universe.org/physical_science/physics/electricity/circuit_analogy_water_pipes.html), or one of your own to compare electricity to water flowing through pipes using a pump. 
 
-- Indroduce the topics of resistance and voltage. 
+- Indroduce the topics of voltage, current, and resistance. 
 
 - Discuss how to get a current to move using different energy conversions (battery, generator, etc.).  
 
@@ -104,7 +106,7 @@ Recommended: 15 minutes
 
 See also: Provide students with [this diagram of the circuit](https://www.resistorguide.com/pictures/resistors-in-LED-circuits.png), as well as the actual resources from the student book. 
 
-Note: Warn students not to connect LED straight to battery without the resisitor in the circuit.)
+Note: Warn students not to connect LED straight to battery without the resisitor in the circuit.
 
 Better: Exercise: Let students trial and error their first build attempts. Ask students to try different resisitors, reverse the resistors, and reverse the LED and see what happens. Teacher should also show [this video](https://www.youtube.com/watch?v=Zd5GtGVcdDc) as an example of an LED burning out. 
 
